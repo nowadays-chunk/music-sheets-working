@@ -24,6 +24,11 @@ const initialState = {
     newFretboard(6, 22, [4, 7, 2, 9, 11, 4], [4, 3, 3, 3, 2, 2], "compose", 'chord'),
     newFretboard(6, 22, [4, 7, 2, 9, 11, 4], [4, 3, 3, 3, 2, 2], "learn", 'chord'),
     newFretboard(6, 22, [4, 7, 2, 9, 11, 4], [4, 3, 3, 3, 2, 2], "references1", 'chord'),
+    newFretboard(6, 22, [4, 7, 2, 9, 11, 4], [4, 3, 3, 3, 2, 2], "references1-C", 'chord'),
+    newFretboard(6, 22, [4, 7, 2, 9, 11, 4], [4, 3, 3, 3, 2, 2], "references1-A", 'chord'),
+    newFretboard(6, 22, [4, 7, 2, 9, 11, 4], [4, 3, 3, 3, 2, 2], "references1-G", 'chord'),
+    newFretboard(6, 22, [4, 7, 2, 9, 11, 4], [4, 3, 3, 3, 2, 2], "references1-E", 'chord'),
+    newFretboard(6, 22, [4, 7, 2, 9, 11, 4], [4, 3, 3, 3, 2, 2], "references1-D", 'chord'),
     newFretboard(6, 22, [4, 7, 2, 9, 11, 4], [4, 3, 3, 3, 2, 2], "references2", 'scale'), // all 3 displays accordingly set in the component, over-ride
     newFretboard(6, 22, [4, 7, 2, 9, 11, 4], [4, 3, 3, 3, 2, 2], "references2-C", 'scale'), // all 3 displays accordingly set in the component, over-ride
     newFretboard(6, 22, [4, 7, 2, 9, 11, 4], [4, 3, 3, 3, 2, 2], "references2-A", 'scale'), // all 3 displays accordingly set in the component, over-ride

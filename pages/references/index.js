@@ -3,12 +3,13 @@ import guitar from '../../config/guitar';
 
 export const getStaticProps = async (context) => {
     const elements = guitar.notes.sharps.flatMap((key) => {
-        const chords = Object.keys(guitar.arppegios).flatMap((chordKey) => {
+        
+        const chords = Object.keys(guitar.arppegios).map((chordKey) => {
             const title = `Chord: ${guitar.arppegios[chordKey].name} in ${key}`;
             return {
                 label: title,
-                href: `/references/chords/${key.replace('#', 'sharp')}/${chordKey.replace('#', 'sharp')}}`,
-            }
+                href: `/spreading/chords/${key.replace('#', 'sharp')}/${chordKey.replace('#', 'sharp')}`,
+            };
         });
 
         const arpeggios = Object.keys(guitar.arppegios).flatMap((arppegioKey) => {
@@ -44,8 +45,9 @@ export const getStaticProps = async (context) => {
         });
 
         return [...chords, ...arpeggios, ...scales];
+    
     });
-
+    
     return {
         props: {
             elements,

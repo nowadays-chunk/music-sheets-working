@@ -20,9 +20,9 @@ const StyledCard = styled(Card)(({ theme }) => ({
 }));
 
 const headingStyles = {
-  h1: { fontSize: '31.2px' },
-  h2: { fontSize: '25.2px' },
-  h3: { fontSize: '21.6px' },
+  h1: { fontSize: '20.2px' },
+  h2: { fontSize: '14.2px' },
+  h3: { fontSize: '8.6px' },
   h4: { fontSize: '18px' },
   h5: { fontSize: '14.4px' },
   h6: { fontSize: '12px' },
@@ -62,7 +62,7 @@ const ArticleCard = ({ article }) => {
 
   return (
     <StyledCard>
-      <CardContent>
+      <CardContent sx={{ fontSize: "0.3rem" }}>
         {formattedContent}
       </CardContent>
     </StyledCard>

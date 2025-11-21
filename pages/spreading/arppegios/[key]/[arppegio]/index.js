@@ -1,6 +1,6 @@
 import fs from 'fs';
 import path from 'path';
-import ArpeggioComponent from '../../../../../components/Elements/Spread/ArppegioComponent';
+import ArpeggioComponent from  '../../../../../components/Elements/Spread/ArppegioComponent';
 import guitar from '../../../../../config/guitar';
 
 export const getStaticPaths = async () => {

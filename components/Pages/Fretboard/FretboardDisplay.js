@@ -91,6 +91,7 @@ const Note = styled('div')({
   lineHeight: 1,
   transition: 'transform 0.1s ease-in-out',
   userSelect: 'none',
+  border: '1px solid black'
 });
 
 const NoteContent = styled('span')({
