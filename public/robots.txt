@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://strum.fun
+
+# Sitemaps
+Sitemap: https://strum.fun/sitemap.xml

@@ -1,0 +1,3 @@
+<Files "sitemap.xml">
+  AddType application/xml .xml
+</Files>
