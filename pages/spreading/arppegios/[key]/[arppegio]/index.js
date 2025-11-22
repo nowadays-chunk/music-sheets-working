@@ -1,5 +1,3 @@
-import fs from 'fs';
-import path from 'path';
 import ArpeggioComponent from  '../../../../../components/Elements/Spread/ArppegioComponent';
 import guitar from '../../../../../config/guitar';
 
@@ -31,35 +29,23 @@ export const getStaticProps = async ({ params }) => {
     // Generate the title based on the params
     const title = `Arpeggio ${guitar.arppegios[decodedArppegio].name} in ${decodedKey}`;
 
-    // Define the path to the JSON file
-    const fileName = `article_${title.replace(/[^\w\s#]/gi, '').replace(/\s+/g, '_')}.json`;
-    const filePath = path.join(process.cwd(), 'articles', fileName);
-    
-    // Read the content of the JSON file
-    let articleContent = {};
-    try {
-        const fileContent = await fs.promises.readFile(filePath, 'utf-8');
-        articleContent = JSON.parse(fileContent);
-    } catch (error) {
-        console.error(`Error reading file ${filePath}:`, error);
-    }
+    const boards = ['C', 'A', 'G', 'E', 'D'].map((cagedSystemElement) => {
+        return {
+            keyIndex,
+            quality: decodedArppegio,
+            shape: cagedSystemElement,
+            board: 'references3' + '-' + cagedSystemElement,
+        }
+    })
 
-    
-  const boards = ['C', 'A', 'G', 'E', 'D'].map((cagedSystemElement) => {
     return {
-        keyIndex,
-        quality: decodedArppegio,
-        shape: cagedSystemElement,
-        board: 'references3' + '-' + cagedSystemElement,
-    }
-  })
-
-  return {
-    props: {
-      boards: boards,
-      articleContent
-    },
-  };
+        props: {
+        boards: boards,
+        articleContent: {
+            title: title
+        }
+        },
+    };
 };
 
 export default ArpeggioComponent;
