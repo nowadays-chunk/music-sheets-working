@@ -26,6 +26,7 @@ const ScaleComponent = ( props ) => {
         {
             boards.map((el, index) => {
                 return <MusicApp
+                        key={index}
                         display="arppegio"
                         board={el.board}
                         keyIndex={el.keyIndex}

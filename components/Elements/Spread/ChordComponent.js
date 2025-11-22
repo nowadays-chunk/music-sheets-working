@@ -26,6 +26,7 @@ const ChordComponent = ( props ) => {
         {
             boards.map((el, index) => {
                 return <MusicApp
+                        key={index}
                         display="chord"
                         board={el.board}
                         keyIndex={el.keyIndex}

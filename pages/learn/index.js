@@ -6,7 +6,7 @@ import ArticleCard from '../../components/Listing/ArticleCard';
 const secondPage = `
 ### Practice Tips
 
-To get the most out of this book, consider the following practice tips:
+To get the most out of this  book, consider the following practice tips:
 
 1. **Consistency**: Practice regularly. Dedicate a specific amount of time each day to work on different sections of the book. Consistency is key to building muscle memory and understanding.
 
