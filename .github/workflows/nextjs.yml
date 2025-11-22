@@ -34,7 +34,6 @@ jobs:
       - name: Build Next.js (Static Export)
         run: |
           npm run build
-          npm run export
 
       - name: Upload artifact to GitHub Pages
         uses: actions/upload-pages-artifact@v3
