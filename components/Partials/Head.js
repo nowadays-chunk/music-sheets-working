@@ -16,6 +16,7 @@ export default function Meta({ title, description }) {
                 name="description"
                 content={description}
             />
+            <meta name="google-site-verification" content="GQGKnHaUEkE-5vnOkOETGkV7Rv6kT04U0genM-BeHqQ" />
         </Head>
     );
 }
