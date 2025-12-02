@@ -136,13 +136,13 @@ function App({ Component, pageProps }) {
             </ListItemText>
           </ListItem>
         </Link>
-        {/* <Link href="/compose" passHref>
+        <Link href="/news" passHref>
           <ListItem onClick={handleDrawerToggle}>
             <ListItemText>
-              <Typography>Compose and Share</Typography>
+              <Typography>Musicians News</Typography>
             </ListItemText>
           </ListItem>
-        </Link> */}
+        </Link>
         <Link href="/learn" passHref>
           <ListItem onClick={handleDrawerToggle}>
             <ListItemText>
@@ -212,9 +212,9 @@ function App({ Component, pageProps }) {
                     <StyledLink href="/">
                       <Button color="inherit">Play and Visualize</Button>
                     </StyledLink>
-                    {/* <StyledLink href="/compose">
-                      <Button color="inherit">Compose and Share</Button>
-                    </StyledLink> */}
+                    <StyledLink href="/newss">
+                      <Button color="inherit">Musicians News</Button>
+                    </StyledLink>
                     <StyledLink href="/learn">
                       <Button color="inherit">Learn Songs</Button>
                     </StyledLink>

@@ -3,10 +3,11 @@ import { Button, Box, Typography, Grid } from "@mui/material";
 import { styled } from "@mui/material/styles";
 import PropTypes from "prop-types";
 import CloseIcon from "@mui/icons-material/Close";
+import Link from "next/link";
 import guitar from "../../../config/guitar";
 
 // ---------------------------------------------------------
-// SHARED BUTTON STYLE (same as References component)
+// SHARED BUTTON STYLE
 // ---------------------------------------------------------
 const OptionButton = styled(Button)(({ selected }) => ({
   borderRadius: "20px",
@@ -27,11 +28,11 @@ const StepTitle = ({ children }) => (
   </Typography>
 );
 
-// Sharps normalizer for URL compatibility
+// normalize # → sharp
 const slugSharp = (s) => (s || "").replace("#", "sharp");
 
 // ---------------------------------------------------------
-// MAIN COMPONENT — BUTTON-BASED UI + RESET ICON
+// MAIN COMPONENT — BUTTON UI + RESET ICON + SPREADING LINK
 // ---------------------------------------------------------
 const FretboardControls = ({
   choice,
@@ -62,74 +63,59 @@ const FretboardControls = ({
     onElementChange(-1, "key");
     onElementChange(-1, "scale");
     onElementChange(-1, "mode");
-    onElementChange('', "chord");
+    onElementChange("", "chord");
     onElementChange(-1, "arppegio");
-    onElementChange('', "shape");
+    onElementChange("", "shape");
   };
 
   // ---------------------------------------------------------
-  // BUILD PRINT URL
+  // BUILD SPREADING URL (NOT references)
   // ---------------------------------------------------------
-  const buildReferencePath = () => {
-    const keyName = guitar.notes.sharps[selectedKey];
+  const buildSpreadingPath = () => {
+    const keyName = keysSharps[selectedKey];
     if (!keyName) return null;
 
     const keySlug = slugSharp(keyName);
 
+    // CHORD
     if (choice === "chord") {
       if (!selectedChord) return null;
       return `/spreading/chords/${keySlug}/${slugSharp(selectedChord)}`;
     }
 
+    // ARPEGGIO
     if (choice === "arppegio") {
       if (!selectedArppegio) return null;
       return `/spreading/arppegios/${keySlug}/${slugSharp(selectedArppegio)}`;
     }
 
+    // SCALE
     if (choice === "scale") {
       if (!selectedScale) return null;
 
-      if (guitar.scales[selectedScale]?.isModal) {
+      const scaleObj = guitar.scales[selectedScale];
+
+      // Modal scales
+      if (scaleObj?.isModal) {
         if (selectedMode === "" || selectedMode == null) return null;
 
         const modeName = scaleModes[Number(selectedMode)]?.name;
         if (!modeName) return null;
 
         const modeSlug = modeName.toLowerCase().replace(/\s+/g, "-");
-        return `/references/scales/${keySlug}/${selectedScale}/modal/${modeSlug}`;
+
+        return `/spreading/scales/${keySlug}/${selectedScale}/modal/${modeSlug}`;
       }
 
-      return `/references/scales/${keySlug}/${selectedScale}/single`;
+      // Non-modal scale
+      return `/spreading/scales/${keySlug}/${selectedScale}/single`;
     }
 
     return null;
   };
 
-  // PRINTING LOGIC
-  const printUrl = (url) => {
-    const w = window.open(url, "_blank", "noopener,noreferrer");
-    if (!w) return;
-
-    const tryPrint = () => {
-      try {
-        w.focus();
-        w.print();
-      } catch {}
-    };
-
-    w.onload = () => setTimeout(tryPrint, 300);
-    setTimeout(tryPrint, 1500);
-  };
-
-  const handlePrintTwoPages = () => {
-    const refPath = buildReferencePath();
-    if (!refPath) return;
-
-    const origin = window.location.origin;
-    printUrl(origin + refPath);
-  };
-
-  const canPrint = !!buildReferencePath();
+  const spreadingPath = buildSpreadingPath();
+  const canOpenSpreading = !!spreadingPath;
 
   // ---------------------------------------------------------
   // RENDER
@@ -183,7 +169,6 @@ const FretboardControls = ({
       {choice && (
         <>
           <StepTitle>Key</StepTitle>
-
           <Box>
             {keysSharps.map((k, index) => (
               <OptionButton
@@ -198,11 +183,10 @@ const FretboardControls = ({
         </>
       )}
 
-      {/* STEP 3 — SCALE TYPE / CHORD TYPE / ARPEGGIO TYPE */}
+      {/* STEP 3 — TYPE (scale / chord / arp) */}
       {choice === "scale" && selectedKey !== "" && (
         <>
           <StepTitle>Scale Type</StepTitle>
-
           <Box>
             {Object.keys(guitar.scales).map((scaleName, i) => (
               <OptionButton
@@ -220,7 +204,6 @@ const FretboardControls = ({
       {choice === "chord" && selectedKey !== "" && (
         <>
           <StepTitle>Chord Type</StepTitle>
-
           <Box>
             {Object.keys(guitar.arppegios).map((ch, i) => (
               <OptionButton
@@ -238,7 +221,6 @@ const FretboardControls = ({
       {choice === "arppegio" && selectedKey !== "" && (
         <>
           <StepTitle>Arpeggio Type</StepTitle>
-
           <Box>
             {arppegiosNames.map((arp, i) => (
               <OptionButton
@@ -253,14 +235,13 @@ const FretboardControls = ({
         </>
       )}
 
-      {/* STEP 4 — MODES */}
+      {/* STEP 4 — MODES FOR MODAL SCALES */}
       {choice === "scale" &&
         selectedScale &&
         guitar.scales[selectedScale]?.isModal &&
         scaleModes.length > 0 && (
           <>
             <StepTitle>Modes</StepTitle>
-
             <Box>
               {scaleModes.map((m, i) => (
                 <OptionButton
@@ -291,6 +272,7 @@ const FretboardControls = ({
 
       {/* ACTION BUTTONS */}
       <Grid container spacing={2} sx={{ mt: 2 }}>
+        {/* CLEAN */}
         <Grid item xs={6}>
           <Button
             fullWidth
@@ -302,6 +284,7 @@ const FretboardControls = ({
           </Button>
         </Grid>
 
+        {/* SAVE */}
         <Grid item xs={6}>
           <Button
             fullWidth
@@ -314,6 +297,7 @@ const FretboardControls = ({
           </Button>
         </Grid>
 
+        {/* PLAY */}
         <Grid item xs={6}>
           <Button
             fullWidth
@@ -325,16 +309,24 @@ const FretboardControls = ({
           </Button>
         </Grid>
 
+        {/* OPEN SPREADING PAGE */}
         <Grid item xs={6}>
-          <Button
-            fullWidth
-            variant="contained"
-            color="success"
-            onClick={handlePrintTwoPages}
-            disabled={!canPrint}
-          >
-            Read Spreadings
-          </Button>
+          {canOpenSpreading ? (
+            <Link
+              href={spreadingPath}
+              target="_blank"
+              rel="noopener noreferrer"
+              style={{ textDecoration: "none" }}
+            >
+              <Button fullWidth variant="contained" color="success">
+                Read Spreadings
+              </Button>
+            </Link>
+          ) : (
+            <Button fullWidth variant="contained" color="success" disabled>
+              Read Spreadings
+            </Button>
+          )}
         </Grid>
       </Grid>
     </footer>
@@ -356,7 +348,6 @@ FretboardControls.propTypes = {
   selectedChord: PropTypes.string,
   selectedShape: PropTypes.string,
   selectedArppegio: PropTypes.string,
-  selectedFret: PropTypes.string,
   saveProgression: PropTypes.func.isRequired,
   progression: PropTypes.array,
   onElementChange: PropTypes.func.isRequired,
