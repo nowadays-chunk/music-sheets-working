@@ -209,49 +209,18 @@ const FretboardDisplay = ({
                 fretboard[fretboard.generalSettings.choice + 'Settings']?.notes?.indexOf(
                   note.current
                 );
-              modalNoteIndex = visualizerModalIndex >= 0 ? visualizerModalIndex : fretboard.keySettings.mode;
+              modalNoteIndex = visualizerModalIndex >= 0 ? visualizerModalIndex : fretboard.keySettings.mode ;
             }
           }
-
+ 
           const noteStyle = getNoteStyle(note, noteIndex, modalNoteIndex);
 
           return (
             <TableData
               key={`note-${fretboardIndex}-${i}-${fret}`}
               onClick={() => {
-                const fullNoteName = displayedNote + calculateOctave(i, fret);
-
-                // Extract pitch class & octave
-                const noteName = displayedNote.replace(/[#b]?/, displayedNote);
-                const octave = calculateOctave(i, fret);
-
-                // Convert tuning + fret → MIDI number
-                const tuningIndex = selectedFretboard.generalSettings.tuning[i];
-                const openStringMidi = 12 + tuningIndex + (selectedFretboard.generalSettings.baseOctaves?.[i] * 12 || 0);
-                const midi = openStringMidi + fret;
-
-                const noteObj = {
-                  id: crypto.randomUUID(),
-                  string: i,
-                  fret: fret,
-                  noteName: displayedNote,
-                  octave: octave,
-                  midi: midi,
-
-                  // expressive parameters (Option C)
-                  velocity: 0.8,
-                  bend: 0,
-                  slideTo: null,
-                  vibrato: false,
-
-                  // timeline fields (TimelineComposer fills these)
-                  time: null,
-                  duration: 1,
-                };
-
-                onNoteClick(noteObj);
+                onNoteClick(displayedNote + calculateOctave(i, fret), i, fret);
               }}
-
             >
               <NoteLine />
               {note.show && (
@@ -312,7 +281,7 @@ const FretboardDisplay = ({
             <TableRow>{newHeads}</TableRow>
           </tfoot>
         </FretboardTable>
-        {/* 
+{/* 
       <MidiReader playNote={onNoteClick} onHighlight={(e) => {
         console.log("note being played ", e);
       }} /> */}

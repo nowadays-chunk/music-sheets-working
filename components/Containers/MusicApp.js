@@ -1,6 +1,6 @@
 import { IconButton } from '@mui/material';
 import { styled } from '@mui/system';
-import { useCallback, useEffect, useState } from 'react';
+import { useCallback, useEffect } from 'react';
 import AddCircleOutlineIcon from '@mui/icons-material/AddCircleOutline';
 import FretboardControls from '../Pages/Fretboard/FretboardControls';
 import Progressor from '../UpComingPages/Page.ChordProgressionsComposer/OldVersion.Trialed.NotSucceeded/Progressor';
@@ -18,20 +18,13 @@ import { useDispatch } from 'react-redux';
 import Meta from '../Partials/Head';
 import { GoogleTagManager } from '@next/third-parties/google';
 
-/* NEW IMPORTS */
-import TimelineComposer from '../Pages/Composer/TimelineComposer';
-import TransportBar from '../Pages/Composer/TransportBar';
-import useMidiEngine from '../Pages/Composer/useMidiEngine';
-import { exportMidi } from '../Pages/Composer/exportMidi';
-/* END NEW IMPORTS */
-
 const Root = styled('div')({
   display: 'flex',
   flexDirection: 'column',
   margin: '0 auto',
-  width: '80%',
+  width: '80%', // Default width for mobile and tablet
   '@media (min-width: 1024px)': {
-    width: '65%',
+    width: '65%', // Adjust the width for desktop (1024px and above)
   },
 });
 
@@ -49,30 +42,6 @@ const ChordPressionDisplay = styled('div')({
 const MusicApp = (props) => {
   const dispatch = useDispatch();
 
-  /* -------------------------------------------
-     NEW STATE FOR COMPOSER
-  ------------------------------------------- */
-  const [incomingNote, setIncomingNote] = useState(null);
-  const [timelineNotes, setTimelineNotes] = useState([]);
-  const [loopStartBeat, setLoopStartBeat] = useState(0);
-  const [loopEndBeat, setLoopEndBeat] = useState(8);
-
-  /* PLAYBACK ENGINE */
-  const {
-    start: startPlayback,
-    stop: stopPlayback,
-    isPlaying,
-    cursorBeat
-  } = useMidiEngine({
-    bpm: 120,
-    onTick: () => {},
-    loopStartBeat,
-    loopEndBeat
-  });
-
-  /* -------------------------------------------
-     EXISTING PROPS (unchanged)
-  ------------------------------------------- */
   const {
     boards,
     selectedFretboard,
@@ -108,26 +77,8 @@ const MusicApp = (props) => {
     playSingleChord,
   } = props;
 
-  /* -------------------------------------------
-     INTERCEPT NOTE CLICKS FROM FRETBOARD 
-     AND SEND TO COMPOSER
-  ------------------------------------------- */
-  const handleIncomingNote = (noteObj) => {
-    setIncomingNote(noteObj);
-  };
 
-  /* -------------------------------------------
-     PLAYBACK CONTROLS
-  ------------------------------------------- */
-  const handlePlay = () => startPlayback(timelineNotes);
-  const handlePause = () => stopPlayback();
-  const handleStop = () => stopPlayback();
 
-  const handleExport = () => exportMidi(timelineNotes);
-
-  /* -------------------------------------------
-     EXISTING LOGIC - UNCHANGED
-  ------------------------------------------- */
   const updateBoardsCallback = useCallback(() => {
     if (selectedFretboard?.id) {
       if (!isNaN(keyIndex)) {
@@ -138,6 +89,9 @@ const MusicApp = (props) => {
         dispatch(updateBoards(selectedFretboard.id, 'keySettings.mode', modeIndex));
       }
 
+      console.log("updated modeIndex ", modeIndex);
+      console.log("updated keyIndex ", keyIndex);
+      
       if (display === 'scale') {
         dispatch(updateBoards(selectedFretboard.id, 'generalSettings.choice', 'scale'));
         dispatch(updateBoards(selectedFretboard.id, 'scaleSettings.scale', scale));
@@ -175,8 +129,15 @@ const MusicApp = (props) => {
       }
     }
   }, [
-    dispatch, display, selectedFretboard, keyIndex, modeIndex,
-    scale, shape, quality, updateBoards
+    dispatch,
+    display,
+    selectedFretboard,
+    keyIndex,
+    modeIndex,
+    scale,
+    shape,
+    quality,
+    updateBoards,
   ]);
 
   useEffect(() => {
@@ -190,6 +151,7 @@ const MusicApp = (props) => {
   const getDegree = (choice) => {
     const defaultDegree = 'Major';
     if (!choice || selectedFretboardIndex === -1 || !boards.length) return defaultDegree;
+
     if (choice === 'scale') {
       const scale = guitar.scales[selectedFretboard.scaleSettings.scale];
       return scale ? scale.degree : defaultDegree;
@@ -200,64 +162,39 @@ const MusicApp = (props) => {
     return defaultDegree;
   };
 
-  const selectedKey = selectedFretboard.keySettings[selectedFretboard.generalSettings.choice];
+  const getCircleData = () => {
+    const defaultPoint = { tone: 'C', degree: 'Major' };
+    if (selectedFretboardIndex === -1 || !selectedFretboard) return defaultPoint;
+    const selectedKey = selectedFretboard.keySettings[selectedFretboard.generalSettings.choice];
+    const selectedTone = guitar.notes.flats[selectedKey];
+    return { tone: selectedTone, degree: getDegree(selectedFretboard.generalSettings.choice) };
+  };
+
+  const circleData = getCircleData();
+
+  const currentScale = selectedFretboardIndex >= 0 && selectedFretboard ? guitar.scales[selectedFretboard.scaleSettings.scale] : 'major';
+  const scaleModes = currentScale?.isModal ? currentScale.modes : [];
+  const { choice } = selectedFretboard.generalSettings;
+  const selectedKey = selectedFretboard.keySettings[choice];
+  const selectedShape = selectedFretboard[choice + 'Settings'].shape;
   const selectedArppegio = selectedFretboard.arppegioSettings.arppegio;
-  const { mode } = selectedFretboard.modeSettings;
+  const { fret } = selectedFretboard.chordSettings;
   const selectedChord = selectedFretboard.chordSettings.chord;
   const selectedScale = selectedFretboard.scaleSettings.scale;
+  const { mode } = selectedFretboard.modeSettings;
 
-  return (
+  const components = (
     <Root>
-      <Meta title="Musical Guitar Sheets" />
+      <Meta
+        title="Musical Guitar Sheets | Complete References (5000 pages for FREE / No Subscription / No Fees / No Payments)"
+        description="Explore my complete references for musical keys, scales, modes, and arpeggios. Find detailed information and resources for all keys, sharps, scales, modes, and arpeggios to enhance your musical knowledge"
+      />
       <GoogleTagManager gtmId="GTM-XXXXXXX" />
-
-      {/* ----------------------------  
-           NEW COMPOSER UI ADDED HERE
-      ---------------------------- */}
-      { showChordComposer &&
-        <>
-          <TransportBar
-            isPlaying={isPlaying}
-            onPlay={handlePlay}
-            onPause={handlePause}
-            onStop={handleStop}
-            onStart={() => setLoopStartBeat(0)}
-            onEnd={() =>
-              setLoopEndBeat(
-                Math.max(...timelineNotes.map((n) => n.time + n.duration))
-              )
-            }
-            onRewind={() => {}}
-            onFastForward={() => {}}
-            loop={true}
-            onToggleLoop={() => {}}
-            onExport={handleExport}
-          />
-
-          <TimelineComposer
-            incomingNote={incomingNote}
-            onNotesChange={setTimelineNotes}
-            onPlayNote={(note) => startPlayback([note])}
-            externalCursorBeat={cursorBeat}
-            loopStartBeat={loopStartBeat}
-            loopEndBeat={loopEndBeat}
-            onLoopChange={({ start, end }) => {
-              setLoopStartBeat(start);
-              setLoopEndBeat(end);
-            }}
-          />
-        </>
-      }
-
-      {/* ----------------------------  
-          ORIGINAL APP UI (UNCHANGED)
-      ---------------------------- */}
       {showAddMoreFretboardsButton && (
         <IconButton onClick={createNewBoardDisplay}>
           <AddCircleOutlineIcon />
         </IconButton>
       )}
-
       {showFretboard && (
         <FretboardContainer>
           <FretboardDisplay
@@ -265,81 +202,79 @@ const MusicApp = (props) => {
             boards={boards}
             handleFretboardSelect={handleFretboardSelect}
             onElementChange={onElementChange}
-
-            /* NOTE: HERE WE RE-ROUTE TO COMPOSER */
-            onNoteClick={handleIncomingNote}
-
+            onNoteClick={onNoteClick}
             visualizerModalIndex={mode}
           />
         </FretboardContainer>
       )}
-
-      {showFretboardControls && (
-        <FretboardControls
-          playSelectedNotes={playSelectedNotes}
-          handleChoiceChange={handleChoiceChange}
-          scaleModes={[]}
-          arppegiosNames={Object.keys(guitar.arppegios)}
-          choice={selectedFretboard.generalSettings.choice}
-          onCleanFretboard={cleanFretboard}
-          selectedKey={isNaN(selectedKey) ? '' : selectedKey}
-          onCopyLink={() => {}}
-          selectedMode={mode || ''}
-          selectedScale={selectedScale || ''}
-          selectedChord={selectedChord || ''}
-          selectedShape={selectedFretboard.chordSettings.shape || ''}
-          selectedArppegio={selectedArppegio}
-          selectedFret={selectedFretboard.chordSettings.fret}
-          addChordToProgression={addChordToProgression}
-          saveProgression={saveProgression}
-          playProgression={playProgression}
-          progressions={progressions.progression}
-          onElementChange={onElementChange}
-        />
-      )}
-
-      {showCircleOfFifths && (
-        <CircleOfFifths
-          tone={'C'}
-          onElementChange={onElementChange}
-          selectedFretboardIndex={selectedFretboardIndex}
-          quality={'Major'}
-        />
-      )}
-
-      {showChordComposer && (
-        <ChordComposer
-          addChordToProgression={addChordToProgression}
-          playProgression={playProgression}
-          saveProgression={saveProgression}
-          onElementChange={onElementChange}
-          selectedArppegio={selectedArppegio}
-          selectedKey={selectedKey}
-        />
-      )}
-
-      {showProgressor && (
-        <Progressor
-          className={ChordPressionDisplay}
-          progression={progressions.progression}
-          setProgression={setProgression}
-          playProgression={playProgression}
-          setProgressionKey={setProgressionKey}
-          selectedKey={progressions.key}
-          getScaleNotes={getScaleNotes}
-        />
-      )}
-
-      {showSongsSelector && (
-        <SongsSelector
-          playProgression={playProgression}
-          getScaleNotes={getScaleNotes}
-          onElementChange={onElementChange}
-          playSingleChord={playSingleChord}
-        />
-      )}
+      <div>
+        <section className="controls">
+          {showFretboardControls && (
+            <FretboardControls
+              playSelectedNotes={playSelectedNotes}
+              handleChoiceChange={handleChoiceChange}
+              scaleModes={scaleModes}
+              arppegiosNames={Object.keys(guitar.arppegios)}
+              choice={choice}
+              onCleanFretboard={cleanFretboard}
+              selectedKey={isNaN(selectedKey) ? '' : selectedKey}
+              onCopyLink={() => console.log('onCopyLink')}
+              selectedMode={mode || ''}
+              selectedScale={selectedScale || ''}
+              selectedChord={selectedChord || ''}
+              selectedShape={selectedShape || ''}
+              selectedArppegio={selectedArppegio}
+              selectedFret={fret}
+              addChordToProgression={addChordToProgression}
+              saveProgression={saveProgression}
+              playProgression={playProgression}
+              progressions={progressions.progression}
+              onElementChange={onElementChange}
+            />
+          )}
+        </section>
+        {showCircleOfFifths && (
+          <CircleOfFifths
+            tone={circleData.tone}
+            onElementChange={onElementChange}
+            selectedFretboardIndex={selectedFretboardIndex}
+            quality={circleData.degree}
+          />
+        )}
+        {showChordComposer && (
+          <ChordComposer
+            addChordToProgression={addChordToProgression}
+            playProgression={playProgression}
+            saveProgression={saveProgression}
+            onElementChange={onElementChange}
+            selectedArppegio={selectedArppegio}
+            selectedKey={selectedKey}
+          />
+        )}
+        {showProgressor && (
+          <Progressor
+            className={ChordPressionDisplay}
+            progression={progressions.progression}
+            setProgression={setProgression}
+            playProgression={playProgression}
+            setProgressionKey={setProgressionKey}
+            selectedKey={progressions.key}
+            getScaleNotes={getScaleNotes}
+          />
+        )}
+        {showSongsSelector && (
+          <SongsSelector
+            playProgression={playProgression}
+            getScaleNotes={getScaleNotes}
+            onElementChange={onElementChange}
+            playSingleChord={playSingleChord}
+          />
+        )}
+      </div>
     </Root>
   );
+
+  return <>{components}</>;
 };
 
 const mapStateToProps = (state, ownProps) => {
