@@ -1,33 +1,37 @@
-import React from 'react';
-import {
-  Button,
-  Select,
-  MenuItem,
-  FormControl,
-  Grid,
-  Tabs,
-  Tab
-} from '@mui/material';
-import guitar from '../../../config/guitar.js';
-import PropTypes from 'prop-types';
-import { styled } from '@mui/system';
-
-const FullWidthButton = styled(Button)({
-  width: '100%',
-});
-
-const SelectContainer = styled(FormControl)({
-  width: '100%',
-});
-
-const ButtonGroup = styled('div')({
-  display: 'flex',
-  justifyContent: 'center',
-  gap: '8px',
-});
+import React from "react";
+import { Button, Box, Typography, Grid } from "@mui/material";
+import { styled } from "@mui/material/styles";
+import PropTypes from "prop-types";
+import CloseIcon from "@mui/icons-material/Close";
+import guitar from "../../../config/guitar";
 
 // ---------------------------------------------------------
-// MAIN COMPONENT
+// SHARED BUTTON STYLE (same as References component)
+// ---------------------------------------------------------
+const OptionButton = styled(Button)(({ selected }) => ({
+  borderRadius: "20px",
+  margin: "4px",
+  background: selected ? "#1976d2" : "transparent",
+  color: selected ? "#fff" : "#1976d2",
+  border: "1px solid #1976d2",
+  "&:hover": {
+    background: selected ? "#11529b" : "rgba(25,118,210,0.1)",
+  },
+  textTransform: "none",
+}));
+
+// Step Title
+const StepTitle = ({ children }) => (
+  <Typography variant="h6" sx={{ mt: 2, mb: 1 }}>
+    {children}
+  </Typography>
+);
+
+// Sharps normalizer for URL compatibility
+const slugSharp = (s) => (s || "").replace("#", "sharp");
+
+// ---------------------------------------------------------
+// MAIN COMPONENT — BUTTON-BASED UI + RESET ICON
 // ---------------------------------------------------------
 const FretboardControls = ({
   choice,
@@ -41,45 +45,57 @@ const FretboardControls = ({
   selectedScale,
   selectedChord,
   selectedArppegio,
-  selectedFret,
   selectedShape,
   saveProgression,
   playSelectedNotes,
   progression,
 }) => {
+  const keysSharps = guitar.notes.sharps;
+
   const capitalize = (s) => s.charAt(0).toUpperCase() + s.slice(1);
 
-  const slugSharp = (s) => (s || '').replace('#', 'sharp');
+  // ---------------------------------------------------------
+  // RESET EVERYTHING
+  // ---------------------------------------------------------
+  const resetAll = () => {
+    onCleanFretboard();
+    onElementChange(-1, "key");
+    onElementChange(-1, "scale");
+    onElementChange(-1, "mode");
+    onElementChange('', "chord");
+    onElementChange(-1, "arppegio");
+    onElementChange('', "shape");
+  };
 
+  // ---------------------------------------------------------
+  // BUILD PRINT URL
+  // ---------------------------------------------------------
   const buildReferencePath = () => {
     const keyName = guitar.notes.sharps[selectedKey];
     if (!keyName) return null;
 
     const keySlug = slugSharp(keyName);
 
-    if (choice === 'chord') {
+    if (choice === "chord") {
       if (!selectedChord) return null;
-      const chordSlug = slugSharp(selectedChord);
-      return `/references/chords/${keySlug}/${chordSlug}`;
+      return `/spreading/chords/${keySlug}/${slugSharp(selectedChord)}`;
     }
 
-    if (choice === 'arppegio') {
+    if (choice === "arppegio") {
       if (!selectedArppegio) return null;
-      const arpSlug = slugSharp(selectedArppegio);
-      return `/references/arppegios/${keySlug}/${arpSlug}`;
+      return `/spreading/arppegios/${keySlug}/${slugSharp(selectedArppegio)}`;
     }
 
-    if (choice === 'scale') {
+    if (choice === "scale") {
       if (!selectedScale) return null;
 
       if (guitar.scales[selectedScale]?.isModal) {
-        if (selectedMode === '' || selectedMode == null) return null;
+        if (selectedMode === "" || selectedMode == null) return null;
 
-        const modeIndex = parseInt(selectedMode, 10);
-        const modeName = scaleModes[modeIndex]?.name;
+        const modeName = scaleModes[Number(selectedMode)]?.name;
         if (!modeName) return null;
 
-        const modeSlug = modeName.toLowerCase().replace(/\s+/g, '-');
+        const modeSlug = modeName.toLowerCase().replace(/\s+/g, "-");
         return `/references/scales/${keySlug}/${selectedScale}/modal/${modeSlug}`;
       }
 
@@ -89,8 +105,9 @@ const FretboardControls = ({
     return null;
   };
 
+  // PRINTING LOGIC
   const printUrl = (url) => {
-    const w = window.open(url, '_blank', 'noopener,noreferrer');
+    const w = window.open(url, "_blank", "noopener,noreferrer");
     if (!w) return;
 
     const tryPrint = () => {
@@ -109,271 +126,215 @@ const FretboardControls = ({
     if (!refPath) return;
 
     const origin = window.location.origin;
-
     printUrl(origin + refPath);
-    printUrl(origin + refPath.replace('/references/', '/spreading/'));
   };
 
   const canPrint = !!buildReferencePath();
 
   // ---------------------------------------------------------
-  // JSX
+  // RENDER
   // ---------------------------------------------------------
-  return (
-    <footer>
 
-      {/* ------------------- OUTLINED TABS ------------------- */}
-      <Tabs
-        value={choice}
-        onChange={(e, val) => handleChoiceChange(val)}
-        TabIndicatorProps={{ style: { display: 'none' } }}
+  return (
+    <footer style={{ marginTop: "20px", position: "relative" }}>
+      {/* RESET EVERYTHING ICON */}
+      <Button
+        onClick={resetAll}
         sx={{
-          width: '100%',
-          display: 'flex',
-          border: '1px solid #ccc',
-          padding: 0,
-          margin: 0,
-          minHeight: 45,
+          position: "absolute",
+          right: 0,
+          top: -10,
+          minWidth: "30px",
+          padding: "4px",
+          borderRadius: "50%",
+          color: "#1976d2",
         }}
       >
-        <Tab
-          label="Scales"
-          value="scale"
-          sx={{
-            flex: 1,
-            minHeight: 45,
-            margin: 0,
-            borderRight: '1px solid #ccc',
-            '&.Mui-selected': {
-              backgroundColor: '#e0e0e0',
-            },
-          }}
-        />
+        <CloseIcon />
+      </Button>
 
-        <Tab
-          label="Chords"
-          value="chord"
-          sx={{
-            flex: 1,
-            minHeight: 45,
-            margin: 0,
-            borderRight: '1px solid #ccc',
-            '&.Mui-selected': {
-              backgroundColor: '#e0e0e0',
-            },
-          }}
-        />
+      {/* STEP 1 — CATEGORY */}
+      <StepTitle>Category</StepTitle>
 
-        <Tab
-          label="Arpeggios"
-          value="arppegio"
-          sx={{
-            flex: 1,
-            minHeight: 45,
-            margin: 0,
-            '&.Mui-selected': {
-              backgroundColor: '#e0e0e0',
-            },
-          }}
-        />
-      </Tabs>
+      <Box>
+        <OptionButton
+          selected={choice === "scale"}
+          onClick={() => handleChoiceChange("scale")}
+        >
+          Scales
+        </OptionButton>
 
-      <Grid container spacing={2} style={{ marginTop: 10 }}>
-        {/* ---------------------------------------------------
-            SCALE FORM
-        --------------------------------------------------- */}
-        {choice === 'scale' && (
+        <OptionButton
+          selected={choice === "chord"}
+          onClick={() => handleChoiceChange("chord")}
+        >
+          Chords
+        </OptionButton>
+
+        <OptionButton
+          selected={choice === "arppegio"}
+          onClick={() => handleChoiceChange("arppegio")}
+        >
+          Arpeggios
+        </OptionButton>
+      </Box>
+
+      {/* STEP 2 — KEY */}
+      {choice && (
+        <>
+          <StepTitle>Key</StepTitle>
+
+          <Box>
+            {keysSharps.map((k, index) => (
+              <OptionButton
+                key={index}
+                selected={selectedKey === index}
+                onClick={() => onElementChange(index, "key")}
+              >
+                {k}
+              </OptionButton>
+            ))}
+          </Box>
+        </>
+      )}
+
+      {/* STEP 3 — SCALE TYPE / CHORD TYPE / ARPEGGIO TYPE */}
+      {choice === "scale" && selectedKey !== "" && (
+        <>
+          <StepTitle>Scale Type</StepTitle>
+
+          <Box>
+            {Object.keys(guitar.scales).map((scaleName, i) => (
+              <OptionButton
+                key={i}
+                selected={selectedScale === scaleName}
+                onClick={() => onElementChange(scaleName, "scale")}
+              >
+                {capitalize(scaleName)}
+              </OptionButton>
+            ))}
+          </Box>
+        </>
+      )}
+
+      {choice === "chord" && selectedKey !== "" && (
+        <>
+          <StepTitle>Chord Type</StepTitle>
+
+          <Box>
+            {Object.keys(guitar.arppegios).map((ch, i) => (
+              <OptionButton
+                key={i}
+                selected={selectedChord === ch}
+                onClick={() => onElementChange(ch, "chord")}
+              >
+                {ch}
+              </OptionButton>
+            ))}
+          </Box>
+        </>
+      )}
+
+      {choice === "arppegio" && selectedKey !== "" && (
+        <>
+          <StepTitle>Arpeggio Type</StepTitle>
+
+          <Box>
+            {arppegiosNames.map((arp, i) => (
+              <OptionButton
+                key={i}
+                selected={selectedArppegio === arp}
+                onClick={() => onElementChange(arp, "arppegio")}
+              >
+                {arp}
+              </OptionButton>
+            ))}
+          </Box>
+        </>
+      )}
+
+      {/* STEP 4 — MODES */}
+      {choice === "scale" &&
+        selectedScale &&
+        guitar.scales[selectedScale]?.isModal &&
+        scaleModes.length > 0 && (
           <>
-            <Grid item xs={12}>
-              <KeySelector
-                selectedKey={selectedKey}
-                onElementChange={onElementChange}
-              />
-            </Grid>
+            <StepTitle>Modes</StepTitle>
 
-            <Grid item xs={12}>
-              <SelectContainer variant="outlined">
-                <Select
-                  label=""
-                  value={selectedScale || ''}
-                  onChange={(e) => onElementChange(e.target.value, 'scale')}
-                  displayEmpty
+            <Box>
+              {scaleModes.map((m, i) => (
+                <OptionButton
+                  key={i}
+                  selected={Number(selectedMode) === i}
+                  onClick={() => onElementChange(i, "mode")}
                 >
-                  <MenuItem value="">
-                    <em>Choose Scale</em>
-                  </MenuItem>
-
-                  {Object.keys(guitar.scales).map((s, i) => (
-                    <MenuItem key={i} value={s}>
-                      {capitalize(s)}
-                    </MenuItem>
-                  ))}
-                </Select>
-              </SelectContainer>
-            </Grid>
-
-            {scaleModes.length > 0 && (
-              <Grid item xs={12}>
-                <SelectContainer variant="outlined">
-                  <Select
-                    label=""
-                    value={selectedMode === '' || selectedMode == null ? '' : Number(selectedMode)}
-                    onChange={(e) => onElementChange(e.target.value, 'mode')}
-                    displayEmpty
-                  >
-                    <MenuItem value="">
-                      <em>Choose Mode</em>
-                    </MenuItem>
-
-                    {scaleModes.map((m, i) => (
-                      <MenuItem key={i} value={Number(i)}>
-                        {m.name}
-                      </MenuItem>
-                    ))}
-                  </Select>
-                </SelectContainer>
-              </Grid>
-            )}
-          </>
-        )}
-
-        {/* ---------------------------------------------------
-            CHORD FORM
-        --------------------------------------------------- */}
-        {choice === 'chord' && (
-          <>
-            <Grid item xs={12}>
-              <KeySelector
-                selectedKey={selectedKey}
-                onElementChange={onElementChange}
-              />
-            </Grid>
-
-            <Grid item xs={12}>
-              <SelectContainer variant="outlined">
-                <Select
-                  label=""
-                  value={selectedChord || ''}
-                  onChange={(e) => onElementChange(e.target.value, 'chord')}
-                  displayEmpty
-                >
-                  <MenuItem value="">
-                    <em>Choose Chord</em>
-                  </MenuItem>
-
-                  {Object.keys(guitar.arppegios).map((c, i) => (
-                    <MenuItem key={i} value={c}>
-                      {c}
-                    </MenuItem>
-                  ))}
-                </Select>
-              </SelectContainer>
-            </Grid>
-          </>
-        )}
-
-        {/* ---------------------------------------------------
-            ARPEGGIO FORM
-        --------------------------------------------------- */}
-        {choice === 'arppegio' && (
-          <>
-            <Grid item xs={12}>
-              <KeySelector
-                selectedKey={selectedKey}
-                onElementChange={onElementChange}
-              />
-            </Grid>
-
-            <Grid item xs={12}>
-              <SelectContainer variant="outlined">
-                <Select
-                  label=""
-                  value={selectedArppegio || ''}
-                  onChange={(e) => onElementChange(e.target.value, 'arppegio')}
-                  displayEmpty
-                >
-                  <MenuItem value="">
-                    <em>Choose Arpeggio</em>
-                  </MenuItem>
-
-                  {arppegiosNames.map((a, i) => (
-                    <MenuItem key={i} value={a}>
-                      {a}
-                    </MenuItem>
-                  ))}
-                </Select>
-              </SelectContainer>
-            </Grid>
-          </>
-        )}
-
-        {/* ---------------------------------------------------
-            SHAPE SELECT
-        --------------------------------------------------- */}
-        <Grid item xs={12}>
-          <SelectContainer variant="outlined">
-            <Select
-              label=""
-              value={selectedShape || ''}
-              onChange={(e) => onElementChange(e.target.value, 'shape')}
-              displayEmpty
-            >
-              <MenuItem value="">
-                <em>Choose Shape</em>
-              </MenuItem>
-
-              {guitar.shapes.names.map((shape, i) => (
-                <MenuItem key={i} value={shape}>
-                  {shape}
-                </MenuItem>
+                  {m.name}
+                </OptionButton>
               ))}
-            </Select>
-          </SelectContainer>
-        </Grid>
+            </Box>
+          </>
+        )}
 
-        {/* ---------------------------------------------------
-            BUTTONS
-        --------------------------------------------------- */}
+      {/* STEP 5 — SHAPE */}
+      <StepTitle>Shape</StepTitle>
+      <Box>
+        {guitar.shapes.names.map((shape, i) => (
+          <OptionButton
+            key={i}
+            selected={selectedShape === shape}
+            onClick={() => onElementChange(shape, "shape")}
+          >
+            {shape}
+          </OptionButton>
+        ))}
+      </Box>
+
+      {/* ACTION BUTTONS */}
+      <Grid container spacing={2} sx={{ mt: 2 }}>
         <Grid item xs={6}>
-          <FullWidthButton
+          <Button
+            fullWidth
             variant="contained"
             color="primary"
             onClick={onCleanFretboard}
           >
             Clean
-          </FullWidthButton>
+          </Button>
         </Grid>
 
         <Grid item xs={6}>
-          <FullWidthButton
+          <Button
+            fullWidth
             variant="contained"
             color="secondary"
             onClick={saveProgression}
             disabled={!progression || progression.length === 0}
           >
             Save
-          </FullWidthButton>
+          </Button>
         </Grid>
 
         <Grid item xs={6}>
-          <FullWidthButton
-            onClick={playSelectedNotes}
+          <Button
+            fullWidth
             variant="contained"
             color="primary"
+            onClick={playSelectedNotes}
           >
             Play Sound
-          </FullWidthButton>
+          </Button>
         </Grid>
 
         <Grid item xs={6}>
-          <FullWidthButton
-            onClick={handlePrintTwoPages}
+          <Button
+            fullWidth
             variant="contained"
             color="success"
+            onClick={handlePrintTwoPages}
             disabled={!canPrint}
           >
-            Print (Refs + Spread)
-          </FullWidthButton>
+            Read Spreadings
+          </Button>
         </Grid>
       </Grid>
     </footer>
@@ -381,29 +342,8 @@ const FretboardControls = ({
 };
 
 // ---------------------------------------------------------
-// KEY SELECTOR
+// PROP TYPES
 // ---------------------------------------------------------
-export const KeySelector = ({ selectedKey, onElementChange }) => (
-  <SelectContainer variant="outlined">
-    <Select
-      label=""
-      value={selectedKey ?? ''}
-      onChange={(e) => onElementChange(e.target.value, 'key')}
-      displayEmpty
-    >
-      <MenuItem value="">
-        <em>Choose Key</em>
-      </MenuItem>
-
-      {guitar.notes.sharps.map((key, index) => (
-        <MenuItem key={index} value={index}>
-          {key}
-        </MenuItem>
-      ))}
-    </Select>
-  </SelectContainer>
-);
-
 FretboardControls.propTypes = {
   handleChoiceChange: PropTypes.func.isRequired,
   selectedKey: PropTypes.any,

@@ -272,6 +272,13 @@ export default {
         { "name": "Lydian #2", "intervals": ["1", "#2", "3", "#4", "5", "6", "7"] },
         { "name": "Ultra locrian", "intervals": ["1", "b2", "b3", "b4", "b5", "b6", "bb7"] }
       ],
+      "indexes": [
+        { "start": 0, "end": 3 },  // C shape
+        { "start": 2, "end": 5 },  // A shape
+        { "start": 5, "end": 8 }, // G shape
+        { "start": 7, "end": 10 },// E shape
+        { "start": 9, "end": 12 } // D shape
+      ]
     },
     "melodic": {
       "name": "Melodic",
@@ -303,11 +310,11 @@ export default {
       "intervals": ["1", "b3", "4", "b5", "5"],
       "formula": [3, 2, 2, 3, 2],
       "indexes": [
-        { "start": 0, "end": 3 },  // C shape
+        { "start": 0, "end": 4 },  // C shape
         { "start": 2, "end": 5 },  // A shape
         { "start": 5, "end": 8 }, // G shape
-        { "start": 7, "end": 10 },// E shape
-        { "start": 9, "end": 12 } // D shape
+        { "start": 7, "end": 11 },// E shape
+        { "start": 9, "end": 14 } // D shape
       ]
     },
     "blues-major": {
