@@ -212,7 +212,7 @@ function App({ Component, pageProps }) {
                     <StyledLink href="/">
                       <Button color="inherit">Play and Visualize</Button>
                     </StyledLink>
-                    <StyledLink href="/newss">
+                    <StyledLink href="/news">
                       <Button color="inherit">Musicians News</Button>
                     </StyledLink>
                     <StyledLink href="/learn">
