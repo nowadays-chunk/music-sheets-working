@@ -1,17 +1,21 @@
+// useMidiEngine.js
 import { useEffect, useRef, useState } from "react";
 import Soundfont from "soundfont-player";
 
 export default function useMidiEngine({
   bpm = 120,
-  onTick,
-  loopStartBeat,
-  loopEndBeat
+  volume = 0.8,
+  enableMetronome = false,
+  loopStartBeat = 0,
+  loopEndBeat = 16,
 }) {
   const audioCtxRef = useRef(null);
   const instrumentRef = useRef(null);
+  const clickRef = useRef(null);
 
+  const masterGainRef = useRef(null);
   const [isPlaying, setIsPlaying] = useState(false);
-  const [cursorBeat, setCursorBeat] = useState(0);
+  const [cursor, setCursor] = useState(0);
 
   const nextNoteTimeRef = useRef(0);
   const currentBeatRef = useRef(0);
@@ -20,87 +24,113 @@ export default function useMidiEngine({
   const secondsPerBeat = 60 / bpm;
 
   const init = async () => {
-    if (!audioCtxRef.current)
-      audioCtxRef.current = new (window.AudioContext ||
-        window.webkitAudioContext)();
+    if (!audioCtxRef.current) {
+      audioCtxRef.current = new (window.AudioContext || window.webkitAudioContext)();
+    }
 
-    // CORRECTED VERSION
+    if (!masterGainRef.current) {
+      masterGainRef.current = audioCtxRef.current.createGain();
+      masterGainRef.current.gain.value = volume;
+      masterGainRef.current.connect(audioCtxRef.current.destination);
+    }
+
     if (!instrumentRef.current) {
       instrumentRef.current = await Soundfont.instrument(
         audioCtxRef.current,
-        "acoustic_guitar_nylon"
+        "acoustic_guitar_nylon",
+        { destination: masterGainRef.current }
       );
+    }
+
+    if (!clickRef.current) {
+      clickRef.current = (time) => {
+        if (!enableMetronome) return;
+        const osc = audioCtxRef.current.createOscillator();
+        const g = audioCtxRef.current.createGain();
+        osc.frequency.value = 1200;
+        g.gain.value = 0.6;
+
+        osc.connect(g);
+        g.connect(masterGainRef.current);
+
+        osc.start(time);
+        osc.stop(time + 0.03);
+      };
     }
   };
 
-  const playNote = async (note, scheduledTime) => {
+  const playNote = async (noteObj) => {
+    await init();
     if (!instrumentRef.current) return;
+    if (!noteObj.midi) return;
 
-    instrumentRef.current.play(note.midi, scheduledTime, {
-      gain: note.velocity ?? 0.8,
-      duration: (note.duration || 1) * secondsPerBeat,
+    instrumentRef.current.play(noteObj.midi, 0, {
+      gain: noteObj.velocity ?? 0.8,
+      duration: 1,
     });
   };
 
   const scheduler = (notes) => {
-    while (
-      nextNoteTimeRef.current <
-      audioCtxRef.current.currentTime + 0.1
-    ) {
+    const ctx = audioCtxRef.current;
+    while (nextNoteTimeRef.current < ctx.currentTime + 0.1) {
       const beat = currentBeatRef.current;
 
-      if (onTick) onTick(beat);
+      clickRef.current?.(nextNoteTimeRef.current);
 
-      notes
-        .filter((n) => n.time === beat)
-        .forEach((n) => playNote(n, nextNoteTimeRef.current));
+      const notesOnBeat = notes.filter((n) => n.time === beat);
+      notesOnBeat.forEach((n) =>
+        instrumentRef.current.play(n.midi, nextNoteTimeRef.current, {
+          gain: n.velocity ?? 0.8,
+          duration: n.duration,
+        })
+      );
+
+      setCursor(beat);
 
       nextNoteTimeRef.current += secondsPerBeat;
       currentBeatRef.current += 1;
 
-      // LOOP LOGIC
-      if (
-        loopStartBeat !== null &&
-        loopEndBeat !== null &&
-        currentBeatRef.current >= loopEndBeat
-      ) {
+      if (currentBeatRef.current >= loopEndBeat) {
         currentBeatRef.current = loopStartBeat;
-        nextNoteTimeRef.current =
-          audioCtxRef.current.currentTime + 0.05;
+        nextNoteTimeRef.current = ctx.currentTime + 0.05;
       }
     }
 
-    schedulerRef.current = requestAnimationFrame(() =>
-      scheduler(notes)
-    );
+    schedulerRef.current = requestAnimationFrame(() => scheduler(notes));
   };
 
-  const start = async (notes) => {
-    if (!notes.length) return;
-
+  const start = async (notesRef) => {
     await init();
 
     setIsPlaying(true);
-    setCursorBeat(0);
+    const ctx = audioCtxRef.current;
 
-    currentBeatRef.current = loopStartBeat ?? 0;
-    nextNoteTimeRef.current =
-      audioCtxRef.current.currentTime + 0.1;
+    currentBeatRef.current = loopStartBeat;
+    nextNoteTimeRef.current = ctx.currentTime + 0.1;
 
-    scheduler(notes);
+    scheduler(notesRef.current);
   };
 
   const stop = () => {
     setIsPlaying(false);
+
     cancelAnimationFrame(schedulerRef.current);
     currentBeatRef.current = 0;
     nextNoteTimeRef.current = 0;
-    setCursorBeat(0);
+    setCursor(0);
   };
 
   useEffect(() => {
-    return () => cancelAnimationFrame(schedulerRef.current);
-  }, []);
+    if (masterGainRef.current) {
+      masterGainRef.current.gain.value = volume;
+    }
+  }, [volume]);
 
-  return { start, stop, isPlaying, cursorBeat };
+  return {
+    playNote,
+    start,
+    stop,
+    isPlaying,
+    cursor,
+  };
 }

@@ -1,3 +1,4 @@
+// TimelineComposer.jsx
 import React, { useState, useRef, useEffect } from "react";
 import { styled } from "@mui/system";
 
@@ -27,14 +28,14 @@ const StringLine = styled("div")({
   paddingLeft: 10,
   fontSize: 12,
   color: "#666",
-  zIndex: 1
+  zIndex: 1,
 });
 
 const NoteBlock = styled("div")(({ selected }) => ({
   position: "absolute",
   height: NOTE_HEIGHT,
   minWidth: BEAT_WIDTH,
-  background: selected ? "#0057ff" : "#222",
+  background: selected ? "#5555ff" : "#333",
   color: "#fff",
   fontWeight: "bold",
   fontSize: 16,
@@ -44,7 +45,7 @@ const NoteBlock = styled("div")(({ selected }) => ({
   borderRadius: 4,
   cursor: "pointer",
   userSelect: "none",
-  zIndex: 5
+  zIndex: 5,
 }));
 
 const BeatGridLine = styled("div")({
@@ -53,7 +54,7 @@ const BeatGridLine = styled("div")({
   bottom: 0,
   width: 1,
   background: "#eee",
-  zIndex: 0
+  zIndex: 0,
 });
 
 const CursorLine = styled("div")({
@@ -63,39 +64,35 @@ const CursorLine = styled("div")({
   width: 2,
   background: "red",
   pointerEvents: "none",
-  zIndex: 10
+  zIndex: 10,
 });
 
 const TimelineComposer = ({
   incomingNote,
-  onPlayNote,
   onNotesChange,
   externalCursorBeat,
-  loopStartBeat,
-  loopEndBeat,
-  onLoopChange
+  playNote,
 }) => {
   const [notes, setNotes] = useState([]);
   const [selectedNoteId, setSelectedNoteId] = useState(null);
 
   const timelineRef = useRef(null);
 
-  // -----------------------------------
-  // Add incoming notes from fretboard
-  // -----------------------------------
+  // Add notes at CURRENT BEAT (Chord Mode A)
   useEffect(() => {
     if (!incomingNote) return;
 
-    const placedNote = {
+    const newNote = {
       ...incomingNote,
-      time: Math.max(...notes.map(n => n.time + n.duration), 0), // auto place after last note
-      duration: 1
+      time: externalCursorBeat,
+      duration: 1,
+      velocity: 0.8,
     };
 
-    setNotes((prev) => [...prev, placedNote]);
+    setNotes((prev) => [...prev, newNote]);
   }, [incomingNote]);
 
-  // External playback cursor
+  // Autofollow cursor
   useEffect(() => {
     if (!timelineRef.current) return;
 
@@ -107,12 +104,10 @@ const TimelineComposer = ({
 
   useEffect(() => onNotesChange(notes), [notes]);
 
-  // Delete note
   const deleteNote = (id) => {
     setNotes((prev) => prev.filter((n) => n.id !== id));
   };
 
-  // Keyboard delete
   useEffect(() => {
     const k = (e) => {
       if (e.key === "Delete" && selectedNoteId) {
@@ -124,7 +119,7 @@ const TimelineComposer = ({
     return () => window.removeEventListener("keydown", k);
   }, [selectedNoteId]);
 
-  // Drag note
+  // Drag horizontally
   const handleDrag = (e, note) => {
     const startX = e.clientX;
     const startBeat = note.time;
@@ -135,92 +130,11 @@ const TimelineComposer = ({
 
       setNotes((prev) =>
         prev.map((n) =>
-          n.id === note.id ? { ...n, time: Math.max(0, startBeat + beatDelta) } : n
+          n.id === note.id
+            ? { ...n, time: Math.max(0, startBeat + beatDelta) }
+            : n
         )
       );
-    };
-
-    const up = () => {
-      window.removeEventListener("mousemove", move);
-      window.removeEventListener("mouseup", up);
-    };
-
-    window.addEventListener("mousemove", move);
-    window.addEventListener("mouseup", up);
-  };
-
-  // Drag vertical (ALT)
-  const handleStringDrag = (e, note) => {
-    const startY = e.clientY;
-    const startString = note.string;
-
-    const move = (ev) => {
-      const dy = ev.clientY - startY;
-      const sDelta = Math.round(dy / STRING_HEIGHT);
-      const newString = Math.min(5, Math.max(0, startString + sDelta));
-
-      setNotes((prev) =>
-        prev.map((n) =>
-          n.id === note.id ? { ...n, string: newString } : n
-        )
-      );
-    };
-
-    const up = () => {
-      window.removeEventListener("mousemove", move);
-      window.removeEventListener("mouseup", up);
-    };
-
-    window.addEventListener("mousemove", move);
-    window.addEventListener("mouseup", up);
-  };
-
-  // Resize note duration
-  const handleResize = (e, note) => {
-    e.stopPropagation();
-    const startX = e.clientX;
-    const startDur = note.duration;
-
-    const move = (ev) => {
-      const dx = ev.clientX - startX;
-      const durDelta = Math.round(dx / BEAT_WIDTH);
-      const newDur = Math.max(1, startDur + durDelta);
-
-      setNotes((prev) =>
-        prev.map((n) =>
-          n.id === note.id ? { ...n, duration: newDur } : n
-        )
-      );
-    };
-
-    const up = () => {
-      window.removeEventListener("mousemove", move);
-      window.removeEventListener("mouseup", up);
-    };
-
-    window.addEventListener("mousemove", move);
-    window.addEventListener("mouseup", up);
-  };
-
-  // Drag loop handles
-  const handleLoopHandleDrag = (e, type) => {
-    const startX = e.clientX;
-
-    const move = (ev) => {
-      const dx = ev.clientX - startX;
-      const beatDelta = Math.round(dx / BEAT_WIDTH);
-
-      if (type === "start") {
-        onLoopChange({
-          start: Math.max(0, loopStartBeat + beatDelta),
-          end: loopEndBeat
-        });
-      } else {
-        onLoopChange({
-          start: loopStartBeat,
-          end: Math.max(loopStartBeat + 1, loopEndBeat + beatDelta)
-        });
-      }
     };
 
     const up = () => {
@@ -243,58 +157,10 @@ const TimelineComposer = ({
         <BeatGridLine key={beat} style={{ left: beat * BEAT_WIDTH }} />
       ))}
 
-      {/* Loop region background */}
-      {loopEndBeat > loopStartBeat && (
-        <div
-          style={{
-            position: "absolute",
-            top: 0,
-            height: STRING_HEIGHT * NUM_STRINGS,
-            left: loopStartBeat * BEAT_WIDTH,
-            width: (loopEndBeat - loopStartBeat) * BEAT_WIDTH,
-            background: "rgba(0,255,0,0.15)",
-            pointerEvents: "none",
-            zIndex: 0
-          }}
-        />
-      )}
-
-      {/* Loop handles */}
-      <div
-        onMouseDown={(e) => handleLoopHandleDrag(e, "start")}
-        style={{
-          position: "absolute",
-          top: 0,
-          left: loopStartBeat * BEAT_WIDTH - 4,
-          width: 8,
-          height: STRING_HEIGHT * NUM_STRINGS,
-          background: "rgba(0,255,0,0.4)",
-          cursor: "ew-resize",
-          zIndex: 15
-        }}
-      />
-      <div
-        onMouseDown={(e) => handleLoopHandleDrag(e, "end")}
-        style={{
-          position: "absolute",
-          top: 0,
-          left: loopEndBeat * BEAT_WIDTH - 4,
-          width: 8,
-          height: STRING_HEIGHT * NUM_STRINGS,
-          background: "rgba(0,255,0,0.4)",
-          cursor: "ew-resize",
-          zIndex: 15
-        }}
-      />
-
-      {/* Playhead */}
       <CursorLine style={{ left: externalCursorBeat * BEAT_WIDTH }} />
 
       {Array.from({ length: NUM_STRINGS }).map((_, s) => (
-        <StringLine
-          key={s}
-          style={{ top: s * STRING_HEIGHT }}
-        >
+        <StringLine key={s} style={{ top: s * STRING_HEIGHT }}>
           {["E", "B", "G", "D", "A", "E"][s]}
         </StringLine>
       ))}
@@ -306,32 +172,17 @@ const TimelineComposer = ({
           onClick={(e) => {
             e.stopPropagation();
             setSelectedNoteId(note.id);
-            onPlayNote(note);
+            playNote(note);
           }}
           onDoubleClick={() => deleteNote(note.id)}
-          onMouseDown={(e) => {
-            if (e.altKey) handleStringDrag(e, note);
-            else handleDrag(e, note);
-          }}
+          onMouseDown={(e) => handleDrag(e, note)}
           style={{
             top: note.string * STRING_HEIGHT + 6,
             left: note.time * BEAT_WIDTH + 2,
-            width: note.duration * BEAT_WIDTH - 4
+            width: note.duration * BEAT_WIDTH - 4,
           }}
         >
           {note.fret}
-
-          <div
-            onMouseDown={(e) => handleResize(e, note)}
-            style={{
-              width: 8,
-              height: "100%",
-              position: "absolute",
-              right: 0,
-              top: 0,
-              cursor: "ew-resize"
-            }}
-          />
         </NoteBlock>
       ))}
     </TimelineWrapper>
