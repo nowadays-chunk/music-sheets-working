@@ -272,7 +272,7 @@ const FretboardControls = ({
             selected={selectedShape === shape}
             onClick={() => onElementChange(shape, "shape")}
           >
-            {shape} {selectedShape === shape ? 'true' : ''}
+            {shape}
           </OptionButton>
         ))}
       </Box>

@@ -225,7 +225,7 @@ const MusicApp = (props) => {
           selectedKey={selectedFretboard.keySettings[selectedFretboard.generalSettings.choice]}
           selectedScale={selectedFretboard.scaleSettings.scale}
           selectedChord={selectedFretboard.chordSettings.chord}
-          selectedShape={selectedFretboard.chordSettings.shape}
+          selectedShape={selectedFretboard[selectedFretboard.generalSettings.choice + 'Settings'].shape}
           selectedMode={selectedFretboard.modeSettings.mode}
           onElementChange={onElementChange}
           scaleModes={selectedFretboard.scaleSettings.scale ? guitar.scales[selectedFretboard.scaleSettings.scale].modes : []}
@@ -273,4 +273,4 @@ const mapDispatchToProps = {
 export default connect(
   mapStateToProps,
   mapDispatchToProps
-)(withFretboardState(withChordProgression(MusicApp)));
+)(withFretboardState(MusicApp));
