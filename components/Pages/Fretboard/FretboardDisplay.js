@@ -327,7 +327,7 @@ FretboardDisplay.propTypes = {
   boards: PropTypes.array,
   handleFretboardSelect: PropTypes.func.isRequired,
   onElementChange: PropTypes.func.isRequired,
-  onNoteClick: PropTypes.func.isRequired,
+  onNoteClick: PropTypes.func,
   selectedFretboard: PropTypes.object.isRequired,
 };
 

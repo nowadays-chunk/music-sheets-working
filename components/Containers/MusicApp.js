@@ -222,13 +222,13 @@ const MusicApp = (props) => {
         <FretboardControls
           handleChoiceChange={handleChoiceChange}
           onCleanFretboard={cleanFretboard}
-          selectedKey={selectedFretboard.keySettings.key}
+          selectedKey={selectedFretboard.keySettings[selectedFretboard.generalSettings.choice]}
           selectedScale={selectedFretboard.scaleSettings.scale}
           selectedChord={selectedFretboard.chordSettings.chord}
           selectedShape={selectedFretboard.chordSettings.shape}
           selectedMode={selectedFretboard.modeSettings.mode}
           onElementChange={onElementChange}
-          scaleModes={[]}
+          scaleModes={selectedFretboard.scaleSettings.scale ? guitar.scales[selectedFretboard.scaleSettings.scale].modes : []}
           arppegiosNames={Object.keys(guitar.arppegios)}
           choice={selectedFretboard.generalSettings.choice}
         />

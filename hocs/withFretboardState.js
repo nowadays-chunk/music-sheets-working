@@ -53,8 +53,6 @@ const withFretboardState = (WrappedComponent) => {
       const choice = generalSettings.choice;
       if (isNaN(keySettings[choice])) return;
 
-      console.log("Choice ", choice);
-
       let notes = [];
       let intervals = [];
       const shape = selectedFretboard[choice + 'Settings'].shape;
@@ -326,9 +324,6 @@ const withFretboardState = (WrappedComponent) => {
       const formula = guitar.arppegios[arppegio]?.formula;
       const keyIndex = parseInt(selectedFretboard.keySettings.arppegio);
 
-      console.log("arppegio", selectedFretboard.keySettings.arppegio)
-
-      console.log("key Index ", keyIndex)
       if (!formula || isNaN(keyIndex)) return [];
 
       let currentIndex = keyIndex;
@@ -541,6 +536,9 @@ const withFretboardState = (WrappedComponent) => {
       const propertiesUpdate = getPropertiesUpdate(element, value, newElement);
       dispatchPropertiesUpdate(propertiesUpdate);
     };
+
+
+    console.log("withFetboardState - selectedFretboard:", selectedFretboard);
 
     return (
       <WrappedComponent
