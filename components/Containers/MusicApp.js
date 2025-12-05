@@ -1,30 +1,44 @@
-import { IconButton } from '@mui/material';
-import { styled } from '@mui/system';
-import { useCallback, useEffect } from 'react';
-import AddCircleOutlineIcon from '@mui/icons-material/AddCircleOutline';
-import FretboardControls from '../Pages/Fretboard/FretboardControls';
-import Progressor from '../UpComingPages/Page.ChordProgressionsComposer/OldVersion.Trialed.NotSucceeded/Progressor';
-import CircleOfFifths from '../Pages/CircleOfFifths/CircleOfFifths';
-import FretboardDisplay from '../Pages/Fretboard/FretboardDisplay';
-import ChordComposer from '../Pages/Composer/ChordComposer';
-import withFretboardState from '../../hocs/withFretboardState';
-import withChordProgression from '../../hocs/withChordProgression';
-import withPlayback from '../../hocs/withPlayback';
-import { connect } from 'react-redux';
-import { addFretboard, updateStateProperty, setProgression, setProgressionKey } from '../../redux/actions';
-import guitar from '../../config/guitar';
-import SongsSelector from '../Pages/LearnSongs/SongsSelector';
-import { useDispatch } from 'react-redux';
-import Meta from '../Partials/Head';
-import { GoogleTagManager } from '@next/third-parties/google';
+// MusicApp.jsx
+import { IconButton } from "@mui/material";
+import { styled } from "@mui/system";
+import { useEffect, useCallback, useState, useRef } from "react";
+import AddCircleOutlineIcon from "@mui/icons-material/AddCircleOutline";
+import { useScore } from "@/core/editor/ScoreContext";
 
-const Root = styled('div')({
-  display: 'flex',
-  flexDirection: 'column',
-  margin: '0 auto',
-  width: '80%', // Default width for mobile and tablet
-  '@media (min-width: 1024px)': {
-    width: '65%', // Adjust the width for desktop (1024px and above)
+import FretboardControls from "../Pages/Fretboard/FretboardControls";
+import CircleOfFifths from "../Pages/CircleOfFifths/CircleOfFifths";
+import FretboardDisplay from "../Pages/Fretboard/FretboardDisplay";
+import ChordComposer from "../Pages/Composer/ChordComposer";
+import SongsSelector from "../Pages/LearnSongs/SongsSelector";
+
+import TimelineComposer from "../Pages/Composer/TimelineComposer";
+import ScoreRenderer from "../Pages/Composer/ScoreRenderer";
+
+import withFretboardState from "../../hocs/withFretboardState";
+import withChordProgression from "../../hocs/withChordProgression";
+
+import { connect, useDispatch } from "react-redux";
+import {
+  addFretboard,
+  updateStateProperty,
+  setProgression,
+  setProgressionKey,
+} from "../../redux/actions";
+
+import AppShell from "@/ui/app/AppShell";
+
+import useMidiEngine from "../Pages/Composer/useMidiEngine";
+
+import guitar from "../../config/guitar";
+import Meta from "../Partials/Head";
+
+const Root = styled("div")({
+  display: "flex",
+  flexDirection: "column",
+  margin: "0 auto",
+  width: "80%",
+  "@media (min-width: 1024px)": {
+    width: "65%",
   },
 });
 
@@ -78,6 +92,10 @@ const MusicApp = (props) => {
   } = props;
 
 
+  const { addNoteFromFretboard } = useScore();
+
+  // incoming note from fretboard
+  const [incomingNote, setIncomingNote] = useState(null);
 
   const updateBoardsCallback = useCallback(() => {
     if (selectedFretboard?.id) {
@@ -202,75 +220,46 @@ const MusicApp = (props) => {
             boards={boards}
             handleFretboardSelect={handleFretboardSelect}
             onElementChange={onElementChange}
-            onNoteClick={onNoteClick}
-            visualizerModalIndex={mode}
+            onNoteClick={(noteObj) => {
+              addNoteFromFretboard(noteObj);
+            }}
+            visualizerModalIndex={selectedFretboard.modeSettings.mode}
           />
         </FretboardContainer>
       )}
-      <div>
-        <section className="controls">
-          {showFretboardControls && (
-            <FretboardControls
-              playSelectedNotes={playSelectedNotes}
-              handleChoiceChange={handleChoiceChange}
-              scaleModes={scaleModes}
-              arppegiosNames={Object.keys(guitar.arppegios)}
-              choice={choice}
-              onCleanFretboard={cleanFretboard}
-              selectedKey={isNaN(selectedKey) ? '' : selectedKey}
-              onCopyLink={() => console.log('onCopyLink')}
-              selectedMode={mode || ''}
-              selectedScale={selectedScale || ''}
-              selectedChord={selectedChord || ''}
-              selectedShape={selectedShape || ''}
-              selectedArppegio={selectedArppegio}
-              selectedFret={fret}
-              addChordToProgression={addChordToProgression}
-              saveProgression={saveProgression}
-              playProgression={playProgression}
-              progressions={progressions.progression}
-              onElementChange={onElementChange}
-            />
-          )}
-        </section>
-        {showCircleOfFifths && (
-          <CircleOfFifths
-            tone={circleData.tone}
-            onElementChange={onElementChange}
-            selectedFretboardIndex={selectedFretboardIndex}
-            quality={circleData.degree}
-          />
-        )}
-        {showChordComposer && (
-          <ChordComposer
-            addChordToProgression={addChordToProgression}
-            playProgression={playProgression}
-            saveProgression={saveProgression}
-            onElementChange={onElementChange}
-            selectedArppegio={selectedArppegio}
-            selectedKey={selectedKey}
-          />
-        )}
-        {showProgressor && (
-          <Progressor
-            className={ChordPressionDisplay}
-            progression={progressions.progression}
-            setProgression={setProgression}
-            playProgression={playProgression}
-            setProgressionKey={setProgressionKey}
-            selectedKey={progressions.key}
-            getScaleNotes={getScaleNotes}
-          />
-        )}
-        {showSongsSelector && (
-          <SongsSelector
-            playProgression={playProgression}
-            getScaleNotes={getScaleNotes}
-            onElementChange={onElementChange}
-            playSingleChord={playSingleChord}
-          />
-        )}
-      </div>
+
+      {showFretboardControls && (
+        <FretboardControls
+          handleChoiceChange={handleChoiceChange}
+          onCleanFretboard={cleanFretboard}
+          selectedKey={selectedFretboard.keySettings[selectedFretboard.generalSettings.choice]}
+          selectedScale={selectedFretboard.scaleSettings.scale}
+          selectedChord={selectedFretboard.chordSettings.chord}
+          selectedShape={selectedFretboard[selectedFretboard.generalSettings.choice + 'Settings'].shape}
+          selectedMode={selectedFretboard.modeSettings.mode}
+          onElementChange={onElementChange}
+          scaleModes={selectedFretboard.scaleSettings.scale ? guitar.scales[selectedFretboard.scaleSettings.scale].modes : []}
+          arppegiosNames={Object.keys(guitar.arppegios)}
+          choice={selectedFretboard.generalSettings.choice}
+        />
+      )}
+
+      {showCircleOfFifths && (
+        <CircleOfFifths
+          tone={"C"}
+          onElementChange={onElementChange}
+          selectedFretboardIndex={selectedFretboardIndex}
+          quality={"Major"}
+        />
+      )}
+
+      {showChordComposer && (
+        <ChordComposer
+          onElementChange={onElementChange}
+          selectedKey={selectedFretboard.keySettings.key}
+          selectedArppegio={selectedFretboard.arppegioSettings.arppegio}
+        />
+      )}
     </Root>
   );
 
@@ -297,4 +286,4 @@ const mapDispatchToProps = {
 export default connect(
   mapStateToProps,
   mapDispatchToProps
-)(withFretboardState(withChordProgression(withPlayback(MusicApp))));
+)(withFretboardState(MusicApp));

@@ -5,6 +5,7 @@ import ArticleCard from '../Listing/ArticleCard'; // Adjust the path if needed
 import Meta from '../Partials/Head';
 import { Typography } from '@mui/material';
 import { newFretboard } from '../../redux/actions.js';
+import { ScoreProvider } from "@/core/editor/ScoreContext";
 
 const Root = styled('div')({
   display: 'flex',
@@ -12,7 +13,7 @@ const Root = styled('div')({
   alignItems: 'center',
 });
 
-const ArppegioComponent = ({ board, keyIndex, quality, shape, title}) => {
+const ArppegioComponent = ({ board, keyIndex, quality, shape, title }) => {
 
   return (
     <Root>
@@ -20,80 +21,84 @@ const ArppegioComponent = ({ board, keyIndex, quality, shape, title}) => {
       <Typography variant="h6">
         {title}
       </Typography>
-      <MusicApp
-        display="arppegio"
-        board={board}
-        keyIndex={keyIndex}
-        quality={quality}
-        shape={shape}
-        
-        showFretboardControls={false}
-        showCircleOfFifths={false}
-        showFretboard={true}
-        showChordComposer={false}
-        showProgressor={false}
-        showSongsSelector={false}
-      />
-      <Typography variant="h6">
-        Exercice : Guess the arpeggio without looking at the fretboard #1
-      </Typography>
-      
-      <MusicApp
-        display="arppegio"
-        board={"empty"}
-        keyIndex={-1}
-        quality={''}
-        shape={''}
-        
-        showFretboardControls={false}
-        showCircleOfFifths={false}
-        showFretboard={true}
-        showChordComposer={false}
-        showProgressor={false}
-        showSongsSelector={false}
-      />
-            <MusicApp
-        display="arppegio"
-        board={"empty"}
-        keyIndex={-1}
-        quality={''}
-        shape={''}
-        
-        showFretboardControls={false}
-        showCircleOfFifths={false}
-        showFretboard={true}
-        showChordComposer={false}
-        showProgressor={false}
-        showSongsSelector={false}
-      />
-            <MusicApp
-        display="arppegio"
-        board={"empty"}
-        keyIndex={-1}
-        quality={''}
-        shape={''}
-        
-        showFretboardControls={false}
-        showCircleOfFifths={false}
-        showFretboard={true}
-        showChordComposer={false}
-        showProgressor={false}
-        showSongsSelector={false}
-      />
-            <MusicApp
-        display="arppegio"
-        board={"empty"}
-        keyIndex={-1}
-        quality={''}
-        shape={''}
-        
-        showFretboardControls={false}
-        showCircleOfFifths={false}
-        showFretboard={true}
-        showChordComposer={false}
-        showProgressor={false}
-        showSongsSelector={false}
-      />
+      <ScoreProvider>
+
+        <MusicApp
+          display="arppegio"
+          board={board}
+          keyIndex={keyIndex}
+          quality={quality}
+          shape={shape}
+
+          showFretboardControls={false}
+          showCircleOfFifths={false}
+          showFretboard={true}
+          showChordComposer={false}
+          showProgressor={false}
+          showSongsSelector={false}
+        />
+        <Typography variant="h6">
+          Exercice : Guess the arpeggio without looking at the fretboard #1
+        </Typography>
+
+        <MusicApp
+          display="arppegio"
+          board={"empty"}
+          keyIndex={-1}
+          quality={''}
+          shape={''}
+
+          showFretboardControls={false}
+          showCircleOfFifths={false}
+          showFretboard={true}
+          showChordComposer={false}
+          showProgressor={false}
+          showSongsSelector={false}
+        />
+        <MusicApp
+          display="arppegio"
+          board={"empty"}
+          keyIndex={-1}
+          quality={''}
+          shape={''}
+
+          showFretboardControls={false}
+          showCircleOfFifths={false}
+          showFretboard={true}
+          showChordComposer={false}
+          showProgressor={false}
+          showSongsSelector={false}
+        />
+        <MusicApp
+          display="arppegio"
+          board={"empty"}
+          keyIndex={-1}
+          quality={''}
+          shape={''}
+
+          showFretboardControls={false}
+          showCircleOfFifths={false}
+          showFretboard={true}
+          showChordComposer={false}
+          showProgressor={false}
+          showSongsSelector={false}
+        />
+        <MusicApp
+          display="arppegio"
+          board={"empty"}
+          keyIndex={-1}
+          quality={''}
+          shape={''}
+
+          showFretboardControls={false}
+          showCircleOfFifths={false}
+          showFretboard={true}
+          showChordComposer={false}
+          showProgressor={false}
+          showSongsSelector={false}
+        />
+      </ScoreProvider>
+
     </Root>
   );
 };

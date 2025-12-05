@@ -2,6 +2,7 @@ import React from 'react';
 import MusicApp from '../components/Containers/MusicApp';
 import Meta from '../components/Partials/Head';
 import ArticleCard from '../components/Listing/ArticleCard';
+import { ScoreProvider } from "@/core/editor/ScoreContext";
 
 const firstPage = `# Presentation
 
@@ -47,6 +48,7 @@ const PlayAndVisualize = () => {
         <Meta 
           title="Play And Visualize"
           description="Play And Visualize Chords, Scales And Arppegios In A Complete Reference Of Guitar Music Sheets."></Meta>
+        <ScoreProvider>
         <MusicApp 
             board="home"
             showFretboardControls={true} 
@@ -55,6 +57,7 @@ const PlayAndVisualize = () => {
             showChordComposer={false} 
             showProgressor={false} 
             showSongsSelector={false} />
+        </ ScoreProvider >
       </div>
   );
 };

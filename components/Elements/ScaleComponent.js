@@ -5,6 +5,7 @@ import { styled } from '@mui/system';
 import ArticleCard from '../Listing/ArticleCard'; // Adjust the path if needed
 import Meta from '../Partials/Head';
 import { Typography } from '@mui/material';
+import { ScoreProvider } from "@/core/editor/ScoreContext";
 
 const Root = styled('div')({
   display: 'flex',
@@ -22,79 +23,82 @@ const ScaleComponent = ({ board, keyIndex, scale, modeIndex, shape, title }) => 
       <Typography variant="h6">
         {title}
       </Typography>
-      <MusicApp
-        display={"scale"}
-        keyIndex={keyIndex}
-        scale={scale}
-        board={board}
-        modeIndex={modeIndex}
-        shape={shape}
-        showFretboardControls={false}
-        showCircleOfFifths={false}
-        showFretboard={true}
-        showChordComposer={false}
-        showProgressor={false}
-        showSongsSelector={false}
-      />
-      <Typography variant="h6">
-        Exercice : Guess the scale without looking at the fretboard #1
-      </Typography>
-      <MusicApp
-        display="scale"
-        board={"empty"}
-        keyIndex={-1}
-        quality={''}
-        shape={''}
+      <ScoreProvider>
 
-        showFretboardControls={false}
-        showCircleOfFifths={false}
-        showFretboard={true}
-        showChordComposer={false}
-        showProgressor={false}
-        showSongsSelector={false}
-      />
-      <MusicApp
-        display="arppegio"
-        board={"empty"}
-        keyIndex={-1}
-        quality={''}
-        shape={''}
+        <MusicApp
+          display={"scale"}
+          keyIndex={keyIndex}
+          scale={scale}
+          board={board}
+          modeIndex={modeIndex}
+          shape={shape}
+          showFretboardControls={false}
+          showCircleOfFifths={false}
+          showFretboard={true}
+          showChordComposer={false}
+          showProgressor={false}
+          showSongsSelector={false}
+        />
+        <Typography variant="h6">
+          Exercice : Guess the scale without looking at the fretboard #1
+        </Typography>
+        <MusicApp
+          display="scale"
+          board={"empty"}
+          keyIndex={-1}
+          quality={''}
+          shape={''}
 
-        showFretboardControls={false}
-        showCircleOfFifths={false}
-        showFretboard={true}
-        showChordComposer={false}
-        showProgressor={false}
-        showSongsSelector={false}
-      />
-      <MusicApp
-        display="scale"
-        board={"empty"}
-        keyIndex={-1}
-        quality={''}
-        shape={''}
+          showFretboardControls={false}
+          showCircleOfFifths={false}
+          showFretboard={true}
+          showChordComposer={false}
+          showProgressor={false}
+          showSongsSelector={false}
+        />
+        <MusicApp
+          display="arppegio"
+          board={"empty"}
+          keyIndex={-1}
+          quality={''}
+          shape={''}
 
-        showFretboardControls={false}
-        showCircleOfFifths={false}
-        showFretboard={true}
-        showChordComposer={false}
-        showProgressor={false}
-        showSongsSelector={false}
-      />
-      <MusicApp
-        display="scale"
-        board={"empty"}
-        keyIndex={-1}
-        quality={''}
-        shape={''}
+          showFretboardControls={false}
+          showCircleOfFifths={false}
+          showFretboard={true}
+          showChordComposer={false}
+          showProgressor={false}
+          showSongsSelector={false}
+        />
+        <MusicApp
+          display="scale"
+          board={"empty"}
+          keyIndex={-1}
+          quality={''}
+          shape={''}
 
-        showFretboardControls={false}
-        showCircleOfFifths={false}
-        showFretboard={true}
-        showChordComposer={false}
-        showProgressor={false}
-        showSongsSelector={false}
-      />
+          showFretboardControls={false}
+          showCircleOfFifths={false}
+          showFretboard={true}
+          showChordComposer={false}
+          showProgressor={false}
+          showSongsSelector={false}
+        />
+        <MusicApp
+          display="scale"
+          board={"empty"}
+          keyIndex={-1}
+          quality={''}
+          shape={''}
+
+          showFretboardControls={false}
+          showCircleOfFifths={false}
+          showFretboard={true}
+          showChordComposer={false}
+          showProgressor={false}
+          showSongsSelector={false}
+        />
+      </ScoreProvider>
     </Root>
   );
 };

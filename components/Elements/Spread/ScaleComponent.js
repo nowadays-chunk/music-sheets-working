@@ -4,6 +4,7 @@ import MusicApp from '../../Containers/MusicApp'; // Adjust the path if needed
 import { styled } from '@mui/system';
 import Meta from '../../Partials/Head';
 import { Typography } from '@mui/material';
+import { ScoreProvider } from "@/core/editor/ScoreContext";
 
 const Root = styled('div')({
   display: 'flex',
@@ -22,25 +23,27 @@ const ScaleComponent = ( props ) => {
       <Typography variant="h6">
         {title}
       </Typography>
-      {
-        boards.map((el, index) => {
-            return <MusicApp
-                key={index}
-                display={"scale"}
-                board={el.board}
-                keyIndex={el.keyIndex}
-                scale={el.scale}
-                modeIndex={el.modeIndex}
-                shape={el.shape}
-                showFretboardControls={false}
-                showCircleOfFifths={false}
-                showFretboard={true}
-                showChordComposer={false}
-                showProgressor={false}
-                showSongsSelector={false}
-            />
-        })
-      }
+      <ScoreProvider>
+        {
+          boards.map((el, index) => {
+              return <MusicApp
+                  key={index}
+                  display={"scale"}
+                  board={el.board}
+                  keyIndex={el.keyIndex}
+                  scale={el.scale}
+                  modeIndex={el.modeIndex}
+                  shape={el.shape}
+                  showFretboardControls={false}
+                  showCircleOfFifths={false}
+                  showFretboard={true}
+                  showChordComposer={false}
+                  showProgressor={false}
+                  showSongsSelector={false}
+              />
+          })
+        }
+      </ScoreProvider>
     </Root>
   );
 };

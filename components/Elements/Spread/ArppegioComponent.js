@@ -5,6 +5,7 @@ import { styled } from '@mui/system';
 import ArticleCard from '../../Listing/ArticleCard'; // Adjust the path if needed
 import Meta from '../../Partials/Head';
 import { Typography } from '@mui/material';
+import { ScoreProvider } from "@/core/editor/ScoreContext";
 
 const Root = styled('div')({
   display: 'flex',
@@ -17,6 +18,7 @@ const ScaleComponent = ( props ) => {
 
     return (
     <Root>
+      <ScoreProvider>
       <Meta 
         title={title} 
         description="Explore my complete references for musical keys, scales, modes, and arpeggios. Find detailed information and resources for all keys, sharps, scales, modes, and arpeggios to enhance your musical knowledge."></Meta>
@@ -42,6 +44,7 @@ const ScaleComponent = ( props ) => {
                     />
             })
         }
+      </ScoreProvider>
     </Root>
   );
 };

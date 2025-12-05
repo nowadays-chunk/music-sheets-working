@@ -5,6 +5,7 @@ import { styled } from '@mui/system';
 import ArticleCard from '../../Listing/ArticleCard'; // Adjust the path if needed
 import Meta from '../../Partials/Head';
 import { Typography } from '@mui/material';
+import { ScoreProvider } from "@/core/editor/ScoreContext";
 
 const Root = styled('div')({
   display: 'flex',
@@ -23,6 +24,7 @@ const ChordComponent = ( props ) => {
       <Typography variant="h6">
         {title}
       </Typography>
+      <ScoreProvider>
         {
             boards.map((el, index) => {
                 return <MusicApp
@@ -42,6 +44,7 @@ const ChordComponent = ( props ) => {
                     />
             })
         }
+      </ScoreProvider>
     </Root>
   );
 };
