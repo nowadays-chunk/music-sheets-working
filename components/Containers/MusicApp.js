@@ -9,13 +9,9 @@ import FretboardControls from "../Pages/Fretboard/FretboardControls";
 import CircleOfFifths from "../Pages/CircleOfFifths/CircleOfFifths";
 import FretboardDisplay from "../Pages/Fretboard/FretboardDisplay";
 import ChordComposer from "../Pages/Composer/ChordComposer";
-import SongsSelector from "../Pages/LearnSongs/SongsSelector";
 
-import TimelineComposer from "../Pages/Composer/TimelineComposer";
-import ScoreRenderer from "../Pages/Composer/ScoreRenderer";
 
 import withFretboardState from "../../hocs/withFretboardState";
-import withChordProgression from "../../hocs/withChordProgression";
 
 import { connect, useDispatch } from "react-redux";
 import {
@@ -25,9 +21,6 @@ import {
   setProgressionKey,
 } from "../../redux/actions";
 
-import AppShell from "@/ui/app/AppShell";
-
-import useMidiEngine from "../Pages/Composer/useMidiEngine";
 
 import guitar from "../../config/guitar";
 import Meta from "../Partials/Head";
