@@ -14,7 +14,7 @@ import {
 } from "recharts";
 
 import { styled } from "@mui/system";
-import guitar from "../config/guitar";
+import guitar from "@/config/guitar";
 
 const COLORS = ["#1976d2", "#9c27b0", "#ff9800", "#4caf50", "#e91e63", "#009688"];
 
