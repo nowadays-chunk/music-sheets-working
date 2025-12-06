@@ -56,7 +56,8 @@ const PlayAndVisualize = () => {
             showFretboard={true} 
             showChordComposer={false} 
             showProgressor={false} 
-            showSongsSelector={false} />
+            showSongsSelector={false} 
+            showStats={true} />
         </ ScoreProvider >
       </div>
   );

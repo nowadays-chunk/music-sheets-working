@@ -24,6 +24,7 @@ import {
 
 import guitar from "../../config/guitar";
 import Meta from "../Partials/Head";
+import Stats from "../Pages/Stats/Stats"
 
 const Root = styled("div")({
   display: "flex",
@@ -73,6 +74,7 @@ const MusicApp = (props) => {
     showSongsSelector,
     showAddMoreFretboardsButton,
     showFretboard,
+    showStats,
     updateBoards,
     keyIndex,
     scale,
@@ -236,6 +238,9 @@ const MusicApp = (props) => {
         />
       )}
 
+      {
+        showStats && <Stats boards={boards} />
+      }
       {showCircleOfFifths && (
         <CircleOfFifths
           tone={"C"}

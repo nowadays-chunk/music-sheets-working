@@ -250,10 +250,10 @@ export default {
       "intervals": ["1", "2", "b3", "4", "5", "b6", "b7"],
       "isModal": false,
       "indexes": [
-        { "start": 0, "end": 4 },  // C shape
-        { "start": 2, "end": 6 },  // A shape
+        { "start": 0, "end": 4 }, // C shape
+        { "start": 2, "end": 6 }, // A shape
         { "start": 5, "end": 9 }, // G shape
-        { "start": 7, "end": 11 },// E shape
+        { "start": 7, "end": 11 }, // E shape
         { "start": 10, "end": 13 } // D shape
       ]
     },
