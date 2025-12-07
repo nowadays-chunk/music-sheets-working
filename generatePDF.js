@@ -33,14 +33,14 @@ function buildPathsByKey() {
                     result[key].push({
                         label: `Scale: ${sc.name} in ${key} (Mode: ${m.name})`,
                         section: "Scales",
-                        href: `/references/scales/${key.replace('#','sharp')}/${scale}/modal/${m.name.toLowerCase().replace(/ /g,'-').replace('#','sharp')}`
+                        href: `/spreading/scales/${key.replace('#','sharp')}/${scale}/modal/${m.name.toLowerCase().replace(/ /g,'-').replace('#','sharp')}`
                     });
                 });
             } else {
                 result[key].push({
                     label: `Scale: ${sc.name} in ${key} (Single)`,
                     section: "Scales",
-                    href: `/references/scales/${key.replace('#','sharp')}/${scale}/single`
+                    href: `/spreading/scales/${key.replace('#','sharp')}/${scale}/single`
                 });
             }
         });

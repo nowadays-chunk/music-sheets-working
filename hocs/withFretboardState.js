@@ -9,6 +9,7 @@ import {
 } from '../redux/actions';
 import { getNoteFromFretboard } from '../redux/helpers';
 import guitar from '../config/guitar';
+import { useRouter } from "next/router";
 
 const defaultTuning = [4, 11, 7, 2, 9, 4];
 
@@ -18,6 +19,7 @@ const withFretboardState = (WrappedComponent) => {
   return (props) => {
     const dispatch = useDispatch();
     const { boards } = props;
+    const router = useRouter();
 
     const [selectedFretboardIndex, setSelectedFretboardIndex] = useState(0);
     const [selectedFretboard, setSelectedFretboard] = useState(
@@ -333,14 +335,14 @@ const withFretboardState = (WrappedComponent) => {
     };
 
     const createNewBoardDisplay = () => {
-      const currentPath = props.history.location.pathname;
+      const currentPath = router.pathname;
       // 12 frets ONLY
       const newBoard = newFretboard(
         6,
-        12,
+        25,
         [4, 7, 2, 9, 11, 4],
         [4, 3, 3, 3, 2, 2],
-        currentPath,
+        'home',
         'scale'
       );
       dispatch(addFretboard(newBoard));

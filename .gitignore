@@ -16,6 +16,9 @@
 /screens
 /pdf-pages
 /pdf
+/covers
+/final
+
 
 # production
 /build

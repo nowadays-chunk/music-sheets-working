@@ -50,6 +50,7 @@ const FretboardControls = ({
   saveProgression,
   playSelectedNotes,
   progression,
+  createNewBoardDisplay
 }) => {
   const keysSharps = guitar.notes.sharps;
 
@@ -290,10 +291,9 @@ const FretboardControls = ({
             fullWidth
             variant="contained"
             color="secondary"
-            onClick={saveProgression}
-            disabled={!progression || progression.length === 0}
+            onClick={createNewBoardDisplay}
           >
-            Save
+            Create Fretboard
           </Button>
         </Grid>
 

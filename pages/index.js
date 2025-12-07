@@ -51,6 +51,7 @@ const PlayAndVisualize = () => {
         <ScoreProvider>
         <MusicApp 
             board="home"
+            showAddMoreFretboardsButton={true}
             showFretboardControls={true} 
             showCircleOfFifths={false} 
             showFretboard={true} 

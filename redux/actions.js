@@ -19,7 +19,7 @@ export function newLayout(numberOfStrings, numberOfFrets, tuning){
 };
 
 
-export function newFretboard(numberOfStrings = 6, numberOfFrets = 22, tuning = [4, 7, 2, 9, 11, 4], baseOctaves = [4, 3, 3, 3, 2, 2], page = "/", choice = 'scale'){
+export function newFretboard(numberOfStrings = 6, numberOfFrets = 25, tuning = [4, 7, 2, 9, 11, 4], baseOctaves = [4, 3, 3, 3, 2, 2], page = "/", choice = 'scale'){
   return {
     id: uuidv4(), // Unique identifier for each fretboard
     keySettings: {
