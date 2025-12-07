@@ -105,7 +105,6 @@ const BarGraph = ({ data }) => (
   </BarChart>
 );
 
-
 /* ----------------------------------------------------------
    COMPONENT
 ---------------------------------------------------------- */
@@ -149,7 +148,6 @@ export default function Stats({
     boardsAll = [...chords, ...arpeggios, ...scales];
   }
 
-
   /* --------------------------------------------------------
      SAFE DYNAMIC FRETBOARD ACCESS
   -------------------------------------------------------- */
@@ -165,9 +163,7 @@ export default function Stats({
 
   const getStatsFb = (board) => board.fretboard;
 
-
   const fbSelector = isHomepage ? getHomepageFb : getStatsFb;
-
 
   /* --------------------------------------------------------
      ANALYTICS COMPUTATION
@@ -177,13 +173,13 @@ export default function Stats({
     () => extractNotesFromItems(boardsAll, fbSelector),
     [boardsAll, isHomepage]
   );
+
   const allBoardsCount = count(allBoardsNotes);
 
   const noteFrequencyChart = Object.entries(allBoardsCount).map(([name, value]) => ({
     name,
     value
   }));
-
 
   /* --------------------------------------------------------
      CHORDS
@@ -192,10 +188,10 @@ export default function Stats({
     () => extractNotesFromItems(boardsChord, fbSelector),
     [boardsChord, isHomepage]
   );
+
   const chordNoteChart = buildPie(count(chordNotes));
   const chordShapesChart = countShapes(boardsChord);
   const chordKeysChart = countKeys(boardsChord);
-
 
   /* --------------------------------------------------------
      ARPEGGIOS
@@ -204,10 +200,10 @@ export default function Stats({
     () => extractNotesFromItems(boardsArp, fbSelector),
     [boardsArp]
   );
+
   const arpNoteChart = buildPie(count(arpNotes));
   const arpShapesChart = countShapes(boardsArp);
   const arpKeysChart = countKeys(boardsArp);
-
 
   /* --------------------------------------------------------
      SCALES
@@ -216,10 +212,10 @@ export default function Stats({
     () => extractNotesFromItems(boardsScale, fbSelector),
     [boardsScale]
   );
+
   const scaleNoteChart = buildPie(count(scaleNotes));
   const scaleShapesChart = countShapes(boardsScale);
   const scaleKeysChart = countKeys(boardsScale);
-
 
   /* --------------------------------------------------------
      RENDER
@@ -244,7 +240,6 @@ export default function Stats({
         ))}
       </Box>
 
-
       {/* ------------------ ALL ------------------ */}
       {tab === 0 && (
         <Grid container spacing={3}>
@@ -265,7 +260,6 @@ export default function Stats({
 
         </Grid>
       )}
-
 
       {/* ------------------ CHORDS ------------------ */}
       {tab === 1 && (
@@ -294,7 +288,6 @@ export default function Stats({
 
         </Grid>
       )}
-
 
       {/* ------------------ ARPEGGIOS ------------------ */}
       {tab === 2 && (

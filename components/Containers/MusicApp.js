@@ -64,28 +64,61 @@ const SideDrawer = styled("div")(({ open }) => ({
   position: "fixed",
   top: HEADER_HEIGHT_DESKTOP,
   right: 0,
-  minHeight: `calc(100vh - ${HEADER_HEIGHT_DESKTOP}px)`,
+  height: `calc(100vh - ${HEADER_HEIGHT_DESKTOP}px)`,
+  paddingLeft: 30,
+  paddingRight: 30,
+  paddingBottom: 30,
   width: open ? 600 : 80,
   minWidth: open ? 600 : 80,
+
   transition: "width 0.3s ease",
   backgroundColor: "#f5f5f5",
   borderRight: "1px solid #ddd",
+  boxSizing: "border-box",
+  zIndex: 2000,
+
+  // 🔥 IMPORTANT FIXES FOR SCROLLING
   display: "flex",
   flexDirection: "column",
-  padding: 23,
-  boxSizing: "border-box",
-  zIndex: 2000,            // drawer ALWAYS stays above content
-  overflow: "hidden",
+  overflowY: "auto",
+  overflowX: "hidden",
+  flexShrink: 1,
+  minHeight: 0, // ⭐ REQUIRED (otherwise flexbox blocks scroll)
+
+  // Smooth scrolling
+  scrollBehavior: "smooth",
+
+  // Custom scrollbar
+  "&::-webkit-scrollbar": {
+    width: "10px",
+  },
+  "&::-webkit-scrollbar-track": {
+    background: "#ededed",
+    borderRadius: "10px",
+  },
+  "&::-webkit-scrollbar-thumb": {
+    background: "#cfcfcf",
+    borderRadius: "10px",
+    border: "2px solid #ededed",
+  },
+  "&::-webkit-scrollbar-thumb:hover": {
+    background: "#b5b5b5",
+  },
+
+  scrollbarColor: "#cfcfcf #ededed",
+  scrollbarWidth: "thin",
+
   "@media (max-width: 1200px) and (min-width: 900px)": {
     top: HEADER_HEIGHT_MOBILE,
-    minHeight: `calc(100vh - ${HEADER_HEIGHT_MOBILE}px)`,
-  }
+    height: `calc(100vh - ${HEADER_HEIGHT_MOBILE}px)`,
+  },
 }));
+
 
 const DrawerToggle = styled(IconButton)({
   alignSelf: "flex-start",
   marginBottom: 10,
-  marginRight: 10,
+  marginTop: 20,
   width: 36,
   height: 36,
 });
@@ -100,6 +133,16 @@ const DrawerContent = styled("div")(({ open }) => ({
   pointerEvents: open ? "auto" : "none",
   transition: "opacity 0.2s ease",
 }));
+
+const CircleIconBox = styled("div")({
+  width: 60,
+  height: 29,
+  borderRadius: "50%",
+  border: "2px solid #463f4bff",
+  display: "flex",
+  alignItems: "center",
+  justifyContent: "center",
+});
 
 const MainInner = styled("div")({
   width: "100%",
@@ -125,7 +168,7 @@ const FretboardContainer = styled("div")({
 
 const MusicApp = (props) => {
   const dispatch = useDispatch();
-  const [drawerOpen, setDrawerOpen] = useState(true);
+  const [drawerOpen, setDrawerOpen] = useState(false);
 
   const {
     boards,
@@ -275,7 +318,9 @@ const MusicApp = (props) => {
       {/* FIXED DRAWER ALWAYS ON TOP */}
       <SideDrawer open={drawerOpen}>
         <DrawerToggle onClick={() => setDrawerOpen(!drawerOpen)}>
-          {drawerOpen ? <ChevronRightIcon /> : <ChevronLeftIcon />}
+          <CircleIconBox>
+              {drawerOpen ? <ChevronRightIcon /> : <ChevronLeftIcon />}
+          </ CircleIconBox>
         </DrawerToggle>
 
         <DrawerContent open={drawerOpen}>
