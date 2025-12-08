@@ -81,6 +81,7 @@ const MainContent = styled("div")(({ drawerOpen }) => ({
 const MainInner = styled("div")({
   width: "100%",
   maxWidth: "1400px",
+  padding: 0,
 });
 
 // ----------------------------------
@@ -138,7 +139,7 @@ const DrawerToggle = styled(IconButton)(({ open }) => ({
   alignItems: "center",
   justifyContent: "center",
   padding: 6,
-
+  marginTop: 10,
   "&:hover": {
     background: "#f0f0f0",
   },
@@ -172,7 +173,7 @@ const DrawerContent = styled("div")(({ open }) => ({
 // ----------------------------------------------------------------------------
 // Root / Fretboard Container
 // ----------------------------------------------------------------------------
-const Root = styled("div")({ display: "flex", flexDirection: "column", width: "100%" });
+const Root = styled("div")({ display: "flex", padding: 0, flexDirection: "column", width: "100%" });
 const FretboardContainer = styled("div")({ width: "100%", marginTop: 20, marginBottom: 20 });
 
 // ============================================================================

@@ -940,7 +940,7 @@ export default function Stats({
   // RENDER SWITCH
   // ---------------------------------------------------------
   return (
-    <Box sx={{ p: 4 }}>
+    <Box sx={{ p: 0 }}>
       <Typography variant="h4" sx={{ mb: 3 }}>
         🎸 Strum Dot Fun — Analytics Dashboard
       </Typography>
@@ -960,7 +960,7 @@ export default function Stats({
       </Box>
 
       {tab === 0 && (
-        <Grid container spacing={3}>
+        <Grid container spacing={1}>
 
           {/* 1 — Heatmap (Fret Intensity) */}
           <Grid item xs={12}>
@@ -1041,7 +1041,7 @@ export default function Stats({
       )}
 
       {tab === 1 && (
-        <Grid container spacing={3}>
+        <Grid container spacing={1}>
 
           {/* Prepare CHORDS-ONLY dataset *
 
@@ -1124,7 +1124,7 @@ export default function Stats({
       )}
 
       {tab === 2 && (
-        <Grid container spacing={3}>
+        <Grid container spacing={1}>
 
           {/* 1 — Heatmap */}
           <Grid item xs={12}>
@@ -1205,7 +1205,7 @@ export default function Stats({
       )}
 
       {tab === 3 && (
-        <Grid container spacing={3}>
+        <Grid container spacing={1}>
 
           {/* 1 — Heatmap */}
           <Grid item xs={12}>
