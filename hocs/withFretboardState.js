@@ -335,8 +335,6 @@ const withFretboardState = (WrappedComponent) => {
     };
 
     const createNewBoardDisplay = () => {
-      const currentPath = router.pathname;
-      // 12 frets ONLY
       const newBoard = newFretboard(
         6,
         25,
@@ -346,6 +344,7 @@ const withFretboardState = (WrappedComponent) => {
         'scale'
       );
       dispatch(addFretboard(newBoard));
+
     };
 
     const cleanFretboard = () => {

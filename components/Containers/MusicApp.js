@@ -273,7 +273,10 @@ const MusicApp = (props) => {
           <FretboardDisplay
             selectedFretboard={selectedFretboard}
             boards={boards}
-            handleFretboardSelect={handleFretboardSelect}
+            handleFretboardSelect={(fbIndex) => {
+              handleFretboardSelect(fbIndex);
+              setDrawerOpen(!drawerOpen);
+            }}
             onElementChange={onElementChange}
             onNoteClick={(noteObj) => {
               if (selectedFretboard.generalSettings.page === "compose")

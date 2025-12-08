@@ -1,11 +1,14 @@
+// pages/stats.jsx
 import guitar from "@/config/guitar";
 import { processFretboard } from "@/config/fretboardProcessor";
 
 import Stats from "@/components/Pages/Stats/Stats";
 
-// ------------------------------------------------------------
-// SAFELY SERIALIZE ALL OBJECTS (undefined → null)
-// ------------------------------------------------------------
+const FRET_COUNT = 25;
+
+/* ------------------------------------------------------------
+   SAFELY SERIALIZE (keeps your original behavior)
+------------------------------------------------------------ */
 function safeJSON(obj) {
   return JSON.parse(
     JSON.stringify(obj, (key, value) =>
@@ -14,12 +17,128 @@ function safeJSON(obj) {
   );
 }
 
-// ------------------------------------------------------------
-// STATIC GENERATOR
-// ------------------------------------------------------------
+/* ------------------------------------------------------------
+   NEW: USAGE ANALYTICS (only addition)
+------------------------------------------------------------ */
+function computeUsage(allBoards) {
+  const usage = {
+    choices: {},
+    keys: {},
+    shapes: {},
+    modes: {},
+    tunings: {},
+    intervals: {},
+    neckZones: { open: 0, mid: 0, upper: 0, high: 0 },
+    stringUsage: {},
+    shapePositions: {},
+    fretUsage: Array.from({ length: 25 }, (_, f) => ({ fret: f, value: 0 })),
+  };
+
+  allBoards.forEach((board) => {
+    const fb = board.fretboard;
+    if (!Array.isArray(fb)) return;
+
+    const { chord, scale, arppegio, keyIndex, shape, mode } = board;
+
+    /* ------ Choice type ------ */
+    const choice = chord
+      ? "chord"
+      : scale
+      ? "scale"
+      : arppegio
+      ? "arppegio"
+      : "other";
+    usage.choices[choice] = (usage.choices[choice] || 0) + 1;
+
+    /* ------ Keys ------ */
+    const note = guitar.notes.sharps[keyIndex];
+    if (note) usage.keys[note] = (usage.keys[note] || 0) + 1;
+
+    /* ------ Shapes ------ */
+    if (shape) usage.shapes[shape] = (usage.shapes[shape] || 0) + 1;
+
+    /* ------ Modes ------ */
+    if (typeof mode === "number") {
+      const modeName = guitar.scales[scale]?.modes?.[mode];
+      if (modeName) usage.modes[modeName] = (usage.modes[modeName] || 0) + 1;
+    }
+
+    /* ------ Tunings ------ */
+    const tuningStr = (board.tuning || [4,7,2,9,11,4]).join("-");
+    usage.tunings[tuningStr] = (usage.tunings[tuningStr] || 0) + 1;
+
+    /* ------ Walk through fretboard ------ */
+    fb.forEach((string, sIndex) => {
+      string?.forEach((cell, fretIndex) => {
+        if (!cell?.show) return;
+
+        /* String usage */
+        const sKey = `String ${sIndex+1}`;
+        usage.stringUsage[sKey] = (usage.stringUsage[sKey] || 0) + 1;
+
+        /* Fret heat */
+        usage.fretUsage[fretIndex].value++;
+
+        /* Neck zones */
+        if (fretIndex <= 3) usage.neckZones.open++;
+        else if (fretIndex <= 9) usage.neckZones.mid++;
+        else if (fretIndex <= 15) usage.neckZones.upper++;
+        else usage.neckZones.high++;
+
+        /* Intervals */
+        if (cell.interval) {
+          usage.intervals[cell.interval] =
+            (usage.intervals[cell.interval] || 0) + 1;
+        }
+      });
+    });
+
+    /* ------ Shape Positions (min fret) ------ */
+    if (shape) {
+      let minFret = null;
+      fb.forEach((string) =>
+        string?.forEach((cell, fretIndex) => {
+          if (cell?.show) {
+            if (minFret === null || fretIndex < minFret) minFret = fretIndex;
+          }
+        })
+      );
+
+      if (minFret !== null) {
+        if (!usage.shapePositions[shape]) usage.shapePositions[shape] = [];
+        usage.shapePositions[shape].push(minFret);
+      }
+    }
+  });
+
+  /* Convert arrays */
+  usage.shapePositions = Object.entries(usage.shapePositions).map(
+    ([shape, list]) => ({
+      name: shape,
+      value: Number(
+        (list.reduce((a, b) => a + b, 0) / list.length).toFixed(2)
+      ),
+    })
+  );
+
+  usage.keys = Object.entries(usage.keys).map(([name, value]) => ({ name, value }));
+  usage.choices = Object.entries(usage.choices).map(([name, value]) => ({ name, value }));
+  usage.shapes = Object.entries(usage.shapes).map(([name, value]) => ({ name, value }));
+  usage.modes = Object.entries(usage.modes).map(([name, value]) => ({ name, value }));
+  usage.tunings = Object.entries(usage.tunings).map(([name, value]) => ({ name, value }));
+  usage.intervals = Object.entries(usage.intervals).map(([name, value]) => ({ name, value }));
+  usage.neckZones = Object.entries(usage.neckZones).map(([name, value]) => ({ name, value }));
+  usage.stringUsage = Object.entries(usage.stringUsage).map(([name, value]) => ({ name, value }));
+
+  return usage;
+}
+
+/* ------------------------------------------------------------
+   ORIGINAL getStaticProps — unchanged except final usage prop
+------------------------------------------------------------ */
 export async function getStaticProps() {
-  const keys = guitar.notes.sharps.map((_, i) => i); // 0–11
-  const shapes = guitar.shapes.names;               // ["C","A","G","E","D"]
+  const keys = guitar.notes.sharps.map((_, i) => i);
+  const shapes = guitar.shapes.names;
 
   const chordNames = Object.keys(guitar.arppegios);
   const arpNames = Object.keys(guitar.arppegios);
@@ -29,17 +148,15 @@ export async function getStaticProps() {
   let arpeggios = [];
   let scales = [];
 
-  // ----------------------------------------------------------
-  //  CHORDS (key × chordName × shape)
-  // ----------------------------------------------------------
-  keys.forEach(keyIndex => {
-    chordNames.forEach(chordName => {
-      shapes.forEach(shape => {
+  /* -------- CHORDS -------- */
+  keys.forEach((keyIndex) => {
+    chordNames.forEach((chordName) => {
+      shapes.forEach((shape) => {
         const fb = processFretboard({
           keyIndex,
           type: "chord",
           chordName,
-          shape
+          shape,
         });
 
         chords.push(
@@ -47,24 +164,22 @@ export async function getStaticProps() {
             keyIndex,
             chord: chordName,
             shape,
-            fretboard: fb
+            fretboard: fb,
           })
         );
       });
     });
   });
 
-  // ----------------------------------------------------------
-  //  ARPEGGIOS (key × arpName × shape)
-  // ----------------------------------------------------------
-  keys.forEach(keyIndex => {
-    arpNames.forEach(arpName => {
-      shapes.forEach(shape => {
+  /* -------- ARPEGGIOS -------- */
+  keys.forEach((keyIndex) => {
+    arpNames.forEach((arpName) => {
+      shapes.forEach((shape) => {
         const fb = processFretboard({
           keyIndex,
           type: "arppegio",
           arpName,
-          shape
+          shape,
         });
 
         arpeggios.push(
@@ -72,30 +187,27 @@ export async function getStaticProps() {
             keyIndex,
             arppegio: arpName,
             shape,
-            fretboard: fb
+            fretboard: fb,
           })
         );
       });
     });
   });
 
-  // ----------------------------------------------------------
-  //  SCALES (modal & non-modal × shapes × key)
-  // ----------------------------------------------------------
-  keys.forEach(keyIndex => {
-    scaleNames.forEach(scaleName => {
+  /* -------- SCALES -------- */
+  keys.forEach((keyIndex) => {
+    scaleNames.forEach((scaleName) => {
       const scale = guitar.scales[scaleName];
 
-      // ---------- MODAL SCALES ----------
       if (scale.isModal && scale.modes) {
-        scale.modes.forEach((mode, modeIndex) => {
-          shapes.forEach(shape => {
+        scale.modes.forEach((_, modeIndex) => {
+          shapes.forEach((shape) => {
             const fb = processFretboard({
               keyIndex,
               type: "scale",
               scaleName,
               shape,
-              modeIndex
+              modeIndex,
             });
 
             scales.push(
@@ -104,21 +216,18 @@ export async function getStaticProps() {
                 scale: scaleName,
                 mode: modeIndex,
                 shape,
-                fretboard: fb
+                fretboard: fb,
               })
             );
           });
         });
-      }
-
-      // ---------- NON-MODAL ----------
-      else {
-        shapes.forEach(shape => {
+      } else {
+        shapes.forEach((shape) => {
           const fb = processFretboard({
             keyIndex,
             type: "scale",
             scaleName,
-            shape
+            shape,
           });
 
           scales.push(
@@ -127,7 +236,7 @@ export async function getStaticProps() {
               scale: scaleName,
               mode: null,
               shape,
-              fretboard: fb
+              fretboard: fb,
             })
           );
         });
@@ -135,15 +244,17 @@ export async function getStaticProps() {
     });
   });
 
-  // ----------------------------------------------------------
-  // RETURN ALL DATASETS TO Stats PAGE
-  // ----------------------------------------------------------
+  /* -------- NEW: ADD USAGE -------- */
+  const usage = computeUsage([...chords, ...arpeggios, ...scales]);
+
+  /* RETURN SAME PROPS + usage */
   return {
     props: {
       chords,
       arpeggios,
-      scales
-    }
+      scales,
+      usage,   // <-- ONLY NEW PROP
+    },
   };
 }
 
