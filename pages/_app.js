@@ -64,14 +64,14 @@ const AppBarStyled = styled(AppBar, {
     display: 'none',
   },
   ...(open && {
-    width: '100%',
+    width: `calc(100vw - ${drawerWidth}px)`,
     marginLeft: `${drawerWidth}px`,
     transition: theme.transitions.create(['margin', 'width'], {
       easing: theme.transitions.easing.easeOut,
       duration: theme.transitions.duration.enteringScreen,
     }),
   }),
-  zIndex: 3000
+  zIndex: 3000,
 }));
 
 const DrawerHeader = styled('div')(({ theme }) => ({
@@ -99,7 +99,10 @@ const StyledLink = styled(Link)({
 
 const DrawerContent = styled('div')({
   width: drawerWidth,
+  zIndex: 10000,     // 🔥 list always above all layers
+  position: 'relative'
 });
+
 
 const ToolbarContent = styled('div')({
   display: 'flex',
@@ -189,27 +192,31 @@ function App({ Component, pageProps }) {
       <Provider store={store}>
         <ThemeProvider theme={theme}>
           <Box sx={{ display: 'flex' }}>
-            <CssBaseline />
             {<AppBarStyled position="fixed" open={drawerOpen}>
               <ToolbarContent>
-              <Hidden mdUp>
                 <IconButton
                   color="inherit"
                   aria-label="open drawer"
                   onClick={handleDrawerToggle}
                   edge="end"
-                  sx={{ mr: 2, ...(drawerOpen && { display: 'none' }) }}
+                  sx={{ mr: 2, ...(drawerOpen && { display: 'none' }),
+                    "@media (min-width:1200px)": {
+                      display: "none",
+                    }, 
+                  }}
                 >
                   <MenuIcon />
                 </IconButton>
-                </Hidden>
                 <ToolbarTitle variant="secondary" startIcon={<FavoriteIcon />}>
                   <Typography variant="h6" noWrap component="div">
                     Strum.fun
                   </Typography>
                 </ToolbarTitle>
-                <Hidden mdDown>
-                  <NavLinks>
+                  <NavLinks sx={{
+                    "@media (max-width:1200px)": {
+                      display: "none",
+                    }, 
+                  }}>
                     <StyledLink href="/">
                       <Button color="inherit">Play and Visualize</Button>
                     </StyledLink>
@@ -229,11 +236,9 @@ function App({ Component, pageProps }) {
                       <Button color="inherit">References</Button>
                     </StyledLink>
                   </NavLinks>
-                </Hidden>
               </ToolbarContent>
             </AppBarStyled>}
-            <nav style={{zIndex: 3000}}>
-              <Hidden mdUp>
+            <nav style={{ zIndex: 10000 }}>
                 <Drawer
                   sx={{
                     width: drawerWidth,
@@ -241,23 +246,27 @@ function App({ Component, pageProps }) {
                     '& .MuiDrawer-paper': {
                       width: drawerWidth,
                       boxSizing: 'border-box',
+                      zIndex: 10000,     // 🔥 drawer always above everything
+                      position: 'fixed'
+                    },
+                    "@media (min-width:1200px)": {
+                      display: "none",
                     },
                   }}
                   variant="temporary"
                   open={drawerOpen}
                   onClose={handleDrawerToggle}
                   ModalProps={{
-                    keepMounted: true, // Better open performance on mobile.
+                    keepMounted: true,
                   }}
                 >
                   {drawer}
                 </Drawer>
-              </Hidden>
-            </nav>
+            </nav>        
             <Main open={drawerOpen}>
               <DrawerHeader />
               <Container>
-                <Component {...pageProps} />
+                <Component {...pageProps} leftDrawerOpen={drawerOpen} leftDrawerWidth={drawerWidth} />
               </Container>
             </Main>
           </Box>

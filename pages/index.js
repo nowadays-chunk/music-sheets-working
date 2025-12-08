@@ -42,7 +42,7 @@ const CoverOne = () => {
   );
 };
 
-const PlayAndVisualize = () => {
+const PlayAndVisualize = (props) => {
   return (
     <div>
         <Meta 
@@ -58,7 +58,10 @@ const PlayAndVisualize = () => {
             showChordComposer={false} 
             showProgressor={false} 
             showSongsSelector={false} 
-            showStats={true} />
+            showStats={true} 
+            leftDrawerOpen={props.leftDrawerOpen}
+            leftDrawerWidth={props.leftDrawerWidth}
+            />
         </ ScoreProvider >
       </div>
   );

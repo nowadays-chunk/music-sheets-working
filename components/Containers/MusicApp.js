@@ -1,5 +1,8 @@
 // ============================================================================
-// MusicApp.jsx — Flat monolithic version with header-based drawer toggle
+// MusicApp.jsx — CSS-only responsive version
+// Desktop drawer ≥ 1200px
+// Mobile dropdown < 1200px
+// NO useMediaQuery → NO hydration issue
 // ============================================================================
 
 import React, { useEffect, useCallback, useState } from "react";
@@ -8,6 +11,8 @@ import { styled } from "@mui/system";
 
 import ChevronLeftIcon from "@mui/icons-material/ChevronLeft";
 import ChevronRightIcon from "@mui/icons-material/ChevronRight";
+import KeyboardArrowDownIcon from "@mui/icons-material/KeyboardArrowDown";
+import KeyboardArrowUpIcon from "@mui/icons-material/KeyboardArrowUp";
 
 import { connect, useDispatch } from "react-redux";
 import {
@@ -32,11 +37,12 @@ import Meta from "../Partials/Head";
 // ============================================================================
 // CONSTANTS
 // ============================================================================
-const SIDEBAR_CLOSED = 60; // narrower closed drawer
+const SIDEBAR_CLOSED = 40;
 const SIDEBAR_OPEN = 600;
-const HEADER_PADDING = 16; // marginTop = marginLeft when open
 
-const HEADER_HEIGHT_DESKTOP = 43;
+const HEADER_HEIGHT = 44;
+const HEADER_HEIGHT_MOBILE = 55;
+const HEADER_PADDING = 16;
 
 // ============================================================================
 // STYLED COMPONENTS
@@ -49,139 +55,157 @@ const AppWrapper = styled("div")({
   position: "relative",
 });
 
-// ----------------------------------
-// Main Content
-// ----------------------------------
+// MAIN CONTENT
 const MainContent = styled("div")(({ drawerOpen }) => ({
   position: "relative",
   zIndex: 100,
-
-  marginLeft: drawerOpen ? -SIDEBAR_OPEN : 30,
-  marginTop: HEADER_HEIGHT_DESKTOP,
+  marginTop: HEADER_HEIGHT,
   transition: "margin-left 0.3s ease",
 
   paddingLeft: 100,
   paddingRight: 100,
-  width: "calc(100vw - 200px)",
-  minHeight: `calc(100vh - ${HEADER_HEIGHT_DESKTOP}px)`,
+  marginLeft: drawerOpen ? -SIDEBAR_OPEN : 30,
 
+  width: "calc(100vw - 200px)",
+  minHeight: `calc(100vh - ${HEADER_HEIGHT}px)`,
   overflowY: "auto",
   boxSizing: "border-box",
   display: "flex",
   justifyContent: "center",
 
-  "@media (max-width: 800px)": {
+  // MOBILE / TABLET
+  "@media (max-width:1200px)": {
+    paddingLeft: 0,
+    paddingRight: 20,
+    marginLeft: 0,
     width: "100vw",
-    paddingLeft: 10,
-    paddingRight: 10,
-    marginLeft: drawerOpen ? -100 : 0,
   },
 }));
 
 const MainInner = styled("div")({
   width: "100%",
   maxWidth: "1400px",
-  padding: 0,
 });
 
-// ----------------------------------
-// Sidebar Drawer
-// ----------------------------------
+// ============================================================================
+// DESKTOP RIGHT SIDEBAR (≥ 1200px)
+// ============================================================================
 const SideDrawer = styled("div")(({ open }) => ({
   position: "fixed",
-  top: HEADER_HEIGHT_DESKTOP,
+  top: HEADER_HEIGHT,
   right: 0,
-
-  height: `calc(100vh - ${HEADER_HEIGHT_DESKTOP}px)`,
+  height: `calc(100vh - ${HEADER_HEIGHT}px)`,
   width: open ? SIDEBAR_OPEN : SIDEBAR_CLOSED,
   minWidth: open ? SIDEBAR_OPEN : SIDEBAR_CLOSED,
-
   backgroundColor: "#f5f5f5",
   borderLeft: "1px solid #ddd",
   boxSizing: "border-box",
   zIndex: 2000,
   transition: "width 0.3s ease",
-
   display: "flex",
   flexDirection: "column",
 
-  "@media (max-width: 1200px)": {
-    width: open ? "100vw" : SIDEBAR_CLOSED,
-    minWidth: open ? "100vw" : SIDEBAR_CLOSED,
+  "@media (max-width:1200px)": {
+    display: "none",
   },
 }));
 
-// ----------------------------------
-// Drawer Header (contains the toggle)
-// ----------------------------------
 const DrawerHeader = styled("div")(({ open }) => ({
   height: 60,
-  boxSizing: "border-box",
   borderBottom: "1px solid #ddd",
-
   display: "flex",
   alignItems: open ? "flex-start" : "center",
   justifyContent: open ? "flex-start" : "center",
-
   padding: open ? HEADER_PADDING : 0,
 }));
 
-// ----------------------------------
-// Sidebar Toggle inside header
-// ----------------------------------
-const DrawerToggle = styled(IconButton)(({ open }) => ({
-  width: 36,
-  height: 36,
-  background: "#ffffff",
+const DrawerToggleDesktop = styled(IconButton)(({ open }) => ({
+  width: 24,
+  height: 24,
+  padding: 6,
+  background: "#fff",
   border: "2px solid #463f4b",
   borderRadius: "50%",
-  display: "flex",
-  alignItems: "center",
-  justifyContent: "center",
-  padding: 6,
-  marginTop: 10,
-  "&:hover": {
-    background: "#f0f0f0",
-  },
+  "&:hover": { background: "#f0f0f0" },
 }));
 
-// ----------------------------------
-// Drawer Content
-// ----------------------------------
 const DrawerContent = styled("div")(({ open }) => ({
   flex: 1,
   width: "100%",
-  boxSizing: "border-box",
-
-  paddingLeft: open ? 24 : 0,
-  paddingRight: open ? 24 : 0,
-  paddingTop: open ? 16 : 0,
-  paddingBottom: open ? 24 : 0,
-
+  padding: open ? 24 : 0,
   opacity: open ? 1 : 0,
   pointerEvents: open ? "auto" : "none",
   transition: "opacity 0.2s ease",
-
   overflowY: "auto",
-  overflowX: "hidden",
-
-  "&::-webkit-scrollbar": { width: "8px" },
-  "&::-webkit-scrollbar-track": { background: "#ededed" },
-  "&::-webkit-scrollbar-thumb": { background: "#cfcfcf", borderRadius: "10px" },
 }));
 
-// ----------------------------------------------------------------------------
-// Root / Fretboard Container
-// ----------------------------------------------------------------------------
-const Root = styled("div")({ display: "flex", padding: 0, flexDirection: "column", width: "100%" });
-const FretboardContainer = styled("div")({ width: "100%", marginTop: 20, marginBottom: 20 });
+// ============================================================================
+// MOBILE/TABLET TOP DRAWER (< 1200px)
+// ============================================================================
+const MobileDrawer = styled("div")(({ open }) => ({
+  position: "fixed",
+  top: HEADER_HEIGHT,
+  left: 0,
+  width: "100vw",
+  backgroundColor: "#f5f5f5",
+  borderBottom: "1px solid #ddd",
+
+  zIndex: 3000,
+  overflow: "hidden",
+
+  // height logic driven by the open prop
+  maxHeight: open ? "100vh" : SIDEBAR_CLOSED,
+  transition: "max-height 0.35s ease",
+
+  "@media (min-width:1200px)": {
+    display: "none",
+  },
+}));
+
+
+const MobileDrawerHeader = styled("div")({
+  height: 40,
+  display: "flex",
+  alignItems: "center",
+  justifyContent: "end",
+  paddingRight: 50,
+  borderLeft: "1px solid #ccc",
+});
+
+const MobileDrawerToggle = styled(IconButton)({
+  width: 24,
+  height: 24,
+  borderRadius: "50%",
+  border: "2px solid #463f4b",
+  background: "#fff",
+  "&:hover": { background: "#f0f0f0" },
+});
+
+const MobileDrawerContent = styled("div")({
+  overflow: "hidden",
+  padding: 20,
+});
 
 // ============================================================================
-// MAIN COMPONENT — MUSIC APP
+// MAIN COMPONENT
 // ============================================================================
+const Root = styled("div")({
+  width: "100%",
+  display: "flex",
+  flexDirection: "column",
+});
+
+const FretboardContainer = styled("div")({
+  width: "100%",
+  marginTop: 20,
+  marginBottom: 20,
+});
+
 const MusicApp = (props) => {
   const dispatch = useDispatch();
+
   const [drawerOpen, setDrawerOpen] = useState(false);
+  const [mobileDrawerOpen, setMobileDrawerOpen] = useState(false);
 
   const {
     boards,
@@ -192,7 +216,6 @@ const MusicApp = (props) => {
     createNewBoardDisplay,
     cleanFretboard,
     onElementChange,
-
     keyIndex,
     scale,
     modeIndex,
@@ -200,7 +223,6 @@ const MusicApp = (props) => {
     quality,
     display,
     updateBoards,
-
     showFretboardControls,
     showFretboard,
     showChordComposer,
@@ -210,9 +232,7 @@ const MusicApp = (props) => {
 
   const { addNoteFromFretboard } = useScore();
 
-  // ==========================================================================
-  // UPDATE CURRENT BOARD STATE
-  // ==========================================================================
+  // STATE UPDATE
   const updateBoardsCallback = useCallback(() => {
     if (!selectedFretboard?.id) return;
 
@@ -274,10 +294,48 @@ const MusicApp = (props) => {
   if (!selectedFretboard) return <div>Loading...</div>;
 
   // ==========================================================================
-  // MAIN RENDER
+  // RENDER
   // ==========================================================================
   return (
     <AppWrapper>
+
+      {/* MOBILE DRAWER (<1200px) */}
+      <MobileDrawer open={mobileDrawerOpen}>
+        <MobileDrawerHeader>
+          <MobileDrawerToggle onClick={() => setMobileDrawerOpen(x => !x)}>
+            {mobileDrawerOpen ? <KeyboardArrowUpIcon /> : <KeyboardArrowDownIcon />}
+          </MobileDrawerToggle>
+        </MobileDrawerHeader>
+
+        <MobileDrawerContent>
+          {showFretboardControls && (
+            <FretboardControls
+              createNewBoardDisplay={createNewBoardDisplay}
+              handleChoiceChange={handleChoiceChange}
+              onCleanFretboard={cleanFretboard}
+              selectedKey={
+                selectedFretboard.keySettings[selectedFretboard.generalSettings.choice]
+              }
+              selectedScale={selectedFretboard.scaleSettings.scale}
+              selectedChord={selectedFretboard.chordSettings.chord}
+              selectedShape={
+                selectedFretboard[selectedFretboard.generalSettings.choice + "Settings"].shape
+              }
+              selectedMode={selectedFretboard.modeSettings.mode}
+              onElementChange={onElementChange}
+              scaleModes={
+                selectedFretboard.scaleSettings.scale
+                  ? guitar.scales[selectedFretboard.scaleSettings.scale].modes
+                  : []
+              }
+              arppegiosNames={Object.keys(guitar.arppegios)}
+              choice={selectedFretboard.generalSettings.choice}
+            />
+          )}
+        </MobileDrawerContent>
+      </MobileDrawer>
+
+      {/* MAIN CONTENT */}
       <MainContent drawerOpen={drawerOpen}>
         <MainInner>
           <Root>
@@ -290,6 +348,9 @@ const MusicApp = (props) => {
                   boards={boards}
                   handleFretboardSelect={(fbIndex) => {
                     handleFretboardSelect(fbIndex);
+
+                    // Only open drawers — CSS decides which one is visible
+                    setMobileDrawerOpen(true);
                     setDrawerOpen(true);
                   }}
                   onElementChange={onElementChange}
@@ -323,18 +384,12 @@ const MusicApp = (props) => {
         </MainInner>
       </MainContent>
 
-      {/* ====================================================================== */}
-      {/* SIDEBAR */}
-      {/* ====================================================================== */}
+      {/* DESKTOP SIDEBAR (≥1200px) */}
       <SideDrawer open={drawerOpen}>
         <DrawerHeader open={drawerOpen}>
-          <DrawerToggle
-            open={drawerOpen}
-            onClick={() => setDrawerOpen((prev) => !prev)}
-            aria-label={drawerOpen ? "Close drawer" : "Open drawer"}
-          >
+          <DrawerToggleDesktop onClick={() => setDrawerOpen((x) => !x)}>
             {drawerOpen ? <ChevronRightIcon /> : <ChevronLeftIcon />}
-          </DrawerToggle>
+          </DrawerToggleDesktop>
         </DrawerHeader>
 
         <DrawerContent open={drawerOpen}>
@@ -343,7 +398,9 @@ const MusicApp = (props) => {
               createNewBoardDisplay={createNewBoardDisplay}
               handleChoiceChange={handleChoiceChange}
               onCleanFretboard={cleanFretboard}
-              selectedKey={selectedFretboard.keySettings[selectedFretboard.generalSettings.choice]}
+              selectedKey={
+                selectedFretboard.keySettings[selectedFretboard.generalSettings.choice]
+              }
               selectedScale={selectedFretboard.scaleSettings.scale}
               selectedChord={selectedFretboard.chordSettings.chord}
               selectedShape={
