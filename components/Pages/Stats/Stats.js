@@ -34,6 +34,7 @@ import {
   CartesianGrid,
   ZAxis
 } from "recharts";
+import { ResponsiveContainer } from "recharts";
 
 import { styled } from "@mui/system";
 import guitar from "@/config/guitar";
@@ -624,6 +625,20 @@ const Heatmap = ({ data, title }) => {
   );
 };
 
+const GraphCard = styled(Card)({
+  borderRadius: "2px",               // required
+  border: "2px solid #222",          // dark outline
+  padding: "10px",
+  overflow: "hidden",                // prevents drift
+  display: "flex",
+  flexDirection: "column",
+  justifyContent: "center",
+  alignItems: "center",
+  boxSizing: "border-box",
+  background: "#fff",
+  width: "100%",
+});
+
 // ================================================
 // END OF PART 1
 // NEXT: TABS AND 60 VISUALIZATIONS
@@ -936,16 +951,16 @@ export default function Stats({
     [scaleBoards]
   );
 
-  // ---------------------------------------------------------
+  // -------------------------------------------------------------------------
   // RENDER SWITCH
-  // ---------------------------------------------------------
+  // -------------------------------------------------------------------------
   return (
-    <Box sx={{ p: 0, m: 0}}>
+    <Box sx={{ p: 0, m: 0 }}>
       <Typography variant="h4" sx={{ mb: 3 }}>
         🎸 Strum Dot Fun — Analytics Dashboard
       </Typography>
 
-      {/* Tabs */}
+      {/* TABS */}
       <Box sx={{ display: "flex", mb: 3 }}>
         {tabs.map((label, idx) => (
           <Button
@@ -959,332 +974,401 @@ export default function Stats({
         ))}
       </Box>
 
+      {/* ===========================================================
+          TAB 0 — GLOBAL ANALYTICS
+      ============================================================ */}
       {tab === 0 && (
         <Grid container spacing={1}>
 
-          {/* 1 — Heatmap (Fret Intensity) */}
           <Grid item xs={12}>
-            <Heatmap title="Fretboard Heatmap (All Data)" data={allFretHeatmap} />
+            <GraphCard>
+              <Heatmap title="Fretboard Heatmap (All Data)" data={allFretHeatmap} />
+            </GraphCard>
           </Grid>
 
-          {/* 2 — Note Frequency */}
           <Grid item xs={12} md={6}>
-            <BarGraph title="Global Note Frequency" data={allNoteUsage} />
+            <GraphCard>
+              <BarGraph title="Global Note Frequency" data={allNoteUsage} />
+            </GraphCard>
           </Grid>
 
-          {/* 3 — Intervals */}
           <Grid item xs={12} md={6}>
-            <PieGraph title="Interval Usage Ratio" data={allIntervalUsage} />
+            <GraphCard>
+              <PieGraph title="Interval Usage Ratio" data={allIntervalUsage} />
+            </GraphCard>
           </Grid>
 
-          {/* 4 — Key Distribution */}
           <Grid item xs={12} md={6}>
-            <BarGraph title="Key Usage Distribution" data={allKeyUsage} />
+            <GraphCard>
+              <BarGraph title="Key Usage Distribution" data={allKeyUsage} />
+            </GraphCard>
           </Grid>
 
-          {/* 5 — Shape Distribution */}
           <Grid item xs={12} md={6}>
-            <PieGraph title="Shape Preference Distribution" data={allShapeUsage} />
+            <GraphCard>
+              <PieGraph title="Shape Preference Distribution" data={allShapeUsage} />
+            </GraphCard>
           </Grid>
 
-          {/* 6 — Mode Distribution */}
           <Grid item xs={12}>
-            <BarGraph title="Mode Usage" data={allModeUsage} />
+            <GraphCard>
+              <BarGraph title="Mode Usage" data={allModeUsage} />
+            </GraphCard>
           </Grid>
 
-          {/* 7 — String Usage */}
           <Grid item xs={12} md={6}>
-            <RadarGraph title="String Usage Radar" data={allRadarStrings} />
+            <GraphCard>
+              <RadarGraph title="String Usage Radar" data={allRadarStrings} />
+            </GraphCard>
           </Grid>
 
-          {/* 8 — Neck Zones */}
           <Grid item xs={12} md={6}>
-            <PieGraph title="Neck Zones Heat Distribution" data={allNeckZones} />
+            <GraphCard>
+              <PieGraph title="Neck Zones Heat Distribution" data={allNeckZones} />
+            </GraphCard>
           </Grid>
 
-          {/* 9 — Fret Histogram */}
           <Grid item xs={12} md={6}>
-            <HistogramGraph title="Fret Density Histogram" data={allFretHistogram} />
+            <GraphCard>
+              <HistogramGraph title="Fret Density Histogram" data={allFretHistogram} />
+            </GraphCard>
           </Grid>
 
-          {/* 10 — Fret Range (min–max–avg) */}
           <Grid item xs={12} md={6}>
-            <RangeGraph title="Fret Range Analysis" data={allFretRanges} />
+            <GraphCard>
+              <RangeGraph title="Fret Range Analysis" data={allFretRanges} />
+            </GraphCard>
           </Grid>
 
-          {/* 11 — Scatter Plot (positions) */}
           <Grid item xs={12}>
-            <ScatterGraph title="Fret vs String Density Map" data={allScatter} />
+            <GraphCard>
+              <ScatterGraph title="Fret vs String Density Map" data={allScatter} />
+            </GraphCard>
           </Grid>
 
-          {/* 12 — Treemap Notes */}
           <Grid item xs={12}>
-            <TreemapGraph title="Note Importance (Treemap)" data={allTreemapNotes} />
+            <GraphCard>
+              <TreemapGraph title="Note Importance (Treemap)" data={allTreemapNotes} />
+            </GraphCard>
           </Grid>
 
-          {/* 13 — Line Graph Note Frequency */}
           <Grid item xs={12} md={6}>
-            <LineGraph title="Notes Trend (Sorted Alphabetically)" data={allNoteUsage} />
+            <GraphCard>
+              <LineGraph title="Notes Trend (Sorted Alphabetically)" data={allNoteUsage} />
+            </GraphCard>
           </Grid>
 
-          {/* 14 — Radial Bar Graph */}
           <Grid item xs={12} md={6}>
-            <RadialBarGraph title="Radial Distribution of Notes" data={allNoteUsage} />
+            <GraphCard>
+              <RadialBarGraph title="Radial Distribution of Notes" data={allNoteUsage} />
+            </GraphCard>
           </Grid>
 
-          {/* 15 — Flow Graph (Chord → Next) */}
           <Grid item xs={12}>
-            <FlowGraph title="Chord / Scale Flow Transitions" data={allFlow} />
+            <GraphCard>
+              <FlowGraph title="Chord / Scale Flow Transitions" data={allFlow} />
+            </GraphCard>
           </Grid>
 
         </Grid>
       )}
 
+      {/* ===========================================================
+          TAB 1 — CHORD ANALYTICS
+      ============================================================ */}
       {tab === 1 && (
         <Grid container spacing={1}>
 
-          {/* Prepare CHORDS-ONLY dataset *
-
-          {/* 1 — Chord Heatmap */}
           <Grid item xs={12}>
-            <Heatmap title="Chord Heatmap (Fretboard Intensity)" data={chordFretHeatmap} />
+            <GraphCard>
+              <Heatmap title="Chord Heatmap" data={chordFretHeatmap} />
+            </GraphCard>
           </Grid>
 
-          {/* 2 — Chord Note Frequency */}
           <Grid item xs={12} md={6}>
-            <BarGraph title="Chord Note Frequency" data={chordNoteUsage} />
+            <GraphCard>
+              <BarGraph title="Chord Note Frequency" data={chordNoteUsage} />
+            </GraphCard>
           </Grid>
 
-          {/* 3 — Chord Intervals */}
           <Grid item xs={12} md={6}>
-            <PieGraph title="Chord Interval Usage" data={chordIntervalUsage} />
+            <GraphCard>
+              <PieGraph title="Chord Interval Usage" data={chordIntervalUsage} />
+            </GraphCard>
           </Grid>
 
-          {/* 4 — Chord Keys */}
           <Grid item xs={12} md={6}>
-            <BarGraph title="Chord Keys Distribution" data={chordKeys} />
+            <GraphCard>
+              <BarGraph title="Chord Keys Distribution" data={chordKeys} />
+            </GraphCard>
           </Grid>
 
-          {/* 5 — Chord Shapes */}
           <Grid item xs={12} md={6}>
-            <PieGraph title="Chord Shape Distribution" data={chordShapes} />
+            <GraphCard>
+              <PieGraph title="Chord Shape Distribution" data={chordShapes} />
+            </GraphCard>
           </Grid>
 
-          {/* 6 — Chord Mode Occurrence */}
           <Grid item xs={12} md={6}>
-            <BarGraph title="Modal Presence in Chords" data={chordModes} />
+            <GraphCard>
+              <BarGraph title="Modal Presence in Chords" data={chordModes} />
+            </GraphCard>
           </Grid>
 
-          {/* 7 — Chord String Usage */}
           <Grid item xs={12} md={6}>
-            <RadarGraph title="Chord String Usage Radar" data={chordRadarStrings} />
+            <GraphCard>
+              <RadarGraph title="Chord String Usage Radar" data={chordRadarStrings} />
+            </GraphCard>
           </Grid>
 
-          {/* 8 — Chord Neck Zones */}
           <Grid item xs={12} md={6}>
-            <PieGraph title="Chord Neck Zones" data={chordNeckZones} />
+            <GraphCard>
+              <PieGraph title="Chord Neck Zones" data={chordNeckZones} />
+            </GraphCard>
           </Grid>
 
-          {/* 9 — Fret Histogram for Chords */}
           <Grid item xs={12} md={6}>
-            <HistogramGraph title="Chord Fret Density Histogram" data={chordFretHistogram} />
+            <GraphCard>
+              <HistogramGraph title="Chord Fret Density Histogram" data={chordFretHistogram} />
+            </GraphCard>
           </Grid>
 
-          {/* 10 — Chord Fret Range */}
           <Grid item xs={12} md={6}>
-            <RangeGraph title="Chord Fret Range (Min / Max / Avg)" data={chordFretRanges} />
+            <GraphCard>
+              <RangeGraph title="Chord Fret Range" data={chordFretRanges} />
+            </GraphCard>
           </Grid>
 
-          {/* 11 — Scatter Plot */}
           <Grid item xs={12}>
-            <ScatterGraph title="Chord Fret vs String Scatter Plot" data={chordScatter} />
+            <GraphCard>
+              <ScatterGraph title="Chord Fret vs String Scatter" data={chordScatter} />
+            </GraphCard>
           </Grid>
 
-          {/* 12 — Treemap */}
           <Grid item xs={12}>
-            <TreemapGraph title="Chord Note Weights (Treemap)" data={chordTreemap} />
+            <GraphCard>
+              <TreemapGraph title="Chord Note Weights" data={chordTreemap} />
+            </GraphCard>
           </Grid>
 
-          {/* 13 — Line Graph */}
           <Grid item xs={12} md={6}>
-            <LineGraph title="Chord Notes Over Representation" data={chordNoteUsage} />
+            <GraphCard>
+              <LineGraph title="Chord Notes Over Representation" data={chordNoteUsage} />
+            </GraphCard>
           </Grid>
 
-          {/* 14 — Radial Bar */}
           <Grid item xs={12} md={6}>
-            <RadialBarGraph title="Chord Radial Distribution" data={chordNoteUsage} />
+            <GraphCard>
+              <RadialBarGraph title="Chord Radial Distribution" data={chordNoteUsage} />
+            </GraphCard>
           </Grid>
 
-          {/* 15 — Flow Graph of Chord Progression */}
           <Grid item xs={12}>
-            <FlowGraph title="Chord Transition Flow (Chord → Next)" data={chordFlow} />
+            <GraphCard>
+              <FlowGraph title="Chord Transition Flow" data={chordFlow} />
+            </GraphCard>
           </Grid>
 
         </Grid>
       )}
 
+      {/* ===========================================================
+          TAB 2 — ARPEGGIO ANALYTICS
+      ============================================================ */}
       {tab === 2 && (
         <Grid container spacing={1}>
 
-          {/* 1 — Heatmap */}
           <Grid item xs={12}>
-            <Heatmap title="Arpeggio Heatmap" data={arpFretHeatmap} />
+            <GraphCard>
+              <Heatmap title="Arpeggio Heatmap" data={arpFretHeatmap} />
+            </GraphCard>
           </Grid>
 
-          {/* 2 — Note Frequency */}
           <Grid item xs={12} md={6}>
-            <BarGraph title="Arpeggio Note Frequency" data={arpNoteUsage} />
+            <GraphCard>
+              <BarGraph title="Arpeggio Note Frequency" data={arpNoteUsage} />
+            </GraphCard>
           </Grid>
 
-          {/* 3 — Interval Usage */}
           <Grid item xs={12} md={6}>
-            <PieGraph title="Arpeggio Interval Usage" data={arpIntervalUsage} />
+            <GraphCard>
+              <PieGraph title="Arpeggio Interval Usage" data={arpIntervalUsage} />
+            </GraphCard>
           </Grid>
 
-          {/* 4 — Key Usage */}
           <Grid item xs={12} md={6}>
-            <BarGraph title="Arpeggio Key Distribution" data={arpKeys} />
+            <GraphCard>
+              <BarGraph title="Arpeggio Key Distribution" data={arpKeys} />
+            </GraphCard>
           </Grid>
 
-          {/* 5 — Shape Usage */}
           <Grid item xs={12} md={6}>
-            <PieGraph title="Arpeggio Shape Usage" data={arpShapes} />
+            <GraphCard>
+              <PieGraph title="Arpeggio Shape Usage" data={arpShapes} />
+            </GraphCard>
           </Grid>
 
-          {/* 6 — Modes */}
           <Grid item xs={12} md={6}>
-            <BarGraph title="Mode Occurrence in Arpeggios" data={arpModes} />
+            <GraphCard>
+              <BarGraph title="Mode Occurrence in Arpeggios" data={arpModes} />
+            </GraphCard>
           </Grid>
 
-          {/* 7 — Strings */}
           <Grid item xs={12} md={6}>
-            <RadarGraph title="Arpeggio String Usage Radar" data={arpRadarStrings} />
+            <GraphCard>
+              <RadarGraph title="Arpeggio String Usage Radar" data={arpRadarStrings} />
+            </GraphCard>
           </Grid>
 
-          {/* 8 — Zones */}
           <Grid item xs={12} md={6}>
-            <PieGraph title="Arpeggio Neck Zones" data={arpNeckZones} />
+            <GraphCard>
+              <PieGraph title="Arpeggio Neck Zones" data={arpNeckZones} />
+            </GraphCard>
           </Grid>
 
-          {/* 9 — Histogram */}
           <Grid item xs={12} md={6}>
-            <HistogramGraph title="Arpeggio Fret Histogram" data={arpFretHistogram} />
+            <GraphCard>
+              <HistogramGraph title="Arpeggio Fret Histogram" data={arpFretHistogram} />
+            </GraphCard>
           </Grid>
 
-          {/* 10 — Range */}
           <Grid item xs={12} md={6}>
-            <RangeGraph title="Arpeggio Fret Range (Min/Max/Avg)" data={arpFretRanges} />
+            <GraphCard>
+              <RangeGraph title="Arpeggio Fret Range" data={arpFretRanges} />
+            </GraphCard>
           </Grid>
 
-          {/* 11 — Scatter */}
           <Grid item xs={12}>
-            <ScatterGraph title="Arpeggio Fret vs String Scatter" data={arpScatter} />
+            <GraphCard>
+              <ScatterGraph title="Arpeggio Fret vs String Scatter" data={arpScatter} />
+            </GraphCard>
           </Grid>
 
-          {/* 12 — Treemap */}
           <Grid item xs={12}>
-            <TreemapGraph title="Arpeggio Note Treemap" data={arpTreemap} />
+            <GraphCard>
+              <TreemapGraph title="Arpeggio Note Treemap" data={arpTreemap} />
+            </GraphCard>
           </Grid>
 
-          {/* 13 — Line */}
           <Grid item xs={12} md={6}>
-            <LineGraph title="Arpeggio Note Popularity Trend" data={arpNoteUsage} />
+            <GraphCard>
+              <LineGraph title="Arpeggio Note Popularity Trend" data={arpNoteUsage} />
+            </GraphCard>
           </Grid>
 
-          {/* 14 — Radial Bar */}
           <Grid item xs={12} md={6}>
-            <RadialBarGraph title="Arpeggio Radial Note Distribution" data={arpNoteUsage} />
+            <GraphCard>
+              <RadialBarGraph title="Arpeggio Radial Note Distribution" data={arpNoteUsage} />
+            </GraphCard>
           </Grid>
 
-          {/* 15 — Flow */}
           <Grid item xs={12}>
-            <FlowGraph title="Arpeggio Flow (Sequence Map)" data={arpFlow} />
+            <GraphCard>
+              <FlowGraph title="Arpeggio Flow Pattern" data={arpFlow} />
+            </GraphCard>
           </Grid>
 
         </Grid>
       )}
 
+      {/* ===========================================================
+          TAB 3 — SCALE ANALYTICS
+      ============================================================ */}
       {tab === 3 && (
         <Grid container spacing={1}>
 
-          {/* 1 — Heatmap */}
           <Grid item xs={12}>
-            <Heatmap title="Scale Heatmap" data={scaleFretHeatmap} />
+            <GraphCard>
+              <Heatmap title="Scale Heatmap" data={scaleFretHeatmap} />
+            </GraphCard>
           </Grid>
 
-          {/* 2 — Note Frequency */}
           <Grid item xs={12} md={6}>
-            <BarGraph title="Scale Note Frequency" data={scaleNoteUsage} />
+            <GraphCard>
+              <BarGraph title="Scale Note Frequency" data={scaleNoteUsage} />
+            </GraphCard>
           </Grid>
 
-          {/* 3 — Interval Usage */}
           <Grid item xs={12} md={6}>
-            <PieGraph title="Scale Interval Distribution" data={scaleIntervalUsage} />
+            <GraphCard>
+              <PieGraph title="Scale Interval Distribution" data={scaleIntervalUsage} />
+            </GraphCard>
           </Grid>
 
-          {/* 4 — Key Distribution */}
           <Grid item xs={12} md={6}>
-            <BarGraph title="Scale Key Distribution" data={scaleKeys} />
+            <GraphCard>
+              <BarGraph title="Scale Key Distribution" data={scaleKeys} />
+            </GraphCard>
           </Grid>
 
-          {/* 5 — Shape Distribution */}
           <Grid item xs={12} md={6}>
-            <PieGraph title="Scale Shape Distribution" data={scaleShapes} />
+            <GraphCard>
+              <PieGraph title="Scale Shape Distribution" data={scaleShapes} />
+            </GraphCard>
           </Grid>
 
-          {/* 6 — Modes */}
           <Grid item xs={12} md={6}>
-            <BarGraph title="Mode Distribution (Scales)" data={scaleModes} />
+            <GraphCard>
+              <BarGraph title="Mode Distribution (Scales)" data={scaleModes} />
+            </GraphCard>
           </Grid>
 
-          {/* 7 — String Usage */}
           <Grid item xs={12} md={6}>
-            <RadarGraph title="Scale String Usage Radar" data={scaleRadarStrings} />
+            <GraphCard>
+              <RadarGraph title="Scale String Usage Radar" data={scaleRadarStrings} />
+            </GraphCard>
           </Grid>
 
-          {/* 8 — Neck Zones */}
           <Grid item xs={12} md={6}>
-            <PieGraph title="Scale Neck Zones Distribution" data={scaleNeckZones} />
+            <GraphCard>
+              <PieGraph title="Scale Neck Zones Distribution" data={scaleNeckZones} />
+            </GraphCard>
           </Grid>
 
-          {/* 9 — Fret Histogram */}
           <Grid item xs={12} md={6}>
-            <HistogramGraph title="Scale Fret Histogram" data={scaleFretHistogram} />
+            <GraphCard>
+              <HistogramGraph title="Scale Fret Histogram" data={scaleFretHistogram} />
+            </GraphCard>
           </Grid>
 
-          {/* 10 — Fret Range */}
           <Grid item xs={12} md={6}>
-            <RangeGraph title="Scale Fret Range" data={scaleFretRanges} />
+            <GraphCard>
+              <RangeGraph title="Scale Fret Range" data={scaleFretRanges} />
+            </GraphCard>
           </Grid>
 
-          {/* 11 — Scatter */}
           <Grid item xs={12}>
-            <ScatterGraph title="Scale Fret vs String Scatter" data={scaleScatter} />
+            <GraphCard>
+              <ScatterGraph title="Scale Fret vs String Scatter" data={scaleScatter} />
+            </GraphCard>
           </Grid>
 
-          {/* 12 — Treemap */}
           <Grid item xs={12}>
-            <TreemapGraph title="Scale Note Treemap" data={scaleTreemap} />
+            <GraphCard>
+              <TreemapGraph title="Scale Note Treemap" data={scaleTreemap} />
+            </GraphCard>
           </Grid>
 
-          {/* 13 — Line */}
           <Grid item xs={12} md={6}>
-            <LineGraph title="Scale Note Trend" data={scaleNoteUsage} />
+            <GraphCard>
+              <LineGraph title="Scale Note Trend" data={scaleNoteUsage} />
+            </GraphCard>
           </Grid>
 
-          {/* 14 — Radial Bar */}
           <Grid item xs={12} md={6}>
-            <RadialBarGraph title="Scale Radial Note Distribution" data={scaleNoteUsage} />
+            <GraphCard>
+              <RadialBarGraph title="Scale Radial Note Distribution" data={scaleNoteUsage} />
+            </GraphCard>
           </Grid>
 
-          {/* 15 — Flow */}
           <Grid item xs={12}>
-            <FlowGraph title="Scale Flow Pattern" data={scaleFlow} />
+            <GraphCard>
+              <FlowGraph title="Scale Flow Pattern" data={scaleFlow} />
+            </GraphCard>
           </Grid>
 
         </Grid>
       )}
-
     </Box>
   );
 }
