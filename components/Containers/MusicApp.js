@@ -71,6 +71,9 @@ const MainContent = styled("div")(({ drawerOpen }) => ({
 
   width: "100%",
 
+  padding: 0,
+  margin: 0,
+
   overflowY: "auto",
   overflowX: "hidden",
 
@@ -89,9 +92,11 @@ const MainInner = styled("div")({
   maxWidth: "100vw",
   overflowX: "hidden",
   margin: 0,
-  padding: '0px 180px',
   "@media (max-width:1200px)": {
-    padding: '0px 30px',
+    padding: '0px 15px',
+  },
+  "@media (min-width:1200px)": {
+    padding: '0px 180px',
   },
   boxSizing: "border-box",
 });
@@ -123,12 +128,12 @@ const SideDrawer = styled("div")(({ open }) => ({
 }));
 
 const DrawerHeader = styled("div")(({ open }) => ({
-  height: 60,
+  height: open ? 25 : 45,
   borderBottom: "1px solid #ddd",
   display: "flex",
   alignItems: open ? "flex-start" : "center",
   justifyContent: open ? "flex-start" : "center",
-  padding: open ? HEADER_PADDING : 0,
+  padding: open ? 10 : 0,
 }));
 
 const DrawerToggleDesktop = styled(IconButton)({
@@ -158,17 +163,32 @@ const MobileDrawer = styled("div")(({ open }) => ({
   position: "fixed",
 
   top: HEADER_HEIGHT,
+
+  // ABSOLUTE edges — prevents any gap
   left: 0,
   right: 0,
 
+  // REAL device width (safer than 100vw)
   width: "100%",
+  maxWidth: "100%",
+
+  margin: 0,
+  padding: 0,
+
+  // Fix rounding issues on mobile
+  transform: "translateZ(0)",
+  WebkitTransform: "translateZ(0)",
+  WebkitOverflowScrolling: "touch",
 
   backgroundColor: "#f5f5f5",
-  borderBottom: "1px solid #ddd",
+  borderBottom: "1px solid #5a5656ff",
 
   zIndex: 3000,
-  overflow: "hidden",
 
+  overflowY: 'hidden',
+  overflowX: "hidden",
+
+  // Expansion animation
   maxHeight: open ? "100%" : SIDEBAR_CLOSED,
   transition: "max-height 0.35s ease",
 
@@ -185,6 +205,7 @@ const MobileDrawerHeader = styled("div")({
   width: "100%",
   boxSizing: "border-box",
   borderBottom: "1px solid #ccc",
+  paddingRight: 20
 });
 
 const MobileDrawerToggle = styled(IconButton)({
@@ -193,16 +214,18 @@ const MobileDrawerToggle = styled(IconButton)({
   borderRadius: "50%",
   border: "2px solid #463f4b",
   background: "#fff",
-  marginRight: 20,
   "&:hover": { background: "#f0f0f0" },
 });
 
 const MobileDrawerContent = styled("div")({
   width: "100vw",
-  maxWidth: "100vw",
+  maxWidth: "100%",
+  padding: '0px 40px 50px 30px',
+  boxSizing: "border-box",
   overflowX: "hidden",
-  padding: 20,
+
 });
+
 
 // ============================================================================
 // SCROLL-FRIENDLY FRETBOARD WRAPPER
@@ -211,6 +234,9 @@ const FretboardContainer = styled("div")({
   width: "100vw",
   maxWidth: "100%",
   marginBottom: 20,
+  padding: 0,
+  marginRight: 0,
+  marginLeft: 0,
 
   "& .fretboard-scroll": {
     width: "100%",
@@ -235,6 +261,8 @@ const Root = styled("div")({
   display: "flex",
   flexDirection: "column",
   overflowX: "hidden",
+  padding: 0,
+  margin: 0
 });
 
 const MusicApp = (props) => {
@@ -264,6 +292,8 @@ const MusicApp = (props) => {
     showChordComposer,
     showCircleOfFifths,
     showStats,
+    leftDrawerOpen,
+    leftDrawerWidth
   } = props;
 
   const { addNoteFromFretboard } = useScore();
@@ -337,7 +367,17 @@ const MusicApp = (props) => {
 
       {/* MOBILE DRAWER (<1200px) */}
       {showFretboardControls && (
-        <MobileDrawer open={mobileDrawerOpen}>
+        <MobileDrawer
+          sx={{
+            left: leftDrawerOpen ? leftDrawerWidth : 0,
+            right: 0,                  // force full width
+            width: leftDrawerOpen
+              ? `calc(100% - ${leftDrawerWidth}px)`  // use % instead of vw
+              : "100%",
+            overflowY: mobileDrawerOpen ? 'auto' : 'hiddens'
+          }}
+          open={mobileDrawerOpen}
+        >
           <MobileDrawerHeader>
             <MobileDrawerToggle onClick={() => setMobileDrawerOpen(x => !x)}>
               {mobileDrawerOpen ? <KeyboardArrowUpIcon /> : <KeyboardArrowDownIcon />}

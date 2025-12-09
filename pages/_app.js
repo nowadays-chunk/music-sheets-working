@@ -24,6 +24,7 @@ import store from '../redux/store';
 import '../styles/styles.css';
 import '../styles/CircleOfFifths.css';
 import { GoogleAnalytics } from '@next/third-parties/google'
+import './styles.css';
 
 const inter = Open_Sans({ subsets: ['latin'], weight: ['300', '400', '500', '700'] });
 

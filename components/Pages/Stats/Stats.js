@@ -627,7 +627,7 @@ const Heatmap = ({ data, title }) => {
 
 const GraphCard = styled(Card)({
   borderRadius: "2px",               // required
-  border: "2px solid #222",          // dark outline
+  border: "1px solid rgba(73, 58, 58, 0.3)",          // dark outline
   padding: "10px",
   overflow: "hidden",                // prevents drift
   display: "flex",
