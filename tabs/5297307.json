@@ -1,0 +1,864 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/lola-young/messy-chords-5297307",
+  "title": "Messy",
+  "artist": "Lola Young",
+  "key": "A",
+  "scrapedAt": "2025-12-10T18:48:00.720Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|N.C. |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Drums)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "| | | |"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "DM7",
+              "lyrics": "| | | |"
+            },
+            {
+              "chord": "DM7",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1 0:19",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "DM7",
+              "lyrics": "You know I'm impatient"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "So why would you leave me waiting outside the station?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "DM7",
+              "lyrics": "When it was like minus 4 degrees and I"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I get what you're saying"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "I just really don't want to hear it right now"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "DM7",
+              "lyrics": "Can you shut up for like once in your life?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Listen to me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "I took your nice words of advice about"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "How you think I'm gonna die"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Lucky if I turned 33"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "DM7",
+              "lyrics": "Okay, so yeah, I smoke like a chimney"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm not skinny and I pull a Britney"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Every other week"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But cut me some slack"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "DM7",
+              "lyrics": "Who do you want me to be?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus 0:54",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "DM7",
+              "lyrics": "'Cause I'm too messy"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "And then I'm too fucking clean"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You told me, \"Get a job\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "DM7",
+              "lyrics": "And you ask where the hell I've been"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I'm too perfect"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "'Til I open my big mouth"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I want to be me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "DM7",
+              "lyrics": "Is that not allowed?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I'm too clever"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "And then I'm too fucking dumb"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You hate it when I cry"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "DM7",
+              "lyrics": "Unless it's that time of the month"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I'm too perfect"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "'Til I show you that I'm not"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A thousand people I could be for you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "DM7",
+              "lyrics": "And you hate the fucking lot"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "You hate the fucking lot"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "DM7",
+              "lyrics": "You hate the fucking lot"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Hey, hey"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2 1:45",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "It's taking you ages"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "You still don't get the hint"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm not asking for pages"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But one text or two would be nice"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "And please, don't pull those faces"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "When I've been.. out working my arse off all day"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "It's just one bottle of wine or two"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But hey, you can't even talk"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "You smoke weed just to help you sleep"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Then why you're out getting stoned at 4 o'clock"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "And then you come home to me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And don't say hello"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "'Cause I got high again"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "DM7",
+              "lyrics": "And forgot to fold my clothes....clothes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus 2:21",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "DM7",
+              "lyrics": "'Cause I'm too messy"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "And then I'm too fucking clean"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You told me, \"Get a job\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "DM7",
+              "lyrics": "And you ask where the hell I've been"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I'm too perfect"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "'Til I open my big mouth"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I want to be me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "DM7",
+              "lyrics": "Is that not allowed?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I'm too clever"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "And then I'm too fucking dumb"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You hate it when I cry"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "DM7",
+              "lyrics": "Unless it's that time of the month"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I'm too perfect"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "'Til I show you that I'm not"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A thousand people I could be for you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "DM7",
+              "lyrics": "And you hate the fucking lot"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "You hate the fucking lot"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "DM7",
+              "lyrics": "You hate the fucking lot"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Instrumental] 3:04"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "DM7",
+              "lyrics": "| | | |"
+            },
+            {
+              "chord": "DM7",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "DM7",
+              "lyrics": "| | | |"
+            },
+            {
+              "chord": "DM7",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "DM7",
+              "lyrics": "| | | | Oh-oh"
+            },
+            {
+              "chord": "DM7",
+              "lyrics": "ohh"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus 3:29",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "DM7",
+              "lyrics": "'Cause I'm too messy"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "And then I'm too fucking clean"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You told me, \"Get a job\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "DM7",
+              "lyrics": "And you ask where the hell I've been"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I'm too perfect"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "'Til I open my big mouth"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I want to be me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "DM7",
+              "lyrics": "Is that not allowed?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I'm too clever"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "And then I'm too fucking dumb"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You hate it when I cry"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "DM7",
+              "lyrics": "Unless it's that time of the month"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I'm too perfect"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "'Til I show you that I'm not"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A thousand people I could be for you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "DM7",
+              "lyrics": "And you hate the fucking lot"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "You hate the fucking lot"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "DM7",
+              "lyrics": "You hate the fucking lot"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro 4:15",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "You hate"
+            },
+            {
+              "chord": "E",
+              "lyrics": "the fucking lot"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "DM7",
+              "lyrics": "* You hate the fucking lot"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

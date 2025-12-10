@@ -1,0 +1,712 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/adele/someone-like-you-chords-1006751",
+  "title": "Someone Like You",
+  "artist": "Adele",
+  "key": "A",
+  "scrapedAt": "2025-12-10T18:43:24.266Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bm/F#",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I heard t"
+            },
+            {
+              "chord": "Bm/F#",
+              "lyrics": "hat you're settled down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "That you f"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ound a girl and you're married now"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I heard t"
+            },
+            {
+              "chord": "Bm/F#",
+              "lyrics": "hat your dreams came true"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Guess she"
+            },
+            {
+              "chord": "C",
+              "lyrics": "gave you things I didn't give to you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Old frien"
+            },
+            {
+              "chord": "Bm/F#",
+              "lyrics": "d, why are you so shy?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Ain't like"
+            },
+            {
+              "chord": "C",
+              "lyrics": "you to hold back or hide from the light"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pre-Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D9",
+              "lyrics": "I hate to"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "turn up out of the blue uninvited"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "But I couldn't stay away, I couldn't fight it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D9",
+              "lyrics": "I'd hoped"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "you'd see my face and that you'd be reminded"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "That for"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "me it isn't o - ver"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Never m"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ind, I'll f"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ind someone"
+            },
+            {
+              "chord": "C",
+              "lyrics": "like you - ou"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I wish"
+            },
+            {
+              "chord": "D",
+              "lyrics": "nothing but"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "the best fo"
+            },
+            {
+              "chord": "C",
+              "lyrics": "r you too"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Don't f"
+            },
+            {
+              "chord": "D",
+              "lyrics": "orget me, I"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "beg, I'll r"
+            },
+            {
+              "chord": "C",
+              "lyrics": "emember you said"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Sometim"
+            },
+            {
+              "chord": "D",
+              "lyrics": "es it lasts"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "in love but"
+            },
+            {
+              "chord": "C",
+              "lyrics": "sometimes it hurts instea - ead"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Sometim"
+            },
+            {
+              "chord": "D",
+              "lyrics": "es it lasts"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "in love but"
+            },
+            {
+              "chord": "C",
+              "lyrics": "sometimes it hurts instea - ead"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "You know"
+            },
+            {
+              "chord": "Bm/F#",
+              "lyrics": "how the time flies"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Only yeste"
+            },
+            {
+              "chord": "C",
+              "lyrics": "rday was the time of our lives"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "We were b"
+            },
+            {
+              "chord": "Bm/F#",
+              "lyrics": "orn and raised in a summer haze"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Bound by t"
+            },
+            {
+              "chord": "C",
+              "lyrics": "he surprise of our glory days"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pre-Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D9",
+              "lyrics": "I hate to"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "turn up out of the blue uninvited"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "But I couldn't stay away, I couldn't fight it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D9",
+              "lyrics": "I'd hoped"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "you'd see my face and that you'd be reminded"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "That fo"
+            },
+            {
+              "chord": "D",
+              "lyrics": "r me it isn"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "'t o - ver"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Never m"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ind, I'll f"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ind someone"
+            },
+            {
+              "chord": "C",
+              "lyrics": "like you - ou"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I wish"
+            },
+            {
+              "chord": "D",
+              "lyrics": "nothing but"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "the best fo"
+            },
+            {
+              "chord": "C",
+              "lyrics": "r you too"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Don't f"
+            },
+            {
+              "chord": "D",
+              "lyrics": "orget me, I"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "beg, I'll r"
+            },
+            {
+              "chord": "C",
+              "lyrics": "emember you said"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Sometim"
+            },
+            {
+              "chord": "D",
+              "lyrics": "es it lasts"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "in love but"
+            },
+            {
+              "chord": "C",
+              "lyrics": "sometimes it hurts instead, yeah"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Nothing compares, no worries or cares"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Regrets and mistakes, they are memories made"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Who wo"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "uld have kno"
+            },
+            {
+              "chord": "G",
+              "lyrics": "wn how bitt"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ersweet thi"
+            },
+            {
+              "chord": "D",
+              "lyrics": "s would taste?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Never m"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "ind, I'll find"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "someone lik"
+            },
+            {
+              "chord": "C",
+              "lyrics": "e you - ou"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I wish"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "nothing but th"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "e best for y"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ou - ou"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Don't f"
+            },
+            {
+              "chord": "D",
+              "lyrics": "orget me, I"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "beg, I'll r"
+            },
+            {
+              "chord": "C",
+              "lyrics": "emember you said"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Sometim"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "es it lasts in"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "love but so"
+            },
+            {
+              "chord": "C",
+              "lyrics": "metimes it hurts instea - ead"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Never m"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ind, I'll f"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ind someone"
+            },
+            {
+              "chord": "C",
+              "lyrics": "like you - ou"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I wish"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "nothing but th"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "e best for y"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ou too"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Don't f"
+            },
+            {
+              "chord": "D",
+              "lyrics": "orget me, I"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "beg, I'll r"
+            },
+            {
+              "chord": "C",
+              "lyrics": "emember you said"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Sometim"
+            },
+            {
+              "chord": "D",
+              "lyrics": "es it lasts"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "in love but"
+            },
+            {
+              "chord": "C",
+              "lyrics": "sometimes it hurts instea - ead"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Sometim"
+            },
+            {
+              "chord": "D",
+              "lyrics": "es it lasts"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "in love but"
+            },
+            {
+              "chord": "C",
+              "lyrics": "sometimes it hurts instea - ya ya ya"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

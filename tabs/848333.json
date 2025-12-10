@@ -1,0 +1,613 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/the-beatles/eight-days-a-week-chords-848333",
+  "title": "Eight Days A Week",
+  "artist": "The Beatles",
+  "key": "",
+  "scrapedAt": "2025-12-10T18:46:30.993Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "e|--0--"
+            },
+            {
+              "chord": "E/D",
+              "lyrics": "-----0--0----"
+            },
+            {
+              "chord": "G/D",
+              "lyrics": "0---|--0-----"
+            },
+            {
+              "chord": "D",
+              "lyrics": "--0--0----0---|--0-------0--0----0---|--0-------0--0----0---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|-10------10-12---10---|-12------12-14---12---|-15------15-17---15---|-10------10-12---10---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|-11------11-11---11---|-13------13-13---13---|-16------16-16---16---|-11------11-11---11---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|-12------12-12---12---|-14------14-14---14---|-17------17-17---17---|-12------12-12---12---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|----------------------|----------------------|----------------------|----------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|----------------------|----------------------|----------------------|----------------------|"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Ooh I nee"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "d your love babe"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Guess you"
+            },
+            {
+              "chord": "D",
+              "lyrics": "know it's true"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Hope you"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "need my love babe"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Just like"
+            },
+            {
+              "chord": "D",
+              "lyrics": "I need you"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Hold me,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "love me, h"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "old me, love"
+            },
+            {
+              "chord": "E",
+              "lyrics": "me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I ain't g"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "ot nothin' but love babe"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Eight day"
+            },
+            {
+              "chord": "D",
+              "lyrics": "s a week"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Love you"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "ev'ry day girl"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Always on"
+            },
+            {
+              "chord": "D",
+              "lyrics": "my mind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "One thing"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "I can say girl"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Love you"
+            },
+            {
+              "chord": "D",
+              "lyrics": "all the time"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Hold me,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "love me, h"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "old me, love"
+            },
+            {
+              "chord": "E",
+              "lyrics": "me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I ain't g"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "ot nothin' but love girl"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Eight day"
+            },
+            {
+              "chord": "D",
+              "lyrics": "s a week"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Eight days a week"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "I love you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Eight days a week"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Is not en"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ough to show I care"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 3",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Ooh I nee"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "d your love babe"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Guess you"
+            },
+            {
+              "chord": "D",
+              "lyrics": "know it's true"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Hope you"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "need my love babe"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Just like"
+            },
+            {
+              "chord": "D",
+              "lyrics": "I need you"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Hold me,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "love me, h"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "old me, love"
+            },
+            {
+              "chord": "E",
+              "lyrics": "me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I ain't g"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "ot nothin' but love babe"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Eight day"
+            },
+            {
+              "chord": "D",
+              "lyrics": "s a week"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Eight days a week"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "I love you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Eight days a week"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Is not en"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ough to show I care"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 4",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Love you"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "ev'ry day girl"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Always on"
+            },
+            {
+              "chord": "D",
+              "lyrics": "my mind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "One thing"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "I can say girl"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Love you"
+            },
+            {
+              "chord": "D",
+              "lyrics": "all the time"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Hold me,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "love me, h"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "old me, love"
+            },
+            {
+              "chord": "E",
+              "lyrics": "me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I ain't g"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "ot nothin' but love babe"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Eight day"
+            },
+            {
+              "chord": "D",
+              "lyrics": "s a week"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Eight day"
+            },
+            {
+              "chord": "D",
+              "lyrics": "s a week"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Eight day"
+            },
+            {
+              "chord": "D",
+              "lyrics": "s a week"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "E/D",
+              "lyrics": ""
+            },
+            {
+              "chord": "G/D",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

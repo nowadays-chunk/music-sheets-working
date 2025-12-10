@@ -1,0 +1,372 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/ankita-pun/maili-chords-4386071",
+  "title": "Maili",
+  "artist": "Ankita Pun",
+  "key": "C",
+  "scrapedAt": "2025-12-10T18:43:36.969Z",
+  "sections": [
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Tadha ta"
+            },
+            {
+              "chord": "G",
+              "lyrics": "dha meri ma"
+            },
+            {
+              "chord": "F",
+              "lyrics": "yalu"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Baato herdai holing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Farkinchh"
+            },
+            {
+              "chord": "G",
+              "lyrics": "a ki bhani uuni"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Din haru"
+            },
+            {
+              "chord": "G",
+              "lyrics": "gandai holin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pre-Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Tehi pipal"
+            },
+            {
+              "chord": "G",
+              "lyrics": "u ko chhaayaa maa"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Haami dui"
+            },
+            {
+              "chord": "G",
+              "lyrics": "rameko"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Samjhidai"
+            },
+            {
+              "chord": "G",
+              "lyrics": "malai meri maya"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Jhyaalai"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ma basi to"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "laidai hun"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Meri ma"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ili"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Meri ma"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ili…"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Bhagyaa k"
+            },
+            {
+              "chord": "G",
+              "lyrics": "asto hamro"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Thadhinu p"
+            },
+            {
+              "chord": "G",
+              "lyrics": "arne"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Daiba ko"
+            },
+            {
+              "chord": "G",
+              "lyrics": "khel bhani"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Man bhujha"
+            },
+            {
+              "chord": "G",
+              "lyrics": "unu parne"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Samaya ko"
+            },
+            {
+              "chord": "E",
+              "lyrics": "simaa"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Naaghera m"
+            },
+            {
+              "chord": "G",
+              "lyrics": "a aaune chhu"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Karma lai"
+            },
+            {
+              "chord": "E",
+              "lyrics": "dhatera fe"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "ri"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Daadaa kaatne chhu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pre-Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Feri pipal"
+            },
+            {
+              "chord": "G",
+              "lyrics": "u ko chhaayaa ma"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Haami dui"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ramaaula"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Pardesha b"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ata farkera"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Haami na"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ya sansaar"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "sajaula"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Meri ma"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ili"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Meri ma"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ili…"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,849 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/patti-smith/because-the-night-chords-84617",
+  "title": "Because The Night",
+  "artist": "Patti Smith",
+  "key": "Bm",
+  "scrapedAt": "2025-12-10T18:46:58.300Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "|   | x2"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Take me"
+            },
+            {
+              "chord": "G",
+              "lyrics": "now, baby,"
+            },
+            {
+              "chord": "A",
+              "lyrics": "here as I a"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "m."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Pull me"
+            },
+            {
+              "chord": "G",
+              "lyrics": "close try a"
+            },
+            {
+              "chord": "A",
+              "lyrics": "nd understa"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "nd."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Desire i"
+            },
+            {
+              "chord": "G",
+              "lyrics": "s hunger, i"
+            },
+            {
+              "chord": "A",
+              "lyrics": "s the fire"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "I breathe."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Love is"
+            },
+            {
+              "chord": "G",
+              "lyrics": "a banquet o"
+            },
+            {
+              "chord": "A",
+              "lyrics": "n which we"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "feed."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Come on"
+            },
+            {
+              "chord": "A",
+              "lyrics": "now, try a"
+            },
+            {
+              "chord": "D",
+              "lyrics": "nd understa"
+            },
+            {
+              "chord": "A",
+              "lyrics": "nd"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "the way I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "feel when"
+            },
+            {
+              "chord": "A",
+              "lyrics": "I'm in your hand."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Take my"
+            },
+            {
+              "chord": "G",
+              "lyrics": "hand; come"
+            },
+            {
+              "chord": "A",
+              "lyrics": "under cover."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "They can"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "'t hurt you"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "now, can't hurt you now, can't hurt you now."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Because"
+            },
+            {
+              "chord": "G",
+              "lyrics": "the night b"
+            },
+            {
+              "chord": "A",
+              "lyrics": "elongs to l"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "overs."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Because"
+            },
+            {
+              "chord": "G",
+              "lyrics": "the night b"
+            },
+            {
+              "chord": "A",
+              "lyrics": "elongs to l"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ust."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Because"
+            },
+            {
+              "chord": "G",
+              "lyrics": "the night b"
+            },
+            {
+              "chord": "A",
+              "lyrics": "elongs to l"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "overs."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Because"
+            },
+            {
+              "chord": "G",
+              "lyrics": "the night b"
+            },
+            {
+              "chord": "A",
+              "lyrics": "elongs to u"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "s."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Have I d"
+            },
+            {
+              "chord": "G",
+              "lyrics": "oubt when I"
+            },
+            {
+              "chord": "A",
+              "lyrics": "'m alone?"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Love is"
+            },
+            {
+              "chord": "G",
+              "lyrics": "a ring on t"
+            },
+            {
+              "chord": "A",
+              "lyrics": "he telephon"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "e."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Love is"
+            },
+            {
+              "chord": "G",
+              "lyrics": "an angel di"
+            },
+            {
+              "chord": "A",
+              "lyrics": "sguised as"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "lust,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "here in"
+            },
+            {
+              "chord": "G",
+              "lyrics": "our bed unt"
+            },
+            {
+              "chord": "A",
+              "lyrics": "il the morn"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ing comes."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Come on"
+            },
+            {
+              "chord": "A",
+              "lyrics": "now, try a"
+            },
+            {
+              "chord": "D",
+              "lyrics": "nd understa"
+            },
+            {
+              "chord": "A",
+              "lyrics": "nd"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "the way I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "feel under"
+            },
+            {
+              "chord": "A",
+              "lyrics": "your command."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Take my"
+            },
+            {
+              "chord": "G",
+              "lyrics": "hand as the"
+            },
+            {
+              "chord": "A",
+              "lyrics": "sun descends."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "They can"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "'t touch you"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "now, can't touch you now, can't touch you now."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Because"
+            },
+            {
+              "chord": "G",
+              "lyrics": "the night b"
+            },
+            {
+              "chord": "A",
+              "lyrics": "elongs to l"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "overs."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Because"
+            },
+            {
+              "chord": "G",
+              "lyrics": "the night b"
+            },
+            {
+              "chord": "A",
+              "lyrics": "elongs to l"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ust."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Because"
+            },
+            {
+              "chord": "G",
+              "lyrics": "the night b"
+            },
+            {
+              "chord": "A",
+              "lyrics": "elongs to l"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "overs."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Because"
+            },
+            {
+              "chord": "G",
+              "lyrics": "the night b"
+            },
+            {
+              "chord": "A",
+              "lyrics": "elongs to u"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "s."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Solo",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "|   |"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "|   |"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "|   |"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "|"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "With"
+            },
+            {
+              "chord": "A",
+              "lyrics": "love we sle"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ep; with do"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ubt the vic"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ious circle"
+            },
+            {
+              "chord": "A",
+              "lyrics": "turns and burns."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Witho"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ut you I ca"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "nnot live, f"
+            },
+            {
+              "chord": "A",
+              "lyrics": "orgive the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "yearning bu"
+            },
+            {
+              "chord": "A",
+              "lyrics": "rning."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I believ"
+            },
+            {
+              "chord": "D",
+              "lyrics": "e it's time"
+            },
+            {
+              "chord": "G",
+              "lyrics": ", too real to feel."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "So touch"
+            },
+            {
+              "chord": "D",
+              "lyrics": "me now, to"
+            },
+            {
+              "chord": "G",
+              "lyrics": "uch me now,"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "touch me now."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Because"
+            },
+            {
+              "chord": "G",
+              "lyrics": "the night b"
+            },
+            {
+              "chord": "A",
+              "lyrics": "elongs to l"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "overs."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Because"
+            },
+            {
+              "chord": "G",
+              "lyrics": "the night b"
+            },
+            {
+              "chord": "A",
+              "lyrics": "elongs to l"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ust."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Because"
+            },
+            {
+              "chord": "G",
+              "lyrics": "the night b"
+            },
+            {
+              "chord": "A",
+              "lyrics": "elongs to l"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "overs."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Because"
+            },
+            {
+              "chord": "G",
+              "lyrics": "the night b"
+            },
+            {
+              "chord": "A",
+              "lyrics": "elongs to u"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "s."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Because"
+            },
+            {
+              "chord": "G",
+              "lyrics": "tonight the"
+            },
+            {
+              "chord": "A",
+              "lyrics": "re are two"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "lovers."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "If we be"
+            },
+            {
+              "chord": "G",
+              "lyrics": "lieve in th"
+            },
+            {
+              "chord": "A",
+              "lyrics": "e night we"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "trust"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Because"
+            },
+            {
+              "chord": "G",
+              "lyrics": "the night b"
+            },
+            {
+              "chord": "A",
+              "lyrics": "elongs to l"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "overs."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Because"
+            },
+            {
+              "chord": "G",
+              "lyrics": "the night b"
+            },
+            {
+              "chord": "A",
+              "lyrics": "elongs to u"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "s."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

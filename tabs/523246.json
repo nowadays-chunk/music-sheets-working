@@ -1,0 +1,726 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/alanis-morissette/ironic-chords-523246",
+  "title": "Ironic",
+  "artist": "Alanis Morissette",
+  "key": "E",
+  "scrapedAt": "2025-12-10T18:44:29.867Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj7",
+              "lyrics": "* Hey yay ya"
+            },
+            {
+              "chord": "Gmaj7/D",
+              "lyrics": "y, yah ha ha, ay"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "yeah, hi"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D/F#",
+              "lyrics": "An old man"
+            },
+            {
+              "chord": "G",
+              "lyrics": "turned nin"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "ety-eight"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D/F#",
+              "lyrics": "He won the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "lottery an"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "d died the nex"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "t day"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D/F#",
+              "lyrics": "It's a bla"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ck fly in y"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "our Chardonnay"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D/F#",
+              "lyrics": "It's a dea"
+            },
+            {
+              "chord": "G",
+              "lyrics": "th row pard"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "on two minutes"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "too late"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D/F#",
+              "lyrics": "And isn't"
+            },
+            {
+              "chord": "G",
+              "lyrics": "it ironic ."
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": ".. don't you t"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "hink"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "It's li"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ke ra-aaiin"
+            },
+            {
+              "chord": "D",
+              "lyrics": "on your we"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "dding day"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "It's a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "free ride w"
+            },
+            {
+              "chord": "D",
+              "lyrics": "hen you've"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "already paid"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "It's th"
+            },
+            {
+              "chord": "G",
+              "lyrics": "e good advi"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ce that you"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "just didn't take"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "And who"
+            },
+            {
+              "chord": "C",
+              "lyrics": "would've th"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ought ... it figures"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D/F#",
+              "lyrics": "Mr. Play I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "t Safe was"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "afraid to fly"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D/F#",
+              "lyrics": "He packed"
+            },
+            {
+              "chord": "G",
+              "lyrics": "his suit-ca"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "se and kissed"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "his kids goodbye"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D/F#",
+              "lyrics": "He waited"
+            },
+            {
+              "chord": "G",
+              "lyrics": "his whole d"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "amn life to ta"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ke that flight"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D/F#",
+              "lyrics": "And as the p"
+            },
+            {
+              "chord": "G",
+              "lyrics": "lane crashed down he thought"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D/F#",
+              "lyrics": "\"Well, isn't"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "this nice ...\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D/F#",
+              "lyrics": "And isn't"
+            },
+            {
+              "chord": "G",
+              "lyrics": "it ironic ."
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": ".. don't you t"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "hink"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "It's li"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ke ra-aaiin"
+            },
+            {
+              "chord": "D",
+              "lyrics": "on your we"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "dding day"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "It's a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "free ride w"
+            },
+            {
+              "chord": "D",
+              "lyrics": "hen you've"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "already paid"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "It's th"
+            },
+            {
+              "chord": "G",
+              "lyrics": "e good advi"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ce that you"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "just didn't take"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "And who"
+            },
+            {
+              "chord": "C",
+              "lyrics": "would've th"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ought ... it figures"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj7",
+              "lyrics": "Well, life ha"
+            },
+            {
+              "chord": "Gmaj7/D",
+              "lyrics": "s a funny way of sneaking up on you when you think everything's okay"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj7",
+              "lyrics": "And everythin"
+            },
+            {
+              "chord": "Gmaj7/D",
+              "lyrics": "g's going right"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj7",
+              "lyrics": "And life has"
+            },
+            {
+              "chord": "Gmaj7/D",
+              "lyrics": "a funny way of helping you out when you think everything's gone wrong"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj7",
+              "lyrics": "* And everythi"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "ng blows up in your face"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 3",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D/F#",
+              "lyrics": "A traffic"
+            },
+            {
+              "chord": "G",
+              "lyrics": "jam when yo"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "u're already l"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ate"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D/F#",
+              "lyrics": "A no-smoki"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ng sign on"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "your cigarette"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "break"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D/F#",
+              "lyrics": "It's like"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ten thousan"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "d spoons when"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "all you need is a knife"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D/F#",
+              "lyrics": "It's meeting"
+            },
+            {
+              "chord": "G",
+              "lyrics": "the man of my dreams"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D/F#",
+              "lyrics": "And then mee"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ting his beautiful wife ... hmm"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D/F#",
+              "lyrics": "And isn't"
+            },
+            {
+              "chord": "G",
+              "lyrics": "it ironic ."
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": ".. don't you t"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "hink"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D/F#",
+              "lyrics": "A little t"
+            },
+            {
+              "chord": "G",
+              "lyrics": "oo ironic ."
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": ".. and yeah, I"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "really do think ..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "It's li"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ke ra-aiin"
+            },
+            {
+              "chord": "D",
+              "lyrics": "on your wed"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ding day"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "It's a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "free ride w"
+            },
+            {
+              "chord": "D",
+              "lyrics": "hen you've"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "already paid"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "It's th"
+            },
+            {
+              "chord": "G",
+              "lyrics": "e good advi"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ce that you"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "just didn't take"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "And who"
+            },
+            {
+              "chord": "C",
+              "lyrics": "would've th"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ought ... it figures"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Gmaj7/D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj7",
+              "lyrics": "And yeah, lif"
+            },
+            {
+              "chord": "Gmaj7/D",
+              "lyrics": "e has a funny way of sneaking up on you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj7",
+              "lyrics": "And life has"
+            },
+            {
+              "chord": "Gmaj7/D",
+              "lyrics": "a funny, funny way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj7",
+              "lyrics": "Of helping yo"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "u out, helping you out"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

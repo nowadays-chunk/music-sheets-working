@@ -1,0 +1,412 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/johnny-cash/folsom-prison-blues-chords-202632",
+  "title": "Folsom Prison Blues",
+  "artist": "Johnny Cash",
+  "key": "G",
+  "scrapedAt": "2025-12-10T18:46:31.732Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I hear the train a comin', it's rollin' round the bend"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G7",
+              "lyrics": "and I ain't seen the sunshine since I don't know when"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I'm stuck"
+            },
+            {
+              "chord": "G",
+              "lyrics": "in Folsom Prison and time keeps draggin' on"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7",
+              "lyrics": "But that t"
+            },
+            {
+              "chord": "G",
+              "lyrics": "rain keeps a rollin' on down to San Antone"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "When I was just a baby my Mama told me \"Son"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G7",
+              "lyrics": "always be a good boy; don't ever play with guns\"."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "But I sho"
+            },
+            {
+              "chord": "G",
+              "lyrics": "t a man in Reno, just to watch him die"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7",
+              "lyrics": "When I hea"
+            },
+            {
+              "chord": "G",
+              "lyrics": "r that whistle blowin' I hang my head and cry"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Solo",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "|  |  |  |"
+            },
+            {
+              "chord": "G",
+              "lyrics": "|  |  |  |"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "|  |  |  |"
+            },
+            {
+              "chord": "C",
+              "lyrics": "|  |  |  |"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "|  |  |  |"
+            },
+            {
+              "chord": "D",
+              "lyrics": "|"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 3",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I bet there's rich folks eating from a fancy dining car"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G7",
+              "lyrics": "They're probably drinking coffee and smokin' big cigars"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Well, I k"
+            },
+            {
+              "chord": "G",
+              "lyrics": "now I had it comin', I know I can't be free"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7",
+              "lyrics": "But those"
+            },
+            {
+              "chord": "G",
+              "lyrics": "people keep a movin' and that's what tortures me"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Solo",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "|  |  |  |"
+            },
+            {
+              "chord": "G",
+              "lyrics": "|  |  |  |"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "|  |  |  |"
+            },
+            {
+              "chord": "C",
+              "lyrics": "|  |  |  |"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "|  |  |  |"
+            },
+            {
+              "chord": "D",
+              "lyrics": "|"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 4",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Well, if they freed me from this prison, if that railroad train was mine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G7",
+              "lyrics": "I bet I'd move it on a little farther down the line"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Far from"
+            },
+            {
+              "chord": "G",
+              "lyrics": "Folsom Prison, that's where I want to stay"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7",
+              "lyrics": "And I'd le"
+            },
+            {
+              "chord": "G",
+              "lyrics": "t that lonesome whistle blow my blues away"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

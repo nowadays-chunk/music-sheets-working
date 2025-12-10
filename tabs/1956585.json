@@ -1,0 +1,657 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/ed-sheeran/happier-chords-1956585",
+  "title": "Happier",
+  "artist": "Ed Sheeran",
+  "key": "Am",
+  "scrapedAt": "2025-12-10T18:45:55.094Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "e|--------"
+            },
+            {
+              "chord": "F",
+              "lyrics": "-----------"
+            },
+            {
+              "chord": "C",
+              "lyrics": "------|-------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|-------1-----1-----------|-------1-----------1-----|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|-------0-----0h2---0--2--|-0-----0-----------0-----|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|----2-----2--3-----3--3--|-0h2-----(2)---(2)----2--| x2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|-0-----------------------|-3-----------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|-------------------------|-------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "h = Hammer-on, (n) = Ghost note"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "Walking do"
+            },
+            {
+              "chord": "F",
+              "lyrics": "wn 29th and"
+            },
+            {
+              "chord": "C",
+              "lyrics": "Park"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "I saw you"
+            },
+            {
+              "chord": "F",
+              "lyrics": "in another’"
+            },
+            {
+              "chord": "C",
+              "lyrics": "s arms"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "Only a mon"
+            },
+            {
+              "chord": "F",
+              "lyrics": "th we’ve be"
+            },
+            {
+              "chord": "C",
+              "lyrics": "en apart"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "You look h"
+            },
+            {
+              "chord": "F",
+              "lyrics": "appier"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "Saw you wa"
+            },
+            {
+              "chord": "F",
+              "lyrics": "lk inside a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "bar"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "He said so"
+            },
+            {
+              "chord": "F",
+              "lyrics": "mething to"
+            },
+            {
+              "chord": "C",
+              "lyrics": "make you laugh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "I saw that"
+            },
+            {
+              "chord": "F",
+              "lyrics": "both your"
+            },
+            {
+              "chord": "C",
+              "lyrics": "smiles were twice as wide as ours"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "Yeah, you"
+            },
+            {
+              "chord": "F",
+              "lyrics": "look happie"
+            },
+            {
+              "chord": "C",
+              "lyrics": "r, you do"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pre-Chorus 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "Ain’t nobo"
+            },
+            {
+              "chord": "F",
+              "lyrics": "dy hurt you"
+            },
+            {
+              "chord": "C",
+              "lyrics": "like I hurt you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "But ain’t"
+            },
+            {
+              "chord": "F",
+              "lyrics": "nobody love"
+            },
+            {
+              "chord": "C",
+              "lyrics": "you like I do"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "Promise th"
+            },
+            {
+              "chord": "F",
+              "lyrics": "at I will n"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ot take it personal, baby"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "If you’re"
+            },
+            {
+              "chord": "F",
+              "lyrics": "moving on w"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ith someone new"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "’Cause bab"
+            },
+            {
+              "chord": "F",
+              "lyrics": "y you look"
+            },
+            {
+              "chord": "C",
+              "lyrics": "happier, you do"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "My friends"
+            },
+            {
+              "chord": "F",
+              "lyrics": "told me on"
+            },
+            {
+              "chord": "C",
+              "lyrics": "e day I’d feel it too"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "And until"
+            },
+            {
+              "chord": "F",
+              "lyrics": "then I’ll s"
+            },
+            {
+              "chord": "C",
+              "lyrics": "mile to hide the truth"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "But I know"
+            },
+            {
+              "chord": "F",
+              "lyrics": "I was happ"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ier with you"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "Sat in the"
+            },
+            {
+              "chord": "F",
+              "lyrics": "corner of"
+            },
+            {
+              "chord": "C",
+              "lyrics": "the room"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "Everything"
+            },
+            {
+              "chord": "F",
+              "lyrics": "’s remindin"
+            },
+            {
+              "chord": "C",
+              "lyrics": "g me of you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "Nursing a"
+            },
+            {
+              "chord": "F",
+              "lyrics": "n empty bot"
+            },
+            {
+              "chord": "C",
+              "lyrics": "tle and tel"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "ling myself you’re happier"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Aren’t yo"
+            },
+            {
+              "chord": "C",
+              "lyrics": "u?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pre-Chorus 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "Ain’t nobo"
+            },
+            {
+              "chord": "F",
+              "lyrics": "dy hurt you"
+            },
+            {
+              "chord": "C",
+              "lyrics": "like I hurt you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "But ain’t"
+            },
+            {
+              "chord": "F",
+              "lyrics": "nobody need"
+            },
+            {
+              "chord": "C",
+              "lyrics": "you like I do"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "I know tha"
+            },
+            {
+              "chord": "F",
+              "lyrics": "t there’s o"
+            },
+            {
+              "chord": "C",
+              "lyrics": "thers that deserve you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "But my dar"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ling, I am"
+            },
+            {
+              "chord": "C",
+              "lyrics": "still in love with you"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "But I gues"
+            },
+            {
+              "chord": "F",
+              "lyrics": "s you look"
+            },
+            {
+              "chord": "C",
+              "lyrics": "happier, you do"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "My friends"
+            },
+            {
+              "chord": "F",
+              "lyrics": "told me on"
+            },
+            {
+              "chord": "C",
+              "lyrics": "e day I’ll feel it too"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "I could tr"
+            },
+            {
+              "chord": "F",
+              "lyrics": "y to smile"
+            },
+            {
+              "chord": "C",
+              "lyrics": "to hide the truth"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "But I know"
+            },
+            {
+              "chord": "F",
+              "lyrics": "I was happ"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ier with you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Interlude]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Hey-yeah, hey-yeah, hey-yeah)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "x4"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "Baby, you"
+            },
+            {
+              "chord": "F",
+              "lyrics": "look happie"
+            },
+            {
+              "chord": "C",
+              "lyrics": "r, you do"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "I knew one"
+            },
+            {
+              "chord": "F",
+              "lyrics": "day you’d"
+            },
+            {
+              "chord": "C",
+              "lyrics": "fall for someone new"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "But if he"
+            },
+            {
+              "chord": "F",
+              "lyrics": "breaks your"
+            },
+            {
+              "chord": "C",
+              "lyrics": "heart like lovers do"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "Just know"
+            },
+            {
+              "chord": "F",
+              "lyrics": "that I’ll b"
+            },
+            {
+              "chord": "C",
+              "lyrics": "e waiting here for you"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

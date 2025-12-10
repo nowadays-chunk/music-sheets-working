@@ -1,0 +1,592 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/bon-iver/skinny-love-chords-835053",
+  "title": "Skinny Love",
+  "artist": "Bon Iver",
+  "key": "Am",
+  "scrapedAt": "2025-12-10T18:48:03.802Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "|  |  |  |"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "|  |  |  |"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "|  |  |  |"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D6sus2",
+              "lyrics": "|  |  |   |"
+            },
+            {
+              "chord": "D6sus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "|  |  |  |"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Come on sk"
+            },
+            {
+              "chord": "C",
+              "lyrics": "inny love, just last the year"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Pour a lit"
+            },
+            {
+              "chord": "C",
+              "lyrics": "tle salt, we were never here"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "My, my, my"
+            },
+            {
+              "chord": "C",
+              "lyrics": ", my, my, my, my, my"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D6sus2",
+              "lyrics": "Staring at th"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "e sink of bl"
+            },
+            {
+              "chord": "Fmaj7/C",
+              "lyrics": "ood and crushed veneer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "I tell my"
+            },
+            {
+              "chord": "C",
+              "lyrics": "love to wreck it all"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Cut out al"
+            },
+            {
+              "chord": "C",
+              "lyrics": "l the ropes and let me fall"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "My, my, my"
+            },
+            {
+              "chord": "C",
+              "lyrics": ", my, my, my, my, my"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D6sus2",
+              "lyrics": "Right in this"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "moment this order's tall"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "And I told you to be patient"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C/B",
+              "lyrics": "And I told"
+            },
+            {
+              "chord": "F",
+              "lyrics": "you to be fine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "And I told you to be balanced"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And I tol"
+            },
+            {
+              "chord": "F",
+              "lyrics": "d you to be kind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "And in the morning I'll be with you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C/B",
+              "lyrics": "But it will"
+            },
+            {
+              "chord": "F",
+              "lyrics": "be a different \"kind\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "And I'll be holding all the tickets"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C/B",
+              "lyrics": "And you'll"
+            },
+            {
+              "chord": "F",
+              "lyrics": "be owning all the fines"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 3",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Come on sk"
+            },
+            {
+              "chord": "C",
+              "lyrics": "inny love, what happened here"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Suckle on"
+            },
+            {
+              "chord": "C",
+              "lyrics": "the hope in light brassiere"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "My, my, my"
+            },
+            {
+              "chord": "C",
+              "lyrics": ", my, my, my, my, my"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D6sus2",
+              "lyrics": "Sullen load i"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "s full; so s"
+            },
+            {
+              "chord": "Fmaj7/C",
+              "lyrics": "low on the split"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "And I told you to be patient"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C/B",
+              "lyrics": "And I told"
+            },
+            {
+              "chord": "F",
+              "lyrics": "you to be fine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "And I told you to be balanced"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And I tol"
+            },
+            {
+              "chord": "F",
+              "lyrics": "d you to be kind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "And now all your love is wasted"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C/B",
+              "lyrics": "So then who"
+            },
+            {
+              "chord": "F",
+              "lyrics": "the hell was I?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "And I'm breaking at the britches"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C/B",
+              "lyrics": "And at the"
+            },
+            {
+              "chord": "F",
+              "lyrics": "end of all your lines"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Who will love you?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C/B",
+              "lyrics": "Who will fi"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ght?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Who will"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "fall far beh"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ind?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Coda]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "|  |  |  |"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "|  |  |  |"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "|  |  |  |"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D6sus2",
+              "lyrics": "|  |  |   |"
+            },
+            {
+              "chord": "D6sus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,637 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/john-denver/annies-song-chords-38904",
+  "title": "Annies Song",
+  "artist": "John Denver",
+  "key": "",
+  "scrapedAt": "2025-12-10T18:46:19.796Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Yo"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "u fill up my se"
+            },
+            {
+              "chord": "G",
+              "lyrics": "nses like a"
+            },
+            {
+              "chord": "A",
+              "lyrics": "night in a"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "forest"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "D/C#",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Like"
+            },
+            {
+              "chord": "G",
+              "lyrics": "the mountai"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "ns in springt"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ime like a w"
+            },
+            {
+              "chord": "G",
+              "lyrics": "alk in the"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "rain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Like"
+            },
+            {
+              "chord": "A",
+              "lyrics": "a storm in"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "the desert"
+            },
+            {
+              "chord": "G",
+              "lyrics": "like a slee"
+            },
+            {
+              "chord": "D",
+              "lyrics": "py blue oce"
+            },
+            {
+              "chord": "D/C#",
+              "lyrics": "an"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "You"
+            },
+            {
+              "chord": "G",
+              "lyrics": "fill up my"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "senses come f"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ill me again"
+            },
+            {
+              "chord": "A7",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Co"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "me let me love"
+            },
+            {
+              "chord": "G",
+              "lyrics": "you, let me"
+            },
+            {
+              "chord": "A",
+              "lyrics": "give my li"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "fe to you"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "D/C#",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Let m"
+            },
+            {
+              "chord": "G",
+              "lyrics": "e drown in"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "your laughter"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ", let me die"
+            },
+            {
+              "chord": "G",
+              "lyrics": "in your ar"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "ms"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Let"
+            },
+            {
+              "chord": "A",
+              "lyrics": "me lay down"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "beside you,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "let me alw"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ays be with"
+            },
+            {
+              "chord": "D/C#",
+              "lyrics": "you"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Come"
+            },
+            {
+              "chord": "G",
+              "lyrics": "let me lov"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "e you, come l"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ove me again"
+            },
+            {
+              "chord": "A7",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Instrumental]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "D/C#",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "A7",
+              "lyrics": ""
+            },
+            {
+              "chord": "A7",
+              "lyrics": ""
+            },
+            {
+              "chord": "A7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7",
+              "lyrics": "let"
+            },
+            {
+              "chord": "G",
+              "lyrics": "me give my"
+            },
+            {
+              "chord": "A",
+              "lyrics": "life to you"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "D/C#",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Come"
+            },
+            {
+              "chord": "G",
+              "lyrics": "let me lov"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "e you, come l"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ove me again"
+            },
+            {
+              "chord": "A7",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 3",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Yo"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "u fill up my se"
+            },
+            {
+              "chord": "G",
+              "lyrics": "nses like a"
+            },
+            {
+              "chord": "A",
+              "lyrics": "night in a"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "forest"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "D/C#",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Like"
+            },
+            {
+              "chord": "G",
+              "lyrics": "the mountai"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "ns in springt"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ime like a w"
+            },
+            {
+              "chord": "G",
+              "lyrics": "alk in the"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "rain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Like"
+            },
+            {
+              "chord": "A",
+              "lyrics": "a storm in"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "the desert"
+            },
+            {
+              "chord": "G",
+              "lyrics": "like a slee"
+            },
+            {
+              "chord": "D",
+              "lyrics": "py blue oce"
+            },
+            {
+              "chord": "D/C#",
+              "lyrics": "an"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "You"
+            },
+            {
+              "chord": "G",
+              "lyrics": "fill up my"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "senses come f"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ill me again"
+            },
+            {
+              "chord": "A7",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Ending]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

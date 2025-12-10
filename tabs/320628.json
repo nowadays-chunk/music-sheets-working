@@ -1,0 +1,856 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/phil-collins/another-day-in-paradise-chords-320628",
+  "title": "Another Day In Paradise",
+  "artist": "Phil Collins",
+  "key": "",
+  "scrapedAt": "2025-12-10T18:47:13.090Z",
+  "sections": [
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "She calls"
+            },
+            {
+              "chord": "D",
+              "lyrics": "out to the"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "man on the street"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "\"Sir, can y"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ou help me?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "It's cold"
+            },
+            {
+              "chord": "D",
+              "lyrics": "and I've no"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "where to sleep,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "Is there so"
+            },
+            {
+              "chord": "D",
+              "lyrics": "mewhere you can tell me?\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "He walks o"
+            },
+            {
+              "chord": "D",
+              "lyrics": "n, doesn't"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "look back"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "He pretends"
+            },
+            {
+              "chord": "D",
+              "lyrics": "he can't hear her"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "Starts to"
+            },
+            {
+              "chord": "D",
+              "lyrics": "whistle as"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "he crosses the street"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "Seems embar"
+            },
+            {
+              "chord": "D",
+              "lyrics": "rassed to be there"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "Oh, think"
+            },
+            {
+              "chord": "D/E",
+              "lyrics": "twice, 'cause"
+            },
+            {
+              "chord": "C/E",
+              "lyrics": "it's an other day for"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D/E",
+              "lyrics": "You and me in paradise"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "Oh, think"
+            },
+            {
+              "chord": "D/E",
+              "lyrics": "twice, 'cause"
+            },
+            {
+              "chord": "C/E",
+              "lyrics": "it's an other day for you,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "You and"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "me in pa ra"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Instrumental]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e|-3-----3-5---3---|-2-0-----0-------|-3-----3-5---3---|-2-0-------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|-----------------|-----3-----------|-----------------|-----3---1-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|-----------------|-----------------|-----------------|-----------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|-----------------|-0---------------|-----------------|-0---------------| x2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|-----------------|---------0-------|-----------------|---------0-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|-0---------------|-----------------|-0---------------|-----------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "dise"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "just thin"
+            },
+            {
+              "chord": "D",
+              "lyrics": "k"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "about it"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "She calls"
+            },
+            {
+              "chord": "D",
+              "lyrics": "out to the"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "man on the street"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "He can see"
+            },
+            {
+              "chord": "D",
+              "lyrics": "she's been crying"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "She's got"
+            },
+            {
+              "chord": "D",
+              "lyrics": "blisters on"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "the soles of her feet"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "She can't w"
+            },
+            {
+              "chord": "D",
+              "lyrics": "alk but she's trying"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "Oh, think"
+            },
+            {
+              "chord": "D/E",
+              "lyrics": "twice, 'cause"
+            },
+            {
+              "chord": "C/E",
+              "lyrics": "it's an other day for"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D/E",
+              "lyrics": "You and me in paradise"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "Oh, think"
+            },
+            {
+              "chord": "D/E",
+              "lyrics": "twice, 'cause"
+            },
+            {
+              "chord": "C/E",
+              "lyrics": "it's an other day for you,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "You and"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "me in pa ra"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Instrumental]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e|-3-----3-5---3---|-2-0-----0-------|-3-----3-5---3---|-2-0-------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|-----------------|-----3-----------|-----------------|-----3---1-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|-----------------|-----------------|-----------------|-----------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|-----------------|-0---------------|-----------------|-0---------------| x2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|-----------------|---------0-------|-----------------|---------0-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|-0---------------|-----------------|-0---------------|-----------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "dise"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "just thin"
+            },
+            {
+              "chord": "D",
+              "lyrics": "k"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "about it"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D/F#",
+              "lyrics": "Oh lord, i"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "s there noth"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ing more an"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ybody can do"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D/F#",
+              "lyrics": "Oh-oh oh l"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ord, there m"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ust be some"
+            },
+            {
+              "chord": "G",
+              "lyrics": "thing you can say"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 3",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "You can te"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ll from the"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "lines on her face"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "You can see"
+            },
+            {
+              "chord": "D",
+              "lyrics": "that she's been there"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "Probably b"
+            },
+            {
+              "chord": "D",
+              "lyrics": "een moved o"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "n from every place"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "But she did"
+            },
+            {
+              "chord": "D",
+              "lyrics": "n't fit in there"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "Oh, think"
+            },
+            {
+              "chord": "D/E",
+              "lyrics": "twice, 'cause"
+            },
+            {
+              "chord": "C/E",
+              "lyrics": "it's an other day for"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D/E",
+              "lyrics": "You and me in paradise"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "Oh, think"
+            },
+            {
+              "chord": "D/E",
+              "lyrics": "twice, 'cause"
+            },
+            {
+              "chord": "C/E",
+              "lyrics": "it's an other day for you,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "You and"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "me in pa ra"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Instrumental]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e|-3-----3-5---3---|-2-0-----0-------|-3-----3-5---3---|-2-0-------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|-----------------|-----3-----------|-----------------|-----3---1-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|-----------------|-----------------|-----------------|-----------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|-----------------|-0---------------|-----------------|-0---------------| x2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|-----------------|---------0-------|-----------------|---------0-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|-0---------------|-----------------|-0---------------|-----------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "dise just"
+            },
+            {
+              "chord": "D",
+              "lyrics": "think"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "about it"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Repeat and fade)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

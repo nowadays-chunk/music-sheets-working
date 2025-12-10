@@ -1,0 +1,519 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/chris-stapleton/broken-halos-chords-1981245",
+  "title": "Broken Halos",
+  "artist": "Chris Stapleton",
+  "key": "Ab",
+  "scrapedAt": "2025-12-10T18:45:51.414Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Seen my"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "share of broke"
+            },
+            {
+              "chord": "G",
+              "lyrics": "n halos"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Folded w"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "ings that used"
+            },
+            {
+              "chord": "G",
+              "lyrics": "to fly"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9",
+              "lyrics": "They've all"
+            },
+            {
+              "chord": "G",
+              "lyrics": "gone wherev"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "er they go"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Brok"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "en halos that u"
+            },
+            {
+              "chord": "G",
+              "lyrics": "sed to shin"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "e"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Angels"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "come down from"
+            },
+            {
+              "chord": "G",
+              "lyrics": "the heavens"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Just to"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "help us on our"
+            },
+            {
+              "chord": "G",
+              "lyrics": "way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Come to"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "teach us, then"
+            },
+            {
+              "chord": "G",
+              "lyrics": "they leave"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "us"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And they"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "find some othe"
+            },
+            {
+              "chord": "G",
+              "lyrics": "r soul to save"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Seen my"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "share of broke"
+            },
+            {
+              "chord": "G",
+              "lyrics": "n halos"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Folded w"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "ings that used"
+            },
+            {
+              "chord": "G",
+              "lyrics": "to fly"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9",
+              "lyrics": "They've all"
+            },
+            {
+              "chord": "G",
+              "lyrics": "gone wherev"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "er they go"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Broken"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "halos that used"
+            },
+            {
+              "chord": "G",
+              "lyrics": "to shine"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Brok"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "en halos that u"
+            },
+            {
+              "chord": "G",
+              "lyrics": "sed to shin"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "e"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Don't g"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "o lookin' for t"
+            },
+            {
+              "chord": "G",
+              "lyrics": "he reasons"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Don't go"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "askin' Jesus w"
+            },
+            {
+              "chord": "G",
+              "lyrics": "hy"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "We're n"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "ot meant to kno"
+            },
+            {
+              "chord": "G",
+              "lyrics": "w the answe"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "rs"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "They be"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "long to the by"
+            },
+            {
+              "chord": "G",
+              "lyrics": "and by"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "They bel"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "ong to the by a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "nd by"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Seen my"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "share of broke"
+            },
+            {
+              "chord": "G",
+              "lyrics": "n halos"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Folded w"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "ings that used"
+            },
+            {
+              "chord": "G",
+              "lyrics": "to fly"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9",
+              "lyrics": "They've all"
+            },
+            {
+              "chord": "G",
+              "lyrics": "gone wherev"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "er they go"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Broken"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "halos that used"
+            },
+            {
+              "chord": "G",
+              "lyrics": "to shine"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Broken"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "halos that used"
+            },
+            {
+              "chord": "G",
+              "lyrics": "to shine"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Broken"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "halos that used"
+            },
+            {
+              "chord": "G",
+              "lyrics": "to shine"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Broken h"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "alos that used"
+            },
+            {
+              "chord": "G",
+              "lyrics": "to shine"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

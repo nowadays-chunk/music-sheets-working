@@ -1,0 +1,665 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/the-beatles/do-you-want-to-know-a-secret-chords-321743",
+  "title": "Do You Want To Know A Secret",
+  "artist": "The Beatles",
+  "key": "",
+  "scrapedAt": "2025-12-10T18:46:31.308Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "You'll ne"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ver know how"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "much I really love you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "You'll n"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ever know h"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "ow much I really care"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e |-----------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B |-----------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G |-----------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D |--------0---1----|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A |--2/4-2---2----2-|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E |-----------------|"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Listen"
+            },
+            {
+              "chord": "G#m7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B7",
+              "lyrics": "Do you"
+            },
+            {
+              "chord": "E",
+              "lyrics": "want to kno"
+            },
+            {
+              "chord": "G#m7",
+              "lyrics": "w a secret"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B7",
+              "lyrics": "Do you pr"
+            },
+            {
+              "chord": "E",
+              "lyrics": "omise not t"
+            },
+            {
+              "chord": "G#m7",
+              "lyrics": "o tell,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm7",
+              "lyrics": "whoa oh, o"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "h"
+            },
+            {
+              "chord": "Ammaj7/C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Closer"
+            },
+            {
+              "chord": "G#m7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B7",
+              "lyrics": "Let me"
+            },
+            {
+              "chord": "E",
+              "lyrics": "whisper in"
+            },
+            {
+              "chord": "G#m7",
+              "lyrics": "your ear"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B7",
+              "lyrics": "Say the w"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ords you lo"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "ng to hear"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "I'm in lov"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "e with you oh"
+            },
+            {
+              "chord": "B7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Listen"
+            },
+            {
+              "chord": "G#m7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B7",
+              "lyrics": "Do you"
+            },
+            {
+              "chord": "E",
+              "lyrics": "want to kno"
+            },
+            {
+              "chord": "G#m7",
+              "lyrics": "w a secret"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B7",
+              "lyrics": "Do you pr"
+            },
+            {
+              "chord": "E",
+              "lyrics": "omise not t"
+            },
+            {
+              "chord": "G#m7",
+              "lyrics": "o tell,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm7",
+              "lyrics": "whoa oh, o"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "h"
+            },
+            {
+              "chord": "Ammaj7/C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Closer"
+            },
+            {
+              "chord": "G#m7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B7",
+              "lyrics": "Let me"
+            },
+            {
+              "chord": "E",
+              "lyrics": "whisper in"
+            },
+            {
+              "chord": "G#m7",
+              "lyrics": "your ear"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B7",
+              "lyrics": "Say the w"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ords you lo"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "ng to hear"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "I'm in lov"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "e with you oh"
+            },
+            {
+              "chord": "B7",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I've kn"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "own the secre"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "t for a week"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "or two"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Nobod"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "y knows, just"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "we two- o"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "B7",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Listen"
+            },
+            {
+              "chord": "G#m7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B7",
+              "lyrics": "Do you"
+            },
+            {
+              "chord": "E",
+              "lyrics": "want to kno"
+            },
+            {
+              "chord": "G#m7",
+              "lyrics": "w a secret"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B7",
+              "lyrics": "Do you pr"
+            },
+            {
+              "chord": "E",
+              "lyrics": "omise not t"
+            },
+            {
+              "chord": "G#m7",
+              "lyrics": "o tell,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm7",
+              "lyrics": "whoa oh, o"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "h"
+            },
+            {
+              "chord": "Ammaj7/C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Closer"
+            },
+            {
+              "chord": "G#m7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B7",
+              "lyrics": "Let me"
+            },
+            {
+              "chord": "E",
+              "lyrics": "whisper in"
+            },
+            {
+              "chord": "G#m7",
+              "lyrics": "your ear"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B7",
+              "lyrics": "Say the w"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ords you lo"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "ng to hear"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "I'm in lov"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "e with you oh"
+            },
+            {
+              "chord": "B7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Fade Out?)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "oh - oh o"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "oh oooh oooh"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "- oh"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "************************************"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| / Slide up"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "************************************"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,466 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/the-beatles/for-no-one-chords-17250",
+  "title": "For No One",
+  "artist": "The Beatles",
+  "key": "B",
+  "scrapedAt": "2025-12-10T18:43:28.116Z",
+  "sections": [
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Your day"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "breaks, your mind aches"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "You find"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "that all the"
+            },
+            {
+              "chord": "F",
+              "lyrics": "words of k"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "indness linger on"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "When she no longer needs you"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "She wakes"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "up, she makes up"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "She take"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "s her time an"
+            },
+            {
+              "chord": "F",
+              "lyrics": "d doesn't f"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "eel she has to hurry"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "She no longer needs you"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "And in her"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "eyes you see nothing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "[  ]  No sign"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "of love behin"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "d the tears"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7",
+              "lyrics": "Cried for no one"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "[  ]    A lov"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "e that should"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "have lasted"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "years"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 3",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "You want"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "her, you need her"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "And yet"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "you don't bel"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ieve her wh"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "en she says her love is dead"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "You think she needs you"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Solo",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "|   |   |"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "| % |"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "C/G",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bb",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "And in her"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "eyes you see nothing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "[  ]  No sign"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "of love behin"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "d the tears"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7",
+              "lyrics": "Cried for no one"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "[  ]    A lov"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "e that should"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "have lasted"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "years"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 4",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "You stay"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "home, she goes out"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "She says"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "that long ag"
+            },
+            {
+              "chord": "F",
+              "lyrics": "o she knew"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "someone but now he's gone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "She doesn't need him"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 4",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Your day"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "breaks, your mind aches"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "There wi"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "ll be times w"
+            },
+            {
+              "chord": "F",
+              "lyrics": "hen all the"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "things she said will fill your head"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "You won't forget her"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "And in her"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "eyes you see nothing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "[  ]  No sign"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "of love behin"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "d the tears"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7",
+              "lyrics": "Cried for no one"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "[  ]    A lov"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "e that should"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "have lasted"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "years"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

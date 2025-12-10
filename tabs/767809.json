@@ -1,0 +1,635 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/mariah-carey/all-i-want-for-christmas-is-you-chords-767809",
+  "title": "All I Want For Christmas Is You",
+  "artist": "Mariah Carey",
+  "key": "G",
+  "scrapedAt": "2025-12-10T18:46:51.700Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I don't want a lot for Christmas"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G/B",
+              "lyrics": "There's just one thing I need"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I don't care about the presents"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cm6/Eb",
+              "lyrics": "Underneath the Christmas tree"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I just wa"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "nt you for my own"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "More than"
+            },
+            {
+              "chord": "Cm6/Eb",
+              "lyrics": "you could ever know"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Make my w"
+            },
+            {
+              "chord": "E7#5/B",
+              "lyrics": "ish come true"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "All I want"
+            },
+            {
+              "chord": "D7b9",
+              "lyrics": "for Christmas is..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Riff 1]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I don't want a lot for Christmas"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "There is just one thing I need"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I don't care about the presents"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cm6/Eb",
+              "lyrics": "Underneath the Christmas tree"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I don't need to hang my stocking"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "There upon the fireplace"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Santa Claus won't make me happy"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cm6/Eb",
+              "lyrics": "With a toy on Christmas day"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Hook]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I just wa"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "nt you for my own"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "More than"
+            },
+            {
+              "chord": "Cm6/Eb",
+              "lyrics": "you could ever know"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Make my w"
+            },
+            {
+              "chord": "E7#5/B",
+              "lyrics": "ish come true"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "All I want"
+            },
+            {
+              "chord": "D7b9",
+              "lyrics": "for Christmas is you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "You bab"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "y"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I won't ask for much this Christmas"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I don't even wish for snow"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I'm just gonna keep on waiting"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cm6/Eb",
+              "lyrics": "Underneath the mistletoe"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I won't make a list and send it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "To the North Pole for Saint Nick"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I won't even stay awake to"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cm6/Eb",
+              "lyrics": "Hear those magic reindeers click"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Hook]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "'Cause I"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "just want you here tonight"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Holding on"
+            },
+            {
+              "chord": "Cm6/Eb",
+              "lyrics": "to me so tight"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "What more"
+            },
+            {
+              "chord": "E7#5/B",
+              "lyrics": "can I do"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "Baby all I"
+            },
+            {
+              "chord": "D7b9",
+              "lyrics": "want for Christmas is"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "you Ooh"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "baby"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "B7",
+              "lyrics": "All the lights are shining"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "So brightly everywhere"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B7",
+              "lyrics": "And the sound of children's"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Laughter fills the air"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cm6/Eb",
+              "lyrics": "And everyone is singing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I hear th"
+            },
+            {
+              "chord": "E7#5/B",
+              "lyrics": "ose sleigh bells ringing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "Santa won't you bring me the one I really need"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "* Won't you please bring my baby to me..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 3",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Oh I don't want a lot for Christmas"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "This is all I'm asking for"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I just want to see my baby"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cm6/Eb",
+              "lyrics": "Standing right outside my door"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Hook]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Oh I just"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "want you for my own"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "More than"
+            },
+            {
+              "chord": "Cm6/Eb",
+              "lyrics": "you could ever know"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Make my w"
+            },
+            {
+              "chord": "E7#5/B",
+              "lyrics": "ish come true"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "Baby all I"
+            },
+            {
+              "chord": "D7b9",
+              "lyrics": "want for Christmas is..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "You"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "All I w"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ant for Chri"
+            },
+            {
+              "chord": "C",
+              "lyrics": "stmas is yo"
+            },
+            {
+              "chord": "D",
+              "lyrics": "u... baby (repeat and fade)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "************************************"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| x Dead note"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "************************************"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

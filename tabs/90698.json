@@ -1,0 +1,775 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/outkast/hey-ya-chords-90698",
+  "title": "Hey Ya",
+  "artist": "OutKast",
+  "key": "G",
+  "scrapedAt": "2025-12-10T18:44:04.356Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "One two three go!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "My baby d"
+            },
+            {
+              "chord": "C",
+              "lyrics": "on't mess around"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Because she loves me so"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "And this"
+            },
+            {
+              "chord": "E",
+              "lyrics": "I know fo shooo..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Uh, but d"
+            },
+            {
+              "chord": "C",
+              "lyrics": "oes she really wanna"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But can't stand to see me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Walk out"
+            },
+            {
+              "chord": "E",
+              "lyrics": "the doo..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Don't try"
+            },
+            {
+              "chord": "C",
+              "lyrics": "to fight the feelin'"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Because t"
+            },
+            {
+              "chord": "E",
+              "lyrics": "he thought alone is killing me right nooww..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Uh, thank"
+            },
+            {
+              "chord": "C",
+              "lyrics": "god for mom and dad"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "For sticking through together"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "'Cause we"
+            },
+            {
+              "chord": "E",
+              "lyrics": "don't know hooowww..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "UH!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Heeeyyy.."
+            },
+            {
+              "chord": "C",
+              "lyrics": ". Yaaaaaaa..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Heeyy Yaa"
+            },
+            {
+              "chord": "E",
+              "lyrics": "aaaaaa..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Heeeyyy.."
+            },
+            {
+              "chord": "C",
+              "lyrics": ". Yaaaaaaa..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Heeyy Yaa"
+            },
+            {
+              "chord": "E",
+              "lyrics": "aaaaaa..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Heeeyyy.."
+            },
+            {
+              "chord": "C",
+              "lyrics": ". Yaaaaaaa..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Heeyy Yaa"
+            },
+            {
+              "chord": "E",
+              "lyrics": "aaaaa..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Heeeyyy.."
+            },
+            {
+              "chord": "C",
+              "lyrics": ". Yaaaaaaa..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Heeyy Yaa"
+            },
+            {
+              "chord": "E",
+              "lyrics": "aaaaaa..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "You think you've got it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Ohh, you think you've go it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But got it just don't get it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Till there's nothing at"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "AaaaaaaaAAAAAAAaaaaaaAAAAAAaaaaaallllll..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "We've been together"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Ohh, we've been together"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "But separate's always better when there's feelings"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "InvooooooOOOOOOOoooooooOOOOOOooooooOOOOOlved"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "If what t"
+            },
+            {
+              "chord": "C",
+              "lyrics": "hey say is \"Nothing is forever\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Then what"
+            },
+            {
+              "chord": "E",
+              "lyrics": "makes, Then what makes LOOVVEEE? (Love the exception)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "So why you, why you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Why you, why you, why you are we so in denial"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "When we a"
+            },
+            {
+              "chord": "E",
+              "lyrics": "re not happy heeeerrreeee..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "N.C."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Y'all don't want me here you just wanna dance"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Heeeyyy.."
+            },
+            {
+              "chord": "C",
+              "lyrics": ". Yaaaaaaa...(OHH OH)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Heeyy Yaa"
+            },
+            {
+              "chord": "E",
+              "lyrics": "aaaaaa.. (OHH OH)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Heeeyyy.."
+            },
+            {
+              "chord": "C",
+              "lyrics": ". Yaaaaaaaa...(Don't want to meet your daddy, OHH OH)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Heeyy Yaa"
+            },
+            {
+              "chord": "E",
+              "lyrics": "aaaaa...(Just want you in my Caddy OHH OH)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Heeeyyy.."
+            },
+            {
+              "chord": "C",
+              "lyrics": ". Yaaaaaaa... (OHH OH, don't want to meet yo' mamma OHH OH)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Heeeyyy.."
+            },
+            {
+              "chord": "E",
+              "lyrics": ". Yaaaaaa...(I'm, OHH OH I'm, OHH OH)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Heeyy Yaa"
+            },
+            {
+              "chord": "C",
+              "lyrics": "aaaaaa... (I'm just being honest OHH OH, I'm just being honest)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Hey, alri"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ght now"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Alright n"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ow fellas, (YEAH)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Now what'"
+            },
+            {
+              "chord": "C",
+              "lyrics": "s cooler than bein' cool?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "(ICE COLD"
+            },
+            {
+              "chord": "E",
+              "lyrics": "!) I can't hear ya'"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I say wha"
+            },
+            {
+              "chord": "C",
+              "lyrics": "t's cooler than bein' cool?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "(ICE COLD"
+            },
+            {
+              "chord": "E",
+              "lyrics": "!) whooo..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Alright,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "alright, alright, alright"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Alright,"
+            },
+            {
+              "chord": "E",
+              "lyrics": "alright, alright, alright"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Alright,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "alright, alright, alright"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Alright,"
+            },
+            {
+              "chord": "E",
+              "lyrics": "alright, alright, OK now ladies, (YEAH)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And we go"
+            },
+            {
+              "chord": "C",
+              "lyrics": "n' break this back down in just a few seconds"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Now don't"
+            },
+            {
+              "chord": "E",
+              "lyrics": "have me break this thang down for nothin'"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Now I wan"
+            },
+            {
+              "chord": "C",
+              "lyrics": "na see y'all on y'all baddest behavior"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Gimme som"
+            },
+            {
+              "chord": "E",
+              "lyrics": "e suga', I am your neighbor ahh here we go!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Shake it,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "shake it, shake it, shake it (OHH OH)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Shake it,"
+            },
+            {
+              "chord": "E",
+              "lyrics": "shake it, shake it, shake it, shake it, shake it (OHH OH)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Shake, sh"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ake it like a Polaroid picture, shake it, shake it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Shh you g"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ot to, shake it, shh, shake it, shake it, got yo shake it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "(Shake it"
+            },
+            {
+              "chord": "C",
+              "lyrics": "Suga') shake it like Polaroid picture"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Now all B"
+            },
+            {
+              "chord": "C",
+              "lyrics": "eyonces and Lucy Lius"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And baby dolls, get on the floor"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "(Get on t"
+            },
+            {
+              "chord": "E",
+              "lyrics": "he floor)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "You know"
+            },
+            {
+              "chord": "C",
+              "lyrics": "what to dooo..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Yoooooouuu... Know I do"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

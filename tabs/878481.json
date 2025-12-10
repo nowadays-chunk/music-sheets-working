@@ -1,0 +1,709 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/the-beatles/all-you-need-is-love-chords-878481",
+  "title": "All You Need Is Love",
+  "artist": "The Beatles",
+  "key": "G",
+  "scrapedAt": "2025-12-10T18:46:23.571Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Love Lov"
+            },
+            {
+              "chord": "D",
+              "lyrics": "e Love"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Love Lov"
+            },
+            {
+              "chord": "D",
+              "lyrics": "e Love"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "1 + 2 + 3 + 4 + 1 + 2 + 3 +"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Love"
+            },
+            {
+              "chord": "G",
+              "lyrics": "Love Love"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "D7",
+              "lyrics": ""
+            },
+            {
+              "chord": "D6",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "There's"
+            },
+            {
+              "chord": "D",
+              "lyrics": "nothing you"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "can do that can't be done"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Nothing"
+            },
+            {
+              "chord": "D",
+              "lyrics": "you can sin"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "g that can't be sung"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Nothing y"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ou can say"
+            },
+            {
+              "chord": "D",
+              "lyrics": "but you can learn how to play the game,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "1 + 2 + 3 + 4 + 1 + 2 + 3 +"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "It's ea"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "sy"
+            },
+            {
+              "chord": "D6",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "There's"
+            },
+            {
+              "chord": "D",
+              "lyrics": "nothing you"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "can make that can't be made"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "No one y"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ou can save"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "that can't be saved."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Nothing y"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ou can do b"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ut you can learn how to be you in time,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "1 + 2 + 3 + 4 + 1 + 2 + 3 +"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "It's ea"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "sy"
+            },
+            {
+              "chord": "D6",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "All you"
+            },
+            {
+              "chord": "A",
+              "lyrics": "need is lo"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ve"
+            },
+            {
+              "chord": "D7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "All you"
+            },
+            {
+              "chord": "A",
+              "lyrics": "need is lo"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ve"
+            },
+            {
+              "chord": "D7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "All"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "you need is"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "love love, L"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ove is all"
+            },
+            {
+              "chord": "C",
+              "lyrics": "you need."
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Instrumental Break]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "D7",
+              "lyrics": ""
+            },
+            {
+              "chord": "D6",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "All you"
+            },
+            {
+              "chord": "A",
+              "lyrics": "need is lo"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ve"
+            },
+            {
+              "chord": "D7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "All you"
+            },
+            {
+              "chord": "A",
+              "lyrics": "need is lo"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ve"
+            },
+            {
+              "chord": "D7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "All"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "you need is"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "love love, L"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ove is all"
+            },
+            {
+              "chord": "C",
+              "lyrics": "you need."
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "There's"
+            },
+            {
+              "chord": "D",
+              "lyrics": "nothing you"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "can know that isn't known."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Nothing"
+            },
+            {
+              "chord": "D",
+              "lyrics": "you can see"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "that isn't shown."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Nowhere y"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ou can be t"
+            },
+            {
+              "chord": "D",
+              "lyrics": "hat isn't where you're meant to be,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "1 + 2 + 3 + 4 + 1 + 2 + 3 +"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "It's ea"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "sy"
+            },
+            {
+              "chord": "D6",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "All you"
+            },
+            {
+              "chord": "A",
+              "lyrics": "need is lo"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ve,"
+            },
+            {
+              "chord": "D7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "All you"
+            },
+            {
+              "chord": "A",
+              "lyrics": "need is lo"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ve,"
+            },
+            {
+              "chord": "D7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "All"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "you need is"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "love love, L"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ove is all"
+            },
+            {
+              "chord": "C",
+              "lyrics": "you need."
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "All you"
+            },
+            {
+              "chord": "A",
+              "lyrics": "need is lo"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ve (all tog"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "ether now)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "All you"
+            },
+            {
+              "chord": "A",
+              "lyrics": "need is lo"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ve (everybo"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "dy)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "All"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "you need is"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "love love, L"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ove is all"
+            },
+            {
+              "chord": "C",
+              "lyrics": "you need."
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Love is all you need"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Love is all you need (repeat till end)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

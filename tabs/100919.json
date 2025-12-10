@@ -1,0 +1,641 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/queen/i-want-to-break-free-chords-100919",
+  "title": "I Want To Break Free",
+  "artist": "Queen",
+  "key": "E",
+  "scrapedAt": "2025-12-10T18:43:28.748Z",
+  "sections": [
+    {
+      "name": "Intro 1 (fade in)",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "|   |"
+            },
+            {
+              "chord": "F#4",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "|   |"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            },
+            {
+              "chord": "C#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "|   |"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            },
+            {
+              "chord": "C#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "|  |  |"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Intro 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "|  |  |  |"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "|  |  |  | |"
+            },
+            {
+              "chord": "E",
+              "lyrics": "E | E N.C."
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "I want to break free"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I want to break free"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I want to break free from your lies"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "You're so self satisfied, I don't need you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "I've got to break free"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "God know"
+            },
+            {
+              "chord": "A",
+              "lyrics": "s, God know"
+            },
+            {
+              "chord": "E",
+              "lyrics": "s I want to break free"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "I've fallen in love"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "I've fallen in love for the first time"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "This time I know it's for real"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "I've fallen in love, yeah"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "God"
+            },
+            {
+              "chord": "A",
+              "lyrics": "knows, God"
+            },
+            {
+              "chord": "E",
+              "lyrics": "knows I've"
+            },
+            {
+              "chord": "A",
+              "lyrics": "fallen in l"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ove"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "It's stra"
+            },
+            {
+              "chord": "A",
+              "lyrics": "nge but it's true"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "I can't g"
+            },
+            {
+              "chord": "A",
+              "lyrics": "et over the way you love me like you do"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "But I have to be sure"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#sus4",
+              "lyrics": "When I walk ou"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "t that door"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Oh, how"
+            },
+            {
+              "chord": "B",
+              "lyrics": "I want to"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "be free, baby"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Oh, how"
+            },
+            {
+              "chord": "B",
+              "lyrics": "I want to"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "be free"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "N.C. Oh,"
+            },
+            {
+              "chord": "B",
+              "lyrics": "how I want"
+            },
+            {
+              "chord": "E",
+              "lyrics": "to break free"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Solo",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "|  |  |  |"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "|  |  |  |"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "|  |  |  N.C"
+            },
+            {
+              "chord": "A",
+              "lyrics": ".|"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Interlude]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "|  |  |  |"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "|  |  |  |"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "|  |  |  |"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "|  |  |  N.C"
+            },
+            {
+              "chord": "A",
+              "lyrics": "."
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 3",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "But life still goes on"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "I can't get used to living without, living without"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Living without you by my side"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "I don't want to live alone, hey"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "God know"
+            },
+            {
+              "chord": "A",
+              "lyrics": "s got to ma"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ke it on my own"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "So baby, can't you see"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I've got"
+            },
+            {
+              "chord": "E",
+              "lyrics": "to break free"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "I've got to break free"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "I want to break free, yeah"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "I want, I want, I want, I want to break free..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(fade out)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,575 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/olivia-rodrigo/scared-of-my-guitar-chords-4957846",
+  "title": "Scared Of My Guitar",
+  "artist": "Olivia Rodrigo",
+  "key": "D",
+  "scrapedAt": "2025-12-10T18:47:49.850Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Perfect,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "easy, so good to me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So why's there a pit in my gut in the shape of you?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Distract"
+            },
+            {
+              "chord": "D",
+              "lyrics": "myself, say it's somethin' else"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Maybe I'm just overwhelmed, maybe I'm confused"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pre-Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Barely sle"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "ep when you sleep next to me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm7",
+              "lyrics": "But I keep thinkin' I'll find a cure"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm7",
+              "lyrics": "I say that I'm fine, I tell you all the time"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I've never felt so happy and sure"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "But I'm so scared of my guitar"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "'Cause it cuts right through to the heart"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Yeah, it"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "knows me too well so I got no excuse"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I can't l"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ie to it the same way that I lie to you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I'm so scared of my guitar"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "If I play it, then I'll think too hard"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Once you let the thought in, then it's already done"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "So I lay"
+            },
+            {
+              "chord": "D",
+              "lyrics": "in your arms and pretend that it's love"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "If I was"
+            },
+            {
+              "chord": "D",
+              "lyrics": "brave and noble like you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'd have the nerve to just stop stringin' you along"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "But I'm n"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "ot half as decent as you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "I'd rather be tied to someone, even if they're wrong"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pre-Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Dm7",
+              "lyrics": "I make excuses, my friends know the truth is"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm7",
+              "lyrics": "I'm not as alright as I claim"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm7",
+              "lyrics": "I say that I'm fine, I tell them all the time"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "As they watch all the life fade away"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Yeah, I'm so scared of my guitar"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "'Cause"
+            },
+            {
+              "chord": "D",
+              "lyrics": "it cuts rig"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "ht through t"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "o the heart"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm7",
+              "lyrics": "Yeah, it knows me too well so I got no excuse"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I can't l"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ie to it the same way that I lie to you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm7",
+              "lyrics": "I'm so scar"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ed of my guitar"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "If I pl"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ay it, then"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "I'll think"
+            },
+            {
+              "chord": "D",
+              "lyrics": "too hard"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm7",
+              "lyrics": "Once you l"
+            },
+            {
+              "chord": "G",
+              "lyrics": "et the thou"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ght in and then it's already done"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So I lay in your arms and pretend that it's love"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Yeah, I"
+            },
+            {
+              "chord": "A",
+              "lyrics": "lay in your"
+            },
+            {
+              "chord": "D",
+              "lyrics": "arms and pretend that it's love"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I prete"
+            },
+            {
+              "chord": "D",
+              "lyrics": "nd that it'"
+            },
+            {
+              "chord": "G",
+              "lyrics": "s love"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I pretend that it's love"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I pretend that it's love, love"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pre-Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "'Cause what if I never find anything better?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "The doubt"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "always creeps through my mind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm7",
+              "lyrics": "So we'll stay together 'cause how could I ever"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Trade somethin' that's good for what's right?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Bm7",
+              "lyrics": "* * Oh, I'm so"
+            },
+            {
+              "chord": "G",
+              "lyrics": "scared of my guitar"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "It cuts right through to my heart"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It knows me too well, I got no excuse"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I can't lie to it the same way that I lie to you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I'm so scared of my guitar"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When I play it is when I think too hard"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I let the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "thought in, it's already done"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm7",
+              "lyrics": "But I lay in your arms and pretend that it's love"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Yeah, I lay in your arms and pretend it's enough"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

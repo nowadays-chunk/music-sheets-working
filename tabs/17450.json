@@ -1,0 +1,501 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/the-beatles/yesterday-chords-17450",
+  "title": "Yesterday",
+  "artist": "The Beatles",
+  "key": "F",
+  "scrapedAt": "2025-12-10T18:43:13.772Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Yester"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "day, all my t"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "roubles seem"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "ed so far aw"
+            },
+            {
+              "chord": "Dm/C",
+              "lyrics": "ay"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "Now"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "it looks as"
+            },
+            {
+              "chord": "F",
+              "lyrics": "though the"
+            },
+            {
+              "chord": "F/E",
+              "lyrics": "y're here to"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "stay, oh I b"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "elieve in ye"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "sterday"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Sudden"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "ly, I'm not h"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "alf the man"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "I used to be"
+            },
+            {
+              "chord": "Dm/C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "The"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "re's a shado"
+            },
+            {
+              "chord": "F",
+              "lyrics": "w hanging o"
+            },
+            {
+              "chord": "F/E",
+              "lyrics": "ver me, oh ye"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "sterday came"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "suddenly"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "Why s"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "he had to go"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "I don't kno"
+            },
+            {
+              "chord": "Dm/C",
+              "lyrics": "w, she wouldn'"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "t say"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "I sai"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "d something"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "wrong, now I"
+            },
+            {
+              "chord": "Dm/C",
+              "lyrics": "long for yest"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "erday"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 3",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Yester"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "day, love was"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "such an eas"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "y game to pl"
+            },
+            {
+              "chord": "Dm/C",
+              "lyrics": "ay"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "Now"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "I need a pl"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ace to hide"
+            },
+            {
+              "chord": "F/E",
+              "lyrics": "away, oh I b"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "elieve in ye"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "sterday"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "Why s"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "he had to go"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "I don't kno"
+            },
+            {
+              "chord": "Dm/C",
+              "lyrics": "w, she wouldn'"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "t say"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "I sai"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "d something"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "wrong, now I"
+            },
+            {
+              "chord": "Dm/C",
+              "lyrics": "long for yest"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "erday"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Yester"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "day, love was"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "such an eas"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "y game to pl"
+            },
+            {
+              "chord": "Dm/C",
+              "lyrics": "ay"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "Now"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "I need a pl"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ace to hide"
+            },
+            {
+              "chord": "F/E",
+              "lyrics": "away, oh I b"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "elieve in ye"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "sterday"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Mm mm"
+            },
+            {
+              "chord": "G/F",
+              "lyrics": "mm mm mm mm m"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "mmmmmmmm"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "xx321x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "xx300x"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

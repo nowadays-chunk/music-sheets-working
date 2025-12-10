@@ -1,0 +1,596 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/hillsong-united/hosanna-chords-619470",
+  "title": "Hosanna",
+  "artist": "Hillsong United",
+  "key": "E",
+  "scrapedAt": "2025-12-10T18:43:38.966Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "x2"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": ""
+            },
+            {
+              "chord": "G#m7",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "I see the King of glory"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Coming on the clouds with fire"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "The whole e"
+            },
+            {
+              "chord": "B",
+              "lyrics": "arth shakes, the whole earth shakes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Yeah"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "I see His love and mercy"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Washing over all our sin"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "The people"
+            },
+            {
+              "chord": "B",
+              "lyrics": "sing, the people sing"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E/G#",
+              "lyrics": "Ho - sanna"
+            },
+            {
+              "chord": "A",
+              "lyrics": ", Ho - san"
+            },
+            {
+              "chord": "B",
+              "lyrics": "- na"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Hosanna"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "in the Highes"
+            },
+            {
+              "chord": "B",
+              "lyrics": "t"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E/G#",
+              "lyrics": "Ho - sanna"
+            },
+            {
+              "chord": "A",
+              "lyrics": ", Ho - san"
+            },
+            {
+              "chord": "B",
+              "lyrics": "- na"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Hosanna"
+            },
+            {
+              "chord": "B",
+              "lyrics": "in the High"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "- est"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "I see a generation"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Rising up to take their place"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "With selfle"
+            },
+            {
+              "chord": "B",
+              "lyrics": "ss faith, with selfless faith"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "I see a near revival"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Stirring as we pray and seek"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "We're on ou"
+            },
+            {
+              "chord": "B",
+              "lyrics": "r knees, we're on our knees"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E/G#",
+              "lyrics": "Ho - sanna"
+            },
+            {
+              "chord": "A",
+              "lyrics": ", Ho - san"
+            },
+            {
+              "chord": "B",
+              "lyrics": "- na"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Hosanna"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "in the Highes"
+            },
+            {
+              "chord": "B",
+              "lyrics": "t"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E/G#",
+              "lyrics": "Ho - sanna"
+            },
+            {
+              "chord": "A",
+              "lyrics": ", Ho - san"
+            },
+            {
+              "chord": "B",
+              "lyrics": "- na"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Hosanna"
+            },
+            {
+              "chord": "B",
+              "lyrics": "in the High"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "- est"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Instrumental]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "x2"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": ""
+            },
+            {
+              "chord": "G#m7",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Heal my h"
+            },
+            {
+              "chord": "B",
+              "lyrics": "eart and make it clean"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Open up m"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "y eyes to the things unseen"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Show me"
+            },
+            {
+              "chord": "B",
+              "lyrics": "how to love"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "like You have loved me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Break my"
+            },
+            {
+              "chord": "B",
+              "lyrics": "heart for what breaks Yours"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Everythin"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "g I am for Your Kingdom's cause"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "As I wal"
+            },
+            {
+              "chord": "B",
+              "lyrics": "k from eart"
+            },
+            {
+              "chord": "A",
+              "lyrics": "h in - to eterni - ty"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E/G#",
+              "lyrics": "Ho - sanna"
+            },
+            {
+              "chord": "A",
+              "lyrics": ", Ho - san"
+            },
+            {
+              "chord": "B",
+              "lyrics": "- na"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Hosanna"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "in the Highes"
+            },
+            {
+              "chord": "B",
+              "lyrics": "t"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E/G#",
+              "lyrics": "Ho - sanna"
+            },
+            {
+              "chord": "A",
+              "lyrics": ", Ho - san"
+            },
+            {
+              "chord": "B",
+              "lyrics": "- na"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Hosanna"
+            },
+            {
+              "chord": "B",
+              "lyrics": "in the High"
+            },
+            {
+              "chord": "E",
+              "lyrics": "- est"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E/G#",
+              "lyrics": "Ho - sanna"
+            },
+            {
+              "chord": "A",
+              "lyrics": ", Ho - san"
+            },
+            {
+              "chord": "B",
+              "lyrics": "- na"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Hosanna"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "in the Highes"
+            },
+            {
+              "chord": "B",
+              "lyrics": "t"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E/G#",
+              "lyrics": "Ho - sanna"
+            },
+            {
+              "chord": "A",
+              "lyrics": ", Ho - san"
+            },
+            {
+              "chord": "B",
+              "lyrics": "- na"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Hosanna"
+            },
+            {
+              "chord": "B",
+              "lyrics": "in the High"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "- est"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Hosanna"
+            },
+            {
+              "chord": "B",
+              "lyrics": "in the High"
+            },
+            {
+              "chord": "E",
+              "lyrics": "- est"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

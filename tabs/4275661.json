@@ -1,0 +1,500 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/swar/aparibhasit-chords-4275661",
+  "title": "Aparibhasit",
+  "artist": "Swar",
+  "key": "",
+  "scrapedAt": "2025-12-10T18:47:21.924Z",
+  "sections": [
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Bhrama na"
+            },
+            {
+              "chord": "G",
+              "lyrics": "i hos maana ko khushi nai chu ma"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Maya dher"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ai dherai garchu, tara aartha kehi chaina"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Bhawana h"
+            },
+            {
+              "chord": "G",
+              "lyrics": "aru pokhu pani adhikar chaina"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Tara yo"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "namana ki bh"
+            },
+            {
+              "chord": "G",
+              "lyrics": "awana nai chaina"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pre-Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Timi kal"
+            },
+            {
+              "chord": "D",
+              "lyrics": "pana hau, b"
+            },
+            {
+              "chord": "C",
+              "lyrics": "astabikta ma chainau"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Mero bhr"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ama hau, pa"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ribhasit maile garna sakdina"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Timi mer"
+            },
+            {
+              "chord": "D",
+              "lyrics": "a harek cha"
+            },
+            {
+              "chord": "C",
+              "lyrics": "hana ani bahana hau"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Mero maa"
+            },
+            {
+              "chord": "D",
+              "lyrics": "na bhitra k"
+            },
+            {
+              "chord": "G",
+              "lyrics": "a harek khushi hau"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Mero sap"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ana bhari t"
+            },
+            {
+              "chord": "G",
+              "lyrics": "imi timi nai chau"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Mero jee"
+            },
+            {
+              "chord": "D",
+              "lyrics": "wana bhari"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "timi rahane chau"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Mero mri"
+            },
+            {
+              "chord": "D",
+              "lyrics": "tyu sangai,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "timi pani marne chau"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Instrumental]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Hau sapa"
+            },
+            {
+              "chord": "D",
+              "lyrics": "na malai by"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ujhai deuna"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Hau chah"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ana tara kh"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ei chahanna"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Bhrama h"
+            },
+            {
+              "chord": "D",
+              "lyrics": "os tara khu"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "shi nai chu ma"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Yo maya"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ho tara art"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ha kehi chaina"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Mero maa"
+            },
+            {
+              "chord": "D",
+              "lyrics": "na bhitra k"
+            },
+            {
+              "chord": "G",
+              "lyrics": "a harek khushi hau"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Mero sap"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ana bhari t"
+            },
+            {
+              "chord": "G",
+              "lyrics": "imi timi nai chau"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Mero jee"
+            },
+            {
+              "chord": "D",
+              "lyrics": "wana bhari"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "timi rahane chau"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Mero mri"
+            },
+            {
+              "chord": "D",
+              "lyrics": "tyu sangai,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "timi pani marne chau"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 3",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Bhrama n"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ai hos maan"
+            },
+            {
+              "chord": "G",
+              "lyrics": "a ko tara khushi nai chu ma"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Aspastha hun udashi hos tara"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Maana ka"
+            },
+            {
+              "chord": "D",
+              "lyrics": "daarlagda"
+            },
+            {
+              "chord": "G",
+              "lyrics": "tii bhawana holan"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Mutu ma"
+            },
+            {
+              "chord": "D",
+              "lyrics": "rakhi sake"
+            },
+            {
+              "chord": "G",
+              "lyrics": "tara"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Mero maa"
+            },
+            {
+              "chord": "D",
+              "lyrics": "na bhitra k"
+            },
+            {
+              "chord": "G",
+              "lyrics": "a harek khushi hau"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Mero sap"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ana bhari t"
+            },
+            {
+              "chord": "G",
+              "lyrics": "imi timi nai chau"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Mero jee"
+            },
+            {
+              "chord": "D",
+              "lyrics": "wana bhari"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "timi rahane chau"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Mero mri"
+            },
+            {
+              "chord": "D",
+              "lyrics": "tyu sangai,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "timi pani marne chau"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

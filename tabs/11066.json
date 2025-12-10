@@ -1,0 +1,508 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/chris-isaak/wicked-game-chords-11066",
+  "title": "Wicked Game",
+  "artist": "Chris Isaak",
+  "key": "Bm",
+  "scrapedAt": "2025-12-10T18:43:08.603Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "x4"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "The world"
+            },
+            {
+              "chord": "A",
+              "lyrics": "was on fir"
+            },
+            {
+              "chord": "E",
+              "lyrics": "e and no one could save me but you."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "It's stra"
+            },
+            {
+              "chord": "A",
+              "lyrics": "nge what de"
+            },
+            {
+              "chord": "E",
+              "lyrics": "sire will make foolish people do."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "I never d"
+            },
+            {
+              "chord": "A",
+              "lyrics": "reamed that"
+            },
+            {
+              "chord": "E",
+              "lyrics": "I'd meet somebody like you."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "I never d"
+            },
+            {
+              "chord": "A",
+              "lyrics": "reamed that"
+            },
+            {
+              "chord": "E",
+              "lyrics": "I'd lose somebody like you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "No, I don"
+            },
+            {
+              "chord": "A",
+              "lyrics": "'t want to"
+            },
+            {
+              "chord": "E",
+              "lyrics": "fall in love. (This world is only gonna break your heart)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "No, I don"
+            },
+            {
+              "chord": "A",
+              "lyrics": "'t want to"
+            },
+            {
+              "chord": "E",
+              "lyrics": "fall in love. (This world is only gonna break your heart)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "With you."
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "With you."
+            },
+            {
+              "chord": "A",
+              "lyrics": "(This worl"
+            },
+            {
+              "chord": "E",
+              "lyrics": "d is only gonna break your heart)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "What a wi"
+            },
+            {
+              "chord": "A",
+              "lyrics": "cked game y"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ou play, to make me feel this way."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "What a wi"
+            },
+            {
+              "chord": "A",
+              "lyrics": "cked thing"
+            },
+            {
+              "chord": "E",
+              "lyrics": "to do, to let me dream of you."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "What a wi"
+            },
+            {
+              "chord": "A",
+              "lyrics": "cked thing"
+            },
+            {
+              "chord": "E",
+              "lyrics": "to say, you never felt this way."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "What a wi"
+            },
+            {
+              "chord": "A",
+              "lyrics": "cked thing"
+            },
+            {
+              "chord": "E",
+              "lyrics": "to do, to make me dream of you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "And, I do"
+            },
+            {
+              "chord": "A",
+              "lyrics": "n't want to"
+            },
+            {
+              "chord": "E",
+              "lyrics": "fall in love. (This world is only gonna break your heart)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "No, I don"
+            },
+            {
+              "chord": "A",
+              "lyrics": "'t want to"
+            },
+            {
+              "chord": "E",
+              "lyrics": "fall in love. (This world is only gonna break your heart)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "With you."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Instrumental]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": ")"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "x3"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 3",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "The world"
+            },
+            {
+              "chord": "A",
+              "lyrics": "was on fir"
+            },
+            {
+              "chord": "E",
+              "lyrics": "e and no one could save me but you."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "It's stra"
+            },
+            {
+              "chord": "A",
+              "lyrics": "nge what de"
+            },
+            {
+              "chord": "E",
+              "lyrics": "sire will make foolish people do."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "I never d"
+            },
+            {
+              "chord": "A",
+              "lyrics": "reamed that"
+            },
+            {
+              "chord": "E",
+              "lyrics": "I'd love somebody like you."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "I never d"
+            },
+            {
+              "chord": "A",
+              "lyrics": "reamed that"
+            },
+            {
+              "chord": "E",
+              "lyrics": "I'd lose somebody like you, no."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus/Outro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "No, I don"
+            },
+            {
+              "chord": "A",
+              "lyrics": "'t want to"
+            },
+            {
+              "chord": "E",
+              "lyrics": "fall in love. (This world is only gonna break your heart)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "No, I don"
+            },
+            {
+              "chord": "A",
+              "lyrics": "'t want to"
+            },
+            {
+              "chord": "E",
+              "lyrics": "fall in love. (This world is only gonna break your heart)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "With you."
+            },
+            {
+              "chord": "A",
+              "lyrics": "(This worl"
+            },
+            {
+              "chord": "E",
+              "lyrics": "d is only gonna break your heart)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "With you."
+            },
+            {
+              "chord": "A",
+              "lyrics": "(This worl"
+            },
+            {
+              "chord": "E",
+              "lyrics": "d is only gonna break your heart)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "No, IIIII"
+            },
+            {
+              "chord": "A",
+              "lyrics": "IIII... (Th"
+            },
+            {
+              "chord": "E",
+              "lyrics": "is world is only gonna break your heart)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "(This wor"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ld is only"
+            },
+            {
+              "chord": "E",
+              "lyrics": "gonna break your heart)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Nobody lo"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ves no one."
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

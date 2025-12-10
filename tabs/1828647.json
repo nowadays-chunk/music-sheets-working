@@ -1,0 +1,508 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/jeff-buckley/forget-her-chords-1828647",
+  "title": "Forget Her",
+  "artist": "Jeff Buckley",
+  "key": "",
+  "scrapedAt": "2025-12-10T18:46:17.718Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "x3"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": ""
+            },
+            {
+              "chord": "F/G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em7",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "While this town is busy sleeping,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "All the noise has died away."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "I walk the streets to stop my weeping,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "'Cause she'll never change her ways."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "Don't fool yourself,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "She was heart"
+            },
+            {
+              "chord": "Emadd9",
+              "lyrics": "ache from the moment that you met her."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "Ah, my heart feels so still"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "As I try to f"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ind the will to forget her, somehow."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Ooh, I thi"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "nk I've forgotten her now."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": ")"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": ""
+            },
+            {
+              "chord": "F/G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em7",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Her love is a rose, pale and dying."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Dropping her petals in land unknown"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "All full of wine, the world before her,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Was sober with no place to go."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "Don't fool yourself,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "she was heart"
+            },
+            {
+              "chord": "Emadd9",
+              "lyrics": "ache from the moment that you met her."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "My heart is frozen still"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "As I try to f"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ind the will to forget her, somehow."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "She's some"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "where out there now."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Guitar Solo]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": ")"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge (Just play the intro all through the bridge)",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Well, my"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "tears fallin"
+            },
+            {
+              "chord": "F/G",
+              "lyrics": "g down as I t"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ry to forget,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "Her love w"
+            },
+            {
+              "chord": "F/G",
+              "lyrics": "as a joke fro"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "m the day that we met."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "All of the"
+            },
+            {
+              "chord": "F/G",
+              "lyrics": "words, all o"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "f her men,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "All of my"
+            },
+            {
+              "chord": "F/G",
+              "lyrics": "pain when I t"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "hink back to when."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "Remember h"
+            },
+            {
+              "chord": "F/G",
+              "lyrics": "er hair as it"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "shone in the sun,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "The smell"
+            },
+            {
+              "chord": "F/G",
+              "lyrics": "of the bed wh"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "en I knew what she'd done."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "Tell yours"
+            },
+            {
+              "chord": "F/G",
+              "lyrics": "elf over and"
+            },
+            {
+              "chord": "E",
+              "lyrics": "over you won't ever need her again."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "But don't fool yourself,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "she was heart"
+            },
+            {
+              "chord": "Emadd9",
+              "lyrics": "ache from the moment that you met her."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "Oh, my heart is frozen still"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "As I try to f"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ind the will to forget her, somehow."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "She's out"
+            },
+            {
+              "chord": "E",
+              "lyrics": "there somewhere now."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "Oh,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "She was heart"
+            },
+            {
+              "chord": "Emadd9",
+              "lyrics": "ache from the day that I first met her."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "My heart is frozen still"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "As I try to f"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ind the will to forget you somehow"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "'Cause I k"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "now you're somewhere out there right now."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

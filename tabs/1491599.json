@@ -1,0 +1,750 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/albatross/timi-bhane-chords-1491599",
+  "title": "Timi Bhane",
+  "artist": "Albatross",
+  "key": "",
+  "scrapedAt": "2025-12-10T18:46:53.507Z",
+  "sections": [
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Farki far"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "ki nahera malai"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus2",
+              "lyrics": "Farki farki"
+            },
+            {
+              "chord": "E",
+              "lyrics": "nahera mala"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "i"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus2",
+              "lyrics": "Timi bhane"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "|  |  |  |"
+            },
+            {
+              "chord": "E",
+              "lyrics": "|  |  |  |"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "C#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#",
+              "lyrics": ""
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Aanshu jhare ma puchi diula"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Aakashko tara sabai"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus2",
+              "lyrics": "Ma tipera lya"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "yi diula"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus2",
+              "lyrics": "Timi bhane"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Farkera aau timi gham bani"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Badalko mathi ma"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus2",
+              "lyrics": "Timilai parkh"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "i basoula"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus2",
+              "lyrics": "Timi bhane"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Lina aaba k"
+            },
+            {
+              "chord": "B",
+              "lyrics": "ehi chaina"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Matra eutai"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "bahana"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus2",
+              "lyrics": "Dina matra kh"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "oji rachhu"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus2",
+              "lyrics": "Yahi nai mer"
+            },
+            {
+              "chord": "E",
+              "lyrics": "o chahana"
+            },
+            {
+              "chord": "F#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus2",
+              "lyrics": "Timi bhane"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Solo",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|----------------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|-12b-12-9-12-9-----9--------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|---------------11b---11-9--------9------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|----------------------------9-11---11-9-11-11-9----9------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|------------------------------------------------11---11-9-|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|----------------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|----------------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|-----------------------12---------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|---------------8-9-11b----11b-9--11-9---------9---------9-|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|--------7-9-11------------------------11-9-11---11-9-11---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|-7-9-11---------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|----------------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|-12b-12-9-----9---------12b---12-14b----|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|----------12b---12-9--------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|---------------------11-----------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|----------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|----------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|----------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|-12-11-9h11----9-----------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|------------12---12-9----9-----------------------12------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|----------------------11---11-9---------9-11-11b----11b-11-9---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|--------------------------------11-9-11------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|---------------------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|---------------------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|-------------------------------------7-----7---------4---------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|-------------7-------------------4-5---5-4---5-4-7-5---5-4h5---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|-6s8-9-8-6-9---8-9-8-6-9-8-6-4-6-----------------------------6-|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|---------------------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|---------------------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|---------------------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|-----------------------------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|-----------------------4s5-5-5s7-7-7s9-9s10-10-10s9-9-9s7-7-7s5s7-7-7b-|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|---4-------4-------4-6-------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|-6---6-4-6---6-4-6-----------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|-----------------------------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|-----------------------------------------------------------------------|"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Parkhalma basi aaba sochi rahe"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Sapana sara mera"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus2",
+              "lyrics": "Bilayeko chal"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "ai payina"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus2",
+              "lyrics": "Timi bhane"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Virama uvi aaba tolai rahe"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Sansarka sara sukha"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus2",
+              "lyrics": "Vulai aaghi h"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "ide ma"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus2",
+              "lyrics": "Timi bhane"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Lina aaba k"
+            },
+            {
+              "chord": "B",
+              "lyrics": "ehi chaina"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Matra eutai"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "bahana"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus2",
+              "lyrics": "Dina matra kh"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "oji rachhu"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus2",
+              "lyrics": "Yahi nai mer"
+            },
+            {
+              "chord": "E",
+              "lyrics": "o chahana"
+            },
+            {
+              "chord": "F#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus2",
+              "lyrics": "Timi bhane"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "] Farki f"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "arki nahera malai ] x4"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus2",
+              "lyrics": "] Farki fark"
+            },
+            {
+              "chord": "E",
+              "lyrics": "i nahera ma"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "lai ]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus2",
+              "lyrics": "Timi bhane"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|=====================|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|| Tablature Legend: ||"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "||===================||"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|| s - slide ||"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|| b - bend ||"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|| h - hammer on ||"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|=====================|"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,484 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/a-great-big-world/say-something-chords-1443639",
+  "title": "Say Something",
+  "artist": "A Great Big World",
+  "key": "Am",
+  "scrapedAt": "2025-12-10T18:43:46.944Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "e|------"
+            },
+            {
+              "chord": "F",
+              "lyrics": "-----------"
+            },
+            {
+              "chord": "C",
+              "lyrics": "--------|--"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "-----------------------|-------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|-1-----1-----1-----1---1-|-1-----1-----1-----1-----|-1-----1-----1-----1-----|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|-------------------------|-2-----------2-----------|-0-----------0-----------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|-------------------------|-2-----------3-----------|-2-----------0-----------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|-------------------------|-0-----------------------|-3-----------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|-------------------------|-------------1-----------|-------------3-----------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "\\ 3 /"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Say some"
+            },
+            {
+              "chord": "F",
+              "lyrics": "thing, I'm"
+            },
+            {
+              "chord": "C",
+              "lyrics": "giving up o"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "n you."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "I'll be"
+            },
+            {
+              "chord": "F",
+              "lyrics": "the one, if"
+            },
+            {
+              "chord": "C",
+              "lyrics": "you want m"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "e to."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Anywhere"
+            },
+            {
+              "chord": "F",
+              "lyrics": ", I would'v"
+            },
+            {
+              "chord": "C",
+              "lyrics": "e followed"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "you."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Say some"
+            },
+            {
+              "chord": "F",
+              "lyrics": "thing, I'm"
+            },
+            {
+              "chord": "C",
+              "lyrics": "giving up o"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "n you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "And I am"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "feeling so small."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "It was over my head"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I know no"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "thing at all."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "And I wil"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "l stumble and fall."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "I'm still learning to love"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Just star"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "ting to crawl."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Say some"
+            },
+            {
+              "chord": "F",
+              "lyrics": "thing, I'm"
+            },
+            {
+              "chord": "C",
+              "lyrics": "giving up o"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "n you."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "I'm sorr"
+            },
+            {
+              "chord": "F",
+              "lyrics": "y that I co"
+            },
+            {
+              "chord": "C",
+              "lyrics": "uldn't get"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "to you."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Anywhere"
+            },
+            {
+              "chord": "F",
+              "lyrics": ", I would'v"
+            },
+            {
+              "chord": "C",
+              "lyrics": "e followed"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "you."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Say some"
+            },
+            {
+              "chord": "F",
+              "lyrics": "thing, I'm"
+            },
+            {
+              "chord": "C",
+              "lyrics": "giving up o"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "n you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "And I wil"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "l swallow my pride."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "You're the one that I love"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "And I'm s"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "aying goodbye."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Say some"
+            },
+            {
+              "chord": "F",
+              "lyrics": "thing, I'm"
+            },
+            {
+              "chord": "C",
+              "lyrics": "giving up o"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "n you."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "And I'm"
+            },
+            {
+              "chord": "F",
+              "lyrics": "sorry that"
+            },
+            {
+              "chord": "C",
+              "lyrics": "I couldn't"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "get to you."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "And anyw"
+            },
+            {
+              "chord": "F",
+              "lyrics": "here, I wou"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ld've follo"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "wed you-ou, ohhhh-ohhhh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Say some"
+            },
+            {
+              "chord": "F",
+              "lyrics": "thing, I'm"
+            },
+            {
+              "chord": "C",
+              "lyrics": "giving up o"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "n you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Say some"
+            },
+            {
+              "chord": "F",
+              "lyrics": "thing, I'm"
+            },
+            {
+              "chord": "C",
+              "lyrics": "giving up o"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "n you."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Say somet"
+            },
+            {
+              "chord": "F",
+              "lyrics": "hing"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

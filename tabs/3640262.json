@@ -1,0 +1,430 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/olivia-rodrigo/deja-vu-chords-3640262",
+  "title": "Deja Vu",
+  "artist": "Olivia Rodrigo",
+  "key": "A",
+  "scrapedAt": "2025-12-10T18:43:29.652Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Car rides"
+            },
+            {
+              "chord": "A",
+              "lyrics": "to Malibu, strawberry ice cream, one spoon for two"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "And tradi"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ng jackets, laughin' 'bout how small it looks on you (ah-ha ha-ha ha-ha ha-ha-ha-ha ha-ha)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Watchin'"
+            },
+            {
+              "chord": "A",
+              "lyrics": "reruns of Glee, bein' annoying singin' in harmony"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I bet she"
+            },
+            {
+              "chord": "A",
+              "lyrics": "'s braggin' to all her friends sayin' you're so unique (huh)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pre-Chorus 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "So when you gonna tell her that we did that too?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "She thinks it's special, but it's all re-used"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm7",
+              "lyrics": "That was our place, I found it first, I made the jokes you tell to her"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "When she's with you"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Do you get déjà vu when she's with you?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Do you get déjà vu, hmm? (hmm)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Do you ge"
+            },
+            {
+              "chord": "A",
+              "lyrics": "t déjà vu, huh?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Do you call her, almost say my name?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "'Cause let's be honest, we kinda do sound the same"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Another a"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ctress, I hate to think that I was just your type"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I bet that she knows Billy Joel 'cause you played her Uptown Girl"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "You're singin' it together, now I bet you even tell her"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "How you l"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ove her in between the chorus and the verse (I love you)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pre-Chorus 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "So when you gonna tell her that we did that too?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "She thinks it's special, but it's all re-used"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm7",
+              "lyrics": "That was the show we talked about, played you the songs she's singin' now"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "When she's with you"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Do you get déjà vu when she's with you?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Do you get déjà vu, oh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "N.C."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Do you get déjà vu?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Strawberry ice cream in Malibu, don't act like we didn't do that shit too"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "You're trading jackets like we used to do (yeah everything is all re-used)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Play her piano but she doesn't know that I was the one who taught you Billy Joel"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "A different girl now but there's nothing new (I know you get déjà vu)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I know yo"
+            },
+            {
+              "chord": "A",
+              "lyrics": "u get déjà vu"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "N.C. I kn"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ow you get déjà vu"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Lead guitar during Chorus 1, Bridge, and Outro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e|-----------------------------|-----------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|--3/14---3/14----------------|--3/14---3/14----------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|----------------2/14---------|----------------2/14---------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|-----------------------------|-----------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|-----------------------12\\0--|-----------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|-----------------------------|-----------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "/ = Slide-up"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "\\ = Slide-down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "N.C.= No chord"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

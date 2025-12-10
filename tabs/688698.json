@@ -1,0 +1,623 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/eagles/hotel-california-chords-688698",
+  "title": "Hotel California",
+  "artist": "Eagles",
+  "key": "A",
+  "scrapedAt": "2025-12-10T18:47:31.409Z",
+  "sections": [
+    {
+      "name": "Intro (х2)",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "e|-0----"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "-----------|"
+            },
+            {
+              "chord": "G",
+              "lyrics": "-0---------"
+            },
+            {
+              "chord": "D",
+              "lyrics": "------|-3-------3-------|-2-------2-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|-1-------1-------|-0-------0-------|-0-----0---0-----|-3-----3---3-----|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|-2-----2---2-----|-1-----1---1-----|-0---0-------0---|-2---2-------2---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|-2---2-------2---|-0---0-------0---|-0-------------0-|-0-------------0-|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|-0-------------0-|-2-------------2-|-2---------------|-----------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|-----------------|-0---------------|-3---------------|-----------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "e|-1---"
+            },
+            {
+              "chord": "C",
+              "lyrics": "----1------"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "-|-0-------0"
+            },
+            {
+              "chord": "E",
+              "lyrics": "-------|-1---------------|-0---------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|-1-----1---1-----|-1-----1---1-----|-3-------3-------|-0-------1-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|-2---2-------2---|-0---0-------0---|-2-----2---2-----|-1-----1---1-----|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|-3-------------3-|-2-------------2-|-0---0-------0---|-2---2-------2---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|-3---------------|-3---------------|---------------0-|-2-------------2-|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|-----------------|-----------------|-----------------|-0---------------|"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "On a dark"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "desert highway, cool wind in my hair"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Warm smel"
+            },
+            {
+              "chord": "D",
+              "lyrics": "l of colitas rising up through the air"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Up ahead"
+            },
+            {
+              "chord": "C",
+              "lyrics": "in the distance, I saw a shimmering light"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "My head grew heavy and my sight grew dim,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "I had to stop for the night"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "There she"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "stood in the doorway, I heard the mission bell"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And I was thinking to myself"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "This could be heaven or this could be hell"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Then she"
+            },
+            {
+              "chord": "C",
+              "lyrics": "lit up a candle, and she showed me the way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "There were voices down the corridor,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E7",
+              "lyrics": "I thought I heard them say..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Welcome t"
+            },
+            {
+              "chord": "C",
+              "lyrics": "o the Hotel California"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E7",
+              "lyrics": "Such a lov"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ely place (such a lovely place), such a lovely face"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "There's p"
+            },
+            {
+              "chord": "C",
+              "lyrics": "lenty of room at the Hotel California"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Any time o"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "f year, (any time of year) You can find it here..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 3",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Her mind i"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "s Tiffany twisted, She got the Mercedes bends"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "She got a"
+            },
+            {
+              "chord": "D",
+              "lyrics": "lot of pretty pretty boys that she calls friends"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "How they"
+            },
+            {
+              "chord": "C",
+              "lyrics": "danced in the courtyard, sweet summer sweat"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Some dance"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "to remember, some dance to forget"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 4",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "So I calle"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "d up the captain; \"Please bring me my wine\" (he said)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "\"We haven"
+            },
+            {
+              "chord": "D",
+              "lyrics": "'t had that spirit here since 1969\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "And still"
+            },
+            {
+              "chord": "C",
+              "lyrics": "those voices are calling from far away"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Wake you up in the middle of the night"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E7",
+              "lyrics": "Just to hear them say..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Welcome t"
+            },
+            {
+              "chord": "C",
+              "lyrics": "o the Hotel California"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E7",
+              "lyrics": "Such a lov"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ely place (such a lovely place), such a lovely face"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "They're l"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ivin' it up at the Hotel California"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "What a nic"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "e surprise (what a nice surprise), bring your alibis"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 5",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "* * Mirrors o"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "n the ceiling, the pink champagne on ice (and she said)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "* * We are a"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ll just prisoners here, of our own device"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "* * And in t"
+            },
+            {
+              "chord": "C",
+              "lyrics": "he master's chambers, they gathered for the feast"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "* They stab it with their steely knives, but they"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E7",
+              "lyrics": "** Just can't kill the beast"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 6",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Last thing"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "I remember, I was running for the door"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I had to"
+            },
+            {
+              "chord": "D",
+              "lyrics": "find the passage back to the place I was before"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "\"Relax\" s"
+            },
+            {
+              "chord": "C",
+              "lyrics": "aid the night man, \"we are programmed to receive,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "You can check out any time you like"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E7",
+              "lyrics": "But you can never leave\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "x5"
+            },
+            {
+              "chord": "E7",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D7",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dm",
+              "lyrics": ""
+            },
+            {
+              "chord": "E7",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

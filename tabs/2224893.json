@@ -1,0 +1,708 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/call-it-what-you-want-chords-2224893",
+  "title": "Call It What You Want",
+  "artist": "Taylor Swift",
+  "key": "G",
+  "scrapedAt": "2025-12-10T18:47:36.464Z",
+  "sections": [
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "My castle crumbled overnight"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I brought"
+            },
+            {
+              "chord": "D",
+              "lyrics": "a knife to a gunfight"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9",
+              "lyrics": "They took the crown but it's alright"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "All the liars are calling me one"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Nobody's"
+            },
+            {
+              "chord": "D",
+              "lyrics": "heard from me for months"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9",
+              "lyrics": "I'm doing better than I ever was"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cause..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9",
+              "lyrics": "My baby's fit like a daydream"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Walking with his head down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I'm the one he's walking to"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "So call"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "it what you wa"
+            },
+            {
+              "chord": "D",
+              "lyrics": "nt yeah, ca"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "ll it what you"
+            },
+            {
+              "chord": "D",
+              "lyrics": "want to"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9",
+              "lyrics": "My baby's fly like a jet stream"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "High above the whole scene"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Loves me like I'm brand new"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "So call"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "it what you wa"
+            },
+            {
+              "chord": "D",
+              "lyrics": "nt yeah, ca"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "ll it what you"
+            },
+            {
+              "chord": "D",
+              "lyrics": "want to"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "All my flowers grew back as thorns"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Windows boarded up after the storm"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "He built"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "a fire just to keep me warm"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "All the drama queens taking swings"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "All the jokers dressing up as kings"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "They fade"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "to nothing when I look at him"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9",
+              "lyrics": "And I know I make the same mistakes every time"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Bridges burn, I never learn"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "At least I did one thing right"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "I did one thing right"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9",
+              "lyrics": "I'm laughing with my lover"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Making forts under covers"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Trust him like a brother"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Yeah, you know I did one thing right"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Starry eyes sparking up my darkest night"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9",
+              "lyrics": "My baby's fit like a daydream"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Walking with his head down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I'm the one he's walking to"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "So call"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "it what you wan"
+            },
+            {
+              "chord": "D",
+              "lyrics": "t yeah, cal"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "l it what you want to"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9",
+              "lyrics": "My baby's fly like a jet stream"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "High above the whole scene"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Loves me like I'm brand new"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Call it what you want, call it what you want, call it)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "So call"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "it what you wan"
+            },
+            {
+              "chord": "D",
+              "lyrics": "t yeah, cal"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "l it what you want to"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9",
+              "lyrics": "I want to we"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ar his init"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ial on a chain round my neck"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chain round my neck"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Not because he owns me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "But 'caus"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "e he really kno"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ws me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Which is more than they can say, I"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9",
+              "lyrics": "I recall lat"
+            },
+            {
+              "chord": "D",
+              "lyrics": "e November,"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "holding my breath"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Slowly I said, \"You don't need to save me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "But would"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "you run away w"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ith me?\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Yes (would you run away?)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9",
+              "lyrics": "My baby's fit like a daydream"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Walking with his head down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I'm the one he's walking to"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Call it what you want, call it what you want, call it)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "So call"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "it what you wan"
+            },
+            {
+              "chord": "D",
+              "lyrics": "t yeah, cal"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "l it what you want to"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9",
+              "lyrics": "My baby's fly like a jet stream"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "High above the whole scene"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Loves me like I'm brand new"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Call it what you want, call it what you want, call it)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "So call"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "it what you wan"
+            },
+            {
+              "chord": "D",
+              "lyrics": "t yeah, cal"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "l it what you want to"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9",
+              "lyrics": "(Call it what you want, call it what you want, call it)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "(Call it what you want, call it what you want, call it)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "(Call it"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "what you want, call it what you want, call it)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9",
+              "lyrics": "(Call it what you want, call it what you want, call it)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "(Call it what you want, call it what you want, call it)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "(Call it what you want, call it what you want, call it)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Call it wh"
+            },
+            {
+              "chord": "D",
+              "lyrics": "at you want yeah, call it what you want"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "To"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

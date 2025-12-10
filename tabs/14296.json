@@ -1,0 +1,775 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/eagles/new-kid-in-town-chords-14296",
+  "title": "New Kid In Town",
+  "artist": "Eagles",
+  "key": "",
+  "scrapedAt": "2025-12-10T18:47:31.741Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "| |  |  | *"
+            },
+            {
+              "chord": "E",
+              "lyrics": "* * * * * *"
+            },
+            {
+              "chord": "Bsus2",
+              "lyrics": "* * * * * * *"
+            },
+            {
+              "chord": "B",
+              "lyrics": "* *"
+            },
+            {
+              "chord": "Bsus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "| | | | * *"
+            },
+            {
+              "chord": "B",
+              "lyrics": "* * * * * *"
+            },
+            {
+              "chord": "E",
+              "lyrics": "* * * * * *"
+            },
+            {
+              "chord": "E",
+              "lyrics": "* *"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "There'"
+            },
+            {
+              "chord": "Bsus2",
+              "lyrics": "s talk on the s"
+            },
+            {
+              "chord": "B",
+              "lyrics": "treet, it s"
+            },
+            {
+              "chord": "Bsus2",
+              "lyrics": "ounds so famili"
+            },
+            {
+              "chord": "B",
+              "lyrics": "ar;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Great ex"
+            },
+            {
+              "chord": "B",
+              "lyrics": "pectations,"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ev'rybody's watchin' you."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "People"
+            },
+            {
+              "chord": "Bsus2",
+              "lyrics": "you meet they"
+            },
+            {
+              "chord": "B",
+              "lyrics": "all seem to"
+            },
+            {
+              "chord": "Bsus2",
+              "lyrics": "know you,"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "even y"
+            },
+            {
+              "chord": "B",
+              "lyrics": "our old fri"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ends treat"
+            },
+            {
+              "chord": "G#7sus4",
+              "lyrics": "you like you're s"
+            },
+            {
+              "chord": "G#7",
+              "lyrics": "omethin' new."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Johnny come"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "lately,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "the new kid"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "in town."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Ev'rybody l"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "oves you,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m7",
+              "lyrics": "so don't let"
+            },
+            {
+              "chord": "B",
+              "lyrics": "them down."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "You lo"
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": "ok in her eyes"
+            },
+            {
+              "chord": "B",
+              "lyrics": ", the music"
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": "begins to pla"
+            },
+            {
+              "chord": "B",
+              "lyrics": "y,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "hopeles"
+            },
+            {
+              "chord": "B",
+              "lyrics": "s romantics"
+            },
+            {
+              "chord": "E",
+              "lyrics": ", here we g"
+            },
+            {
+              "chord": "E",
+              "lyrics": "o again."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "But af"
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": "ter a while yo"
+            },
+            {
+              "chord": "B",
+              "lyrics": "u're lookin"
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": "' the other wa"
+            },
+            {
+              "chord": "B",
+              "lyrics": "y,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "it's t"
+            },
+            {
+              "chord": "B",
+              "lyrics": "hose restle"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ss hearts t"
+            },
+            {
+              "chord": "G#7sus4",
+              "lyrics": "hat never mend. o"
+            },
+            {
+              "chord": "G#7",
+              "lyrics": "ohh ohh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Johnny come"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "lately,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "the new kid"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "in town."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Will she st"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "ill love you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m7",
+              "lyrics": "when you're"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "not around?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "| | | | * *"
+            },
+            {
+              "chord": "E",
+              "lyrics": "* * * * * *"
+            },
+            {
+              "chord": "B",
+              "lyrics": "* * * * * *"
+            },
+            {
+              "chord": "B",
+              "lyrics": "* *"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "| | |    |"
+            },
+            {
+              "chord": "B",
+              "lyrics": "* * * * * *"
+            },
+            {
+              "chord": "E",
+              "lyrics": "* * * * * *"
+            },
+            {
+              "chord": "A",
+              "lyrics": "* * * *"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "^ ^ ^ ^ ^ ^"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "The"
+            },
+            {
+              "chord": "E",
+              "lyrics": "re's so man"
+            },
+            {
+              "chord": "A",
+              "lyrics": "y things yo"
+            },
+            {
+              "chord": "E",
+              "lyrics": "u should ha"
+            },
+            {
+              "chord": "B",
+              "lyrics": "ve told her"
+            },
+            {
+              "chord": "A",
+              "lyrics": ","
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "But night"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "after night you're willing to hold her,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "just hol"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "d her, tears"
+            },
+            {
+              "chord": "Am7/D",
+              "lyrics": "on your shoul -"
+            },
+            {
+              "chord": "D",
+              "lyrics": "der."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 3",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "There'"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "s talk on the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "street, it"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "'s there to r"
+            },
+            {
+              "chord": "D",
+              "lyrics": "emind you."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Doesn't"
+            },
+            {
+              "chord": "D",
+              "lyrics": "really matt"
+            },
+            {
+              "chord": "G",
+              "lyrics": "er which side you're on."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "You're"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "walkin' away"
+            },
+            {
+              "chord": "D",
+              "lyrics": "and they'r"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "e talkin' beh"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ind you,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "they wi"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ll never fo"
+            },
+            {
+              "chord": "G",
+              "lyrics": "rget you 't"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "il somebody new comes along."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "Where've yo"
+            },
+            {
+              "chord": "A",
+              "lyrics": "u been lately?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "There's a n"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ew kid in town."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "Ev'rybody l"
+            },
+            {
+              "chord": "A",
+              "lyrics": "oves him (don't they?)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "And he's ho"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "ldin' her and you're still"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "a roou o"
+            },
+            {
+              "chord": "G#m7",
+              "lyrics": "u ou ound oh m"
+            },
+            {
+              "chord": "A",
+              "lyrics": "y my"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "There's"
+            },
+            {
+              "chord": "E",
+              "lyrics": "a new kid"
+            },
+            {
+              "chord": "G#m7",
+              "lyrics": "in towww, oww"
+            },
+            {
+              "chord": "A",
+              "lyrics": "oww oww"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "just a"
+            },
+            {
+              "chord": "E",
+              "lyrics": "nother new"
+            },
+            {
+              "chord": "G#m7",
+              "lyrics": "kid in tow oww"
+            },
+            {
+              "chord": "A",
+              "lyrics": "oww oww"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "(Oo-hoo)"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "Ev'rybody's talkin' 'bout the new kid in town."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "(Oo-hooh)"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "Ev'rybody's walkin' like the new kid in town."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "There's a"
+            },
+            {
+              "chord": "E",
+              "lyrics": "new kid in town, (I don't want to hear it)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "There's a n"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "ew kid in town, (I don't want to hear it)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "There's a"
+            },
+            {
+              "chord": "E",
+              "lyrics": "new kid in town, (I don't want to hear it)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "There's a n"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "ew kid in town, (I don't want to hear it)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

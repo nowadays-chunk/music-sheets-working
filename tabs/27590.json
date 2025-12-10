@@ -1,0 +1,759 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/oasis/little-by-little-chords-27590",
+  "title": "Little By Little",
+  "artist": "Oasis",
+  "key": "G",
+  "scrapedAt": "2025-12-10T18:48:16.565Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C/B",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Emadd9",
+              "lyrics": "x2"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "We the peo"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ple fight for our existence"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "We don't c"
+            },
+            {
+              "chord": "A",
+              "lyrics": "laim to be perfect but we're free"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "We dream o"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ur dreams alone with no resistance"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Fading lik"
+            },
+            {
+              "chord": "A",
+              "lyrics": "e the stars we wish to be"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pre-chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "You know I didn't mean"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D/F#",
+              "lyrics": "What I jus"
+            },
+            {
+              "chord": "G",
+              "lyrics": "t said"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "G/F#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "But my god woke up"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "on the wrong side of his bed"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "and it just don't matter now"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "'Cause little by little"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "We gave"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "you everyth"
+            },
+            {
+              "chord": "Em7/F#",
+              "lyrics": "ing you ever dre"
+            },
+            {
+              "chord": "G",
+              "lyrics": "amed of"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Little by little"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "The whe"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "els of your"
+            },
+            {
+              "chord": "Em7/F#",
+              "lyrics": "life they're slo"
+            },
+            {
+              "chord": "G",
+              "lyrics": "wly falling off"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Little by little"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "You hav"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "e to give it"
+            },
+            {
+              "chord": "Em7/F#",
+              "lyrics": "all with all yo"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ur life"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "And all"
+            },
+            {
+              "chord": "C",
+              "lyrics": "the time, I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "just ask myself why"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "You're really here"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "True perfe"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ction has to be imperfect"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "I know tha"
+            },
+            {
+              "chord": "A",
+              "lyrics": "t that sounds foolish but it's true"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "The day ha"
+            },
+            {
+              "chord": "A",
+              "lyrics": "s come and now you'll have to accept"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "The life i"
+            },
+            {
+              "chord": "A",
+              "lyrics": "nside your head we give to you"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pre-chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "You know I didn't mean"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D/F#",
+              "lyrics": "What I jus"
+            },
+            {
+              "chord": "G",
+              "lyrics": "t said"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "G/F#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "But my god woke up"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "on the wrong side of his bed"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "and it just don't matter now"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "'Cause little by little"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "We gave"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "you everyth"
+            },
+            {
+              "chord": "Em7/F#",
+              "lyrics": "ing you ever dre"
+            },
+            {
+              "chord": "G",
+              "lyrics": "amed of"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Little by little"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "The whe"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "els of your"
+            },
+            {
+              "chord": "Em7/F#",
+              "lyrics": "life they're slo"
+            },
+            {
+              "chord": "G",
+              "lyrics": "wly falling off"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Little by little"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "You hav"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "e to give it"
+            },
+            {
+              "chord": "Em7/F#",
+              "lyrics": "all with all yo"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ur life"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "And all"
+            },
+            {
+              "chord": "C",
+              "lyrics": "the time, I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "just ask myself why"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "You're really here"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Solo",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "x2 hey!"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "G/F#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C/B",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "'Cause little by little"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "We gave"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "you everyth"
+            },
+            {
+              "chord": "Em7/F#",
+              "lyrics": "ing you ever dre"
+            },
+            {
+              "chord": "G",
+              "lyrics": "amed of"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Little by little"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "The whe"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "els of your"
+            },
+            {
+              "chord": "Em7/F#",
+              "lyrics": "life they're slo"
+            },
+            {
+              "chord": "G",
+              "lyrics": "wly falling off"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Little by little"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "You hav"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "e to give it"
+            },
+            {
+              "chord": "Em7/F#",
+              "lyrics": "all with all yo"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ur life"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "And all"
+            },
+            {
+              "chord": "A",
+              "lyrics": "the time, I"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "just ask myself why"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7/F#",
+              "lyrics": "You're really"
+            },
+            {
+              "chord": "G",
+              "lyrics": "here"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em7/F#",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Why am"
+            },
+            {
+              "chord": "Em7/F#",
+              "lyrics": "I really here?"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Why am"
+            },
+            {
+              "chord": "Em7/F#",
+              "lyrics": "I really here?"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "(Repeat t"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "o fade)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

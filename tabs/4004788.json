@@ -1,0 +1,478 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/4004788",
+  "title": "Jest Taki Dzień",
+  "artist": "Czerwone Gitary",
+  "key": "A",
+  "scrapedAt": "2025-12-10T18:44:02.136Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Jest"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "taki dzień,"
+            },
+            {
+              "chord": "F",
+              "lyrics": "bardzo ciep"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "ły choć grudnio"
+            },
+            {
+              "chord": "C",
+              "lyrics": "wy;"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "dzień"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ", zwykły dzi"
+            },
+            {
+              "chord": "F",
+              "lyrics": "eń, w który"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "m gasną wszelki"
+            },
+            {
+              "chord": "C",
+              "lyrics": "e spory."
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Jest"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "taki dzień,"
+            },
+            {
+              "chord": "F",
+              "lyrics": "w którym ra"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "dość wita wszys"
+            },
+            {
+              "chord": "C",
+              "lyrics": "tkich,"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "dzień"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ", który już"
+            },
+            {
+              "chord": "F",
+              "lyrics": "każdy z nas"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "zna od kołyski"
+            },
+            {
+              "chord": "C",
+              "lyrics": "."
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Niebo -"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ziemi, nie"
+            },
+            {
+              "chord": "F",
+              "lyrics": "bu - ziemia"
+            },
+            {
+              "chord": "C",
+              "lyrics": ","
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm7",
+              "lyrics": "wszyscy"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "- wszystkim"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ślą życzen"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "ia,"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "drzewa"
+            },
+            {
+              "chord": "C",
+              "lyrics": "- ptakom, p"
+            },
+            {
+              "chord": "F",
+              "lyrics": "taki - drze"
+            },
+            {
+              "chord": "C",
+              "lyrics": "wom,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "mgnienie w"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "iatru - płatk"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "om śniegu."
+            },
+            {
+              "chord": "G7",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Jest"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "taki dzień t"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ylko jeden"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "raz do roku."
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Dzień"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ", zwykły dzi"
+            },
+            {
+              "chord": "F",
+              "lyrics": "eń, który l"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "iczy się od zmr"
+            },
+            {
+              "chord": "C",
+              "lyrics": "oku."
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Jest"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "taki dzień,"
+            },
+            {
+              "chord": "F",
+              "lyrics": "gdy jesteśm"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "y wszyscy razem"
+            },
+            {
+              "chord": "C",
+              "lyrics": "."
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Dzień"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ", piękny dzi"
+            },
+            {
+              "chord": "F",
+              "lyrics": "eń dziś nam"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "rok go składa"
+            },
+            {
+              "chord": "C",
+              "lyrics": "w darze."
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Niebo -"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ziemi, nie"
+            },
+            {
+              "chord": "F",
+              "lyrics": "bu - ziemia"
+            },
+            {
+              "chord": "C",
+              "lyrics": ","
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm7",
+              "lyrics": "wszyscy"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "- wszystkim"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ślą życzen"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "ia,"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "a gdy w"
+            },
+            {
+              "chord": "C",
+              "lyrics": "szyscy usną"
+            },
+            {
+              "chord": "F",
+              "lyrics": "wreszcie,"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "noc igliwi"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "a zapach nies"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "ie."
+            },
+            {
+              "chord": "G7",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

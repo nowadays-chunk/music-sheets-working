@@ -1,0 +1,657 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/alexandra-burke/hallelujah-chords-819331",
+  "title": "Hallelujah",
+  "artist": "Alexandra Burke",
+  "key": "",
+  "scrapedAt": "2025-12-10T18:46:08.417Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "e|-----"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "--1-----|---"
+            },
+            {
+              "chord": "F",
+              "lyrics": "----1-----|"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "-------1-----|-------1-----|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|-----1---1---|-----3---3---|-----1---1---|-----3---3---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|---2---------|---2---------|---2---------|---2---------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|-3---------2-|-0---------2-|-3---------2-|-0---------2-|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|-------------|-------------|-------------|-------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|-------------|-------------|-------------|-------------|"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "I heard t"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "here was a secret chord"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "That Davi"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "d played, and it pleased the Lord"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "But you d"
+            },
+            {
+              "chord": "F",
+              "lyrics": "on’t really"
+            },
+            {
+              "chord": "C",
+              "lyrics": "care for music, do ya?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Well, it goes like this"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "The fourth"
+            },
+            {
+              "chord": "C",
+              "lyrics": ", the fifth"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "The minor"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "fall and the major lift"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "The baff"
+            },
+            {
+              "chord": "A/C#",
+              "lyrics": "led king compo"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "sing hallelujah"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "Hallel"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "ujah, Hallel"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "ujah, Hallel"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ujah, Halle"
+            },
+            {
+              "chord": "C",
+              "lyrics": "luu-uuu-jah"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Interlude] (as intro)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": ")"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dm",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Your fait"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "h was strong but you needed proof"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "You saw h"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "er bathing on the roof"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "Her beau"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ty and the"
+            },
+            {
+              "chord": "F",
+              "lyrics": "moonlight o"
+            },
+            {
+              "chord": "C",
+              "lyrics": "verthrew ya"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "She tied"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "you to her"
+            },
+            {
+              "chord": "C",
+              "lyrics": "kitchen chair"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "And she br"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "oke your throne and she cut your hair"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "And from"
+            },
+            {
+              "chord": "A/C#",
+              "lyrics": "your lips she"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "drew the hallelujah"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "Hallel"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "ujah, Hallel"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "ujah, Hallel"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ujah, Halle"
+            },
+            {
+              "chord": "C",
+              "lyrics": "luu-uuu-jah"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Intro repeat",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "e|-----"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "--1-----|---"
+            },
+            {
+              "chord": "F",
+              "lyrics": "----1-----|"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "-------1-----|-------1-----|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|-----1---1---|-----3---3---|-----1---1---|-----3---3---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|---2---------|---2---------|---2---------|---2---------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|-3---------2-|-0---------2-|-3---------2-|-0---------2-|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|-------------|-------------|-------------|-------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|-------------|-------------|-------------|-------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "rit.  e|"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "-------1----"
+            },
+            {
+              "chord": "F",
+              "lyrics": "-|-------1-----|"
+            },
+            {
+              "chord": "D",
+              "lyrics": "-------1-----|-------2-----|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|-----1---1---|-----3---3---|-----1---1---|-----3-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|---2---------|---2---------|---2---------|---2---------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|-3---------2-|-0---------2-|-3---------2-|-0-----------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|-------------|-------------|-------------|-------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|-------------|-------------|-------------|-------------|"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 3",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Maybe the"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "re’s a God above"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "But all I"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "’ve ever learned from love"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Was how"
+            },
+            {
+              "chord": "G",
+              "lyrics": "to shoot so"
+            },
+            {
+              "chord": "D",
+              "lyrics": "mebody who outdrew ya"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "It’s not"
+            },
+            {
+              "chord": "C",
+              "lyrics": "a cry that"
+            },
+            {
+              "chord": "D",
+              "lyrics": "you hear at night"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "It’s not s"
+            },
+            {
+              "chord": "C",
+              "lyrics": "omeone who’s seen the light"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "It’s a c"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "old and it’s"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "a broken hallelujah"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Hallel"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ujah, Hallel"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ujah, Halle"
+            },
+            {
+              "chord": "G",
+              "lyrics": "lujah, Hall"
+            },
+            {
+              "chord": "D",
+              "lyrics": "eluu-uuu"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Ha"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "llelujah, Ha"
+            },
+            {
+              "chord": "C",
+              "lyrics": "llelujah, H"
+            },
+            {
+              "chord": "G",
+              "lyrics": "allelujah,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "Halleluu-uu"
+            },
+            {
+              "chord": "G",
+              "lyrics": "u-jah"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Hallelu"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "jah, Hallelu"
+            },
+            {
+              "chord": "D",
+              "lyrics": "u-uuu-jah"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

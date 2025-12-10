@@ -1,0 +1,760 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/the-beatles/twist-and-shout-chords-489173",
+  "title": "Twist And Shout",
+  "artist": "The Beatles",
+  "key": "D",
+  "scrapedAt": "2025-12-10T18:45:51.154Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "e|------"
+            },
+            {
+              "chord": "G",
+              "lyrics": "-----------"
+            },
+            {
+              "chord": "A",
+              "lyrics": "-------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|---------------7--------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|--------4--5---5---2--2---4---4--4--4--4--|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|--5--7-------------3--3---5---5--5--5--5--|"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Well sha"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ke it up ba"
+            },
+            {
+              "chord": "A",
+              "lyrics": "by now, (shake it up baby)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7",
+              "lyrics": "Twist an"
+            },
+            {
+              "chord": "D",
+              "lyrics": "d shout. (T"
+            },
+            {
+              "chord": "G",
+              "lyrics": "wist and sh"
+            },
+            {
+              "chord": "A",
+              "lyrics": "out)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7",
+              "lyrics": "Come on,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "come on, c"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ome on, com"
+            },
+            {
+              "chord": "A",
+              "lyrics": "e on, baby now, (come on baby)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Come on"
+            },
+            {
+              "chord": "G",
+              "lyrics": "and work it"
+            },
+            {
+              "chord": "A",
+              "lyrics": "on out. (Work it on out, ooh!)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Well wor"
+            },
+            {
+              "chord": "G",
+              "lyrics": "k it on out"
+            },
+            {
+              "chord": "A",
+              "lyrics": ", (work it on out)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7",
+              "lyrics": "You know"
+            },
+            {
+              "chord": "D",
+              "lyrics": "you look s"
+            },
+            {
+              "chord": "G",
+              "lyrics": "o good. (Lo"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ok so good)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7",
+              "lyrics": "You know"
+            },
+            {
+              "chord": "D",
+              "lyrics": "you got me"
+            },
+            {
+              "chord": "G",
+              "lyrics": "goin' now,"
+            },
+            {
+              "chord": "A",
+              "lyrics": "(Got me goin')"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Just lik"
+            },
+            {
+              "chord": "G",
+              "lyrics": "e I knew yo"
+            },
+            {
+              "chord": "A",
+              "lyrics": "u would. (Like I knew you would, ooh!)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 3",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Well sha"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ke it up ba"
+            },
+            {
+              "chord": "A",
+              "lyrics": "by now, (shake it up baby)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7",
+              "lyrics": "Twist an"
+            },
+            {
+              "chord": "D",
+              "lyrics": "d shout. (T"
+            },
+            {
+              "chord": "G",
+              "lyrics": "wist and sh"
+            },
+            {
+              "chord": "A",
+              "lyrics": "out)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7",
+              "lyrics": "Come on,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "come on, c"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ome on, com"
+            },
+            {
+              "chord": "A",
+              "lyrics": "e on, baby now, (come on baby)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Come on"
+            },
+            {
+              "chord": "G",
+              "lyrics": "and work it"
+            },
+            {
+              "chord": "A",
+              "lyrics": "on out. (Work it on out, ooh!)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 4",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "You know"
+            },
+            {
+              "chord": "G",
+              "lyrics": "you twist"
+            },
+            {
+              "chord": "A",
+              "lyrics": "it little girl, (twist little girl)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7",
+              "lyrics": "You know"
+            },
+            {
+              "chord": "D",
+              "lyrics": "you twist"
+            },
+            {
+              "chord": "G",
+              "lyrics": "so fine. (T"
+            },
+            {
+              "chord": "A",
+              "lyrics": "wist so fine)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7",
+              "lyrics": "Come on"
+            },
+            {
+              "chord": "D",
+              "lyrics": "and twist a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "little clo"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ser now, (twist a little closer)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "And let"
+            },
+            {
+              "chord": "G",
+              "lyrics": "me know tha"
+            },
+            {
+              "chord": "A",
+              "lyrics": "t you're mine. (Let me know you're mine, ooh!)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Solo Chords",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Solo Tab",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e|---------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|-----------3---2-------2---------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|---------4-4---2-------2-4---2---| x4"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|-4-----4-5---------------5---4---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|-5-----5-------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|---------------------------------|"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Ahh ahh a"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "hh ahh ahh yeah!!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 5",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Baby now"
+            },
+            {
+              "chord": "G",
+              "lyrics": ", (shake it"
+            },
+            {
+              "chord": "A",
+              "lyrics": "up baby)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7",
+              "lyrics": "Twist an"
+            },
+            {
+              "chord": "D",
+              "lyrics": "d shout. (T"
+            },
+            {
+              "chord": "G",
+              "lyrics": "wist and sh"
+            },
+            {
+              "chord": "A",
+              "lyrics": "out)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7",
+              "lyrics": "Come on,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "come on, c"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ome on, com"
+            },
+            {
+              "chord": "A",
+              "lyrics": "e on, baby now, (come on baby)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Come on"
+            },
+            {
+              "chord": "G",
+              "lyrics": "and work it"
+            },
+            {
+              "chord": "A",
+              "lyrics": "on out. (Work it on out, ooh!)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 6",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "You know"
+            },
+            {
+              "chord": "G",
+              "lyrics": "you twist"
+            },
+            {
+              "chord": "A",
+              "lyrics": "it little girl, (twist little girl)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7",
+              "lyrics": "You know"
+            },
+            {
+              "chord": "D",
+              "lyrics": "you twist"
+            },
+            {
+              "chord": "G",
+              "lyrics": "so fine. (T"
+            },
+            {
+              "chord": "A",
+              "lyrics": "wist so fine)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7",
+              "lyrics": "Come on"
+            },
+            {
+              "chord": "D",
+              "lyrics": "and twist a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "little clo"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ser now, (twist little closer)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "And let"
+            },
+            {
+              "chord": "G",
+              "lyrics": "me know tha"
+            },
+            {
+              "chord": "A",
+              "lyrics": "t you're mine. (Let me know you're mine ooh!)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 7",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Well sha"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ke it shake"
+            },
+            {
+              "chord": "A",
+              "lyrics": "it shake it baby now. (shake it up baby)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7",
+              "lyrics": "Well sha"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ke it shake"
+            },
+            {
+              "chord": "G",
+              "lyrics": "it shake i"
+            },
+            {
+              "chord": "A",
+              "lyrics": "t baby now. (shake it up baby)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7",
+              "lyrics": "Well sha"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ke it shake"
+            },
+            {
+              "chord": "G",
+              "lyrics": "it shake i"
+            },
+            {
+              "chord": "A",
+              "lyrics": "t baby now. (shake it up baby)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Ah"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "h ahh ahh ah"
+            },
+            {
+              "chord": "A",
+              "lyrics": "h"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": ""
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C#",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "D9",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

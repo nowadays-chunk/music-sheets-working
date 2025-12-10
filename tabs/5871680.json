@@ -1,0 +1,740 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/conan-gray/vodka-cranberry-chords-5871680",
+  "title": "Vodka Cranberry",
+  "artist": "Conan Gray",
+  "key": "D",
+  "scrapedAt": "2025-12-10T18:46:13.920Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(without capo)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e|----------------------|----------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|------13--13------13--|------10--10------10--|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|--10----------10------|--10----------10------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|----------------------|----------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|----------------------|----------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|----------------------|----------------------| x2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e|----------------------|--------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|------13--13------13--|------13--13------13--11--10----------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|--10----------10------|--10----------10--------------12--10--|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|----------------------|--------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|----------------------|--------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|----------------------|--------------------------------------|"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "You say"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "we're fine,"
+            },
+            {
+              "chord": "F",
+              "lyrics": "but your brown eyes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Are green"
+            },
+            {
+              "chord": "C",
+              "lyrics": "this time so you've been crying"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "It's in th"
+            },
+            {
+              "chord": "F",
+              "lyrics": "e way you say my name"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "So quick,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "so straight, it sounds the same"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "As the time we took a break"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "February"
+            },
+            {
+              "chord": "G",
+              "lyrics": "fourth through the sixteenth of May"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "It's so s"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "trange to be back at your place"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Pretendin"
+            },
+            {
+              "chord": "G",
+              "lyrics": "g like nothing has changed, ooh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Speak up,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "I know you hate me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Looked"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "at your pictu"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "re and cried"
+            },
+            {
+              "chord": "G",
+              "lyrics": "like a baby"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Speak up,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "don't leave me waiting"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Got way"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "too drunk of"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "f a Vodka Cr"
+            },
+            {
+              "chord": "G",
+              "lyrics": "anberry"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Called yo"
+            },
+            {
+              "chord": "G",
+              "lyrics": "u up in the middle of the night"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Wailing"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "like an imbe"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "cile"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "If you wo"
+            },
+            {
+              "chord": "G",
+              "lyrics": "n't end things, then I will"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Instrumental]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Now I lo"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ok dumb and"
+            },
+            {
+              "chord": "F",
+              "lyrics": "you look mean"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "You casua"
+            },
+            {
+              "chord": "C",
+              "lyrics": "lly steal back your T-shirt"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "And your P"
+            },
+            {
+              "chord": "F",
+              "lyrics": "olo cap, yeah, I noticed that"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Yeah, I n"
+            },
+            {
+              "chord": "C",
+              "lyrics": "otice everything you do"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Since the time we took a break"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Everybody"
+            },
+            {
+              "chord": "G",
+              "lyrics": "knows you don't love me the same"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "So cruel"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "to be lying to my face"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "'Cause I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "know what you're too scared to say, ooh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Speak up,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "I know you hate me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Looked"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "at your pictu"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "re and cried"
+            },
+            {
+              "chord": "G",
+              "lyrics": "like a baby"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Speak up,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "don't leave me waiting"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Got way"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "too drunk of"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "f a Vodka Cr"
+            },
+            {
+              "chord": "G",
+              "lyrics": "anberry"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Called yo"
+            },
+            {
+              "chord": "G",
+              "lyrics": "u up in the middle of the night"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Wailing"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "like an imbe"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "cile"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "If you"
+            },
+            {
+              "chord": "G",
+              "lyrics": "won't end"
+            },
+            {
+              "chord": "C",
+              "lyrics": "things, the"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "n I will"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I will"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "I will"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "I will"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I will, I will, I will"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Speak up,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "I know you hate me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Looked"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "at your pictu"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "re and cried"
+            },
+            {
+              "chord": "G",
+              "lyrics": "like a baby"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Speak up,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "don't leave me waiting"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Got way"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "too drunk of"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "f a Vodka Cr"
+            },
+            {
+              "chord": "G",
+              "lyrics": "anberry"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Called yo"
+            },
+            {
+              "chord": "G",
+              "lyrics": "u up in the middle of the night"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Wailing"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "like an imbe"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "cile"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "If you w"
+            },
+            {
+              "chord": "G",
+              "lyrics": "on't end th"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ings, then I will"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

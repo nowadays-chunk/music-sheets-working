@@ -1,0 +1,915 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/billie-eilish/your-power-chords-3684230",
+  "title": "Your Power",
+  "artist": "Billie Eilish",
+  "key": "Am",
+  "scrapedAt": "2025-12-10T18:48:12.263Z",
+  "sections": [
+    {
+      "name": "Intro - Main Acoustic Hook",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "e|-------"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "------------"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "------------"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "------|--------"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "------------"
+            },
+            {
+              "chord": "G",
+              "lyrics": "-----------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|--13----12----5---6\\5----8---0-------|--13----12----5---6\\5----3---3/5-----|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|--14----12----5---7\\5----9---0-------|--14----12----5---7\\5----4---4/5-----|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|-------------------------------------|-------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|-------------------------------------|-------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|-------------------------------------|-------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "e|-------"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "------------"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "------------"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "------|--------"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "------------"
+            },
+            {
+              "chord": "G",
+              "lyrics": "-----------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|--13----12----5---6\\5----8---0-------|--/5--5---5---3---3~---0-------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|--14----12----5---7\\5----9---0-------|--/5------5---4---4~---0-------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|-------------------------------------|-------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|-------------------------------------|-------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|-------------------------------------|-----------------------3-------------|"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Intro - Rhythm Section",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "e|----0-----"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "0-0-0-|--0-0"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "-0---1-1-1-|0---0-----0-0-0-|0---0-----0-0-0-|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|----1-----1-1-1-|--1-1-1---1-1-1-|0h1-1-----1-1-0-|0---0-----0-0-0-|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|0h2-2-----2-2-2-|--2-2-2---2-2-2-|2---2-----2-2-2-|0---0-----0-0-0-|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|3---3-----3-3-3-|--3-3-3---3-3-3-|2---2-----2-2-2-|2---2-----2-2-2-|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|3---3-----3-3-3-|--3-3-3---3-3-3-|0---0-----2-2-2-|2---2-----2-2-2-|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|----------------|----------------|--------------0-|0---0-----0-0-0-|"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "Try not to a"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "buse your po"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "wer"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "I know we di"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "dn't choose"
+            },
+            {
+              "chord": "G",
+              "lyrics": "to change"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "You might no"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "t want to lo"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "se your power"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "But having i"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "t's so stran"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ge"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "e|x---x-----"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "--x---|x---x"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "-------x---|x---x-------x---|x---x-------x---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|x---x-----1-x-1-|x---x-----1-x---|x---x-----1-x-0-|x---x-----0-x-0-|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|x---x-----2-x-2-|x---x-----2-x-0-|x---x-----2---0-|----------0---0-|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|x---x-----3-x-3-|x---x-----3-x-0-|x---x-----2---2-|----------2---2-|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|x---x-------x---|x---x-------x---|x---x-----------|----------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|x---x-------x---|x---x-------x---|x---x-----------|----------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "She said you"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "were a hero"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ", you played the part"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "But you ruin"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ed her in a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "year, don't act like it was hard"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "And you swear you didn't know (didn't know, didn't know)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "No wonder"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "why you didn't ask"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "She was sleeping in your clothes (in your clothes)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "But now sh"
+            },
+            {
+              "chord": "G",
+              "lyrics": "e's got to get to class"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pre-Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "N.C."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "How dare you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "And how coul"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "d you"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "Will you only feel bad when they find out"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "If you cou"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ld take it all back"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "N.C."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Would you?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "Try not to a"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "buse your po"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "wer"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "I know we di"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "dn't choose"
+            },
+            {
+              "chord": "G",
+              "lyrics": "to change"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "You might no"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "t want to lo"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "se your power"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "But having i"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "t's so stran"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ge"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "I thought that I was special"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "You made"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "me feel like"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "it was my fault"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "You were t"
+            },
+            {
+              "chord": "G",
+              "lyrics": "he devil, lost your appeal"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "Does it keep you in control (in control)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "For you to"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "keep her in a cage"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "And you swear you didn't know (didn't know)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "You said y"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ou thought she was your age"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pre-Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "N.C."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "How dare you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "And how coul"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "d you?"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "Will you onl"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "y feel bad i"
+            },
+            {
+              "chord": "G",
+              "lyrics": "f it turns out, that they kill your contract"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "N.C."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Would you?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "Try not to a"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "buse your po"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "wer"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "I know we di"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "dn't choose"
+            },
+            {
+              "chord": "G",
+              "lyrics": "to change"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "You might no"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "t want to lo"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "se your power"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "But power is"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "n't pain"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro - Main Acoustic Hook",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "e|-------"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "------------"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "------------"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "------|--------"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "------------"
+            },
+            {
+              "chord": "G",
+              "lyrics": "-----------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|--13----12----5---6\\5----8---0-------|--13----12----5---6\\5----3---3/5-----|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|--14----12----5---7\\5----9---0-------|--14----12----5---7\\5----4---4/5-----|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|-------------------------------------|-------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|-------------------------------------|-------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|-------------------------------------|-------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "e|-------"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "------------"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "------------"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "------|--------"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "------------"
+            },
+            {
+              "chord": "G",
+              "lyrics": "-----------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|--13----12----5---6\\5----8---0-------|--/5--5---5---3---3~---0-------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|--14----12----5---7\\5----9---0-------|--/5------5---4---4~---0-------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|-------------------------------------|-------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|-------------------------------------|-------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|-------------------------------------|-----------------------3-------------|"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

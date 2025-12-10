@@ -1,0 +1,524 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/francis-cabrel/je-taimais-je-taime-je-taimerai-chords-64258",
+  "title": "Je Taimais Je Taime Je Taimerai",
+  "artist": "Francis Cabrel",
+  "key": "",
+  "scrapedAt": "2025-12-10T18:47:57.053Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "x2"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Mon enfant, nu sur les galets,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Le vent dans tes cheveux défaits,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Comme un printemps sur mon trajet,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Emadd9",
+              "lyrics": "Un diamant tom"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "bé d'un coffret."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Seule la lumière pourrait"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Defaire nos repères secrets"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Ou mes doigts pris sur tes poignets,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Emadd9",
+              "lyrics": "Je t'aimais, j"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "e t'aime et je t'aimerai..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Quoi que"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "tu fasses,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "l'amour est partout où tu regardes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Dans les moindres recoins de l'espace,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Dans le mo"
+            },
+            {
+              "chord": "D",
+              "lyrics": "indre rêve où tu t'attardes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "L'amour, comme s'il en pleuvait,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Emadd9",
+              "lyrics": "Nu sur les gal"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ets..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Le ciel prétend qu'il te connait"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Il est si beau c'est surement vrai."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Lui qui s'approche jamais -"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Emadd9",
+              "lyrics": "Je l'ai vu pri"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "s dans tes filets."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Le monde a tellement de regrets"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Tellement de choses qu'on promet."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Une seule pour laquelle je suis fait -"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Emadd9",
+              "lyrics": "Je t'aimais, j"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "e t'aime et je t'aimerai..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Emadd9",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Quoi que"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "tu fasses,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "l'amour est partout où tu regardes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Dans les moindres recoins de l'espace,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Dans le mo"
+            },
+            {
+              "chord": "D",
+              "lyrics": "indre rêve où tu t'attardes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "L'amour, comme s'il en pleuvait,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Emadd9",
+              "lyrics": "Nu sur les gal"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ets..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Emadd9",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "|  |  |  |"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "|  |   |"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Emadd9",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 3",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Emadd9",
+              "lyrics": "|  On s'envole"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ra du même qua"
+            },
+            {
+              "chord": "G",
+              "lyrics": "i"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Les yeux, dans les mêmes reflets,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Pour cette vie et celle d'après"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Emadd9",
+              "lyrics": "Tu seras mon u"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "nique projet."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Je m'en irai poser tes portraits"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "A tous les plafonds de tous les palais,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Sur tous les murs que je trouverai"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Emadd9",
+              "lyrics": "Et juste en-de"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ssous j'ecrirai"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Que seule la lumière pourrait..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "|  |"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Et mes do"
+            },
+            {
+              "chord": "C",
+              "lyrics": "igts pris sur tes poignets,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Emadd9",
+              "lyrics": "Je t'aimais, j"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "e t'aime et je t'aimerai...."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro fade-out",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "|  |  |  |"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

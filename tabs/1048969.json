@@ -1,0 +1,992 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/the-kinks/lola-chords-1048969",
+  "title": "Lola",
+  "artist": "The Kinks",
+  "key": "E",
+  "scrapedAt": "2025-12-10T18:45:59.002Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "I met her in a club down in old Soho"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "where yo"
+            },
+            {
+              "chord": "D",
+              "lyrics": "u drink cha"
+            },
+            {
+              "chord": "E",
+              "lyrics": "mpagne and it tastes just like Coca Cola (or cherry cola)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "C-O-L-A,"
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": "cola"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "She walked up to me and she asked me to dance"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I asked"
+            },
+            {
+              "chord": "D",
+              "lyrics": "her her nam"
+            },
+            {
+              "chord": "E",
+              "lyrics": "e and in a dark brown voice she said Lola"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "L-O-L"
+            },
+            {
+              "chord": "D",
+              "lyrics": "-A, Lola, L"
+            },
+            {
+              "chord": "C",
+              "lyrics": "o lo lo lo"
+            },
+            {
+              "chord": "C",
+              "lyrics": "lola"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Well I'm not the worlds most physical guy"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "but when she squeezed me tight"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "she nearl"
+            },
+            {
+              "chord": "E",
+              "lyrics": "y broke my spine, oh my Lola"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Lo lo lo"
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": "lo Lola"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 3",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Well I'm not dumb but I can't understand"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "why she w"
+            },
+            {
+              "chord": "D",
+              "lyrics": "alked like a woman and talked like a man"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "oh my Lola"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Lo lo"
+            },
+            {
+              "chord": "D",
+              "lyrics": "lo lo Lola"
+            },
+            {
+              "chord": "C",
+              "lyrics": "Lo lo lo l"
+            },
+            {
+              "chord": "C",
+              "lyrics": "o Lola"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "B7",
+              "lyrics": "*** Well we drank champagne and danced all night"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "under electric candlelight"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "She picked me up and sat me on her knee"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and said 'Dear boy, won't you come home with me'"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 4",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Well I'm not the world's most passionate guy"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "but when"
+            },
+            {
+              "chord": "D",
+              "lyrics": "I looked i"
+            },
+            {
+              "chord": "E",
+              "lyrics": "n her eyes, well I almost fell for my Lola"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Lo lo"
+            },
+            {
+              "chord": "D",
+              "lyrics": "lo lo Lola"
+            },
+            {
+              "chord": "C",
+              "lyrics": "Lo lo lo lo"
+            },
+            {
+              "chord": "C",
+              "lyrics": "Lola"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Lola"
+            },
+            {
+              "chord": "A",
+              "lyrics": ", Lo lo lo"
+            },
+            {
+              "chord": "D",
+              "lyrics": "lo Lola, lo"
+            },
+            {
+              "chord": "C",
+              "lyrics": "lo lo lo L"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ola"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "*  ** I p"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ushed her awa"
+            },
+            {
+              "chord": "B",
+              "lyrics": "y"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "*  ** I w"
+            },
+            {
+              "chord": "E",
+              "lyrics": "alked to the"
+            },
+            {
+              "chord": "B",
+              "lyrics": "door"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "*  ** I f"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ell to the fl"
+            },
+            {
+              "chord": "B",
+              "lyrics": "oor"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "I got do"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "wn on my knee"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "s"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B7",
+              "lyrics": "Then I looked at her and she at me"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 5",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Well that's the way that I want it to stay"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "and I al"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ways want i"
+            },
+            {
+              "chord": "E",
+              "lyrics": "t to be that way for my Lola"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Lo lo lo"
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": "lo Lola"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Girls will be boys and boys will be girls"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "It's a m"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ixed up, mu"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ddled up, shook up world except for Lola"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Lo lo lo lo Lola"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "B7",
+              "lyrics": "Well I left home just a week before"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "And I'd never ever kissed a woman before"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Lola smiled and took me by the hand"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and said 'dear boy, I'm gonna make you a man'"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 6",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Well I'm not the worlds most masculine man"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "but I kno"
+            },
+            {
+              "chord": "D",
+              "lyrics": "w what I am and I'm glad I'm a man"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "and s"
+            },
+            {
+              "chord": "A",
+              "lyrics": "o is Lola,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "lo lo lo lo"
+            },
+            {
+              "chord": "C",
+              "lyrics": "lola Lo lo"
+            },
+            {
+              "chord": "C",
+              "lyrics": "lo lo Lola"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Lola,"
+            },
+            {
+              "chord": "A",
+              "lyrics": "lo lo lo l"
+            },
+            {
+              "chord": "D",
+              "lyrics": "o Lola, lo"
+            },
+            {
+              "chord": "C",
+              "lyrics": "lo lo lo Lo"
+            },
+            {
+              "chord": "C",
+              "lyrics": "la"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Lola,"
+            },
+            {
+              "chord": "A",
+              "lyrics": "lo lo lo l"
+            },
+            {
+              "chord": "D",
+              "lyrics": "o Lola, lo"
+            },
+            {
+              "chord": "C",
+              "lyrics": "lo lo lo Lo"
+            },
+            {
+              "chord": "C",
+              "lyrics": "la"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Lola"
+            },
+            {
+              "chord": "A",
+              "lyrics": ", lo lo lo"
+            },
+            {
+              "chord": "D",
+              "lyrics": "lo Lola, lo"
+            },
+            {
+              "chord": "C",
+              "lyrics": "lo lo lo L"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ola"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "* It has been suggested that C#m is better than E"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "** It has been suggested that B7 is a better fit than B"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "*** It has been suggested that B is a better fit than B7"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "**** Alternate:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Capo II"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "="
+            },
+            {
+              "chord": "Bb",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "="
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "="
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "="
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus4",
+              "lyrics": "="
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B7",
+              "lyrics": "="
+            },
+            {
+              "chord": "A7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "="
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "="
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#m",
+              "lyrics": "="
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "="
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Open (These chords are not in the original key)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "="
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "="
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "="
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "="
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus4",
+              "lyrics": "="
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B7",
+              "lyrics": "="
+            },
+            {
+              "chord": "E7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "="
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "="
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#m",
+              "lyrics": "="
+            },
+            {
+              "chord": "C#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "="
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Set8"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

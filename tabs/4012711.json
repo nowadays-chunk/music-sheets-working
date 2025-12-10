@@ -1,0 +1,616 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/zach-bryan/something-in-the-orange-chords-4012711",
+  "title": "Something In The Orange",
+  "artist": "Zach Bryan",
+  "key": "G",
+  "scrapedAt": "2025-12-10T18:43:14.327Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "*"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "**"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "It'll be f"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "ine by dusk li"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ght I'm telling you baby"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "These th"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "ings eat at yo"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ur bones and drive your young mind crazy"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "But when y"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "ou place your"
+            },
+            {
+              "chord": "G",
+              "lyrics": "head between my collar and jaw"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I don't"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "know much but"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "there's no weight at all"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "And I'm da"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "mned if I do a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "nd I'm damned if I don't"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "'Cause i"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "f I say I miss"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "you I know that you won't"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "But I miss"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "you in the mo"
+            },
+            {
+              "chord": "G",
+              "lyrics": "rnings when I see the sun"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Somethin"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "g in the orang"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "e tells me we're not done"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9",
+              "lyrics": "To you I'm ju"
+            },
+            {
+              "chord": "G",
+              "lyrics": "st a man, to me you're all I am"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Where the"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "hell am I 'supposed to go?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9",
+              "lyrics": "I poisoned myself again"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Somethin"
+            },
+            {
+              "chord": "D",
+              "lyrics": "g in the or"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "ange tells me you're never coming home"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9",
+              "lyrics": "If you leave"
+            },
+            {
+              "chord": "G",
+              "lyrics": "today I'll just stare at the way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "The orang"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "e touches all things around"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9",
+              "lyrics": "The grass, tr"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ees and dew, how I just hate you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Please tu"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "rn those headlights around"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Break]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9",
+              "lyrics": "x2"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em7",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 3",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "I need to"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "hear you say y"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ou've been waitin' all night"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "There's"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "orange dancing"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "in your eyes from bulb light"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "Your voice"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "only trembles"
+            },
+            {
+              "chord": "G",
+              "lyrics": "when you try to speak"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Take me"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "back to us dan"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "cing, this wood used to creak"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9",
+              "lyrics": "To you I'm ju"
+            },
+            {
+              "chord": "G",
+              "lyrics": "st a man, to me you're all I am"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Where the"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "hell am I 'supposed to go?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9",
+              "lyrics": "I poisoned myself again"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Somethin"
+            },
+            {
+              "chord": "D",
+              "lyrics": "g in the or"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "ange tells me you're never coming home"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9",
+              "lyrics": "If you leave"
+            },
+            {
+              "chord": "G",
+              "lyrics": "today I'll just stare at the way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "The orang"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "e touches all things around"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9",
+              "lyrics": "The grass, tr"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ees and dew, how I just hate you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Please tu"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "rn those headlights around"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Break]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em7",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9",
+              "lyrics": "To you I'm ju"
+            },
+            {
+              "chord": "G",
+              "lyrics": "st a man, to me you're all I am"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Where the"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "hell am I 'supposed to go?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9",
+              "lyrics": "I poisoned myself again"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Somethin"
+            },
+            {
+              "chord": "D",
+              "lyrics": "g in the or"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "ange tells me you're never coming home"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9",
+              "lyrics": "If you leave"
+            },
+            {
+              "chord": "G",
+              "lyrics": "today I'll just stare at the way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "The orang"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "e touches all things around"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9",
+              "lyrics": "The grass, tr"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ees and dew, how I just hate you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Please tu"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "rn those headlights around"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Please tu"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "rn those headlights around"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

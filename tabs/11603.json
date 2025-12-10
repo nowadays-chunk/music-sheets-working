@@ -1,0 +1,721 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/hootie-the-blowfish/let-her-cry-chords-11603",
+  "title": "Let Her Cry",
+  "artist": "Hootie & the Blowfish",
+  "key": "",
+  "scrapedAt": "2025-12-10T18:48:10.643Z",
+  "sections": [
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "She sits"
+            },
+            {
+              "chord": "D",
+              "lyrics": "alone by a lamppost"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Trying to"
+            },
+            {
+              "chord": "G",
+              "lyrics": "find a thought that's escaped her mind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "She says"
+            },
+            {
+              "chord": "D",
+              "lyrics": "\"Dad's the one I love the most,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "But Stipe"
+            },
+            {
+              "chord": "G",
+              "lyrics": "'s not far behind!\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "She never"
+            },
+            {
+              "chord": "D",
+              "lyrics": "lets me in - only tells me where she's been"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "When she'"
+            },
+            {
+              "chord": "G",
+              "lyrics": "s had too much to drink"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I say tha"
+            },
+            {
+              "chord": "D",
+              "lyrics": "t I don't care, I just run my hands through her dark hair, then I"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Pray to G"
+            },
+            {
+              "chord": "G",
+              "lyrics": "od, \"You gotta help me fly away\", (and just)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Let her c"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ry if the tears fall down like rain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Let her"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "sing if it"
+            },
+            {
+              "chord": "G",
+              "lyrics": "eases all h"
+            },
+            {
+              "chord": "D",
+              "lyrics": "er pain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Let her g"
+            },
+            {
+              "chord": "G",
+              "lyrics": "o, let her walk right out on me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "And if the sun comes up tomorrow,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Let her b"
+            },
+            {
+              "chord": "G",
+              "lyrics": "e, let her be"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Solo",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 3",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "This morn"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ing I woke up alone, found a note standing by the phone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Saying \"B"
+            },
+            {
+              "chord": "G",
+              "lyrics": "aby, maybe I'll be back someday.\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I wanted"
+            },
+            {
+              "chord": "D",
+              "lyrics": "to look for you; you walked in, I didn't know just what I should do, so I"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Sat back"
+            },
+            {
+              "chord": "G",
+              "lyrics": "down, had a beer and felt sorry for myself"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Let her c"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ry if the tears fall down like rain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Let her"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "sing if it"
+            },
+            {
+              "chord": "G",
+              "lyrics": "eases all h"
+            },
+            {
+              "chord": "D",
+              "lyrics": "er pain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Let her g"
+            },
+            {
+              "chord": "G",
+              "lyrics": "o, let her walk right out on me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "And if the sun comes up tomorrow,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Let her b"
+            },
+            {
+              "chord": "G",
+              "lyrics": "e, ohh..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Interlude]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": ")"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 4",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Last nigh"
+            },
+            {
+              "chord": "D",
+              "lyrics": "t I tried to leave, cried so much I could not believe"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "She was t"
+            },
+            {
+              "chord": "G",
+              "lyrics": "he same girl I fell in love with long ago"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "She went"
+            },
+            {
+              "chord": "D",
+              "lyrics": "in the back to get high; I sat down on my couch and cried, yelling"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "\"Oh Mama!"
+            },
+            {
+              "chord": "G",
+              "lyrics": "Please help me. Won't you hold my hand?\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Let her c"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ry if the tears fall down like rain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Let her"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "sing if it"
+            },
+            {
+              "chord": "G",
+              "lyrics": "eases all h"
+            },
+            {
+              "chord": "D",
+              "lyrics": "er pain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Let her g"
+            },
+            {
+              "chord": "G",
+              "lyrics": "o, let her walk right out on me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "And if th"
+            },
+            {
+              "chord": "G",
+              "lyrics": "e sun comes up tomorrow, let her be"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Let her c"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ry if the tears fall down like rain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Let her"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "sing if it"
+            },
+            {
+              "chord": "G",
+              "lyrics": "eases all h"
+            },
+            {
+              "chord": "D",
+              "lyrics": "er pain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Let her g"
+            },
+            {
+              "chord": "G",
+              "lyrics": "o, let her walk right out on me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "And if the sun comes up tomorrow,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Let her b"
+            },
+            {
+              "chord": "G",
+              "lyrics": "e, oh, let her be"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Performance Notes:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "1. Tambourine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "one hit on the 2-beat starts at line 3 and continues during"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "the verses"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "double-time accent 3 during chorus and solo"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "2. Drums:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "ride shimmer between line 4 and 5"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "enter at first chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "don't play during last verse (shimmer accents only)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "play ride on bell during chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "3. Vocal harmonies"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "first chorus on \"if the sun comes up tomorrow\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "all other choruses over \"let her {cry/see/go}\" and"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "\"if the sun comes up tomorrow\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "4. Lead guitar"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "arpeggiates chords during chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "play accents over last verse (wailing emotion, feedback"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "effects, etc)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "classic Marshall/Les Paul sound"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "5. All"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "in the chorus after the solo and the last chorus, the last"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "two lines are played with reduced dynamics - no drums,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "no strum, no tamb - just easing down"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

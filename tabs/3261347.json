@@ -1,0 +1,600 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/august-chords-3261347",
+  "title": "August",
+  "artist": "Taylor Swift",
+  "key": "F",
+  "scrapedAt": "2025-12-10T18:45:52.103Z",
+  "sections": [
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Salt air"
+            },
+            {
+              "chord": "G",
+              "lyrics": ", and the r"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ust on your door"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I never needed anything more"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Whispers"
+            },
+            {
+              "chord": "G",
+              "lyrics": "of \"Are yo"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "u sure?\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Never have I ever before"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "But I can see us lost in the memory"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "August sl"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ipped away into a moment in time"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "'Cause it was never mine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "And I can see us twistin' in bedsheets"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "August si"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "pped away like a bottle of wine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "'Cause you were never mine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Your bac"
+            },
+            {
+              "chord": "G",
+              "lyrics": "k beneath t"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "he sun"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Wishin' I could write my name on it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Will you"
+            },
+            {
+              "chord": "G",
+              "lyrics": "call when"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "you're back at school?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I remember thinkin' I had you"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Bm7",
+              "lyrics": "But I can see us lost in the memory"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "August sl"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ipped away into a moment in time"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "'Cause it was never mine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm7",
+              "lyrics": "And I can see us twistin' in bedsheets"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "August si"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "pped away like a bottle of wine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "'Cause you were never mine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Interlude]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Back when"
+            },
+            {
+              "chord": "G",
+              "lyrics": "we were still changin' for the better"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Wanting was enough"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "For me, it was enough"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "To live for the hope of it all"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Canceled plans just in case you'd call"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "And say \"Meet me behind the mall\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "So much for summer love and saying \"Us\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "'Cause yo"
+            },
+            {
+              "chord": "G",
+              "lyrics": "u weren't mine to lose"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "You weren'"
+            },
+            {
+              "chord": "A",
+              "lyrics": "t mine to lose, no"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "But I can see us lost in the memory"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "August sl"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ipped away into a moment in time"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "'Cause it was never mine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "And I can see us twistin' in bedsheets"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "August si"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "pped away like a bottle of wine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "'Cause you were never mine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "'Cause yo"
+            },
+            {
+              "chord": "G",
+              "lyrics": "u were never mine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Never mine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Do you remember"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Remember when I pulled up and said \"Get in the car\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And then canceled my plans just in case you'd call"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Back when"
+            },
+            {
+              "chord": "A",
+              "lyrics": "I was livin' for the hope of it all, for the hope of it all"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": ") \"Meet me behind the mall\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Remember when I pulled up and said \"Get in the car\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And then canceled my plans just in case you'd call"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Back when"
+            },
+            {
+              "chord": "A",
+              "lyrics": "I was livin' for the hope of it all, for the hope of it all"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": ") \"Meet me behind the mall\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Remember when I pulled up and said \"Get in the car\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And then canceled my plans just in case you'd call"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Back when"
+            },
+            {
+              "chord": "A",
+              "lyrics": "I was livin' for the hope of it all (For the hope of it all)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "For the h"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ope of it all, for the hope of it all"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "(For the h"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ope of it all, for the hope of it all)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "x5"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(fade out)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

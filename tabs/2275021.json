@@ -1,0 +1,386 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/misc-cartoons/coco-un-poco-loco-chords-2275021",
+  "title": "Coco - Un Poco Loco",
+  "artist": "Misc Cartoons",
+  "key": "D",
+  "scrapedAt": "2025-12-10T18:46:53.180Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ahhhhhh-ahhoo ayy!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "What co"
+            },
+            {
+              "chord": "G",
+              "lyrics": "lor is the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "sky? Ay, mi"
+            },
+            {
+              "chord": "G",
+              "lyrics": "amor, ay, mi amor"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "You tel"
+            },
+            {
+              "chord": "G",
+              "lyrics": "l me that i"
+            },
+            {
+              "chord": "D",
+              "lyrics": "t's red, ay"
+            },
+            {
+              "chord": "G",
+              "lyrics": ", mi amor, ay, mi amor"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Where s"
+            },
+            {
+              "chord": "G",
+              "lyrics": "hould I put"
+            },
+            {
+              "chord": "D",
+              "lyrics": "my shoes?"
+            },
+            {
+              "chord": "G",
+              "lyrics": "Ay, mi amor, ay, mi amor"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "You say"
+            },
+            {
+              "chord": "G",
+              "lyrics": ", \"put them"
+            },
+            {
+              "chord": "D",
+              "lyrics": "on your he"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ad!\" Ay, mi amor, ay, mi amor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "You make"
+            },
+            {
+              "chord": "D",
+              "lyrics": "me un poco"
+            },
+            {
+              "chord": "G",
+              "lyrics": "loco, un poquititito loco"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "The way"
+            },
+            {
+              "chord": "D",
+              "lyrics": "you keep me"
+            },
+            {
+              "chord": "G",
+              "lyrics": "guessing, I'm nodding and I'm yessing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I'll count it as a blessing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "That I'm"
+            },
+            {
+              "chord": "D",
+              "lyrics": "only un po"
+            },
+            {
+              "chord": "G",
+              "lyrics": "co loco"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus 2 (key change)",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "The loco that you make me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "It is jus"
+            },
+            {
+              "chord": "A",
+              "lyrics": "t un poco crazy"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "The sense that you're not making"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "The liber"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ties you're taking"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Leaves my cabeza shaking"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "You're j"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ust un poco"
+            },
+            {
+              "chord": "A",
+              "lyrics": "loco"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "He's just"
+            },
+            {
+              "chord": "D",
+              "lyrics": "un poco crazy"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Leaves my"
+            },
+            {
+              "chord": "A",
+              "lyrics": "cabeza shaking"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "He's just"
+            },
+            {
+              "chord": "D",
+              "lyrics": "un poco crazy"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Leaves my"
+            },
+            {
+              "chord": "A",
+              "lyrics": "cabeza shaking"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "He's just"
+            },
+            {
+              "chord": "D",
+              "lyrics": "un poco crazy"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Leaves my"
+            },
+            {
+              "chord": "A",
+              "lyrics": "cabeza shaking"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "He's just"
+            },
+            {
+              "chord": "D",
+              "lyrics": "un poco crazy"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Leaves my"
+            },
+            {
+              "chord": "A",
+              "lyrics": "cabeza shaking"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Un poqu"
+            },
+            {
+              "chord": "D",
+              "lyrics": "itititi tit"
+            },
+            {
+              "chord": "E",
+              "lyrics": "i titi titi"
+            },
+            {
+              "chord": "A",
+              "lyrics": "tititito loco"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

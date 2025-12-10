@@ -1,0 +1,510 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/kenny-rogers/islands-in-the-stream-chords-82137",
+  "title": "Islands In The Stream",
+  "artist": "Kenny Rogers",
+  "key": "C",
+  "scrapedAt": "2025-12-10T18:46:25.363Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "|  | x2"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Baby when I met you there was peace unknown"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I set out to get you with a fine tooth comb."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "I was s"
+            },
+            {
+              "chord": "C",
+              "lyrics": "oft inside,"
+            },
+            {
+              "chord": "F",
+              "lyrics": "there was"
+            },
+            {
+              "chord": "C",
+              "lyrics": "something goin' on"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "You do something to me that I can't explain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Hold me c"
+            },
+            {
+              "chord": "F",
+              "lyrics": "loser and I feel no pain, ev'ry beat of my heart"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "We got something goin' on"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pre-Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "Tender love is blind, it requires a dedication"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fm",
+              "lyrics": "All this love we feel needs no conversation"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "We ride it together, uh huh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Makin' love with each other, uh huh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Islands i"
+            },
+            {
+              "chord": "F",
+              "lyrics": "n the stream, that is what we are"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "No one in between, how can we be wrong"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Sail away"
+            },
+            {
+              "chord": "F",
+              "lyrics": "with me to another world"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "And we rely on each other, uh huh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "From one l"
+            },
+            {
+              "chord": "C",
+              "lyrics": "over to another, uh huh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G#",
+              "lyrics": "I can't live without you if the love was gone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#",
+              "lyrics": "Ev'rything is nothing if you got no one"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#",
+              "lyrics": "And you did walk in the night"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#",
+              "lyrics": "Slowly lo"
+            },
+            {
+              "chord": "C#",
+              "lyrics": "sin' sight o"
+            },
+            {
+              "chord": "G#",
+              "lyrics": "f the real thing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#",
+              "lyrics": "But that won't happen to us and we got no doubt"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#",
+              "lyrics": "Too deep in love and we got no way out"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#",
+              "lyrics": "And the message is clear, this could be the year"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#",
+              "lyrics": "For the real thing"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pre-Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C#maj7",
+              "lyrics": "No more will you cry. Baby I will hurt you never"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "We start and end as one in love forever we can"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#",
+              "lyrics": "Ride it together, uh huh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#",
+              "lyrics": "Makin' love with each other, uh huh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G#",
+              "lyrics": "Islands in"
+            },
+            {
+              "chord": "C#",
+              "lyrics": "the stream, that is what we are"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A#m",
+              "lyrics": "No one in between, how can we be wrong"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#",
+              "lyrics": "Sail away"
+            },
+            {
+              "chord": "C#",
+              "lyrics": "with me to another world"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#",
+              "lyrics": "And we rely on each other, uh huh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A#m",
+              "lyrics": "From one lo"
+            },
+            {
+              "chord": "G#",
+              "lyrics": "ver to another, uh huh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C#",
+              "lyrics": "Sail away"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "G#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#",
+              "lyrics": "I can sai"
+            },
+            {
+              "chord": "E",
+              "lyrics": "l away. Be"
+            },
+            {
+              "chord": "G#",
+              "lyrics": "with me"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G#",
+              "lyrics": "Islands in"
+            },
+            {
+              "chord": "C#",
+              "lyrics": "the stream, that is what we are"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A#m",
+              "lyrics": "No one in between, how can we be wrong"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#",
+              "lyrics": "Sail away"
+            },
+            {
+              "chord": "C#",
+              "lyrics": "with me to another world"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#",
+              "lyrics": "And we rely on each other, uh huh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A#m",
+              "lyrics": "From one lo"
+            },
+            {
+              "chord": "G#",
+              "lyrics": "ver to another, uh huh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#",
+              "lyrics": "Islands in"
+            },
+            {
+              "chord": "C#",
+              "lyrics": "the stream, that is what we are"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A#m",
+              "lyrics": "No one in between, how can we be wrong"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#",
+              "lyrics": "Sail away"
+            },
+            {
+              "chord": "C#",
+              "lyrics": "with me to another world"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#",
+              "lyrics": "And we rely on each other, uh huh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A#m",
+              "lyrics": "From one lo"
+            },
+            {
+              "chord": "G#",
+              "lyrics": "ver to another, uh huh"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

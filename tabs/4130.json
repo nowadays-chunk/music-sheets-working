@@ -1,0 +1,785 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/radiohead/karma-police-chords-4130",
+  "title": "Karma Police",
+  "artist": "Radiohead",
+  "key": "",
+  "scrapedAt": "2025-12-10T18:45:57.048Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "D9/F#",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "G/F#",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "F/C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "G/F#",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "G/F#",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C/B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Karma"
+            },
+            {
+              "chord": "D9/F#",
+              "lyrics": "police, arrest"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "this man"
+            },
+            {
+              "chord": "G/F#",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F/C",
+              "lyrics": "He talks"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "in maths, h"
+            },
+            {
+              "chord": "G/F#",
+              "lyrics": "e buzzes like"
+            },
+            {
+              "chord": "G",
+              "lyrics": "a fridge"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "He's"
+            },
+            {
+              "chord": "G",
+              "lyrics": "like a det"
+            },
+            {
+              "chord": "C",
+              "lyrics": "uned ra - d"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "i - o"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Karma"
+            },
+            {
+              "chord": "D9/F#",
+              "lyrics": "police, arrest"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "this girl"
+            },
+            {
+              "chord": "G/F#",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F/C",
+              "lyrics": "Her Hitl"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "er hairdo is"
+            },
+            {
+              "chord": "G/F#",
+              "lyrics": "making me fee"
+            },
+            {
+              "chord": "G",
+              "lyrics": "l ill"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "And"
+            },
+            {
+              "chord": "G",
+              "lyrics": "we have cra"
+            },
+            {
+              "chord": "C",
+              "lyrics": "shed her pa"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "r - ty - y"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "This is"
+            },
+            {
+              "chord": "Dadd4",
+              "lyrics": "what you get"
+            },
+            {
+              "chord": "G/D",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#/C#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "This is"
+            },
+            {
+              "chord": "Dadd4",
+              "lyrics": "what you get"
+            },
+            {
+              "chord": "G/D",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#/C#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "This"
+            },
+            {
+              "chord": "Dadd4",
+              "lyrics": "is what you ge"
+            },
+            {
+              "chord": "G/D",
+              "lyrics": "t, when you m"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ess with us"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Karma"
+            },
+            {
+              "chord": "D9/F#",
+              "lyrics": "police, I've gi"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ven all I ca"
+            },
+            {
+              "chord": "G/F#",
+              "lyrics": "n,"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F/C",
+              "lyrics": "it's not"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "enough. I'v"
+            },
+            {
+              "chord": "G/F#",
+              "lyrics": "e given all I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "can,"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "but"
+            },
+            {
+              "chord": "G",
+              "lyrics": "we're still"
+            },
+            {
+              "chord": "C",
+              "lyrics": "on the pay"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "- ro - oll"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "This is"
+            },
+            {
+              "chord": "Dadd4",
+              "lyrics": "what you get"
+            },
+            {
+              "chord": "G/D",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#/C#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "This is"
+            },
+            {
+              "chord": "Dadd4",
+              "lyrics": "what you get"
+            },
+            {
+              "chord": "G/D",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#/C#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "This"
+            },
+            {
+              "chord": "Dadd4",
+              "lyrics": "is what you ge"
+            },
+            {
+              "chord": "G/D",
+              "lyrics": "t, when you m"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ess with us"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "For"
+            },
+            {
+              "chord": "D",
+              "lyrics": "a minute t"
+            },
+            {
+              "chord": "G",
+              "lyrics": "here, I los"
+            },
+            {
+              "chord": "G/E",
+              "lyrics": "t myself, I l"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ost myself"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "G/E",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "E7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "And"
+            },
+            {
+              "chord": "D",
+              "lyrics": "for a minu"
+            },
+            {
+              "chord": "G",
+              "lyrics": "te there, I"
+            },
+            {
+              "chord": "G/E",
+              "lyrics": "lost myself,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "I lost mys"
+            },
+            {
+              "chord": "G",
+              "lyrics": "elf"
+            },
+            {
+              "chord": "G/E",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "E7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Instrumental]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "G/E",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "G/E",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "E7",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "For"
+            },
+            {
+              "chord": "D",
+              "lyrics": "a minute t"
+            },
+            {
+              "chord": "G",
+              "lyrics": "here, I los"
+            },
+            {
+              "chord": "G/E",
+              "lyrics": "t myself, I l"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ost myself"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "G/E",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "E7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Phe"
+            },
+            {
+              "chord": "D",
+              "lyrics": "w, for a mi"
+            },
+            {
+              "chord": "G",
+              "lyrics": "nute there,"
+            },
+            {
+              "chord": "G/E",
+              "lyrics": "I lost mysel"
+            },
+            {
+              "chord": "D",
+              "lyrics": "f, I lost m"
+            },
+            {
+              "chord": "G",
+              "lyrics": "yse - lf"
+            },
+            {
+              "chord": "G/E",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "E7",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "G/E",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "G/E",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "E7",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

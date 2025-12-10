@@ -1,0 +1,1025 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/the-verve/bitter-sweet-symphony-chords-705173",
+  "title": "Bitter Sweet Symphony",
+  "artist": "The Verve",
+  "key": "A",
+  "scrapedAt": "2025-12-10T18:46:10.663Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "x2"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "( = ) e"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "|--0---------"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "2-----0-------0"
+            },
+            {
+              "chord": "A",
+              "lyrics": "-------|"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus2/E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|--0---0-----3-----3---3---2---2---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|--1-1---1---2---2-2-2-----2-2-----|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|--2---------4-4---0-------2-------| x10"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|--2---------2-----0-------0-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|--0---------x-----0-------x-------|"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "'Ca"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "use it's a bi"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "ttersweet symph"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ony that's"
+            },
+            {
+              "chord": "E",
+              "lyrics": "life"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Try"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "ing to make e"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "nds meet, you'r"
+            },
+            {
+              "chord": "A",
+              "lyrics": "e a slave t"
+            },
+            {
+              "chord": "E",
+              "lyrics": "o the money"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "then you die"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "I'l"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "l take you do"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "wn the only roa"
+            },
+            {
+              "chord": "A",
+              "lyrics": "d I've ever"
+            },
+            {
+              "chord": "E",
+              "lyrics": "been down"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "You"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "know the one"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "that takes you"
+            },
+            {
+              "chord": "A",
+              "lyrics": "to the pla"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ces where a"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "ll the veins"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "meet, yeah"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "No chan"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "ge, I can cha"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "nge, I can chan"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ge, I can change"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "But I'm"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "here in my m"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "ould, I am here"
+            },
+            {
+              "chord": "A",
+              "lyrics": "in my mould"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "But I'm"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "a million di"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "fferent people"
+            },
+            {
+              "chord": "A",
+              "lyrics": "from one day to the next"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "I c"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "an't change m"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "y mould, no no"
+            },
+            {
+              "chord": "A",
+              "lyrics": "no no no no"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(have you ever been down?)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Wel"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "l, I've never"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "prayed but ton"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ight I'm on"
+            },
+            {
+              "chord": "E",
+              "lyrics": "my knees,"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "yeah"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "I n"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "eed to hear s"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "ome sounds that"
+            },
+            {
+              "chord": "A",
+              "lyrics": "recognize"
+            },
+            {
+              "chord": "E",
+              "lyrics": "the pain in"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "me, yeah"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "I l"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "et the melody"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "shine, let it"
+            },
+            {
+              "chord": "A",
+              "lyrics": "cleanse my"
+            },
+            {
+              "chord": "E",
+              "lyrics": "mind, I fee"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "l free now"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "but"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "the airwaves"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "are clean and"
+            },
+            {
+              "chord": "A",
+              "lyrics": "there's nob"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ody singing"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "to me now"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "No chan"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "ge, I can cha"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "nge, I can chan"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ge, I can change"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "But I'm"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "here in my m"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "ould, I am here"
+            },
+            {
+              "chord": "A",
+              "lyrics": "in my mould"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "And I'm"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "a million di"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "fferent people"
+            },
+            {
+              "chord": "A",
+              "lyrics": "from one day to the next"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "I can'"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "t change my m"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "ould, no no no"
+            },
+            {
+              "chord": "A",
+              "lyrics": "no no no"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(and have you ever been down?)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm7",
+              "lyrics": "I can'"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "t change it you"
+            },
+            {
+              "chord": "A",
+              "lyrics": "know, I ca"
+            },
+            {
+              "chord": "E",
+              "lyrics": "n't change"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "it..."
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 3",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "'Ca"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "use it's a bi"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "ttersweet symph"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ony that's"
+            },
+            {
+              "chord": "E",
+              "lyrics": "life"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Try"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "ing to make e"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "nds meet, tryin"
+            },
+            {
+              "chord": "A",
+              "lyrics": "g to find s"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ome money t"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "hen you die"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "I'l"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "l take you do"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "wn the only roa"
+            },
+            {
+              "chord": "A",
+              "lyrics": "d I've ever"
+            },
+            {
+              "chord": "E",
+              "lyrics": "been down"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "You"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "know the one"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "that takes you"
+            },
+            {
+              "chord": "A",
+              "lyrics": "to the pla"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ces where a"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "ll the veins"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "meet, yeah"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "You kno"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "w I can chang"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "e, I can change"
+            },
+            {
+              "chord": "A",
+              "lyrics": ", I can change, I can change"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "But I'm"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "here in my m"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "ould, I am here"
+            },
+            {
+              "chord": "A",
+              "lyrics": "in my mould"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "And I'm"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "a million di"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "fferent people"
+            },
+            {
+              "chord": "A",
+              "lyrics": "from one day to the next"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "I can't"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "change my mo"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "uld, no no no n"
+            },
+            {
+              "chord": "A",
+              "lyrics": "o no"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "I can't"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "change my mo"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "uld, no no no n"
+            },
+            {
+              "chord": "A",
+              "lyrics": "o no"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "I can't"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "change my mo"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "uld, no no no n"
+            },
+            {
+              "chord": "A",
+              "lyrics": "o"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "(It's j"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "ust sex and v"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "iolence, melody"
+            },
+            {
+              "chord": "A",
+              "lyrics": "and silence)..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "(I'"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "ll take you d"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "own the only ro"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ad I've eve"
+            },
+            {
+              "chord": "E",
+              "lyrics": "r been down"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": ")..."
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Been down)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Ever been down)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

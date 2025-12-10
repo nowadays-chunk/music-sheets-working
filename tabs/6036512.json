@@ -1,0 +1,494 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/herencia-de-grandes/ya-borracho-chords-6036512",
+  "title": "Ya Borracho",
+  "artist": "Herencia de Grandes",
+  "key": "E",
+  "scrapedAt": "2025-12-10T18:47:09.154Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "*"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": ""
+            },
+            {
+              "chord": "C#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Verso]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "*  Me ena"
+            },
+            {
+              "chord": "B",
+              "lyrics": "moré y creo"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "que me fui d"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "e paso,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "hoy me de"
+            },
+            {
+              "chord": "A",
+              "lyrics": "claro un loco obsesionado"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "*  y no te"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "espantes pue"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "s no es nada malo"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "pero es q"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ue tú eres mi amor anhelado."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Pre-coro]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "Cuando"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "te vi sentí a"
+            },
+            {
+              "chord": "B",
+              "lyrics": "lgo que ya"
+            },
+            {
+              "chord": "A",
+              "lyrics": "no había aquí,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "quise e"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "legir por mí"
+            },
+            {
+              "chord": "B",
+              "lyrics": "y me decidí"
+            },
+            {
+              "chord": "A",
+              "lyrics": "por ti."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Coro]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "*  Y ya bo"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "rracho me par"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "queo por tu ventana"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "para llev"
+            },
+            {
+              "chord": "A",
+              "lyrics": "arte las canciones que te encantan"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "*  pa' ena"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "morarte las f"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "lores no son tan caras"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "pero llev"
+            },
+            {
+              "chord": "A",
+              "lyrics": "an todo el cariño de mi alma."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "*  Que pa"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "febrero vendr"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "é frente a ti"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "con mis p"
+            },
+            {
+              "chord": "A",
+              "lyrics": "reguntas y digas que sí"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "*  hacerno"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "s novios y ve"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "rte feliz"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "y muy con"
+            },
+            {
+              "chord": "A",
+              "lyrics": "tenta como yo por ti."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Instrumental]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "*"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": ""
+            },
+            {
+              "chord": "C#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Verso]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "*  Pregún"
+            },
+            {
+              "chord": "B",
+              "lyrics": "tame qué es"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "lo que me en"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "amora,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "pa' descr"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ibirte unas cuantas horas,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "*  también"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "pregunta que"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "quiero contigo"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "que seas"
+            },
+            {
+              "chord": "A",
+              "lyrics": "dichosa al estar conmigo"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Coro]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "*  Y ya bo"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "rracho contes"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "tame la llamda"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "pa dedica"
+            },
+            {
+              "chord": "A",
+              "lyrics": "rte unas bonitas palabras"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "*  y asi b"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "orracho me an"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "imo a decirte todo"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "y puedo d"
+            },
+            {
+              "chord": "A",
+              "lyrics": "escribir lo mucho que me encantas"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "*  Decirte"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "que me sient"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "o muy feliz"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "Y emocion"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ado por tenerte aqui"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "*  espero"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "que quieras e"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "star aqui"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "Enamorada"
+            },
+            {
+              "chord": "A",
+              "lyrics": "mirandome ami"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,579 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/the-beatles/im-only-sleeping-chords-1768241",
+  "title": "Im Only Sleeping",
+  "artist": "The Beatles",
+  "key": "",
+  "scrapedAt": "2025-12-10T18:47:45.215Z",
+  "sections": [
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "When I"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "wake up ear"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ly in the m"
+            },
+            {
+              "chord": "C",
+              "lyrics": "orning, lif"
+            },
+            {
+              "chord": "G",
+              "lyrics": "t my head I"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "'m still yawning."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "When"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "I'm in the m"
+            },
+            {
+              "chord": "G",
+              "lyrics": "iddle of a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "dream, stay"
+            },
+            {
+              "chord": "G",
+              "lyrics": "in bed flo"
+            },
+            {
+              "chord": "C",
+              "lyrics": "at upstream"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Please"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "don't wake me"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "no don't sha"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "ke me leave me where I am"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj7",
+              "lyrics": "I'm only sleeping"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Bass]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Everyb"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ody seems to"
+            },
+            {
+              "chord": "G",
+              "lyrics": "think I'm"
+            },
+            {
+              "chord": "C",
+              "lyrics": "lazy, I don"
+            },
+            {
+              "chord": "G",
+              "lyrics": "'t mind I t"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "hink they're crazy"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Runni"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ng everywher"
+            },
+            {
+              "chord": "G",
+              "lyrics": "e at such a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "speed 'til"
+            },
+            {
+              "chord": "G",
+              "lyrics": "they find"
+            },
+            {
+              "chord": "C",
+              "lyrics": "there's no"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "need"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Please"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "don't spoil m"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "y day I'm mil"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "es away and after all"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj7",
+              "lyrics": "I'm only sleeping"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Bass]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "Keeping an"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "eye on the w"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "orld going b"
+            },
+            {
+              "chord": "Am7/G",
+              "lyrics": "y my window,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "Taking my time"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Lying"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "there and st"
+            },
+            {
+              "chord": "G",
+              "lyrics": "aring at th"
+            },
+            {
+              "chord": "C",
+              "lyrics": "e ceiling,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "waiting for"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "a sleepy feeling"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Solo",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Please"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "don't spoil m"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "y day I'm mil"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "es away and after all"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj7",
+              "lyrics": "I'm only slee"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ping"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "Keeping an"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "eye on the w"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "orld going b"
+            },
+            {
+              "chord": "Am7/G",
+              "lyrics": "y my window,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "Taking my time"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "When I"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "wake up ear"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ly in the m"
+            },
+            {
+              "chord": "C",
+              "lyrics": "orning, lif"
+            },
+            {
+              "chord": "G",
+              "lyrics": "t my head I"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "'m still yawning."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "When"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "I'm in the m"
+            },
+            {
+              "chord": "G",
+              "lyrics": "iddle of a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "dream, stay"
+            },
+            {
+              "chord": "G",
+              "lyrics": "in bed flo"
+            },
+            {
+              "chord": "C",
+              "lyrics": "at upstream"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Please"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "don't wake me"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "no don't sha"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "ke me leave me where I am"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj7",
+              "lyrics": "I'm only sleeping"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Bass]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

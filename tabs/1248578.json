@@ -1,0 +1,759 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/john-legend/all-of-me-chords-1248578",
+  "title": "All Of Me",
+  "artist": "John Legend",
+  "key": "Fm",
+  "scrapedAt": "2025-12-10T18:43:12.127Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "x2"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "What woul"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "d I do without"
+            },
+            {
+              "chord": "G",
+              "lyrics": "your smart mouth"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Drawing m"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "e in, and you kicking me out"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Got my"
+            },
+            {
+              "chord": "G",
+              "lyrics": "head spinni"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ng, no kidd"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ing, I can't pin you down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj7",
+              "lyrics": "What's going"
+            },
+            {
+              "chord": "G",
+              "lyrics": "on in that beautiful mind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I'm on yo"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ur magical mystery ride"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9",
+              "lyrics": "And I'm so"
+            },
+            {
+              "chord": "G",
+              "lyrics": "dizzy, don'"
+            },
+            {
+              "chord": "D",
+              "lyrics": "t know what"
+            },
+            {
+              "chord": "Amadd9",
+              "lyrics": "hit me, but I'll be alright"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pre-Chorus A",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "My head's"
+            },
+            {
+              "chord": "G",
+              "lyrics": "under water"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "But I'm b"
+            },
+            {
+              "chord": "Amadd9",
+              "lyrics": "reathing fine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "You're cr"
+            },
+            {
+              "chord": "D",
+              "lyrics": "azy and I'm out of my mind"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Cause all of me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Emadd9",
+              "lyrics": "Loves all of you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am/C",
+              "lyrics": "Love your curves and all your edges"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C/D",
+              "lyrics": "All your pe"
+            },
+            {
+              "chord": "D",
+              "lyrics": "rfect imperfections"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Give your all to me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Emadd9",
+              "lyrics": "I'll give my all to you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am/C",
+              "lyrics": "You're my end and my beginning"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C/D",
+              "lyrics": "Even when I"
+            },
+            {
+              "chord": "D",
+              "lyrics": "lose I'm winning"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Cause I"
+            },
+            {
+              "chord": "C",
+              "lyrics": "give you al"
+            },
+            {
+              "chord": "G",
+              "lyrics": "l, all of m"
+            },
+            {
+              "chord": "Dadd9",
+              "lyrics": "e"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "And you"
+            },
+            {
+              "chord": "C",
+              "lyrics": "give me all"
+            },
+            {
+              "chord": "G",
+              "lyrics": ", all of yo"
+            },
+            {
+              "chord": "Dadd9",
+              "lyrics": "u, oh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "How many"
+            },
+            {
+              "chord": "C",
+              "lyrics": "times do I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "have to tell you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Even when"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "you're crying you’re beautiful too"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "The wor"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ld is beati"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ng you down"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ", I'm around through every mood"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "You're my"
+            },
+            {
+              "chord": "G",
+              "lyrics": "downfall, you're my muse"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "My worst"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "distraction, my rhythm and blues"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I can't"
+            },
+            {
+              "chord": "G",
+              "lyrics": "stop singi"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ng, it's ri"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "nging, in my head for you"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pre-Chorus A",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "My head's"
+            },
+            {
+              "chord": "G",
+              "lyrics": "under water"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "But I'm b"
+            },
+            {
+              "chord": "Amadd9",
+              "lyrics": "reathing fine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "You're cr"
+            },
+            {
+              "chord": "D",
+              "lyrics": "azy and I'm out of my mind"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Cause all of me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Emadd9",
+              "lyrics": "Loves all of you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am/C",
+              "lyrics": "Love your curves and all your edges"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C/D",
+              "lyrics": "All your pe"
+            },
+            {
+              "chord": "D",
+              "lyrics": "rfect imperfections"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Give your all to me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Emadd9",
+              "lyrics": "I'll give my all to you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am/C",
+              "lyrics": "You're my end and my beginning"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C/D",
+              "lyrics": "Even when I"
+            },
+            {
+              "chord": "D",
+              "lyrics": "lose I'm winning"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Cause I"
+            },
+            {
+              "chord": "C",
+              "lyrics": "give you al"
+            },
+            {
+              "chord": "G",
+              "lyrics": "l, all of m"
+            },
+            {
+              "chord": "Dadd9",
+              "lyrics": "e"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "And you"
+            },
+            {
+              "chord": "C",
+              "lyrics": "give me all"
+            },
+            {
+              "chord": "G",
+              "lyrics": ", all of yo"
+            },
+            {
+              "chord": "Dadd9",
+              "lyrics": "u, oh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Give me all of you"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pre-Chorus B",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": ")  Cards on t"
+            },
+            {
+              "chord": "G",
+              "lyrics": "he table"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "We're bot"
+            },
+            {
+              "chord": "Amadd9",
+              "lyrics": "h showing hearts"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Risking i"
+            },
+            {
+              "chord": "G",
+              "lyrics": "t all, thou"
+            },
+            {
+              "chord": "D",
+              "lyrics": "gh it's hard"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Cause all of me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Emadd9",
+              "lyrics": "Loves all of you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am/C",
+              "lyrics": "Love your curves and all your edges"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C/D",
+              "lyrics": "All your pe"
+            },
+            {
+              "chord": "D",
+              "lyrics": "rfect imperfections"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Give your all to me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Emadd9",
+              "lyrics": "I'll give my all to you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am/C",
+              "lyrics": "You're my end and my beginning"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C/D",
+              "lyrics": "Even when I"
+            },
+            {
+              "chord": "D",
+              "lyrics": "lose I'm winning"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Cause I"
+            },
+            {
+              "chord": "C",
+              "lyrics": "give you al"
+            },
+            {
+              "chord": "G",
+              "lyrics": "l, all of m"
+            },
+            {
+              "chord": "Dadd9",
+              "lyrics": "e"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "And you"
+            },
+            {
+              "chord": "C",
+              "lyrics": "give me all"
+            },
+            {
+              "chord": "G",
+              "lyrics": ", all of yo"
+            },
+            {
+              "chord": "Dadd9",
+              "lyrics": "u"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "I give y"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ou all, all"
+            },
+            {
+              "chord": "G",
+              "lyrics": "of me"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "And you"
+            },
+            {
+              "chord": "C",
+              "lyrics": "give me all"
+            },
+            {
+              "chord": "G",
+              "lyrics": ", all of yo"
+            },
+            {
+              "chord": "D",
+              "lyrics": "u, oh"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

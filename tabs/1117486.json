@@ -1,0 +1,851 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/birdy/people-help-the-people-chords-1117486",
+  "title": "People Help The People",
+  "artist": "Birdy",
+  "key": "Gb",
+  "scrapedAt": "2025-12-10T18:46:40.168Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "e|-------"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "----------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|----------------1-----------1------0-----1--0--|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|--2------0--------------0-------2----2---------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|------3----3------------------2--------2-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|----3--------3---------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|-----------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "e|-------"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "---------------/12-----------------------------/12-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|--------------------------13--12-----1-------0----1------13--12-|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|--2-------0----2--------------------------2----2----------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|-------3----3--------------------------2---------2--------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|----3--------3--------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|----------------------------------------------------------------|"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "God knows"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "what is hiding in those weak and drunken hearts"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I guess"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "he kissed the g"
+            },
+            {
+              "chord": "G",
+              "lyrics": "irls and made them cry"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "those hardfaced queens of misadventure"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "God knows"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "what is hiding in those weak and sunken eyes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "a fiery"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "throng of muted"
+            },
+            {
+              "chord": "G",
+              "lyrics": "angels"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Giving love but getting nothing back"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "People he"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "lp the people"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And if you're homesick"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Give me your hand and I'll hold it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "People he"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "lp the people"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And nothing will drag you down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Oh and if"
+            },
+            {
+              "chord": "C",
+              "lyrics": "I had a br"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ain,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Oh and if"
+            },
+            {
+              "chord": "C",
+              "lyrics": "I had a br"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "I'd be co"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ld as a sto"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ne and rich as the fool"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "That tur"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "ned, all tho"
+            },
+            {
+              "chord": "F",
+              "lyrics": "se good hea"
+            },
+            {
+              "chord": "F",
+              "lyrics": "rts away"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "God knows"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "what is hiding, in this world of little consequence"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Behind t"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "he tears, insid"
+            },
+            {
+              "chord": "G",
+              "lyrics": "e the lies"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "A thousan"
+            },
+            {
+              "chord": "F",
+              "lyrics": "d slowly dying sunsets"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "God knows"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "what is hiding in those weak and drunken hearts"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I guess"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "the loneliness"
+            },
+            {
+              "chord": "G",
+              "lyrics": "came knocking"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "No one ne"
+            },
+            {
+              "chord": "F",
+              "lyrics": "eds to be alone, oh save me"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "People he"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "lp the people"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And if you're homesick"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Give me your hand and I'll hold it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "People he"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "lp the people"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And nothing will drag you down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Oh and if"
+            },
+            {
+              "chord": "C",
+              "lyrics": "I had a br"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ain,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Oh and if"
+            },
+            {
+              "chord": "C",
+              "lyrics": "I had a br"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "I'd be co"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ld as a sto"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ne and rich as the fool"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "That tur"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "ned, all tho"
+            },
+            {
+              "chord": "F",
+              "lyrics": "se good hea"
+            },
+            {
+              "chord": "F",
+              "lyrics": "rts away"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Instrumental]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "na naaa"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "na na naaa"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e|--------------|---------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|--------------|---5--8--5-8-5--8/10--8--10--8--10p8\\5-|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|-----4--5--7--|---------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|--7-----------|---------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|--------------|---------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|--------------|---------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e|--------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|-------------5------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|-7--5--7--5-----7--5------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|----------------------7---| x3"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|--------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|--------------------------|"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "People he"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "lp the people"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And if you're homesick"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Give me your hand and I'll hold it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "People he"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "lp the people"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And nothing will drag you down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Oh and if"
+            },
+            {
+              "chord": "C",
+              "lyrics": "I had a br"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ain,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Oh and if"
+            },
+            {
+              "chord": "C",
+              "lyrics": "I had a br"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "I'd be co"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ld as a sto"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ne and rich as the fool"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "That tu"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "rned, all th"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ose good he"
+            },
+            {
+              "chord": "C",
+              "lyrics": "arts away"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "************************************"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| / Slide up"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| \\ Slide down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| p Pull-off"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "************************************"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

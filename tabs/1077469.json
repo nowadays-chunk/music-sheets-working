@@ -1,0 +1,888 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/1077469",
+  "title": "Les Champs-Élysées",
+  "artist": "Joe Dassin",
+  "key": "",
+  "scrapedAt": "2025-12-10T18:45:58.671Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "C7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "D7",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Je m'bala"
+            },
+            {
+              "chord": "G",
+              "lyrics": "dais sur l'avenue"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Le coeur o"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "uvert à l'inconnu"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "J'avais e"
+            },
+            {
+              "chord": "C",
+              "lyrics": "nvie de dire bonjour"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7",
+              "lyrics": "À n'import"
+            },
+            {
+              "chord": "G",
+              "lyrics": "e qui"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "N'importe"
+            },
+            {
+              "chord": "G",
+              "lyrics": "qui et ce fut toi"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Je t'ai di"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "t n'importe quoi"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Il suffis"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ait de te parler"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Pour t'a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "pprivoiser"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Aux Cha"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "mps-Élysées"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "C7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Aux Cha"
+            },
+            {
+              "chord": "C",
+              "lyrics": "mps-Élysées"
+            },
+            {
+              "chord": "D7",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Au soleil"
+            },
+            {
+              "chord": "E7",
+              "lyrics": ", sous la pluie"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "À midi ou"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "à minuit"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Il y a to"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ut ce que vous voulez"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Aux Cham"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ps-Élysées"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Tu m'as d"
+            },
+            {
+              "chord": "G",
+              "lyrics": "it \"J'ai rendez-vous"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Dans un so"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "us-sol avec des fous"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Qui viven"
+            },
+            {
+              "chord": "C",
+              "lyrics": "t la guitare à la main"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7",
+              "lyrics": "Du soir au"
+            },
+            {
+              "chord": "G",
+              "lyrics": "matin\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Alors je"
+            },
+            {
+              "chord": "G",
+              "lyrics": "t'ai accompagnée"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "On a chant"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "é, on a dansé"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Et l'on n"
+            },
+            {
+              "chord": "C",
+              "lyrics": "'a même pas pensé"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "À s'embr"
+            },
+            {
+              "chord": "G",
+              "lyrics": "asser"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Aux Cha"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "mps-Élysées"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "C7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Aux Cha"
+            },
+            {
+              "chord": "C",
+              "lyrics": "mps-Élysées"
+            },
+            {
+              "chord": "D7",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Au soleil"
+            },
+            {
+              "chord": "E7",
+              "lyrics": ", sous la pluie"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "À midi ou"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "à minuit"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Il y a to"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ut ce que vous voulez"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Aux Cham"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ps-Élysées"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Instrumental]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": ""
+            },
+            {
+              "chord": "G7",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "N.C."
+            },
+            {
+              "chord": "G7",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": ""
+            },
+            {
+              "chord": "G7",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": ""
+            },
+            {
+              "chord": "G7",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 3",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Hier soir"
+            },
+            {
+              "chord": "G",
+              "lyrics": "deux inconnus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Et ce mati"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "n sur l'avenue"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Deux amou"
+            },
+            {
+              "chord": "C",
+              "lyrics": "reux tout étourdis"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7",
+              "lyrics": "Par la lon"
+            },
+            {
+              "chord": "G",
+              "lyrics": "gue nuit"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Et de l'É"
+            },
+            {
+              "chord": "G",
+              "lyrics": "toile à la Concorde"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Un orchest"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "re à mille cordes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Tous les"
+            },
+            {
+              "chord": "C",
+              "lyrics": "oiseaux du point du jour"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Chantent"
+            },
+            {
+              "chord": "G",
+              "lyrics": "l'amour"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Aux Cha"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "mps-Élysées"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "C7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Aux Cha"
+            },
+            {
+              "chord": "C",
+              "lyrics": "mps-Élysées"
+            },
+            {
+              "chord": "D7",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Au soleil"
+            },
+            {
+              "chord": "E7",
+              "lyrics": ", sous la pluie"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "À midi ou"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "à minuit"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Il y a to"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ut ce que vous voulez"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Aux Cham"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ps-Élysées"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Aux Cha"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "mps-Élysées"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "C7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Aux Cha"
+            },
+            {
+              "chord": "C",
+              "lyrics": "mps-Élysées"
+            },
+            {
+              "chord": "D7",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Au soleil"
+            },
+            {
+              "chord": "E7",
+              "lyrics": ", sous la pluie"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "À midi ou"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "à minuit"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Il y a to"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ut ce que vous voulez"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Aux Cham"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ps-Élysées"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Aux Cha"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "mps-Élysées"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "C7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Aux Cha"
+            },
+            {
+              "chord": "C",
+              "lyrics": "mps-Élysées"
+            },
+            {
+              "chord": "D7",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(fade out)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

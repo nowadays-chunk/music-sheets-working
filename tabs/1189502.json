@@ -1,0 +1,640 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/everything-has-changed-chords-1189502",
+  "title": "Everything Has Changed",
+  "artist": "Taylor Swift",
+  "key": "D",
+  "scrapedAt": "2025-12-10T18:47:16.286Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1: Taylor Swift",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "All I knew"
+            },
+            {
+              "chord": "G",
+              "lyrics": "this morning when I woke"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Is I know something now, know something now"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I didn't before"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "And all I've seen since 18 hours ago"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Is green eyes and freckles and your smile in"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "The back of my mind making me feel like"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pre-Chorus: Taylor Swift + Ed Sheeran",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I just wa"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "nt to know you better know, you better know you, better now"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I just w"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ant to know"
+            },
+            {
+              "chord": "A",
+              "lyrics": "you better know, you better know, you better now"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I just wa"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "nt to know you better know, you better know, you better now"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I just w"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ant to know"
+            },
+            {
+              "chord": "A",
+              "lyrics": "you, know you, know you"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus: Taylor Swift + Ed Sheeran",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Cause all I know is we said hello"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "And your eyes look like coming home"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "All I kno"
+            },
+            {
+              "chord": "G",
+              "lyrics": "w is a simple name, everything has changed"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "All I know is you held the door"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "You'll be mine and I'll be yours"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "All I kno"
+            },
+            {
+              "chord": "G",
+              "lyrics": "w since yesterday, is everything has changed"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Instrumental]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2: Ed Sheeran + Taylor Swift",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "And all my"
+            },
+            {
+              "chord": "G",
+              "lyrics": "walls stood tall, painted blue"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "But I'll take them down, take them down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "And open up the door for you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "And all I feel in my stomach is butterflies"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "The beautiful kind, making up for lost time"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Taking flight, making me feel like"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pre-Chorus: Taylor Swift + Ed Sheeran",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I just wa"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "nt to know you better know, you better know you, better now"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I just w"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ant to know"
+            },
+            {
+              "chord": "A",
+              "lyrics": "you better know, you better know, you better now"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I just wa"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "nt to know you better know, you better know, you better now"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I just w"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ant to know"
+            },
+            {
+              "chord": "A",
+              "lyrics": "you, know you, know you"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus: Taylor Swift + Ed Sheeran",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Cause all I know is we said hello"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "And your eyes look like coming home"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "All I kno"
+            },
+            {
+              "chord": "G",
+              "lyrics": "w is a simple name, everything has changed"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "All I know is you held the door"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "You'll be mine and I'll be yours"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "All I kno"
+            },
+            {
+              "chord": "G",
+              "lyrics": "w since yesterday, is everything has changed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge: Taylor Swift + Ed Sheeran",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Come back"
+            },
+            {
+              "chord": "G",
+              "lyrics": "and tell me why"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I'm feeli"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ng like I've missed you all this time"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Ahhh And m"
+            },
+            {
+              "chord": "G",
+              "lyrics": "eet me there tonight"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "And let m"
+            },
+            {
+              "chord": "A",
+              "lyrics": "e know that it's not all in my mind"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pre-Chorus: Taylor Swift",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I just w"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "ant to know y"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ou better know, you better know, you better now"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "I just wan"
+            },
+            {
+              "chord": "A",
+              "lyrics": "t to know you, know you, know you"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus: Taylor Swift + Ed Sheeran",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Cause all I know is we said hello"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "And your eyes look like coming home"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "All I kno"
+            },
+            {
+              "chord": "G",
+              "lyrics": "w is a simple name, everything has changed"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "All I know is you held the door"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "You'll be mine and I'll be yours"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "All I kno"
+            },
+            {
+              "chord": "G",
+              "lyrics": "w since yesterday, is everything has changed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro: Taylor Swift",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "All I know is we said hello"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "So dust off your highest hopes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "All I know is pouring rain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And everything has changed"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "All I know is a new found grace"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "All my days, I'll know your face"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "All I kno"
+            },
+            {
+              "chord": "G",
+              "lyrics": "w since yesterday, is everything has changed"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

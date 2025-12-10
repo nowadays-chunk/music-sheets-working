@@ -1,0 +1,555 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/hozier/cherry-wine-chords-1686110",
+  "title": "Cherry Wine",
+  "artist": "Hozier",
+  "key": "C",
+  "scrapedAt": "2025-12-10T18:47:06.578Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Her eyes"
+            },
+            {
+              "chord": "C",
+              "lyrics": "and words are so icy"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Oh, but she burns"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Like rum"
+            },
+            {
+              "chord": "C",
+              "lyrics": "on a fire"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Hot and f"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ast and angry"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "As she can be"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "I walk my"
+            },
+            {
+              "chord": "F",
+              "lyrics": "days on a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "wire"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pre-Chorus 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "It look"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "s ugly, but"
+            },
+            {
+              "chord": "F",
+              "lyrics": "it's clean,"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Oh momm"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "a, don't fus"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "s over me"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "The way"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "she tells me"
+            },
+            {
+              "chord": "C",
+              "lyrics": "I'm hers and she is mine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Open han"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "d or closed"
+            },
+            {
+              "chord": "C",
+              "lyrics": "fist would be fine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "The bloo"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "d is rare and"
+            },
+            {
+              "chord": "C",
+              "lyrics": "sweet as cherry wine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Calls of"
+            },
+            {
+              "chord": "C",
+              "lyrics": "guilty thrown at me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "All while"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "she stains"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "The sheet"
+            },
+            {
+              "chord": "C",
+              "lyrics": "s of some other"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Thrown at"
+            },
+            {
+              "chord": "C",
+              "lyrics": "me so powerfully"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Just li"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ke she throw"
+            },
+            {
+              "chord": "F",
+              "lyrics": "s with the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "arm of her brother"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pre-Chorus 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "But I w"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ant it, it's"
+            },
+            {
+              "chord": "F",
+              "lyrics": "a crime"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "That sh"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "e's not arou"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "nd most of th"
+            },
+            {
+              "chord": "C",
+              "lyrics": "e time"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "The way"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "she shows me"
+            },
+            {
+              "chord": "C",
+              "lyrics": "I'm hers and she is mine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Open han"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "d or closed"
+            },
+            {
+              "chord": "C",
+              "lyrics": "fist would be fine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Blood is"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "rare and swe"
+            },
+            {
+              "chord": "C",
+              "lyrics": "et as cherry wine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Guitar Solo]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 3",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Her fight"
+            },
+            {
+              "chord": "C",
+              "lyrics": "and fury is fiery"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Oh, but s"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "he loves"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Like slee"
+            },
+            {
+              "chord": "C",
+              "lyrics": "p to the freezing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Sweet and"
+            },
+            {
+              "chord": "C",
+              "lyrics": "right and merciful"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I'm all b"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ut washed"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "In the ti"
+            },
+            {
+              "chord": "C",
+              "lyrics": "de of her breathing"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pre-Chorus 3",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "And it'"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "s worth it,"
+            },
+            {
+              "chord": "F",
+              "lyrics": "it's divine"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "And I h"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ave this som"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "e of the time"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "The way"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "she shows me"
+            },
+            {
+              "chord": "C",
+              "lyrics": "I'm hers and she is mine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Open han"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "d or closed"
+            },
+            {
+              "chord": "C",
+              "lyrics": "fist would be fine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "The bloo"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "d is rare and"
+            },
+            {
+              "chord": "C",
+              "lyrics": "sweet as cherry wine"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

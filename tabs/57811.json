@@ -1,0 +1,572 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/norah-jones/dont-know-why-chords-57811",
+  "title": "Dont Know Why",
+  "artist": "Norah Jones",
+  "key": "Bb",
+  "scrapedAt": "2025-12-10T18:44:01.530Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Gmaj7",
+              "lyrics": "e|-2----"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "3--1----3---"
+            },
+            {
+              "chord": "C",
+              "lyrics": "-----|-----"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "------------"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "-------|-----"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "------------"
+            },
+            {
+              "chord": "D7sus4",
+              "lyrics": "--------|---------3------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|-0---------------3-----|------5--4--------4--3--|-------3--2--------2--1--|----1----1------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|-0------------------4--|---------------4--------|----0-----------0--------|----2----2------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|-----------------------|------------------------|(2)----------------------|(0)-------------0--2--|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|-----------------------|-3---------(2)----------|------------(0)----------|----------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|-----------------------|------------------------|-------------------------|----------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "( ) = optional note"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Gmaj7",
+              "lyrics": "I wait"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "- ed til I s"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "aw the sun. I d"
+            },
+            {
+              "chord": "B7+5",
+              "lyrics": "on't know why"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "I did - n't c"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "ome"
+            },
+            {
+              "chord": "D7sus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gmaj7",
+              "lyrics": "I left"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "you by the h"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "ouse of fun. I"
+            },
+            {
+              "chord": "B7+5",
+              "lyrics": "don't know why"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "I did - n't"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "come."
+            },
+            {
+              "chord": "D7sus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "I don't k"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "now why I di"
+            },
+            {
+              "chord": "D7sus4",
+              "lyrics": "d - n't come."
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gmaj7",
+              "lyrics": "When I"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "saw the brea"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "k of day. I wis"
+            },
+            {
+              "chord": "B7+5",
+              "lyrics": "hed that I cou"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "ld fly a - wa"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "y"
+            },
+            {
+              "chord": "D7sus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gmaj7",
+              "lyrics": "'stead"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "of kneel - i"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "ng in the sand"
+            },
+            {
+              "chord": "B7+5",
+              "lyrics": "catch - ing te"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "ardrops in my"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "hand."
+            },
+            {
+              "chord": "D7sus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "My heart"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "is drenched"
+            },
+            {
+              "chord": "D",
+              "lyrics": "in wine,"
+            },
+            {
+              "chord": "D7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "But you"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "'ll be on my"
+            },
+            {
+              "chord": "D",
+              "lyrics": "mind for -"
+            },
+            {
+              "chord": "D5/C",
+              "lyrics": "ev - er."
+            },
+            {
+              "chord": "G/B",
+              "lyrics": ""
+            },
+            {
+              "chord": "D/A",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Gmaj7",
+              "lyrics": "Out a -"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "cross the e"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "nd - less sea,"
+            },
+            {
+              "chord": "B7+5",
+              "lyrics": "I would die in"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "ec - sta - s"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "y."
+            },
+            {
+              "chord": "D7sus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gmaj7",
+              "lyrics": "But I'l"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "l be a bag o"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "f bones driv -"
+            },
+            {
+              "chord": "B7+5",
+              "lyrics": "ing down the r"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "oad a - lone."
+            },
+            {
+              "chord": "A7",
+              "lyrics": ""
+            },
+            {
+              "chord": "D7sus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "My heart"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "is drenched"
+            },
+            {
+              "chord": "D",
+              "lyrics": "in wine,"
+            },
+            {
+              "chord": "D7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "But you"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "'ll be on my"
+            },
+            {
+              "chord": "D",
+              "lyrics": "mind for -"
+            },
+            {
+              "chord": "D5/C",
+              "lyrics": "ev - er."
+            },
+            {
+              "chord": "G/B",
+              "lyrics": ""
+            },
+            {
+              "chord": "D/A",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 3",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Gmaj7",
+              "lyrics": "Some -"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "thing has to"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "make you run."
+            },
+            {
+              "chord": "B7+5",
+              "lyrics": "I don't know w"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "hy I didn't c"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "ome."
+            },
+            {
+              "chord": "D7sus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gmaj7",
+              "lyrics": "I feel as e"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "mp - ty as a"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "drum."
+            },
+            {
+              "chord": "B+",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "I don't k"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "now why I di"
+            },
+            {
+              "chord": "D7sus4",
+              "lyrics": "d - n't come,"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "I don't k"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "now why I di"
+            },
+            {
+              "chord": "D7sus4",
+              "lyrics": "d - n't come."
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "I don't k"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "now why I di"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "d - n't come"
+            },
+            {
+              "chord": "G",
+              "lyrics": "."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

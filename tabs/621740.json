@@ -1,0 +1,361 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/radiohead/nude-chords-621740",
+  "title": "Nude",
+  "artist": "Radiohead",
+  "key": "C#m",
+  "scrapedAt": "2025-12-10T18:44:06.213Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(as the instruments enter, after string/synth section)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Amaj9",
+              "lyrics": "/  /  /  /  /  /"
+            },
+            {
+              "chord": "Amaj9",
+              "lyrics": "/  /  /"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "C#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": ""
+            },
+            {
+              "chord": "G#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "G#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "Amaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Amaj7",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G#m",
+              "lyrics": "Don't get a"
+            },
+            {
+              "chord": "G#",
+              "lyrics": "ny big ideas"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "They're"
+            },
+            {
+              "chord": "E",
+              "lyrics": "not gonna"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "happen"
+            },
+            {
+              "chord": "B7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#m",
+              "lyrics": "You paint yourself white"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#",
+              "lyrics": "And fill up with noise"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "But ther"
+            },
+            {
+              "chord": "E",
+              "lyrics": "e'll be som"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "ething missing"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "Now that"
+            },
+            {
+              "chord": "G#m7",
+              "lyrics": "you've found it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Aadd9",
+              "lyrics": "It's gone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#m7",
+              "lyrics": "Now that you feel it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Aadd9",
+              "lyrics": "You don't"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m7",
+              "lyrics": "You've gone"
+            },
+            {
+              "chord": "Aadd9",
+              "lyrics": "off the rails"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G#m",
+              "lyrics": "So don't ge"
+            },
+            {
+              "chord": "G#",
+              "lyrics": "t any big ideas"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "They're"
+            },
+            {
+              "chord": "E",
+              "lyrics": "not gonna"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "happen"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#",
+              "lyrics": "You'll"
+            },
+            {
+              "chord": "A",
+              "lyrics": "go to hell"
+            },
+            {
+              "chord": "E",
+              "lyrics": "for what yo"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "ur dirty mind"
+            },
+            {
+              "chord": "B",
+              "lyrics": "is thinking"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Instrumental/Outro]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#m7",
+              "lyrics": "/  /  /  /  /"
+            },
+            {
+              "chord": "G#m7",
+              "lyrics": "/  /  /"
+            },
+            {
+              "chord": "Aadd9",
+              "lyrics": ""
+            },
+            {
+              "chord": "Aadd9",
+              "lyrics": ""
+            },
+            {
+              "chord": "G#m7",
+              "lyrics": ""
+            },
+            {
+              "chord": "G#m7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Aadd9",
+              "lyrics": ""
+            },
+            {
+              "chord": "Aadd9",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m7",
+              "lyrics": "/  /  /  /  /"
+            },
+            {
+              "chord": "C#m7",
+              "lyrics": "/  /   /"
+            },
+            {
+              "chord": "Aadd9",
+              "lyrics": ""
+            },
+            {
+              "chord": "Aadd9",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "/  /  /  /"
+            },
+            {
+              "chord": "Cadd#11",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am6",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

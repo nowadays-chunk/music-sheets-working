@@ -1,0 +1,590 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/keane/somewhere-only-we-know-chords-109970",
+  "title": "Somewhere Only We Know",
+  "artist": "Keane",
+  "key": "C",
+  "scrapedAt": "2025-12-10T18:43:12.454Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "x2"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dm",
+              "lyrics": ""
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I walked"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "across an empty land"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "I knew th"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "e pathway like"
+            },
+            {
+              "chord": "G",
+              "lyrics": "the back of my hand"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I felt th"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "e earth beneath my feet"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Sat by th"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "e river, and it"
+            },
+            {
+              "chord": "G",
+              "lyrics": "made me complete"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pre-Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Oh, simple"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "thing, where have you gone?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "I'm getti"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ng old and I need something to rely on"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "So tell me"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "when you're gonna let me in"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "I'm getti"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ng tired and I need somewhere to begin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I came ac"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "ross a fallen tree"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "I felt th"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "e branches of i"
+            },
+            {
+              "chord": "G",
+              "lyrics": "t looking at me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Is this t"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "he place we used to love?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Is this t"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "he place that I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "'ve been dreaming of?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pre-Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Oh, simple"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "thing, where have you gone?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "I'm getti"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ng old and I need something to rely on"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "So tell me"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "when you're gonna let me in"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "I'm getti"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ng tired and I need somewhere to begin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "And if y"
+            },
+            {
+              "chord": "C/E",
+              "lyrics": "ou have a min"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ute, why don't we go"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Talk abo"
+            },
+            {
+              "chord": "C/E",
+              "lyrics": "ut it somewhe"
+            },
+            {
+              "chord": "G",
+              "lyrics": "re only we know?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "This cou"
+            },
+            {
+              "chord": "C/E",
+              "lyrics": "ld be the end"
+            },
+            {
+              "chord": "G",
+              "lyrics": "of everything"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "So why don't we go"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Somewhere"
+            },
+            {
+              "chord": "F",
+              "lyrics": "only we know?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Somewher"
+            },
+            {
+              "chord": "F",
+              "lyrics": "e only we k"
+            },
+            {
+              "chord": "G",
+              "lyrics": "now?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pre-Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Oh, simple"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "thing, where have you gone?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "I'm getti"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ng old and I need something to rely on"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "So tell me"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "when you're gonna let me in"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "I'm getti"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ng tired and I need somewhere to begin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "And if yo"
+            },
+            {
+              "chord": "C/E",
+              "lyrics": "u have a minu"
+            },
+            {
+              "chord": "G",
+              "lyrics": "te, why don't we go"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Talk abou"
+            },
+            {
+              "chord": "C/E",
+              "lyrics": "t it somewher"
+            },
+            {
+              "chord": "G",
+              "lyrics": "e only we know?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "This coul"
+            },
+            {
+              "chord": "C/E",
+              "lyrics": "d be the end"
+            },
+            {
+              "chord": "G",
+              "lyrics": "of everything"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "So why don't we go?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "So why do"
+            },
+            {
+              "chord": "G",
+              "lyrics": "n't we go?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Ooh Ah"
+            },
+            {
+              "chord": "C/E",
+              "lyrics": "h"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dm",
+              "lyrics": ""
+            },
+            {
+              "chord": "C/E",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "This coul"
+            },
+            {
+              "chord": "C/E",
+              "lyrics": "d be the end"
+            },
+            {
+              "chord": "G",
+              "lyrics": "of everything"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "So why don't we go"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Somewher"
+            },
+            {
+              "chord": "C",
+              "lyrics": "e only we k"
+            },
+            {
+              "chord": "F",
+              "lyrics": "now?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Slowly)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Somewhere"
+            },
+            {
+              "chord": "F",
+              "lyrics": "only we know"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Somewher"
+            },
+            {
+              "chord": "F",
+              "lyrics": "e only we k"
+            },
+            {
+              "chord": "C",
+              "lyrics": "now"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,588 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/eagles/please-come-home-for-christmas-chords-14300",
+  "title": "Please Come Home For Christmas",
+  "artist": "Eagles",
+  "key": "A",
+  "scrapedAt": "2025-12-10T18:43:19.910Z",
+  "sections": [
+    {
+      "name": "Intro (Single notes played on piano)",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "e|-17--"
+            },
+            {
+              "chord": "E",
+              "lyrics": "------14---"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "-----|"
+            },
+            {
+              "chord": "C#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|------17--------14---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|---------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|---------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|---------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|---------------------|"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Bells wi"
+            },
+            {
+              "chord": "Amaj7",
+              "lyrics": "ll be ringing t"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "he sad, sad news"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Oh, what"
+            },
+            {
+              "chord": "B7/D#",
+              "lyrics": "a Christmas to have the blues"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "My bab"
+            },
+            {
+              "chord": "D",
+              "lyrics": "y's gone I"
+            },
+            {
+              "chord": "A",
+              "lyrics": "have no fri"
+            },
+            {
+              "chord": "A/G#",
+              "lyrics": "ends"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B7",
+              "lyrics": "To wish m"
+            },
+            {
+              "chord": "E",
+              "lyrics": "e greetings"
+            },
+            {
+              "chord": "E+",
+              "lyrics": "once again"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Choirs w"
+            },
+            {
+              "chord": "Amaj7",
+              "lyrics": "ill be singing"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "\"Silent Night\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Christmas"
+            },
+            {
+              "chord": "B7/D#",
+              "lyrics": "carols by candlelight"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Please"
+            },
+            {
+              "chord": "D",
+              "lyrics": "come home"
+            },
+            {
+              "chord": "A",
+              "lyrics": "for Christm"
+            },
+            {
+              "chord": "A/G#",
+              "lyrics": "as, please com"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "e home for Christmas"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B7",
+              "lyrics": "If not f"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "or Christmas"
+            },
+            {
+              "chord": "A",
+              "lyrics": ", by New Ye"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "ar's night"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Friends a"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "nd relations send salutations"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Sure as"
+            },
+            {
+              "chord": "E+",
+              "lyrics": "the stars s"
+            },
+            {
+              "chord": "A",
+              "lyrics": "hine above"
+            },
+            {
+              "chord": "A7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "But this"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "is Christmas, yes, Christmas my dear"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B7",
+              "lyrics": "The time"
+            },
+            {
+              "chord": "E",
+              "lyrics": "of year to"
+            },
+            {
+              "chord": "E+",
+              "lyrics": "be with the one you love"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 3",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "So won't"
+            },
+            {
+              "chord": "Amaj7",
+              "lyrics": "you tell me yo"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "u'll never more roam"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Christmas"
+            },
+            {
+              "chord": "B7/D#",
+              "lyrics": "and New Year's will find you home"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "There'"
+            },
+            {
+              "chord": "C#7",
+              "lyrics": "ll be no more"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "sorrow, no g"
+            },
+            {
+              "chord": "F#m/E",
+              "lyrics": "rief and pain"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D#dim",
+              "lyrics": "And I'll"
+            },
+            {
+              "chord": "A/E",
+              "lyrics": "be happy, hap"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "py once again"
+            },
+            {
+              "chord": "B7",
+              "lyrics": ""
+            },
+            {
+              "chord": "E7",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Solo/Verse 4",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "e|----"
+            },
+            {
+              "chord": "Amaj7",
+              "lyrics": "--------12b-12-"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "------------"
+            },
+            {
+              "chord": "D",
+              "lyrics": "12---------"
+            },
+            {
+              "chord": "B7/D#",
+              "lyrics": "--------------------------------12b-12------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|------10-10--------12br-10-12b----12br-10--12b------10-12-12br-10-12br-10--------12br-10----|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|-9/11--------------------------------------------11-----------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|--------------------------------------------------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|--------------------------------------------------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|--------------------------------------------------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Ooh, t"
+            },
+            {
+              "chord": "C#7",
+              "lyrics": "here'll be no"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "more sorrow,"
+            },
+            {
+              "chord": "F#m/E",
+              "lyrics": "no grief and p"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D#dim",
+              "lyrics": "And I'll"
+            },
+            {
+              "chord": "A/E",
+              "lyrics": "be happy at C"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "hristmas once"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "again"
+            },
+            {
+              "chord": "E7",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Single notes played on piano)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "e|-17--"
+            },
+            {
+              "chord": "E",
+              "lyrics": "------14---"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "-----|"
+            },
+            {
+              "chord": "C#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|------17--------14---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|---------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|---------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|---------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|---------------------|"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,878 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/ralph-mctell/streets-of-london-chords-76373",
+  "title": "Streets Of London",
+  "artist": "Ralph McTell",
+  "key": "E",
+  "scrapedAt": "2025-12-10T18:46:52.858Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "|  |  |  |"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "|  |  |  |"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Have yo"
+            },
+            {
+              "chord": "G",
+              "lyrics": "u seen the"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "old man in t"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "he closed-down market"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Kicking"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "up the paper"
+            },
+            {
+              "chord": "Dm/F",
+              "lyrics": "with his worn"
+            },
+            {
+              "chord": "G",
+              "lyrics": "-out shoes?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "In his"
+            },
+            {
+              "chord": "G",
+              "lyrics": "eyes you se"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "e no pride,"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "and held loosely at his side"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Yester"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "day's paper t"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "elling yeste"
+            },
+            {
+              "chord": "C",
+              "lyrics": "rday's news"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "So ho"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "w can you te"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ll me you'r"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "e lo - ne - l"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "y"
+            },
+            {
+              "chord": "Am/G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7/F#",
+              "lyrics": "and say for"
+            },
+            {
+              "chord": "G",
+              "lyrics": "you that th"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "e sun don't shine?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Let me"
+            },
+            {
+              "chord": "G",
+              "lyrics": "take you by"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "the hand an"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "d lead you through the streets of London,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "I'll sh"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "ow you someth"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "ing to make"
+            },
+            {
+              "chord": "C",
+              "lyrics": "you change your mind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Interlude]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "|  |  |  |"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Have yo"
+            },
+            {
+              "chord": "G",
+              "lyrics": "u seen the"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "old girl who"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "walks the streets of London"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Dirt in"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "her hair and"
+            },
+            {
+              "chord": "Dm/F",
+              "lyrics": "her clothes i"
+            },
+            {
+              "chord": "G",
+              "lyrics": "n rags?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "She's n"
+            },
+            {
+              "chord": "G",
+              "lyrics": "o time for"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "talking, she"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "just keeps right on walking"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Carryi"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "ng her home i"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "n two carrie"
+            },
+            {
+              "chord": "C",
+              "lyrics": "r bags"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "So ho"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "w can you te"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ll me you'r"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "e lo - ne - l"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "y"
+            },
+            {
+              "chord": "Am/G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7/F#",
+              "lyrics": "and say for"
+            },
+            {
+              "chord": "G",
+              "lyrics": "you that th"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "e sun don't shine?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C/G",
+              "lyrics": "Let me ta"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ke you by t"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "he hand and"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "lead you through the streets of London,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "I'll sh"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "ow you someth"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "ing to make"
+            },
+            {
+              "chord": "C",
+              "lyrics": "you change your mind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Instrumental]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "|  |  |  |"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "|  |  |  |"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 3",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "In the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "all-night c"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "afe at a qua"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "rter past eleven"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Same ol"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "d man sitting"
+            },
+            {
+              "chord": "Dm/F",
+              "lyrics": "there on his"
+            },
+            {
+              "chord": "G",
+              "lyrics": "own"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Looking"
+            },
+            {
+              "chord": "G",
+              "lyrics": "at the wor"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ld over the"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "rim of his tea-cup"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Each t"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "ea lasts an h"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "our, and he"
+            },
+            {
+              "chord": "C",
+              "lyrics": "wanders hom"
+            },
+            {
+              "chord": "C",
+              "lyrics": "e alone"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "So ho"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "w can you te"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ll me you'r"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "e lo - ne - l"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "y"
+            },
+            {
+              "chord": "Am/G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7/F#",
+              "lyrics": "Don't say fo"
+            },
+            {
+              "chord": "G",
+              "lyrics": "r you that"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "the sun don't shine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C/G",
+              "lyrics": "Let me ta"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ke you by t"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "he hand and"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "lead you through the streets of London,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "I'll sh"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "ow you someth"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "ing to make"
+            },
+            {
+              "chord": "C",
+              "lyrics": "you change your mind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Interlude]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "|  |  |  |"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 4",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C/G",
+              "lyrics": "Have you"
+            },
+            {
+              "chord": "G",
+              "lyrics": "seen the ol"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "d man outsid"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "e the seaman's mission?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Memory"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "fading with t"
+            },
+            {
+              "chord": "Dm/F",
+              "lyrics": "he medal ribbo"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ns that he wears"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "In our"
+            },
+            {
+              "chord": "G",
+              "lyrics": "winter city"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "the rain cr"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ies a little pity"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "For on"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "e more forgot"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "ten hero and"
+            },
+            {
+              "chord": "C",
+              "lyrics": "a world th"
+            },
+            {
+              "chord": "C",
+              "lyrics": "at doesn't care"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "So ho"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "w can you te"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ll me you'r"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "e lo - ne - l"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "y"
+            },
+            {
+              "chord": "Am/G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7/F#",
+              "lyrics": "and say for"
+            },
+            {
+              "chord": "G",
+              "lyrics": "you that th"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "e sun don't shine?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C/G",
+              "lyrics": "Let me ta"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ke you by t"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "he hand and"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "lead you through the streets of London,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "I'll"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "show you some"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "thing to mak"
+            },
+            {
+              "chord": "C",
+              "lyrics": "e you chang"
+            },
+            {
+              "chord": "F/C",
+              "lyrics": "e your mind"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,581 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/3415916",
+  "title": "Have Yourself A Merry Little Christmas",
+  "artist": "Michael Bublé",
+  "key": "G",
+  "scrapedAt": "2025-12-10T18:46:59.193Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "x2"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am7",
+              "lyrics": ""
+            },
+            {
+              "chord": "D7",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Have yo"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "urself a merr"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "y little Chri"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "stmas"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Let you"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "r heart be li"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "ght"
+            },
+            {
+              "chord": "D7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "From now"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "on"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "Our tro"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "ubles will b"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "e out of sig"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ht"
+            },
+            {
+              "chord": "A7",
+              "lyrics": ""
+            },
+            {
+              "chord": "D7",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Have yo"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "urself a merr"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "y little Chri"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "stmas"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Make th"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "e yuletide ga"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "y"
+            },
+            {
+              "chord": "D7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "From now"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "on"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "Our tro"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "ubles will b"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "e miles away"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "A7",
+              "lyrics": ""
+            },
+            {
+              "chord": "D7",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj7",
+              "lyrics": "Here we are a"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "s in olden days"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Happy gol"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "den days of"
+            },
+            {
+              "chord": "Gmaj7",
+              "lyrics": "yore"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Faithful"
+            },
+            {
+              "chord": "F#7",
+              "lyrics": "friends who a"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "re dear to us"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Gather ne"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "ar to us, on"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "ce more"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Through t"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "he years"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "We all will"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "be together"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "If the"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "fates allow"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": ""
+            },
+            {
+              "chord": "D7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Hang a sh"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "ining star"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "Upon the"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "highest bou"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "gh"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "G7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj7",
+              "lyrics": "And have yo"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "urself a merr"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "y little Chr"
+            },
+            {
+              "chord": "G",
+              "lyrics": "istmas now"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Interlude]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "D7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Gmaj7",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Faithful"
+            },
+            {
+              "chord": "F#7",
+              "lyrics": "friends who"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "are dear to"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "us"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7",
+              "lyrics": "Gather ne"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "ar to us, onc"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "e more"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Ab",
+              "lyrics": "Through th"
+            },
+            {
+              "chord": "Fm7",
+              "lyrics": "e years"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbm7",
+              "lyrics": "We all will"
+            },
+            {
+              "chord": "Eb7",
+              "lyrics": "be together"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ab",
+              "lyrics": "If the f"
+            },
+            {
+              "chord": "Fm7",
+              "lyrics": "ates allow"
+            },
+            {
+              "chord": "Bbm7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Eb7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ab",
+              "lyrics": "Hang a shi"
+            },
+            {
+              "chord": "Fm7",
+              "lyrics": "ning star"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbm7",
+              "lyrics": "Upon the"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "highest boug"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "h"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": ""
+            },
+            {
+              "chord": "Ab7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dbmaj7",
+              "lyrics": "And have you"
+            },
+            {
+              "chord": "Bbm7",
+              "lyrics": "rself a merry"
+            },
+            {
+              "chord": "Eb7",
+              "lyrics": "little Christ"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "mas now"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Ab",
+              "lyrics": "x2"
+            },
+            {
+              "chord": "Fm7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bbm7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Eb7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Ab",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

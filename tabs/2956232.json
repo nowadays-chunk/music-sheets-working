@@ -1,0 +1,564 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/misc-television/high-school-musical-all-i-want-chords-2956232",
+  "title": "High School Musical - All I Want",
+  "artist": "Misc Television",
+  "key": "C",
+  "scrapedAt": "2025-12-10T18:43:35.087Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "x2"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I found"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "a guy, told"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "me I was a"
+            },
+            {
+              "chord": "F",
+              "lyrics": "star"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "He held"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "the door, h"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "eld my hand"
+            },
+            {
+              "chord": "F",
+              "lyrics": "in the dark"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "And he's"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "perfect on p"
+            },
+            {
+              "chord": "F",
+              "lyrics": "aper, but he's lying to my face"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Does he t"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "hink that I'"
+            },
+            {
+              "chord": "F",
+              "lyrics": "m the kinda girl who needs to be saved?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "And the"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "re's one mor"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "e boy, he's"
+            },
+            {
+              "chord": "F",
+              "lyrics": "from my past"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "We fell"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "in love, bu"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "t it didn’t"
+            },
+            {
+              "chord": "F",
+              "lyrics": "last"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "'Cause th"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "e second I f"
+            },
+            {
+              "chord": "F",
+              "lyrics": "igure it out, he pushes me away"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "And I won"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "'t fight for"
+            },
+            {
+              "chord": "F",
+              "lyrics": "love if you won't meet me halfway"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And I say"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "that I'm through, but this song's still for you"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "All I wa"
+            },
+            {
+              "chord": "G",
+              "lyrics": "nt is love"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "that lasts"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Is all I want too much to ask?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Is it som"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ething wrong with me?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "All I wa"
+            },
+            {
+              "chord": "G",
+              "lyrics": "nt is a goo"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "d guy"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Are my expectations far too high?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Try my be"
+            },
+            {
+              "chord": "C",
+              "lyrics": "st, but what can I say?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj7",
+              "lyrics": "All I have"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "is myself at"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "the end of t"
+            },
+            {
+              "chord": "F",
+              "lyrics": "he day"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "But s"
+            },
+            {
+              "chord": "C",
+              "lyrics": "houldn't th"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "at be enough fo"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "r me?"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Ooh-oo"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "h-ooh-ooh, ooh-"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ooh"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 3",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "And I m"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "iss the days"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "when I was"
+            },
+            {
+              "chord": "F",
+              "lyrics": "young and naive"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I thoug"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ht the perfe"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ct guy would"
+            },
+            {
+              "chord": "F",
+              "lyrics": "come and find me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Now happy"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ever after, it don't come so easily"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "All I wa"
+            },
+            {
+              "chord": "A",
+              "lyrics": "nt is love"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "that lasts"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Is all I want too much to ask?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Is it som"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ething wrong with me? Oh, ooh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "All I wa"
+            },
+            {
+              "chord": "A",
+              "lyrics": "nt is a goo"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "d guy"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Are my expectations far too high?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Try my be"
+            },
+            {
+              "chord": "D",
+              "lyrics": "st but what can I say?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dmaj7",
+              "lyrics": "All I have"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "is myself at"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "the end of t"
+            },
+            {
+              "chord": "G",
+              "lyrics": "he day"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "And"
+            },
+            {
+              "chord": "D",
+              "lyrics": "all I want"
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": "is for that to"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "be okay"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

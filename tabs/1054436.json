@@ -1,0 +1,547 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/misc-cartoons/tangled-when-will-my-life-begin-chords-1054436",
+  "title": "Tangled - When Will My Life Begin",
+  "artist": "Misc Cartoons",
+  "key": "",
+  "scrapedAt": "2025-12-10T18:43:32.327Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Asus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Seven AM,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "the usual morning lineup"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Start on"
+            },
+            {
+              "chord": "D",
+              "lyrics": "the chores and sweep 'til the floor's all clean"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "Polish and"
+            },
+            {
+              "chord": "F",
+              "lyrics": "wax, do laundry, and mop and shine up"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Sweep a"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "gain, and by t"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "hen it's lik"
+            },
+            {
+              "chord": "A",
+              "lyrics": "e seven fifteen"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "And so I'"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ll read a book"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Or maybe t"
+            },
+            {
+              "chord": "D",
+              "lyrics": "wo or three"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "I'll add"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "a few new p"
+            },
+            {
+              "chord": "G",
+              "lyrics": "aintings to"
+            },
+            {
+              "chord": "D",
+              "lyrics": "my gallery"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "I'll play"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "guitar and knit"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And cook"
+            },
+            {
+              "chord": "F#7",
+              "lyrics": "and basicall"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "y"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E7sus4",
+              "lyrics": "Just wonder w"
+            },
+            {
+              "chord": "A",
+              "lyrics": "hen will my"
+            },
+            {
+              "chord": "D",
+              "lyrics": "life begin?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Interlude]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Then afte"
+            },
+            {
+              "chord": "D",
+              "lyrics": "r lunch it's puzzles and darts and baking"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Paper mac"
+            },
+            {
+              "chord": "D",
+              "lyrics": "he, a bit of ballet and chess"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "Pottery an"
+            },
+            {
+              "chord": "F",
+              "lyrics": "d ventriloquy, candle making"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Then I'l"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "l stretch, may"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "be sketch, take a climb"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Sew a dress!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "And I'll"
+            },
+            {
+              "chord": "G",
+              "lyrics": "re-read the books"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "If I have"
+            },
+            {
+              "chord": "D",
+              "lyrics": "time to spare"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "I'll paint"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "the walls some more"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I'm sure"
+            },
+            {
+              "chord": "D",
+              "lyrics": "there's room somewhere"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "And then I"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "'ll brush and brush"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And brus"
+            },
+            {
+              "chord": "F#7",
+              "lyrics": "h and brush m"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "y hair"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E7sus4",
+              "lyrics": "Stuck in the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "same place"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "I've always"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "been"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Post-Chorus]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "And I'll k"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "eep wonderin' and wonderin'"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And wond"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "erin' and wond"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "erin'"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E7",
+              "lyrics": "When will"
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": "my life begin?"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Tomorrow night"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "The light"
+            },
+            {
+              "chord": "G",
+              "lyrics": "s will appear"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Just l"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ike they do"
+            },
+            {
+              "chord": "D",
+              "lyrics": "on my birt"
+            },
+            {
+              "chord": "G",
+              "lyrics": "hday each y"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ear"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "What is it"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "like"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Out there"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "where they glow?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Now that"
+            },
+            {
+              "chord": "D",
+              "lyrics": "I'm older"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Mother might just"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus4",
+              "lyrics": "Let me go..."
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

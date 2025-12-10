@@ -1,0 +1,561 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/misc-christmas/ihr-kinderlein-kommet-chords-1450528",
+  "title": "Ihr Kinderlein Kommet",
+  "artist": "Misc Christmas",
+  "key": "G",
+  "scrapedAt": "2025-12-10T18:45:59.544Z",
+  "sections": [
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Ihr Kind"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "erlein komme"
+            },
+            {
+              "chord": "G",
+              "lyrics": "t, o kommet doch all!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Zur Krip"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "pe her komme"
+            },
+            {
+              "chord": "G",
+              "lyrics": "t in Bethlehems Stall,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7",
+              "lyrics": "und seht,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "was in die"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ser hochheiligen Nacht"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "der Vate"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "r im Himmel"
+            },
+            {
+              "chord": "G",
+              "lyrics": "für Freude uns macht."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "O seht i"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "n der Krippe"
+            },
+            {
+              "chord": "G",
+              "lyrics": "im nächtlichen Stall,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "seht hie"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "r bei des Li"
+            },
+            {
+              "chord": "G",
+              "lyrics": "chtes hellglaenzendem Strahl,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7",
+              "lyrics": "den liebl"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ichen Knabe"
+            },
+            {
+              "chord": "C",
+              "lyrics": "n, das himmlische Kind,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "viel sch"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "öner und hol"
+            },
+            {
+              "chord": "G",
+              "lyrics": "der als Engelein sind."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 3",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Da liegt"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "es, das Kin"
+            },
+            {
+              "chord": "G",
+              "lyrics": "dlein, auf Heu und auf Stroh,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Maria un"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "d Josef betr"
+            },
+            {
+              "chord": "G",
+              "lyrics": "achten es froh."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7",
+              "lyrics": "Die redli"
+            },
+            {
+              "chord": "G",
+              "lyrics": "chen Hirten"
+            },
+            {
+              "chord": "C",
+              "lyrics": "knien betend davor,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "hoch obe"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "n schwebt ju"
+            },
+            {
+              "chord": "G",
+              "lyrics": "belnd der Engelein Chor."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 4",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Manch Hi"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "rtenkind trä"
+            },
+            {
+              "chord": "G",
+              "lyrics": "gt wohl mit freudigem Sinn"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Milch, B"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "utter und Ho"
+            },
+            {
+              "chord": "G",
+              "lyrics": "nig nach Betlehem hin;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7",
+              "lyrics": "ein Körbl"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ein voll Fr"
+            },
+            {
+              "chord": "C",
+              "lyrics": "üchte, das purpurrot glänzt,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "ein schn"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "eeweißes Läm"
+            },
+            {
+              "chord": "G",
+              "lyrics": "mchen mit Blumen bekränzt."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 5",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "O betet:"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "Du liebes,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "Du göttliches Kind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "was leid"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "est Du alles"
+            },
+            {
+              "chord": "G",
+              "lyrics": "für unsere Sünd’!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7",
+              "lyrics": "Ach hier"
+            },
+            {
+              "chord": "G",
+              "lyrics": "in der Krip"
+            },
+            {
+              "chord": "C",
+              "lyrics": "pe schon Armut und Not,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "am Kreuz"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "e dort gar n"
+            },
+            {
+              "chord": "G",
+              "lyrics": "och den bitteren Tod."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 6",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "O beugt"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "wie die Hirt"
+            },
+            {
+              "chord": "G",
+              "lyrics": "en anbetend die Knie;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "erhebet"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "die Hände un"
+            },
+            {
+              "chord": "G",
+              "lyrics": "d danket wie sie!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7",
+              "lyrics": "Stimmt fr"
+            },
+            {
+              "chord": "G",
+              "lyrics": "eudig, ihr"
+            },
+            {
+              "chord": "C",
+              "lyrics": "Kinder, wer sollt' sich nicht freun?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Stimmt f"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "reudig zum J"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ubel der Engel mit ein!."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 7",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Was gebe"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "n wir Kinder"
+            },
+            {
+              "chord": "G",
+              "lyrics": ", was schenken wir Dir,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "du Beste"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "s und Liebst"
+            },
+            {
+              "chord": "G",
+              "lyrics": "es der Kinder, dafür?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7",
+              "lyrics": "Nichts wi"
+            },
+            {
+              "chord": "G",
+              "lyrics": "llst Du von"
+            },
+            {
+              "chord": "C",
+              "lyrics": "Schätzen und Freuden der Welt –"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "ein Herz"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "nur voll Un"
+            },
+            {
+              "chord": "G",
+              "lyrics": "schuld allein Dir gefällt."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 8",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "So nimm"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "unsre Herzen"
+            },
+            {
+              "chord": "G",
+              "lyrics": "zum Opfer denn hin;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "wir gebe"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "n sie gerne"
+            },
+            {
+              "chord": "G",
+              "lyrics": "mit fröhlichem Sinn –"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7",
+              "lyrics": "und mache"
+            },
+            {
+              "chord": "G",
+              "lyrics": "sie heilig"
+            },
+            {
+              "chord": "C",
+              "lyrics": "und selig wie Dein’s,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "und mach"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "sie auf ewi"
+            },
+            {
+              "chord": "G",
+              "lyrics": "g mit Deinem nur Eins."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

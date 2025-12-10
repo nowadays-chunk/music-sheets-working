@@ -1,0 +1,744 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/tracy-chapman/baby-can-i-hold-you-chords-105719",
+  "title": "Baby Can I Hold You",
+  "artist": "Tracy Chapman",
+  "key": "",
+  "scrapedAt": "2025-12-10T18:46:33.712Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "e|-2----"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "2--x-0--x--2---"
+            },
+            {
+              "chord": "D",
+              "lyrics": "|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|-3----3--x-3--x--3---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|-2----2--x-2--x--2---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|-0----0--0-0--0--0---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|---------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|---------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7sus4",
+              "lyrics": "e|-0----0--x-0"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "---------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|-3----3--x-2---------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|-0----0--x-0---------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|-2----2--x-2---------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|-0----0--0-0---------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|---------------------|"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Sorry"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7sus4",
+              "lyrics": "Is all that y"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "ou can't say"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7sus4",
+              "lyrics": "Years gone"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "by and still"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7sus4",
+              "lyrics": "Words don't c"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "ome easily"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Like so"
+            },
+            {
+              "chord": "A",
+              "lyrics": "rry like so"
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": "rry"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Forgive"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "me"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7sus4",
+              "lyrics": "Is all that y"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "ou can't say"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7sus4",
+              "lyrics": "Years gone"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "by and still"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7sus4",
+              "lyrics": "Words don't c"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "ome easily"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Like fo"
+            },
+            {
+              "chord": "A",
+              "lyrics": "rgive me fo"
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": "rgive me"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "But you"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "can say baby"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Baby ca"
+            },
+            {
+              "chord": "G",
+              "lyrics": "n I hold yo"
+            },
+            {
+              "chord": "D",
+              "lyrics": "u tonight?"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Maybe if"
+            },
+            {
+              "chord": "G",
+              "lyrics": "I told you"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "the right words"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Oooh at"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "the right time"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "You'd be"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "mine"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 3",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I love y"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "ou"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7sus4",
+              "lyrics": "Is all that y"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "ou can't say"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7sus4",
+              "lyrics": "Years gone"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "by and still"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7sus4",
+              "lyrics": "Words don't c"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "ome easily"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Like I"
+            },
+            {
+              "chord": "A",
+              "lyrics": "love you I"
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": "love you"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "But you"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "can say baby"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Baby ca"
+            },
+            {
+              "chord": "G",
+              "lyrics": "n I hold yo"
+            },
+            {
+              "chord": "D",
+              "lyrics": "u tonight?"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Maybe if"
+            },
+            {
+              "chord": "G",
+              "lyrics": "I told you"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "the right words"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Oooh at"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "the right time"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "You'd be"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "mine"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Baby ca"
+            },
+            {
+              "chord": "G",
+              "lyrics": "n I hold yo"
+            },
+            {
+              "chord": "D",
+              "lyrics": "u tonight?"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Maybe if"
+            },
+            {
+              "chord": "G",
+              "lyrics": "I told you"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "the right words"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Oooh at"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "the right time"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "You'd"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "be mine"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "You'd"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "be mine"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "You'd be mine"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

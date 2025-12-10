@@ -1,0 +1,390 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/pink-floyd/hey-you-chords-44544",
+  "title": "Hey You",
+  "artist": "Pink Floyd",
+  "key": "",
+  "scrapedAt": "2025-12-10T18:46:03.625Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Emadd9",
+              "lyrics": "x4"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Emadd9",
+              "lyrics": "Hey you! out there in the cold"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Getting lonely, getting old, can you feel me?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Emadd9",
+              "lyrics": "Hey you! standing in the aisles"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "With itchy feet and fading smiles, can you feel me?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Hey you"
+            },
+            {
+              "chord": "G",
+              "lyrics": "! don't you"
+            },
+            {
+              "chord": "D",
+              "lyrics": "help them"
+            },
+            {
+              "chord": "C",
+              "lyrics": "to bury the li-ii-ght"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Don't gi"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ve in withou"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "t a fight"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Emadd9",
+              "lyrics": "Hey you! out there on your own"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Sitting naked by the phone, would you touch me?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Emadd9",
+              "lyrics": "Hey you! with your ear against the wall"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Waiting for someone to call out, would you touch me?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Hey you"
+            },
+            {
+              "chord": "G",
+              "lyrics": "! would you"
+            },
+            {
+              "chord": "D",
+              "lyrics": "help me to"
+            },
+            {
+              "chord": "C",
+              "lyrics": "carry the sto-o-one?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Open your"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "heart, I'm"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "coming home"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Guitar Solo]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "x4"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge (where the chords are G D C the meter changes to 2/4 for one bar)",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "But it"
+            },
+            {
+              "chord": "D",
+              "lyrics": "was only a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "fantasy"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "The wa"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ll was too"
+            },
+            {
+              "chord": "G",
+              "lyrics": "high, as yo"
+            },
+            {
+              "chord": "D",
+              "lyrics": "u can see"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "No mat"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ter how he"
+            },
+            {
+              "chord": "G",
+              "lyrics": "tried he co"
+            },
+            {
+              "chord": "D",
+              "lyrics": "uld not bre"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ak free"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "And the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "worms ate i"
+            },
+            {
+              "chord": "Emadd9",
+              "lyrics": "nto his brain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Bass Solo]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Emadd9",
+              "lyrics": "x4"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 3",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Emadd9",
+              "lyrics": "Hey you! out there on the road"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Always doing what you're told, can you help me?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Emadd9",
+              "lyrics": "Hey you! out there beyond the wall"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Breaking bottles in the hall, can you help me?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Hey you"
+            },
+            {
+              "chord": "G",
+              "lyrics": "! don't tel"
+            },
+            {
+              "chord": "D",
+              "lyrics": "l me there'"
+            },
+            {
+              "chord": "C",
+              "lyrics": "s no hope at a-aa-ll"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Together"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "we stand, di"
+            },
+            {
+              "chord": "Emadd9",
+              "lyrics": "vided we fall."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

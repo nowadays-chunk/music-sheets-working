@@ -1,0 +1,1385 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/billy-joel/piano-man-chords-1051336",
+  "title": "Piano Man",
+  "artist": "Billy Joel",
+  "key": "C",
+  "scrapedAt": "2025-12-10T18:43:22.694Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "D7",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "It's ni"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ne o'clock"
+            },
+            {
+              "chord": "F",
+              "lyrics": "on a Saturd"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ay"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "The reg"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ular crowd"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "shuffles in"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "There's"
+            },
+            {
+              "chord": "G",
+              "lyrics": "an old man"
+            },
+            {
+              "chord": "F",
+              "lyrics": "sitting ne"
+            },
+            {
+              "chord": "C",
+              "lyrics": "xt to me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Making"
+            },
+            {
+              "chord": "G",
+              "lyrics": "love to his"
+            },
+            {
+              "chord": "C",
+              "lyrics": "tonic and"
+            },
+            {
+              "chord": "G",
+              "lyrics": "gin"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "He says"
+            },
+            {
+              "chord": "G",
+              "lyrics": ", \"Son, can"
+            },
+            {
+              "chord": "F",
+              "lyrics": "you play m"
+            },
+            {
+              "chord": "C",
+              "lyrics": "e a memory"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "I'm not"
+            },
+            {
+              "chord": "C",
+              "lyrics": "really sur"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "e how it goe"
+            },
+            {
+              "chord": "G",
+              "lyrics": "s"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "But it'"
+            },
+            {
+              "chord": "G",
+              "lyrics": "s sad and i"
+            },
+            {
+              "chord": "F",
+              "lyrics": "t's sweet a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "nd I knew it complete"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "When I w"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ore a young"
+            },
+            {
+              "chord": "C",
+              "lyrics": "er man's clothes.\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Interlude]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "la la la,"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "di da da"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "La la,"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "di di da da"
+            },
+            {
+              "chord": "G",
+              "lyrics": "dum"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G7",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Sing us"
+            },
+            {
+              "chord": "G",
+              "lyrics": "a song, yo"
+            },
+            {
+              "chord": "F",
+              "lyrics": "u're the pi"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ano man"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Sing us"
+            },
+            {
+              "chord": "C",
+              "lyrics": "a song ton"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "ight"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Well, w"
+            },
+            {
+              "chord": "G",
+              "lyrics": "e're all in"
+            },
+            {
+              "chord": "F",
+              "lyrics": "the mood f"
+            },
+            {
+              "chord": "C",
+              "lyrics": "or a melody"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "And you"
+            },
+            {
+              "chord": "G",
+              "lyrics": "'ve got us"
+            },
+            {
+              "chord": "C",
+              "lyrics": "all feeling"
+            },
+            {
+              "chord": "G",
+              "lyrics": "alright"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Now Joh"
+            },
+            {
+              "chord": "G",
+              "lyrics": "n at the ba"
+            },
+            {
+              "chord": "F",
+              "lyrics": "r is a frie"
+            },
+            {
+              "chord": "C",
+              "lyrics": "nd of mine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "He gets"
+            },
+            {
+              "chord": "C",
+              "lyrics": "me my drin"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "ks for free"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "And he'"
+            },
+            {
+              "chord": "G",
+              "lyrics": "s quick wit"
+            },
+            {
+              "chord": "F",
+              "lyrics": "h a joke an"
+            },
+            {
+              "chord": "C",
+              "lyrics": "d he'll light up your smoke"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "But the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "re's some p"
+            },
+            {
+              "chord": "C",
+              "lyrics": "lace that h"
+            },
+            {
+              "chord": "G",
+              "lyrics": "e'd rather be"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "He says"
+            },
+            {
+              "chord": "G",
+              "lyrics": ", \"Bill, I"
+            },
+            {
+              "chord": "F",
+              "lyrics": "believe thi"
+            },
+            {
+              "chord": "C",
+              "lyrics": "s is killing me.\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "As the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "smile ran a"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "way from his"
+            },
+            {
+              "chord": "G",
+              "lyrics": "face"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "\"Well I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "'m sure tha"
+            },
+            {
+              "chord": "F",
+              "lyrics": "t I could b"
+            },
+            {
+              "chord": "C",
+              "lyrics": "e a movie star"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "If I cou"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ld get out"
+            },
+            {
+              "chord": "C",
+              "lyrics": "of this place\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Interlude]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "la la la,"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "di da da"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "La la,"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "di di da da"
+            },
+            {
+              "chord": "G",
+              "lyrics": "dum"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G7",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 3",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Now Pau"
+            },
+            {
+              "chord": "G",
+              "lyrics": "l is a real"
+            },
+            {
+              "chord": "F",
+              "lyrics": "estate nov"
+            },
+            {
+              "chord": "C",
+              "lyrics": "elist"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Who nev"
+            },
+            {
+              "chord": "C",
+              "lyrics": "er had time"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "for a wife"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "And he'"
+            },
+            {
+              "chord": "G",
+              "lyrics": "s talking w"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ith Davy, w"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ho's still in the Navy"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "And pro"
+            },
+            {
+              "chord": "G",
+              "lyrics": "bably will"
+            },
+            {
+              "chord": "C",
+              "lyrics": "be for life"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "And the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "waitress i"
+            },
+            {
+              "chord": "F",
+              "lyrics": "s practicin"
+            },
+            {
+              "chord": "C",
+              "lyrics": "g politics"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "As the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "businessman"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "slowly gets"
+            },
+            {
+              "chord": "G",
+              "lyrics": "stoned"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Yes, th"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ey're shari"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ng a drink"
+            },
+            {
+              "chord": "C",
+              "lyrics": "they call loneliness"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "But it'"
+            },
+            {
+              "chord": "G",
+              "lyrics": "s better th"
+            },
+            {
+              "chord": "C",
+              "lyrics": "an drinking"
+            },
+            {
+              "chord": "G",
+              "lyrics": "alone"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Sing us"
+            },
+            {
+              "chord": "G",
+              "lyrics": "a song, yo"
+            },
+            {
+              "chord": "F",
+              "lyrics": "u're the pi"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ano man"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Sing us"
+            },
+            {
+              "chord": "C",
+              "lyrics": "a song ton"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "ight"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Well, w"
+            },
+            {
+              "chord": "G",
+              "lyrics": "e're all in"
+            },
+            {
+              "chord": "F",
+              "lyrics": "the mood f"
+            },
+            {
+              "chord": "C",
+              "lyrics": "or a melody"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "And you"
+            },
+            {
+              "chord": "G",
+              "lyrics": "'ve got us"
+            },
+            {
+              "chord": "C",
+              "lyrics": "all feeling"
+            },
+            {
+              "chord": "G",
+              "lyrics": "alright"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 4",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "It's a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "pretty good"
+            },
+            {
+              "chord": "F",
+              "lyrics": "crowd for"
+            },
+            {
+              "chord": "C",
+              "lyrics": "a Saturday"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "And the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "manager gi"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "ves me a smi"
+            },
+            {
+              "chord": "G",
+              "lyrics": "le"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "'Cause"
+            },
+            {
+              "chord": "G",
+              "lyrics": "he knows th"
+            },
+            {
+              "chord": "F",
+              "lyrics": "at it's me"
+            },
+            {
+              "chord": "C",
+              "lyrics": "they've been coming to see"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "To forg"
+            },
+            {
+              "chord": "G",
+              "lyrics": "et about li"
+            },
+            {
+              "chord": "C",
+              "lyrics": "fe for a wh"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ile"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "And the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "piano, it"
+            },
+            {
+              "chord": "F",
+              "lyrics": "sounds like"
+            },
+            {
+              "chord": "C",
+              "lyrics": "a carnival"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "And the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "microphone"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "smells like"
+            },
+            {
+              "chord": "G",
+              "lyrics": "a beer"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "And the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "y sit at th"
+            },
+            {
+              "chord": "F",
+              "lyrics": "e bar and p"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ut bread in my jar"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "And say"
+            },
+            {
+              "chord": "G",
+              "lyrics": ", \"Man, wha"
+            },
+            {
+              "chord": "C",
+              "lyrics": "t are you d"
+            },
+            {
+              "chord": "G",
+              "lyrics": "oing here?\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Interlude]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "la la la,"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "di da da"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "La la,"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "di di da da"
+            },
+            {
+              "chord": "G",
+              "lyrics": "dum"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G7",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Sing us"
+            },
+            {
+              "chord": "G",
+              "lyrics": "a song, yo"
+            },
+            {
+              "chord": "F",
+              "lyrics": "u're the pi"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ano man"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Sing us"
+            },
+            {
+              "chord": "C",
+              "lyrics": "a song ton"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "ight"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Well, w"
+            },
+            {
+              "chord": "G",
+              "lyrics": "e're all in"
+            },
+            {
+              "chord": "F",
+              "lyrics": "the mood f"
+            },
+            {
+              "chord": "C",
+              "lyrics": "or a melody"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "And you'"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ve got us a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ll feeling alright"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "* Alternates:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Capo III"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "="
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "="
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "="
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7",
+              "lyrics": "="
+            },
+            {
+              "chord": "B7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G7",
+              "lyrics": "="
+            },
+            {
+              "chord": "E7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "="
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Open (These chords are not in the original key)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "="
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "="
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "="
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7",
+              "lyrics": "="
+            },
+            {
+              "chord": "A7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G7",
+              "lyrics": "="
+            },
+            {
+              "chord": "D7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "="
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Open (These chords are not in the original key)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "="
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "="
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "="
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7",
+              "lyrics": "="
+            },
+            {
+              "chord": "E7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G7",
+              "lyrics": "="
+            },
+            {
+              "chord": "A7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "="
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Set8"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

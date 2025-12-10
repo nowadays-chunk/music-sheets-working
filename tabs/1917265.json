@@ -1,0 +1,668 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/cigarettes-after-sex/k-chords-1917265",
+  "title": "K",
+  "artist": "Cigarettes After Sex",
+  "key": "Fm",
+  "scrapedAt": "2025-12-10T18:44:06.531Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "e|------"
+            },
+            {
+              "chord": "A",
+              "lyrics": "-----------"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "---------------"
+            },
+            {
+              "chord": "G",
+              "lyrics": "-----------"
+            },
+            {
+              "chord": "G/F#",
+              "lyrics": "---------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|---3---3---2---2---2-----3---3-----3---0-----3-------0----|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|---0---0---2---------2---2---2---2---2-----2---2-------2--| x4"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|---------------------------0---0--------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|-2---2---2---0---0-----0----------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|-----------------------------------------3-------2--------|"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "I rememb"
+            },
+            {
+              "chord": "A",
+              "lyrics": "er when I f"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "irst noticed th"
+            },
+            {
+              "chord": "G",
+              "lyrics": "at you like"
+            },
+            {
+              "chord": "G/F#",
+              "lyrics": "d me back"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "We were"
+            },
+            {
+              "chord": "A",
+              "lyrics": "sitting dow"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "n in a restaura"
+            },
+            {
+              "chord": "G",
+              "lyrics": "nt waiting"
+            },
+            {
+              "chord": "G/F#",
+              "lyrics": "for the check"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "We had m"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ade love ea"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "rlier that day"
+            },
+            {
+              "chord": "G",
+              "lyrics": "with no str"
+            },
+            {
+              "chord": "G/F#",
+              "lyrics": "ings attached"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "But I co"
+            },
+            {
+              "chord": "A",
+              "lyrics": "uld tell th"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "at something ha"
+            },
+            {
+              "chord": "G",
+              "lyrics": "d changed h"
+            },
+            {
+              "chord": "G/F#",
+              "lyrics": "ow you looked at me then"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "Kristen, co"
+            },
+            {
+              "chord": "A",
+              "lyrics": "me right back"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dsus2",
+              "lyrics": "I've been wa"
+            },
+            {
+              "chord": "G",
+              "lyrics": "iting for y"
+            },
+            {
+              "chord": "G/F#",
+              "lyrics": "ou"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "to slip bac"
+            },
+            {
+              "chord": "A",
+              "lyrics": "k in bed"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dsus2",
+              "lyrics": "When you lig"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ht the cand"
+            },
+            {
+              "chord": "G/F#",
+              "lyrics": "le"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "x2"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "G/F#",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "And on t"
+            },
+            {
+              "chord": "A",
+              "lyrics": "he Lower Ea"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "st Side you're"
+            },
+            {
+              "chord": "G",
+              "lyrics": "dancing wit"
+            },
+            {
+              "chord": "G/F#",
+              "lyrics": "h me now"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "And I'm"
+            },
+            {
+              "chord": "A",
+              "lyrics": "taking pict"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "ures of you wit"
+            },
+            {
+              "chord": "G",
+              "lyrics": "h flowers o"
+            },
+            {
+              "chord": "G/F#",
+              "lyrics": "n the wall"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "Think I"
+            },
+            {
+              "chord": "A",
+              "lyrics": "like you be"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "st when you're"
+            },
+            {
+              "chord": "G",
+              "lyrics": "dressed in"
+            },
+            {
+              "chord": "G/F#",
+              "lyrics": "black from head to toe"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "Think I"
+            },
+            {
+              "chord": "A",
+              "lyrics": "like you be"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "st when you're"
+            },
+            {
+              "chord": "G",
+              "lyrics": "just with m"
+            },
+            {
+              "chord": "G/F#",
+              "lyrics": "e and no one else"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "Kristen, co"
+            },
+            {
+              "chord": "A",
+              "lyrics": "me right back"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dsus2",
+              "lyrics": "I've been wa"
+            },
+            {
+              "chord": "G",
+              "lyrics": "iting for y"
+            },
+            {
+              "chord": "G/F#",
+              "lyrics": "ou"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "to slip bac"
+            },
+            {
+              "chord": "A",
+              "lyrics": "k in bed"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dsus2",
+              "lyrics": "When you lig"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ht the cand"
+            },
+            {
+              "chord": "G/F#",
+              "lyrics": "le"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "x2"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "G/F#",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 3",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "And I'm"
+            },
+            {
+              "chord": "A",
+              "lyrics": "kissing you"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "lying in my ro"
+            },
+            {
+              "chord": "G",
+              "lyrics": "om"
+            },
+            {
+              "chord": "G/F#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "Holding"
+            },
+            {
+              "chord": "A",
+              "lyrics": "you until y"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "ou fall asleep"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "G/F#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "And it's"
+            },
+            {
+              "chord": "A",
+              "lyrics": "just as go"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "od as I knew it"
+            },
+            {
+              "chord": "G",
+              "lyrics": "would be"
+            },
+            {
+              "chord": "G/F#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "Stay wit"
+            },
+            {
+              "chord": "A",
+              "lyrics": "h me, I don"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "'t want you to"
+            },
+            {
+              "chord": "G",
+              "lyrics": "leave"
+            },
+            {
+              "chord": "G/F#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "x2"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "G/F#",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "Kristen, co"
+            },
+            {
+              "chord": "A",
+              "lyrics": "me right back"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dsus2",
+              "lyrics": "I've been wa"
+            },
+            {
+              "chord": "G",
+              "lyrics": "iting for y"
+            },
+            {
+              "chord": "G/F#",
+              "lyrics": "ou"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "to slip bac"
+            },
+            {
+              "chord": "A",
+              "lyrics": "k in bed"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dsus2",
+              "lyrics": "When you lig"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ht the cand"
+            },
+            {
+              "chord": "G/F#",
+              "lyrics": "le"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "x2"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "G/F#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

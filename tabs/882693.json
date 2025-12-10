@@ -1,0 +1,788 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/ronan-keating/when-you-say-nothing-at-all-chords-882693",
+  "title": "When You Say Nothing At All",
+  "artist": "Ronan Keating",
+  "key": "G",
+  "scrapedAt": "2025-12-10T18:44:30.219Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "x2"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "It'"
+            },
+            {
+              "chord": "D",
+              "lyrics": "s amazing h"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "ow you can spea"
+            },
+            {
+              "chord": "D",
+              "lyrics": "k right to"
+            },
+            {
+              "chord": "G",
+              "lyrics": "my heart"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Wit"
+            },
+            {
+              "chord": "D",
+              "lyrics": "hout saying"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "a word, you ca"
+            },
+            {
+              "chord": "D",
+              "lyrics": "n light up"
+            },
+            {
+              "chord": "G",
+              "lyrics": "the dark"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9",
+              "lyrics": "Try as I may,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "I can never explain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "What I"
+            },
+            {
+              "chord": "D",
+              "lyrics": "hear when y"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "ou don't say a"
+            },
+            {
+              "chord": "D",
+              "lyrics": "thing"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "The smi"
+            },
+            {
+              "chord": "D",
+              "lyrics": "le on your"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "face lets me kn"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ow that you need me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "There's"
+            },
+            {
+              "chord": "D",
+              "lyrics": "a truth in"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "your eyes sayi"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ng you'll never leave me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "The t"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ouch of you"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "r hand says you"
+            },
+            {
+              "chord": "D",
+              "lyrics": "'ll catch m"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "e where ever"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "I fall"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9",
+              "lyrics": "You say i"
+            },
+            {
+              "chord": "D",
+              "lyrics": "t best, whe"
+            },
+            {
+              "chord": "G",
+              "lyrics": "n you say n"
+            },
+            {
+              "chord": "D",
+              "lyrics": "othing at a"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "ll"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Interlude]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "All"
+            },
+            {
+              "chord": "D",
+              "lyrics": "day long I"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "can hear peopl"
+            },
+            {
+              "chord": "D",
+              "lyrics": "e talking o"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ut loud"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "But"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "when you hol"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "d me near, you"
+            },
+            {
+              "chord": "D",
+              "lyrics": "drown out t"
+            },
+            {
+              "chord": "G",
+              "lyrics": "he crowd"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9",
+              "lyrics": "Try as they m"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ay, they can never define"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "What's"
+            },
+            {
+              "chord": "D",
+              "lyrics": "been said b"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "etween your hea"
+            },
+            {
+              "chord": "D",
+              "lyrics": "rt and mine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "The smi"
+            },
+            {
+              "chord": "D",
+              "lyrics": "le on your"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "face lets me kn"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ow that you need me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "There's"
+            },
+            {
+              "chord": "D",
+              "lyrics": "a truth in"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "your eyes sayi"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ng you'll never leave me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "The t"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ouch of you"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "r hand says you"
+            },
+            {
+              "chord": "D",
+              "lyrics": "'ll catch m"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "e where ever"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "I fall"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9",
+              "lyrics": "() You say it"
+            },
+            {
+              "chord": "D",
+              "lyrics": "best, when"
+            },
+            {
+              "chord": "E",
+              "lyrics": "you say nothing at all"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Interlude]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "x3"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "The smi"
+            },
+            {
+              "chord": "D",
+              "lyrics": "le on your"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "face lets me kn"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ow that you need me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "There's"
+            },
+            {
+              "chord": "D",
+              "lyrics": "a truth in"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "your eyes sayi"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "ng you'll never leave me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(softer)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "The t"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ouch of you"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "r hand says you"
+            },
+            {
+              "chord": "D",
+              "lyrics": "'ll catch m"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "e where ever"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "I fall"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9",
+              "lyrics": "You say i"
+            },
+            {
+              "chord": "D",
+              "lyrics": "t best, whe"
+            },
+            {
+              "chord": "G",
+              "lyrics": "n you say n"
+            },
+            {
+              "chord": "D",
+              "lyrics": "othing at a"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "ll"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Interlude]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "(You sa"
+            },
+            {
+              "chord": "D",
+              "lyrics": "y it best,"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "when you say no"
+            },
+            {
+              "chord": "D",
+              "lyrics": "thing at all)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "(You sa"
+            },
+            {
+              "chord": "D",
+              "lyrics": "y it best,"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "when you say no"
+            },
+            {
+              "chord": "D",
+              "lyrics": "thing at all)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "The smi"
+            },
+            {
+              "chord": "D",
+              "lyrics": "le on your"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "face, The truth"
+            },
+            {
+              "chord": "D",
+              "lyrics": "in your eyes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(You say it best, when you say nothing at all)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "The tou"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ch of your"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "hand, lets me k"
+            },
+            {
+              "chord": "D",
+              "lyrics": "now that you need me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(You say it best, when you say nothing at all)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "(You sa"
+            },
+            {
+              "chord": "D",
+              "lyrics": "y it best,"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "when you say no"
+            },
+            {
+              "chord": "D",
+              "lyrics": "thing at all)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "(You sa"
+            },
+            {
+              "chord": "D",
+              "lyrics": "y it best,"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "when you say no"
+            },
+            {
+              "chord": "D",
+              "lyrics": "thing at all)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

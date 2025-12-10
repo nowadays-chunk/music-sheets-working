@@ -1,0 +1,386 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/elliott-smith/between-the-bars-chords-780945",
+  "title": "Between The Bars",
+  "artist": "Elliott Smith",
+  "key": "",
+  "scrapedAt": "2025-12-10T18:47:52.751Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "Drink up ba"
+            },
+            {
+              "chord": "C",
+              "lyrics": "by, stay up all night"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "With the things you could do"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D6/F#",
+              "lyrics": "You won't but you might"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "The potenti"
+            },
+            {
+              "chord": "C",
+              "lyrics": "al you'll be that you'll never see"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "* The pro"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "mises you'll"
+            },
+            {
+              "chord": "C",
+              "lyrics": "only make"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "Drink up with me now"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "And forge"
+            },
+            {
+              "chord": "G",
+              "lyrics": "t all about the pressure of days"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D6/F#",
+              "lyrics": "Do what I say"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "and I'll make you okay"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "And drive them away"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "* The ima"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "ges stuck in"
+            },
+            {
+              "chord": "C",
+              "lyrics": "your head"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "* The peo"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ple you've"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "been before"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "That yo"
+            },
+            {
+              "chord": "D",
+              "lyrics": "u don't wan"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "t around any"
+            },
+            {
+              "chord": "Em/C#",
+              "lyrics": "more"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "*  That p"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ush and sho"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ve and won't"
+            },
+            {
+              "chord": "C",
+              "lyrics": "bend to your will"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cm",
+              "lyrics": "I'll keep them still"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "Drink up ba"
+            },
+            {
+              "chord": "C",
+              "lyrics": "by, look at the stars"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I'll kiss"
+            },
+            {
+              "chord": "D6/F#",
+              "lyrics": "you again between the bars"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "Where I'm s"
+            },
+            {
+              "chord": "C",
+              "lyrics": "eeing you there with your hands in the air"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "* Waiting"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "to finally"
+            },
+            {
+              "chord": "C",
+              "lyrics": "be caught"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "Drink up on"
+            },
+            {
+              "chord": "C",
+              "lyrics": "e more time and I'll make you mine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Keep you"
+            },
+            {
+              "chord": "D6/F#",
+              "lyrics": "apart, deep in my heart"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "Separate fr"
+            },
+            {
+              "chord": "C",
+              "lyrics": "om the rest, where I like you the best"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "* And kee"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "p the things"
+            },
+            {
+              "chord": "C",
+              "lyrics": "you forgot"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "* The peo"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ple you've"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "been before"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "That yo"
+            },
+            {
+              "chord": "D",
+              "lyrics": "u don't wan"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "t around any"
+            },
+            {
+              "chord": "Em/C#",
+              "lyrics": "more"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "*  That p"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ush and sho"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ve and won't"
+            },
+            {
+              "chord": "C",
+              "lyrics": "bend to your will"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cm",
+              "lyrics": "I'll keep them still"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

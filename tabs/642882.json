@@ -1,0 +1,502 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/george-strait/amarillo-by-morning-chords-642882",
+  "title": "Amarillo By Morning",
+  "artist": "George Strait",
+  "key": "D",
+  "scrapedAt": "2025-12-10T18:43:56.197Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Amarill"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "o by mornin'"
+            },
+            {
+              "chord": "G",
+              "lyrics": "up from San"
+            },
+            {
+              "chord": "D",
+              "lyrics": "Antone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Everyth"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "ing that I go"
+            },
+            {
+              "chord": "G",
+              "lyrics": "t is just w"
+            },
+            {
+              "chord": "A",
+              "lyrics": "hat I've got on"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gmaj7",
+              "lyrics": "When that sun"
+            },
+            {
+              "chord": "A",
+              "lyrics": "is high in the Texas sky"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I'll be"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "buckin' at th"
+            },
+            {
+              "chord": "G",
+              "lyrics": "e county fair"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Amaril"
+            },
+            {
+              "chord": "A",
+              "lyrics": "lo by morni"
+            },
+            {
+              "chord": "G",
+              "lyrics": "n', Amarill"
+            },
+            {
+              "chord": "A",
+              "lyrics": "o I'll be t"
+            },
+            {
+              "chord": "D",
+              "lyrics": "here"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Instrumental]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": ")"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "They to"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "ok my saddle"
+            },
+            {
+              "chord": "G",
+              "lyrics": "in Houston,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "broke my leg in Santa Fe"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Lost my"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "wife and a g"
+            },
+            {
+              "chord": "G",
+              "lyrics": "irlfriend s"
+            },
+            {
+              "chord": "A",
+              "lyrics": "omewhere along the way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gmaj7",
+              "lyrics": "But I'll be l"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ooking for eight when they pull that gate"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "and I ho"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "pe that judge"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ain't blind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Amaril"
+            },
+            {
+              "chord": "A",
+              "lyrics": "lo by morni"
+            },
+            {
+              "chord": "G",
+              "lyrics": "n', Amarill"
+            },
+            {
+              "chord": "A",
+              "lyrics": "o's on my m"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Instrumental]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": ")"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 3 (key change)",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Amarill"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "o by mornin'"
+            },
+            {
+              "chord": "A",
+              "lyrics": "up from San"
+            },
+            {
+              "chord": "E",
+              "lyrics": "Antone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Everyth"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "ing that I go"
+            },
+            {
+              "chord": "A",
+              "lyrics": "t is just w"
+            },
+            {
+              "chord": "B",
+              "lyrics": "hat I've got on"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Amaj7",
+              "lyrics": "I ain't got a"
+            },
+            {
+              "chord": "B",
+              "lyrics": "dime but what I got is mine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "I ain't"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "rich but Lord"
+            },
+            {
+              "chord": "A",
+              "lyrics": "I'm free"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Amar"
+            },
+            {
+              "chord": "B",
+              "lyrics": "illo by mor"
+            },
+            {
+              "chord": "A",
+              "lyrics": "nin', Amari"
+            },
+            {
+              "chord": "B",
+              "lyrics": "llo's where"
+            },
+            {
+              "chord": "E",
+              "lyrics": "I'll be"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Amaril"
+            },
+            {
+              "chord": "B",
+              "lyrics": "lo by morni"
+            },
+            {
+              "chord": "A",
+              "lyrics": "n', Amarill"
+            },
+            {
+              "chord": "B",
+              "lyrics": "o's where I"
+            },
+            {
+              "chord": "E",
+              "lyrics": "'ll be"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": ")"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "G#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "G#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

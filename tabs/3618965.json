@@ -1,0 +1,536 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/justin-bieber/ghost-chords-3618965",
+  "title": "Ghost",
+  "artist": "Justin Bieber",
+  "key": "Bm",
+  "scrapedAt": "2025-12-10T18:43:36.032Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "|   | x2"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Youngblo"
+            },
+            {
+              "chord": "G",
+              "lyrics": "od thinks t"
+            },
+            {
+              "chord": "D",
+              "lyrics": "here's alwa"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ys tomorrow"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "I miss y"
+            },
+            {
+              "chord": "G",
+              "lyrics": "our touch o"
+            },
+            {
+              "chord": "D",
+              "lyrics": "n nights wh"
+            },
+            {
+              "chord": "A",
+              "lyrics": "en I'm hollow"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "I know y"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ou crossed"
+            },
+            {
+              "chord": "D",
+              "lyrics": "the bridge"
+            },
+            {
+              "chord": "A",
+              "lyrics": "that I can't follow"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pre-Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Since the"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "love that yo"
+            },
+            {
+              "chord": "G",
+              "lyrics": "u left is all that I get"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I want y"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ou to know t"
+            },
+            {
+              "chord": "A",
+              "lyrics": "hat"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "If I can'"
+            },
+            {
+              "chord": "G",
+              "lyrics": "t be close"
+            },
+            {
+              "chord": "D",
+              "lyrics": "to you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I'll settle for the ghost of you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "I miss y"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ou more tha"
+            },
+            {
+              "chord": "D",
+              "lyrics": "n life"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "And if yo"
+            },
+            {
+              "chord": "G",
+              "lyrics": "u can't be"
+            },
+            {
+              "chord": "D",
+              "lyrics": "next to me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Your memory is ecstasy"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "I miss yo"
+            },
+            {
+              "chord": "G",
+              "lyrics": "u more than"
+            },
+            {
+              "chord": "D",
+              "lyrics": "life"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I miss you more than life"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Youngbloo"
+            },
+            {
+              "chord": "A",
+              "lyrics": "d thinks there's always tomorrow"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "I need m"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ore time, b"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ut time can"
+            },
+            {
+              "chord": "A",
+              "lyrics": "'t be borrowed"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "I'd leav"
+            },
+            {
+              "chord": "G",
+              "lyrics": "e it all be"
+            },
+            {
+              "chord": "D",
+              "lyrics": "hind if I c"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ould follow"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pre-Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Since the"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "love that yo"
+            },
+            {
+              "chord": "G",
+              "lyrics": "u left is all that I get"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I want y"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ou to know t"
+            },
+            {
+              "chord": "A",
+              "lyrics": "hat"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "If I can'"
+            },
+            {
+              "chord": "G",
+              "lyrics": "t be close"
+            },
+            {
+              "chord": "D",
+              "lyrics": "to you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I'll settle for the ghost of you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "I miss y"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ou more tha"
+            },
+            {
+              "chord": "D",
+              "lyrics": "n life, yea"
+            },
+            {
+              "chord": "A",
+              "lyrics": "h"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "And if yo"
+            },
+            {
+              "chord": "G",
+              "lyrics": "u can't be"
+            },
+            {
+              "chord": "D",
+              "lyrics": "next to me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Your memory is ecstasy"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "I miss yo"
+            },
+            {
+              "chord": "G",
+              "lyrics": "u more than"
+            },
+            {
+              "chord": "D",
+              "lyrics": "life"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I miss you more than life"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "|   | x2"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "If I can'"
+            },
+            {
+              "chord": "G",
+              "lyrics": "t be close"
+            },
+            {
+              "chord": "D",
+              "lyrics": "to you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I'll settle for the ghost of you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "I miss y"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ou more tha"
+            },
+            {
+              "chord": "D",
+              "lyrics": "n life"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "And if yo"
+            },
+            {
+              "chord": "G",
+              "lyrics": "u can't be"
+            },
+            {
+              "chord": "D",
+              "lyrics": "next to me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Your memory is ecstasy"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "I miss yo"
+            },
+            {
+              "chord": "G",
+              "lyrics": "u more than"
+            },
+            {
+              "chord": "D",
+              "lyrics": "life"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I miss you more than life"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,415 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/jvke/golden-hour-chords-4273264",
+  "title": "Golden Hour",
+  "artist": "JVKE",
+  "key": "E",
+  "scrapedAt": "2025-12-10T18:46:13.018Z",
+  "sections": [
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F#m7",
+              "lyrics": "It was just two lovers"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Sittin' in the car,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "listening to Blonde,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Emaj7",
+              "lyrics": "fallin' for each other"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Pink and orange skies,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "feelin' super childish,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Amaj7",
+              "lyrics": "no Donald Glover"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Missed call from my mother"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#m7",
+              "lyrics": "Like, \"Where you at tonight?\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Got no alibi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pre-Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I was all alone with the"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Amaj7",
+              "lyrics": "love of my life"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Emaj7",
+              "lyrics": "She's got glitter for skin"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m7",
+              "lyrics": "My radiant beam in the night"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Emaj7",
+              "lyrics": "N.C. I don't need no light to see you"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Amaj7",
+              "lyrics": "Shine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Emaj7",
+              "lyrics": "It's your golden hour (Oh, oh)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Amaj7",
+              "lyrics": "You slow down time"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Emaj7",
+              "lyrics": "In your golde"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "n hour (Oh, oh)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F#m7",
+              "lyrics": "We were just two lovers"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Feet up on the dash, drivin'"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "nowhere fast,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Emaj7",
+              "lyrics": "burnin’ through the summer"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Radio on blast,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "make the moment last,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Amaj7",
+              "lyrics": "she got solar power"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Minutes feel like hours"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#m7",
+              "lyrics": "She knew she was the baddest"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Can you even imagine fallin' like I did?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Amaj7",
+              "lyrics": "For the love of my life"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Emaj7",
+              "lyrics": "She's got glow on her face"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m7",
+              "lyrics": "A glorious look in her eyes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Emaj7",
+              "lyrics": "My angel of light"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pre-Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I was all alone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Amaj7",
+              "lyrics": "with the love of my life"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Emaj7",
+              "lyrics": "She's got glitter for skin"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m7",
+              "lyrics": "My radiant beam in the night"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Emaj7",
+              "lyrics": "N.C. I don't need no light to see you"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Amaj7",
+              "lyrics": "Shine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Emaj7",
+              "lyrics": "It's your golden hour (Oh, oh)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Amaj7",
+              "lyrics": "You slow down time"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Emaj7",
+              "lyrics": "In your golde"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "n hour (Oh, oh)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Instrumental]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Amaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Emaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Amaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Emaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Amaj7",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

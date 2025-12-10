@@ -1,0 +1,161 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/etta-james/id-rather-go-blind-chords-629500",
+  "title": "Id Rather Go Blind",
+  "artist": "Etta James",
+  "key": "",
+  "scrapedAt": "2025-12-10T18:43:54.673Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Something"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "told me it was over"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "when I saw you and her talking,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Something deep down in my soul said, ´Cry Girl´,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "when I saw you and that girl, walking out."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "I would rather, I would rather go blind boy,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Than to see you, walk away from me child, and all."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Ooooo So you see, I love you so much"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "That I don't want to watch you leave me baby,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Most of all, I just don't, I just don't want to be free no"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "I was just, I was just, I was just sitting here thinking"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Of your kisses and your warm embrace, yeah,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "When the reflection in the glass that I held to my lips now baby,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Revealed the tears that was on my face, yeah."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "And baby, baby, I would rather be blind boy"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Than to see you walk away, see you walk away from me, yeah"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Baby, baby, baby, I'd rather be blind now"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

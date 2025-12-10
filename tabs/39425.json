@@ -1,0 +1,596 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/america/sister-golden-hair-chords-39425",
+  "title": "Sister Golden Hair",
+  "artist": "America",
+  "key": "C#m",
+  "scrapedAt": "2025-12-10T18:43:40.113Z",
+  "sections": [
+    {
+      "name": "Intro (tab relative to capo)",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "e|----"
+            },
+            {
+              "chord": "F",
+              "lyrics": "-----------"
+            },
+            {
+              "chord": "C",
+              "lyrics": "-----------"
+            },
+            {
+              "chord": "Csus4",
+              "lyrics": "-----------7~--"
+            },
+            {
+              "chord": "C",
+              "lyrics": "------|"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|----------------------------------8------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|------------------------------7/9--------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|-----------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|-----------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|-----------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": ")    e|------"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "-----8~-----"
+            },
+            {
+              "chord": "G",
+              "lyrics": "-8\\7-7~----"
+            },
+            {
+              "chord": "F",
+              "lyrics": "--7\\5-5~----------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|--------8--------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|----7/9----------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|-----------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|-----------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|-----------------------------------------------|"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Well, I t"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ried to make it Sunday, but I got so damn depressed,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "that I s"
+            },
+            {
+              "chord": "C",
+              "lyrics": "et my sight"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "s on Monday and I got myself undressed"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "I ain'"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "t ready for"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "the altar, b"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ut I do agre"
+            },
+            {
+              "chord": "F",
+              "lyrics": "e there's times,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "when a"
+            },
+            {
+              "chord": "F",
+              "lyrics": "woman sure"
+            },
+            {
+              "chord": "C",
+              "lyrics": "can be a fr"
+            },
+            {
+              "chord": "Csus4",
+              "lyrics": "iend of mine"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Well, I k"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "eep on thinkin' 'bout you, Sister Golden Hair surprise,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "and I ju"
+            },
+            {
+              "chord": "C",
+              "lyrics": "st can't li"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ve without you; can't you see it in my eyes?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "I been"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "one poor co"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "rrespondent,"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "and I been"
+            },
+            {
+              "chord": "F",
+              "lyrics": "too, too hard to find,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "but it do"
+            },
+            {
+              "chord": "F",
+              "lyrics": "esn't mean"
+            },
+            {
+              "chord": "C",
+              "lyrics": "you ain't been on my mind"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Will you"
+            },
+            {
+              "chord": "F",
+              "lyrics": "meet me in"
+            },
+            {
+              "chord": "C",
+              "lyrics": "the middle, will you meet me in the air?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Will you"
+            },
+            {
+              "chord": "F",
+              "lyrics": "love me ju"
+            },
+            {
+              "chord": "C",
+              "lyrics": "st a little, just enough to show you care?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Well I tr"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ied to fake"
+            },
+            {
+              "chord": "F",
+              "lyrics": "it, I don't mind sayin', I just can't make it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Instrumental]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Csus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "(Repeat"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "intro riff)"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 3",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Well, I k"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "eep on thinkin' 'bout you, Sister Golden Hair surprise,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "and I ju"
+            },
+            {
+              "chord": "C",
+              "lyrics": "st can't li"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ve without you; can't you see it in my eyes?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "I been"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "one poor co"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "rrespondent,"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "and I been"
+            },
+            {
+              "chord": "F",
+              "lyrics": "too, too hard to find,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "but it do"
+            },
+            {
+              "chord": "F",
+              "lyrics": "esn't mean"
+            },
+            {
+              "chord": "C",
+              "lyrics": "you ain't been on my mind"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Will you"
+            },
+            {
+              "chord": "F",
+              "lyrics": "meet me in"
+            },
+            {
+              "chord": "C",
+              "lyrics": "the middle, will you meet me in the air?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Will you"
+            },
+            {
+              "chord": "F",
+              "lyrics": "love me ju"
+            },
+            {
+              "chord": "C",
+              "lyrics": "st a little, just enough to show you care?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Well I tr"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ied to fake"
+            },
+            {
+              "chord": "F",
+              "lyrics": "it, I don't mind sayin', I just can't make it"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Doo wop"
+            },
+            {
+              "chord": "F",
+              "lyrics": "shoo wop, D"
+            },
+            {
+              "chord": "C",
+              "lyrics": "oo wop shoo wop, Doo wop shoo wop, Doo wop shoo wop"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Doo wop"
+            },
+            {
+              "chord": "F",
+              "lyrics": "shoo wop, D"
+            },
+            {
+              "chord": "C",
+              "lyrics": "oo wop shoo wop, Doo wop shoo wop, Doo wop shoo wop"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Doo wop"
+            },
+            {
+              "chord": "F",
+              "lyrics": "shoo wop, D"
+            },
+            {
+              "chord": "C",
+              "lyrics": "oo wop shoo wop, Doo wop shoo wop, Doo wop shoo wop"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Doo wop"
+            },
+            {
+              "chord": "F",
+              "lyrics": "shoo wop, D"
+            },
+            {
+              "chord": "C",
+              "lyrics": "oo wop shoo wop, Doo wop shoo wop, Doo wop shoo wop"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

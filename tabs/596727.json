@@ -1,0 +1,546 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/radiohead/let-down-chords-596727",
+  "title": "Let Down",
+  "artist": "Radiohead",
+  "key": "A",
+  "scrapedAt": "2025-12-10T18:42:10.076Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Transport"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Motorways and tramlines"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Starting and then stopping"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Takin' off and landing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "The emptiest of feelings"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Disapointed people"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Clingin' on to bottles"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "And when it comes it's so so disapointing"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Let dow"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "n and hangin' a"
+            },
+            {
+              "chord": "A",
+              "lyrics": "round"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Crushed"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "like a bug in"
+            },
+            {
+              "chord": "A",
+              "lyrics": "the ground"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Let d"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "own and hangin'"
+            },
+            {
+              "chord": "A",
+              "lyrics": "around"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Shell smashed, juices flowin'"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Wings twitch, legs are goin'"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Don't get sentimental"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "It always ends up drivel"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "One day I"
+            },
+            {
+              "chord": "E",
+              "lyrics": "am gonna grow wings"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "A chemical reaction"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Hysterical and useless"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Hysterical and"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Let dow"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "n and hangin' a"
+            },
+            {
+              "chord": "A",
+              "lyrics": "round"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Crushed"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "like a bug in"
+            },
+            {
+              "chord": "A",
+              "lyrics": "the ground"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Let do"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "wn and hangin'"
+            },
+            {
+              "chord": "A",
+              "lyrics": "around"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Asus4",
+              "lyrics": "Let down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus4",
+              "lyrics": "Let down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus4",
+              "lyrics": "Let down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus4",
+              "lyrics": "Let down"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 3",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "You know,"
+            },
+            {
+              "chord": "E",
+              "lyrics": "you know where you are with"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "You know where you are with"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Floor collapsing, fallin'"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Bouncing"
+            },
+            {
+              "chord": "E",
+              "lyrics": "back and one day"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(One day I am gonna grow wings)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "You know where you are"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(A chemical ------------ reaction)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "You know where you are"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Hysterical and ---------- useless)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You know where you are"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Hysterical and)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Let dow"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "n and hangin' a"
+            },
+            {
+              "chord": "A",
+              "lyrics": "round"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Crushed"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "like a bug in"
+            },
+            {
+              "chord": "A",
+              "lyrics": "the ground"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Let do"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "wn and hangin'"
+            },
+            {
+              "chord": "A",
+              "lyrics": "around"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Asus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

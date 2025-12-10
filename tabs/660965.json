@@ -1,0 +1,503 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/joni-mitchell/big-yellow-taxi-chords-660965",
+  "title": "Big Yellow Taxi",
+  "artist": "Joni Mitchell",
+  "key": "E",
+  "scrapedAt": "2025-12-10T18:48:27.695Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7",
+              "lyrics": ""
+            },
+            {
+              "chord": "D7",
+              "lyrics": ""
+            },
+            {
+              "chord": "D7",
+              "lyrics": ""
+            },
+            {
+              "chord": "D7",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "They pave"
+            },
+            {
+              "chord": "D",
+              "lyrics": "d paradise and put up a parking lot"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "with a p"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ink hotel,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "a boutique and a swingin' hot spot."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Don't it"
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": "always seem to go"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G/D",
+              "lyrics": "that you do"
+            },
+            {
+              "chord": "D",
+              "lyrics": "n't know what you've got till it's gone."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "They pav"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ed paradise"
+            },
+            {
+              "chord": "D",
+              "lyrics": "and put up a parking lot."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Interlude]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "They took"
+            },
+            {
+              "chord": "D",
+              "lyrics": "all the trees, put 'em in a tree museum"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "and they"
+            },
+            {
+              "chord": "A",
+              "lyrics": "charged th"
+            },
+            {
+              "chord": "D",
+              "lyrics": "e people a dollar and a half just to see 'em."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Don't it"
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": "always seem to go"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G/D",
+              "lyrics": "that you do"
+            },
+            {
+              "chord": "D",
+              "lyrics": "n't know what you've got till it's gone."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "They pav"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ed paradise"
+            },
+            {
+              "chord": "D",
+              "lyrics": "and put up a parking lot."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Interlude]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 3",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Hey farme"
+            },
+            {
+              "chord": "D",
+              "lyrics": "r, farmer, put away that D.D.T. now,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "give me"
+            },
+            {
+              "chord": "A",
+              "lyrics": "spots on my"
+            },
+            {
+              "chord": "D",
+              "lyrics": "apples but leave me the birds and the bees, please."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus 3",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Don't it"
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": "always seem to go"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G/D",
+              "lyrics": "that you do"
+            },
+            {
+              "chord": "D",
+              "lyrics": "n't know what you've got till it's gone."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "They pav"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ed paradise"
+            },
+            {
+              "chord": "D",
+              "lyrics": "and put up a parking lot."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Interlude]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 4",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Late last"
+            },
+            {
+              "chord": "D",
+              "lyrics": "night I heard the screen door slam"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "and a bi"
+            },
+            {
+              "chord": "A",
+              "lyrics": "g yellow ta"
+            },
+            {
+              "chord": "D",
+              "lyrics": "xi took away my old man"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Don't it"
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": "always seem to go"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G/D",
+              "lyrics": "that you do"
+            },
+            {
+              "chord": "D",
+              "lyrics": "n't know what you've got till it's gone."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "They pa"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ved paradis"
+            },
+            {
+              "chord": "D",
+              "lyrics": "e and put u"
+            },
+            {
+              "chord": "D",
+              "lyrics": "p a parking lot."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Don't it"
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": "always seem to go"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G/D",
+              "lyrics": "that you do"
+            },
+            {
+              "chord": "D",
+              "lyrics": "n't know what you've got till it's gone."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "They pav"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ed paradise"
+            },
+            {
+              "chord": "D",
+              "lyrics": "and put up a parking lot."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Yeah th"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ey paved pa"
+            },
+            {
+              "chord": "A",
+              "lyrics": "radise, put"
+            },
+            {
+              "chord": "D",
+              "lyrics": "up a parking lot"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I said"
+            },
+            {
+              "chord": "G",
+              "lyrics": "they paved"
+            },
+            {
+              "chord": "A",
+              "lyrics": "paradise, p"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ut up a parking lot"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

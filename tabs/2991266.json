@@ -1,0 +1,596 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/billie-eilish/no-time-to-die-chords-2991266",
+  "title": "No Time To Die",
+  "artist": "Billie Eilish",
+  "key": "Em",
+  "scrapedAt": "2025-12-10T18:44:19.455Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "|  |  |  :||"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "B7",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "I should"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "have known"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "I'd leave"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "alone"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Just goe"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "s to show"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj7",
+              "lyrics": "That the blo"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "od you bleed"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "is just the  blood  you owe"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "We were"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "a pair"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "But I sa"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "w you there"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Too  muc"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "h to bear"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj7",
+              "lyrics": "You were my"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "life, but li"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "fe is far away from fair"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pre-Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj7",
+              "lyrics": "Was I stupid to love you?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Was I reckless to help?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Was it obv"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "ious to everybody else?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "That I'd"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "fallen for a li"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "e"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "You were"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "never on my sid"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "e"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Fool me on"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "ce, fool me twice"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Are you death or paradise?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Now you'l"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "l never see me"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "cry"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B7",
+              "lyrics": "There's ju"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "st no time to die"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Interlude]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "|  |  |  :||"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "B7",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "I let it"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "burn"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "You're n"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "o longer my con"
+            },
+            {
+              "chord": "A",
+              "lyrics": "cern"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Faces fr"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "om my past retu"
+            },
+            {
+              "chord": "A",
+              "lyrics": "rn"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj7",
+              "lyrics": "Another lesso"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "n yet to learn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "That I'd"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "fallen for a li"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "e"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "You were"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "never on my sid"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "e"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Fool me on"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "ce, fool me twice"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Are you death or paradise?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Now you'l"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "l never see me"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "cry"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B7",
+              "lyrics": "There's ju"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "st no time to die"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Refrain]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj7",
+              "lyrics": "No time to d"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ie, hmmmm"
+            },
+            {
+              "chord": "B7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "No time"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "to die"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "B7",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Fool me on"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "ce, fool me twice"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Are you death or paradise?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Now you'l"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "l never see me"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "cry"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B7",
+              "lyrics": "There's j"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ust no time"
+            },
+            {
+              "chord": "Emmaj9",
+              "lyrics": "to die"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

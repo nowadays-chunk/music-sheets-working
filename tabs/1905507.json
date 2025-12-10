@@ -1,0 +1,408 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/alessia-cara/how-far-ill-go-chords-1905507",
+  "title": "How Far Ill Go",
+  "artist": "Alessia Cara",
+  "key": "C",
+  "scrapedAt": "2025-12-10T18:46:20.268Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I've been"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "staring at the edge of the water"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "'Long as I"
+            },
+            {
+              "chord": "F",
+              "lyrics": "can remember, never really knowing why"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I wish I"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "could be the perfect daughter"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "But I come"
+            },
+            {
+              "chord": "F",
+              "lyrics": "back to the water, no matter how hard I try"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Every turn I take, every trail I track"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Every path I make, every road leads back"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "To the place I know, where I can not go"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fm",
+              "lyrics": "Where I long to be"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "See the l"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ine where the sky meets the sea? It calls me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "And no one"
+            },
+            {
+              "chord": "F",
+              "lyrics": "knows, how far it goes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "If the wi"
+            },
+            {
+              "chord": "G",
+              "lyrics": "nd in my sail on the sea stays behind me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "One day I'"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "ll know, if I go there's just no telling how far I'll go"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Interlude]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I know,"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "everybody on"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "this island seems so happy on this island"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Everything is by design"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I know,"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "everybody on"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "this island has a role on this island"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "So maybe I can roll with mine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "I can lead with pride, I can make us strong"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I'll be satisfied if I play along"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "But the voice inside sings a different song"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fm",
+              "lyrics": "What is wrong with me?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "See the l"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ight as it shines on the sea? It's blinding"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "But no one"
+            },
+            {
+              "chord": "F",
+              "lyrics": "knows, how deep it goes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "And it se"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ems like it's calling out to me, so come find me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "And let me"
+            },
+            {
+              "chord": "F",
+              "lyrics": "know, what's beyond that line, will I cross that line?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus 3",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Db",
+              "lyrics": "See the li"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "ne where the sky meets the sea? It calls me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbm",
+              "lyrics": "And no one"
+            },
+            {
+              "chord": "Gb",
+              "lyrics": "knows, how far it goes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Db",
+              "lyrics": "If the win"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "d in my sail on the sea stays behind me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbm",
+              "lyrics": "One day I'l"
+            },
+            {
+              "chord": "Gbm",
+              "lyrics": "l know, how far I'll go"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Db",
+              "lyrics": "(2x)"
+            },
+            {
+              "chord": "Dbmaj7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Db",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

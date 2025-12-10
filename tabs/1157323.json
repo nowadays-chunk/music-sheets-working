@@ -1,0 +1,742 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/the-lumineers/stubborn-love-chords-1157323",
+  "title": "Stubborn Love",
+  "artist": "The Lumineers",
+  "key": "C",
+  "scrapedAt": "2025-12-10T18:48:03.135Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "x2"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cadd4",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "She'll lie"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "and steal an"
+            },
+            {
+              "chord": "Cadd4",
+              "lyrics": "d cheat, and be"
+            },
+            {
+              "chord": "C",
+              "lyrics": "g you from her knees"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "And make yo"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "u thinks she"
+            },
+            {
+              "chord": "G",
+              "lyrics": "means it t"
+            },
+            {
+              "chord": "C",
+              "lyrics": "his time"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "She'll tear"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "a hole in y"
+            },
+            {
+              "chord": "Cadd4",
+              "lyrics": "ou, the one you"
+            },
+            {
+              "chord": "C",
+              "lyrics": "can't repair"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "But I still"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "love her, I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "don't real"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ly care"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "When we wer"
+            },
+            {
+              "chord": "C",
+              "lyrics": "e young, Oh"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "Oh, we did"
+            },
+            {
+              "chord": "G",
+              "lyrics": "enough"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "When it got"
+            },
+            {
+              "chord": "C",
+              "lyrics": "cold, Ooh"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "Ooh, we bund"
+            },
+            {
+              "chord": "G",
+              "lyrics": "led up"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "I cant be"
+            },
+            {
+              "chord": "C",
+              "lyrics": "told, Ah Ah"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "It cant be"
+            },
+            {
+              "chord": "G",
+              "lyrics": "done"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "It's better"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "to feel pai"
+            },
+            {
+              "chord": "Cadd4",
+              "lyrics": "n, than nothing"
+            },
+            {
+              "chord": "C",
+              "lyrics": "at all"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "The opposit"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "e of love's"
+            },
+            {
+              "chord": "G",
+              "lyrics": "indifferenc"
+            },
+            {
+              "chord": "C",
+              "lyrics": "e"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "Pay atten"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "tion now, I'"
+            },
+            {
+              "chord": "Cadd4",
+              "lyrics": "m standing on y"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "our porch sc"
+            },
+            {
+              "chord": "G",
+              "lyrics": "reaming out"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "And I wont"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "leave until"
+            },
+            {
+              "chord": "G",
+              "lyrics": "you come do"
+            },
+            {
+              "chord": "C",
+              "lyrics": "wnstairs"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "So keep you"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "r head up, ke"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ep your lov"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "e"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "keep your h"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "ead up, my lo"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ve"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "keep your h"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "ead up, my lo"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ve"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "Keep your h"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "ead up, keep"
+            },
+            {
+              "chord": "G",
+              "lyrics": "your love"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "I don't b"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "lame ya dear"
+            },
+            {
+              "chord": "Cadd4",
+              "lyrics": "for running li"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ke you did,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "all these y"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ears"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "I would do"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "the same, yo"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ur best bel"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ieve"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "The highw"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ay signs say"
+            },
+            {
+              "chord": "Cadd4",
+              "lyrics": "we're close, b"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ut I don't r"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ead those t"
+            },
+            {
+              "chord": "C",
+              "lyrics": "hings anymore"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "I never tru"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "sted my own"
+            },
+            {
+              "chord": "G",
+              "lyrics": "eyes"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "When we wer"
+            },
+            {
+              "chord": "C",
+              "lyrics": "e young oh"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "oh, we did e"
+            },
+            {
+              "chord": "G",
+              "lyrics": "nough"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "When it got"
+            },
+            {
+              "chord": "C",
+              "lyrics": "cold, Ooh"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ooh we bundl"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ed up"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "I can't be"
+            },
+            {
+              "chord": "C",
+              "lyrics": "told, Ah a"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "h, can't be"
+            },
+            {
+              "chord": "G",
+              "lyrics": "done"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "So keep you"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "r head up, ke"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ep your lov"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "e"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "keep your h"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "ead up, my lo"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ve"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "keep your h"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "ead up, my lo"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ve"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "Keep your h"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "ead up, keep"
+            },
+            {
+              "chord": "G",
+              "lyrics": "your love"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "Head up, lo"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "ve"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "Head up, lo"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "ve"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "Head up, lo"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "ve"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "Head up, lo"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "ve"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "x2"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

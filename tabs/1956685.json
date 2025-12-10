@@ -1,0 +1,699 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/ed-sheeran/dive-chords-1956685",
+  "title": "Dive",
+  "artist": "Ed Sheeran",
+  "key": "C",
+  "scrapedAt": "2025-12-10T18:46:56.098Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "e|----"
+            },
+            {
+              "chord": "C",
+              "lyrics": "----0-x----"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "-----0-x----"
+            },
+            {
+              "chord": "F",
+              "lyrics": "-----------"
+            },
+            {
+              "chord": "G",
+              "lyrics": "-0-x-----------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|--------1-x---------1-x-----------1----1-x-----------0-x---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|--------0-x---------0-x--------0--2----2-x-----------0-x---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|--------2-x---------2-x----0h2----2----2-x-----------0-x---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|---3-----------3------------------0------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|----------------------------------------------0h1----3-x---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "x = mute"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Well maybe I came on too strong"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Maybe I w"
+            },
+            {
+              "chord": "F",
+              "lyrics": "aited too l"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ong"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Maybe I played my cards wrong, oh just a little bit wrong"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Baby I ---"
+            },
+            {
+              "chord": "F",
+              "lyrics": "apologize for it"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pre-Chorus 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "I could fall, or I could fly"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Here in your aeroplane"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "And I could live, I could die"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Hanging on the words you say"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "And I’ve been known to give my all"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "And jumping in harder than"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Ten thousand rocks on the lake"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "So don’t call me baby"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Unless you"
+            },
+            {
+              "chord": "F",
+              "lyrics": "mean it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And don’t"
+            },
+            {
+              "chord": "C",
+              "lyrics": "tell me you need me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "If you don’t believe it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "So let me"
+            },
+            {
+              "chord": "G",
+              "lyrics": "know the truth"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Before I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "dive right"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "into you"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "You’re a mystery"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "I have tr"
+            },
+            {
+              "chord": "F",
+              "lyrics": "avelled the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "world and there’s no other girl like you, no one"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "What’s your history?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Do you have a tendency to lead some people on?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "‘Cause I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "heard you do, mmm-mmm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pre-Chorus 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "I could fall, or I could fly"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Here in your aeroplane"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "And I could live, I could die"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Hanging on the words you say"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "And I’ve been known to give my all"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "And lie awake, every day"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Don't know how much I can take"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "So don’t call me baby"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Unless you"
+            },
+            {
+              "chord": "F",
+              "lyrics": "mean it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And don’t"
+            },
+            {
+              "chord": "C",
+              "lyrics": "tell me you need me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "If you don’t believe it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "So let me"
+            },
+            {
+              "chord": "G",
+              "lyrics": "know the truth"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Before I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "dive right"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "into you"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Solo",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pre-Chorus 3",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "I could fall, or I could fly"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Here in your aeroplane"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "And I could live, I could die"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Hanging on the words you say"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "And I’ve been known to give my all"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Sitting back, looking at"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Every mess that I've made"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus 3",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "So don’t call me baby"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Unless you"
+            },
+            {
+              "chord": "F",
+              "lyrics": "mean it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And don’t"
+            },
+            {
+              "chord": "C",
+              "lyrics": "tell me you need me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "If you don’t believe it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "So let me"
+            },
+            {
+              "chord": "G",
+              "lyrics": "know the truth"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Before I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "dive right"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "into you"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Before I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "dive right"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "into you"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Before I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "dive right"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "into you"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

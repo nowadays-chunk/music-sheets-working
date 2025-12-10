@@ -1,0 +1,444 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/bob-dylan/make-you-feel-my-love-chords-1189445",
+  "title": "Make You Feel My Love",
+  "artist": "Bob Dylan",
+  "key": "Db",
+  "scrapedAt": "2025-12-10T18:47:46.076Z",
+  "sections": [
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "When the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "rain is blowing in your face"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "And the wh"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ole world is on your case"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fm",
+              "lyrics": "I could of"
+            },
+            {
+              "chord": "C",
+              "lyrics": "fer you a warm embrace"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D9",
+              "lyrics": "To make y"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "ou feel my l"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ove"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "When even"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ing shadows and the stars appear"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "And there"
+            },
+            {
+              "chord": "F",
+              "lyrics": "is no one there to dry your tears"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fm",
+              "lyrics": "I could ho"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ld you for a million years"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D9",
+              "lyrics": "To make y"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "ou feel my l"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ove"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "I know yo"
+            },
+            {
+              "chord": "C",
+              "lyrics": "u haven't made your mind up yet"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E7",
+              "lyrics": "But I wou"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ld never do"
+            },
+            {
+              "chord": "C",
+              "lyrics": "you wrong"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "I've know"
+            },
+            {
+              "chord": "C",
+              "lyrics": "n it from the moment that we met"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D9",
+              "lyrics": "No doubt i"
+            },
+            {
+              "chord": "G",
+              "lyrics": "n my mind where you belong"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 3",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I'd go hu"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ngry, I'd go black and blue"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "I'd go cra"
+            },
+            {
+              "chord": "F",
+              "lyrics": "wling down the avenue"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fm",
+              "lyrics": "No there's"
+            },
+            {
+              "chord": "C",
+              "lyrics": "nothing that I wouldn't do"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D9",
+              "lyrics": "To make y"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "ou feel my l"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ove"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Instrumental]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bb",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "Fm",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "D9",
+              "lyrics": ""
+            },
+            {
+              "chord": "G7",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "The storm"
+            },
+            {
+              "chord": "C",
+              "lyrics": "s are raging on the rollin' sea"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E7",
+              "lyrics": "And on th"
+            },
+            {
+              "chord": "F",
+              "lyrics": "e highway o"
+            },
+            {
+              "chord": "C",
+              "lyrics": "f regret"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "The winds"
+            },
+            {
+              "chord": "C",
+              "lyrics": "of change are blowing wild and free"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D9",
+              "lyrics": "You ain't"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "seen nothing like me yet"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 4",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I could m"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ake you happy, make your dreams come true"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "Nothing th"
+            },
+            {
+              "chord": "F",
+              "lyrics": "at I wouldn't do"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fm",
+              "lyrics": "Go to the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ends of the earth for you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D9",
+              "lyrics": "To make y"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "ou feel my l"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ove"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "(F"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ade)"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "Fm",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "D9",
+              "lyrics": ""
+            },
+            {
+              "chord": "G7",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

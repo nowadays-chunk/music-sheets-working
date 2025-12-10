@@ -1,0 +1,668 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/the-who/behind-blue-eyes-chords-90958",
+  "title": "Behind Blue Eyes",
+  "artist": "The Who",
+  "key": "",
+  "scrapedAt": "2025-12-10T18:47:15.925Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Esus4",
+              "lyrics": "(arpeggiated)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "No one kno"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ws what it's like"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "to be the"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "bad man"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9",
+              "lyrics": "to be the sad man"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus2",
+              "lyrics": "behind blue eyes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "No one kno"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ws what it's like"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "to be hat"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "ed"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9",
+              "lyrics": "to be fated"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus2",
+              "lyrics": "to telling only lies"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "But my dr"
+            },
+            {
+              "chord": "D",
+              "lyrics": "eams"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "they aren't as empty"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "as my co"
+            },
+            {
+              "chord": "D",
+              "lyrics": "nscience se"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ems to be"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bsus2",
+              "lyrics": "I have hours,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "only lonely"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "my love is vengeance"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus2",
+              "lyrics": "that's never free"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "No one kno"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ws what it's like"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "to feel t"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "hese feelings"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9",
+              "lyrics": "like I do"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus2",
+              "lyrics": "and I blame you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "No one bit"
+            },
+            {
+              "chord": "G",
+              "lyrics": "es back as hard"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "on their"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "anger"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9",
+              "lyrics": "none of my pain and woe"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus2",
+              "lyrics": "can show through"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "But my dr"
+            },
+            {
+              "chord": "D",
+              "lyrics": "eams"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "they aren't as empty"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "as my co"
+            },
+            {
+              "chord": "D",
+              "lyrics": "nscience se"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ems to be"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bsus2",
+              "lyrics": "I have hours,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "only lonely"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "my love is vengeance"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus2",
+              "lyrics": "that's never free"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bsus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "When my"
+            },
+            {
+              "chord": "Bsus2",
+              "lyrics": "fist clenches,"
+            },
+            {
+              "chord": "A",
+              "lyrics": "crack it o"
+            },
+            {
+              "chord": "E",
+              "lyrics": "pen"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Before"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "I use it and"
+            },
+            {
+              "chord": "G",
+              "lyrics": "lose my co"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ol"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bsus2",
+              "lyrics": "When I smile"
+            },
+            {
+              "chord": "A",
+              "lyrics": ", tell me s"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ome bad news"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Before"
+            },
+            {
+              "chord": "A",
+              "lyrics": "I laugh and"
+            },
+            {
+              "chord": "E",
+              "lyrics": "act like a"
+            },
+            {
+              "chord": "Bsus2",
+              "lyrics": "fool"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "And if"
+            },
+            {
+              "chord": "Bsus2",
+              "lyrics": "I swallow anyth"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ing evil"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Put you"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "r finger dow"
+            },
+            {
+              "chord": "G",
+              "lyrics": "n my throat"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bsus2",
+              "lyrics": "And if I shi"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ver, please"
+            },
+            {
+              "chord": "D",
+              "lyrics": "give me a blanket"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Keep me"
+            },
+            {
+              "chord": "A",
+              "lyrics": "warm, let"
+            },
+            {
+              "chord": "E",
+              "lyrics": "me wear you"
+            },
+            {
+              "chord": "Bsus2",
+              "lyrics": "r coat"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Instrumental]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bsus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bsus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bsus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bsus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bsus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bsus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bsus2",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "No one kno"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ws what it's like"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "to be the"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "bad man"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9",
+              "lyrics": "to be the sad man"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus2",
+              "lyrics": "behind blue eyes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "-----------------------------------------------------"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Transcribed by: Ian C.T. vom Saal"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "-----------------------------------------------------"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

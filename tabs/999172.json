@@ -1,0 +1,886 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/taylor-swift/enchanted-chords-999172",
+  "title": "Enchanted",
+  "artist": "Taylor Swift",
+  "key": "Ab",
+  "scrapedAt": "2025-12-10T18:45:56.105Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "There I was again tonight"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Forcing laughter, faking smiles"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Same old"
+            },
+            {
+              "chord": "G",
+              "lyrics": "tired, lonely place"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Walls of insincerity"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Shifting eyes and vacancy"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Vanished"
+            },
+            {
+              "chord": "G",
+              "lyrics": "when I saw your face"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "All I ca"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "n say is, it"
+            },
+            {
+              "chord": "D",
+              "lyrics": "was enchanting to meet you"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Your eyes whispered 'have we met?'"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Crossed the room, your silhouette"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Starts to"
+            },
+            {
+              "chord": "G",
+              "lyrics": "make its way to me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "The playful conversation starts"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Counter all your quick remarks"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Like pass"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ing notes in secrecy"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "And it w"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "as enchantin"
+            },
+            {
+              "chord": "D",
+              "lyrics": "g to meet you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "All I ca"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "n say is, I"
+            },
+            {
+              "chord": "D",
+              "lyrics": "was enchanted to meet you"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "This nigh"
+            },
+            {
+              "chord": "G",
+              "lyrics": "t is sparkling"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Don't you"
+            },
+            {
+              "chord": "C",
+              "lyrics": "let it go"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I'm wonderstruck"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Blushing"
+            },
+            {
+              "chord": "C",
+              "lyrics": "all the way home"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I'll spe"
+            },
+            {
+              "chord": "D",
+              "lyrics": "nd forever"
+            },
+            {
+              "chord": "C",
+              "lyrics": "wondering if you knew"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "I was enc"
+            },
+            {
+              "chord": "D",
+              "lyrics": "hanted to m"
+            },
+            {
+              "chord": "G",
+              "lyrics": "eet you-ou-ou"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 3",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "The lingering question kept me up"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "2 AM, who do you love?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I wonder"
+            },
+            {
+              "chord": "G",
+              "lyrics": "till I'm wide awake"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And now I'm pacing back and forth"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Wishing you were at my door"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I'd open"
+            },
+            {
+              "chord": "G",
+              "lyrics": "up and you would say 'hey'"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "It was e"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "nchanting to"
+            },
+            {
+              "chord": "D",
+              "lyrics": "meet you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "All I kn"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ow is I was"
+            },
+            {
+              "chord": "D",
+              "lyrics": "enchanted to meet you"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "This nigh"
+            },
+            {
+              "chord": "G",
+              "lyrics": "t is sparkling"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Don't you"
+            },
+            {
+              "chord": "C",
+              "lyrics": "let it go"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I'm wonderstruck"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Blushing"
+            },
+            {
+              "chord": "C",
+              "lyrics": "all the way home"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I'll spe"
+            },
+            {
+              "chord": "D",
+              "lyrics": "nd forever"
+            },
+            {
+              "chord": "C",
+              "lyrics": "wondering if you knew"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "This nigh"
+            },
+            {
+              "chord": "G",
+              "lyrics": "t is flawless"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Don't you"
+            },
+            {
+              "chord": "C",
+              "lyrics": "let it go"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I'm wonderstruck"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Dancing a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "round all alone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I'll spe"
+            },
+            {
+              "chord": "D",
+              "lyrics": "nd forever"
+            },
+            {
+              "chord": "C",
+              "lyrics": "wondering if you knew"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "I was ench"
+            },
+            {
+              "chord": "D",
+              "lyrics": "anted to meet you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Instrumental]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "This is"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "me praying"
+            },
+            {
+              "chord": "C",
+              "lyrics": "that"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "This was the very first page"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Not where"
+            },
+            {
+              "chord": "D",
+              "lyrics": "the storyline ends"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "My thoughts will echo your name"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Until I se"
+            },
+            {
+              "chord": "D",
+              "lyrics": "e you again"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "These ar"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "e the words"
+            },
+            {
+              "chord": "D",
+              "lyrics": "I held back as I was leaving too soon"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I was en"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "chanted to m"
+            },
+            {
+              "chord": "Dadd4/F#",
+              "lyrics": "eet you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Please, d"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "on't be in love with someone else"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Please, d"
+            },
+            {
+              "chord": "G",
+              "lyrics": "on't have somebody waiting on you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Please, d"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "on't be in love with someone else"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Please, d"
+            },
+            {
+              "chord": "G",
+              "lyrics": "on't have somebody waiting on you"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "This nigh"
+            },
+            {
+              "chord": "G",
+              "lyrics": "t is sparkling"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Don't you"
+            },
+            {
+              "chord": "C",
+              "lyrics": "let it go"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I'm wonderstruck"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Blushing"
+            },
+            {
+              "chord": "C",
+              "lyrics": "all the way home"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I'll spe"
+            },
+            {
+              "chord": "D",
+              "lyrics": "nd forever"
+            },
+            {
+              "chord": "C",
+              "lyrics": "wondering if you knew"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "This nigh"
+            },
+            {
+              "chord": "G",
+              "lyrics": "t is flawless"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Don't you"
+            },
+            {
+              "chord": "C",
+              "lyrics": "let it go"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I'm wonderstruck"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Dancing a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "round all alone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I'll spe"
+            },
+            {
+              "chord": "D",
+              "lyrics": "nd forever"
+            },
+            {
+              "chord": "C",
+              "lyrics": "wondering if you knew"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "I was ench"
+            },
+            {
+              "chord": "D",
+              "lyrics": "anted to meet you"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Please, d"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "on't be in love with someone else"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Please, d"
+            },
+            {
+              "chord": "G",
+              "lyrics": "on't have somebody waiting on you"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

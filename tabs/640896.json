@@ -1,0 +1,650 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/nena/99-luftballons-chords-640896",
+  "title": "99 Luftballons",
+  "artist": "Nena",
+  "key": "E",
+  "scrapedAt": "2025-12-10T18:48:23.061Z",
+  "sections": [
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Hast du"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "etwas Zeit"
+            },
+            {
+              "chord": "G",
+              "lyrics": "für mich? D"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ann singe ich ein Lied für dich"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "von neu"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "nundneunzig"
+            },
+            {
+              "chord": "G",
+              "lyrics": "Luftballons"
+            },
+            {
+              "chord": "A",
+              "lyrics": "auf ihrem Weg zum Horizont"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Denkst"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "du vielleich"
+            },
+            {
+              "chord": "G",
+              "lyrics": "t g'rad' an"
+            },
+            {
+              "chord": "A",
+              "lyrics": "mich, dann singe ich ein Lied für dich"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "von neu"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "nundneunzig"
+            },
+            {
+              "chord": "G",
+              "lyrics": "Luftballons"
+            },
+            {
+              "chord": "A",
+              "lyrics": "und dass sowas von sowas kommt..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Instrumental]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "|  |  |  | x"
+            },
+            {
+              "chord": "D",
+              "lyrics": "2"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "|  |  |  | x"
+            },
+            {
+              "chord": "D",
+              "lyrics": "4"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Neunund"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "neunzig Luft"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ballons auf"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ihrem Weg zum Horizont"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "hielt m"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "an für UFOs"
+            },
+            {
+              "chord": "G",
+              "lyrics": "aus dem All"
+            },
+            {
+              "chord": "A",
+              "lyrics": ". Darum schickte ein General"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "'ne Fli"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "egerstaffel"
+            },
+            {
+              "chord": "G",
+              "lyrics": "hinterher,"
+            },
+            {
+              "chord": "A",
+              "lyrics": "Alarm zu geben, wenn's so wär"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Dabei w"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ar'n da am H"
+            },
+            {
+              "chord": "G",
+              "lyrics": "orizont nur"
+            },
+            {
+              "chord": "A",
+              "lyrics": "neunundneunzig Luftballons"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Riff]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "|  |  |  | x"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "2"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 3",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Neunund"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "neunzig Düse"
+            },
+            {
+              "chord": "G",
+              "lyrics": "nflieger, j"
+            },
+            {
+              "chord": "A",
+              "lyrics": "eder war ein großer Krieger"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Hielten"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "sich für Ca"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ptain Kirk,"
+            },
+            {
+              "chord": "A",
+              "lyrics": "das gab ein großes Feuerwerk"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Die Nac"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "hbarn haben"
+            },
+            {
+              "chord": "G",
+              "lyrics": "nichts gera"
+            },
+            {
+              "chord": "A",
+              "lyrics": "fft und fühlten sich gleich angemacht"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Dabei s"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "choss man am"
+            },
+            {
+              "chord": "G",
+              "lyrics": "Horizont a"
+            },
+            {
+              "chord": "A",
+              "lyrics": "uf neunundneunzig Luftballons"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Instrumental]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "|  |  |  | x"
+            },
+            {
+              "chord": "D",
+              "lyrics": "2"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "|  |  |  | x"
+            },
+            {
+              "chord": "D",
+              "lyrics": "4"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 4",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Neunund"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "neunzig Krie"
+            },
+            {
+              "chord": "G",
+              "lyrics": "gsminister"
+            },
+            {
+              "chord": "A",
+              "lyrics": "- Streichholz und Benzinkanister -"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Hielten"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "sich für sc"
+            },
+            {
+              "chord": "G",
+              "lyrics": "hlaue Leute"
+            },
+            {
+              "chord": "A",
+              "lyrics": ", witterten schon fette Beute"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Riefen"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "\"Krieg\" und"
+            },
+            {
+              "chord": "G",
+              "lyrics": "wollten Mac"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ht. Mann, wer hätte das gedacht"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Dass es"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "einmal sowe"
+            },
+            {
+              "chord": "G",
+              "lyrics": "it kommt we"
+            },
+            {
+              "chord": "A",
+              "lyrics": "gen neunundneunzig Luftballons"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Break]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Wegen n"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "eunundneunzi"
+            },
+            {
+              "chord": "G",
+              "lyrics": "g Luftballo"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ns"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "neunund"
+            },
+            {
+              "chord": "D",
+              "lyrics": "neunzig Luf"
+            },
+            {
+              "chord": "D",
+              "lyrics": "tballons"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "N.C."
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 5",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Neunund"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "neunzig Jahr"
+            },
+            {
+              "chord": "G",
+              "lyrics": "e Krieg lie"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ßen keinen Platz für Sieger"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Kriegsm"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "inister gibt"
+            },
+            {
+              "chord": "G",
+              "lyrics": "'s nicht me"
+            },
+            {
+              "chord": "A",
+              "lyrics": "hr und auch keine Düsenflieger"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Heute z"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ieh' ich mei"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ne Runden,"
+            },
+            {
+              "chord": "A",
+              "lyrics": "seh' die Welt in Trümmern liegen"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Hab' 'n"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "en Luftballo"
+            },
+            {
+              "chord": "G",
+              "lyrics": "n gefunden,"
+            },
+            {
+              "chord": "A",
+              "lyrics": "denk' an dich und lass' ihn fliegen..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

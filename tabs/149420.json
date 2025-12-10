@@ -1,0 +1,276 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/misc-christmas/away-in-a-manger-chords-149420",
+  "title": "Away In A Manger",
+  "artist": "Misc Christmas",
+  "key": "G",
+  "scrapedAt": "2025-12-10T18:43:20.207Z",
+  "sections": [
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Away in"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "a manger, n"
+            },
+            {
+              "chord": "C",
+              "lyrics": "o crib for"
+            },
+            {
+              "chord": "G",
+              "lyrics": "a bed,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "The lit"
+            },
+            {
+              "chord": "D",
+              "lyrics": "tle Lord Je"
+            },
+            {
+              "chord": "C",
+              "lyrics": "sus, lay do"
+            },
+            {
+              "chord": "G",
+              "lyrics": "wn his sweet head."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "The sta"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "rs in the br"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ight sky, l"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ooked down where he lay"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7",
+              "lyrics": "The lit"
+            },
+            {
+              "chord": "G",
+              "lyrics": "tle Lord Je"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "sus, asleep"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "on the hay."
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "The cat"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "tle are lowi"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ng, the bab"
+            },
+            {
+              "chord": "G",
+              "lyrics": "y awakes;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "But lit"
+            },
+            {
+              "chord": "D",
+              "lyrics": "tle Lord Je"
+            },
+            {
+              "chord": "C",
+              "lyrics": "sus, no cry"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ing he makes."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I love"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "thee, Lord J"
+            },
+            {
+              "chord": "C",
+              "lyrics": "esus, look"
+            },
+            {
+              "chord": "G",
+              "lyrics": "down from the sky,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7",
+              "lyrics": "And sta"
+            },
+            {
+              "chord": "G",
+              "lyrics": "y by my bed"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "side, till m"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "orning is ni"
+            },
+            {
+              "chord": "G",
+              "lyrics": "gh."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 3",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Be near"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "me Lord Jes"
+            },
+            {
+              "chord": "C",
+              "lyrics": "us, I ask t"
+            },
+            {
+              "chord": "G",
+              "lyrics": "hee to stay,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Close b"
+            },
+            {
+              "chord": "D",
+              "lyrics": "y me foreve"
+            },
+            {
+              "chord": "C",
+              "lyrics": "r, and love"
+            },
+            {
+              "chord": "G",
+              "lyrics": "me I pray."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Bless a"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "ll the dear"
+            },
+            {
+              "chord": "C",
+              "lyrics": "children, i"
+            },
+            {
+              "chord": "G",
+              "lyrics": "n thy tender care,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7",
+              "lyrics": "And fit"
+            },
+            {
+              "chord": "G",
+              "lyrics": "us for hea"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ven, to live"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "with thee t"
+            },
+            {
+              "chord": "G",
+              "lyrics": "here."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

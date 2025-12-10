@@ -1,0 +1,254 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/john-chamling-rai/vanana-matra-chords-5471724",
+  "title": "Vanana Matra",
+  "artist": "John Chamling Rai",
+  "key": "",
+  "scrapedAt": "2025-12-10T18:46:38.092Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "Raa paa ri raaaa raaaa"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#m",
+              "lyrics": "Raa paa ri"
+            },
+            {
+              "chord": "E",
+              "lyrics": "raaaa raaa"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "a"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "Bhana na, matra ma garidiula"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#m",
+              "lyrics": "Timrai hun"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ma ta, tim"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "rai rahula maya"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "Dherai tada chu ma, ta birseko chuina"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#m",
+              "lyrics": "Hridaya mai chau ta,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Timi nai,"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "aru hoina"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C#m7",
+              "lyrics": "Dhatna maan"
+            },
+            {
+              "chord": "D#m7",
+              "lyrics": "kehi chaina t"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "imilai"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "Kehi pani"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "Hawa jhai udi yaha aaideuna"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#m",
+              "lyrics": "Etai rakhc"
+            },
+            {
+              "chord": "E",
+              "lyrics": "hu la, Jana"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "dinna maya"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m7",
+              "lyrics": "Kati kati g"
+            },
+            {
+              "chord": "D#m7",
+              "lyrics": "aro rahecha"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "Timi bina yaha"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Bmaj7",
+              "lyrics": "Aakha ka prat"
+            },
+            {
+              "chord": "C#m7",
+              "lyrics": "ikshya timi"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#m7",
+              "lyrics": "Timi nai hau"
+            },
+            {
+              "chord": "F#",
+              "lyrics": ", chaina kohi pani"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bmaj7",
+              "lyrics": "Bhuldina, bhu"
+            },
+            {
+              "chord": "G#m7",
+              "lyrics": "lna sakdina"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Yi sabda"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "sabdama, timi chau jasto lagcha"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "Raa paa ri raaaa raaaa"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#m",
+              "lyrics": "Raa paa ri"
+            },
+            {
+              "chord": "E",
+              "lyrics": "raaaa raaa"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "a"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

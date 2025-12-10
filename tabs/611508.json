@@ -1,0 +1,401 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/jeff-buckley/lilac-wine-chords-611508",
+  "title": "Lilac Wine",
+  "artist": "Jeff Buckley",
+  "key": "",
+  "scrapedAt": "2025-12-10T18:47:01.034Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "I lost myself on a cool damp night"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Gave myself in that misty light"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B7",
+              "lyrics": "Was hypnot"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ized by a strange delight"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B7",
+              "lyrics": "Under a li"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "lac tree"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "I made wine from the lilac tree"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Put my heart in its recipe"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "It makes me see what I want to see..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B7",
+              "lyrics": "And be wha"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "t I want to be"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ddim",
+              "lyrics": "When I think"
+            },
+            {
+              "chord": "A",
+              "lyrics": "more than I want to think"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Do things"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "I never should do"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ddim",
+              "lyrics": "I drink much"
+            },
+            {
+              "chord": "A",
+              "lyrics": "more than I ought to drink"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Because i"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "t brings me"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "back you..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Instrumental]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "E7",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Lilac"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "wine is swe"
+            },
+            {
+              "chord": "A",
+              "lyrics": "et and head"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "y, like my l"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ove"
+            },
+            {
+              "chord": "E7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Lila"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "c wine, I fe"
+            },
+            {
+              "chord": "E",
+              "lyrics": "el unsteady"
+            },
+            {
+              "chord": "A",
+              "lyrics": ", like my l"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ove"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Listen to"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "me... I cannot see clearly"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B7",
+              "lyrics": "Isn't tha"
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": "t she coming t"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "o me nearly here?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Lilac"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "wine is swe"
+            },
+            {
+              "chord": "A",
+              "lyrics": "et and head"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "y, where's m"
+            },
+            {
+              "chord": "E",
+              "lyrics": "y love?"
+            },
+            {
+              "chord": "E7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Lila"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "c wine, I fe"
+            },
+            {
+              "chord": "E",
+              "lyrics": "el unsteady"
+            },
+            {
+              "chord": "A",
+              "lyrics": ", where's m"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "y love"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Listen to"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "me, why is everything so hazy?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B7",
+              "lyrics": "Isnt that"
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": "she, or am I"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "just going crazy, dear?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Lilac"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "wine, I fee"
+            },
+            {
+              "chord": "A",
+              "lyrics": "l unready,"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "for my love"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "E7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I feel"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "unready for"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "my love..."
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

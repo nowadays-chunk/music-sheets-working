@@ -1,0 +1,978 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/pnk/what-about-us-chords-2105955",
+  "title": "What About Us",
+  "artist": "P!nk",
+  "key": "Fm",
+  "scrapedAt": "2025-12-10T18:46:43.209Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "Emadd9",
+              "lyrics": "e|3--3--2--2--0-"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "--|0--0-----"
+            },
+            {
+              "chord": "C",
+              "lyrics": "-------|---"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "-------------|-"
+            },
+            {
+              "chord": "C",
+              "lyrics": "-----------"
+            },
+            {
+              "chord": "G",
+              "lyrics": "----|"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|--------------0-|------3--3--1---|0--0--1--1--0---|0--0--1--1--0---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|----------------|--------------0-|--------------0-|--------------0-|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|----------------|----------------|----------------|----------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|----------------|3---------------|----------------|----------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|0---------------|----------------|3---------------|3---------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "La da da da da"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "La da da da da"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Da da da"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "We are"
+            },
+            {
+              "chord": "C",
+              "lyrics": "searchlight"
+            },
+            {
+              "chord": "G",
+              "lyrics": "s, we can s"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "ee in the dark"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "We are"
+            },
+            {
+              "chord": "C",
+              "lyrics": "rockets, po"
+            },
+            {
+              "chord": "G",
+              "lyrics": "inting up a"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "t the stars"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "We are"
+            },
+            {
+              "chord": "C",
+              "lyrics": "billions of"
+            },
+            {
+              "chord": "G",
+              "lyrics": "beautiful"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "hearts"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "And you"
+            },
+            {
+              "chord": "C",
+              "lyrics": "sold us do"
+            },
+            {
+              "chord": "G",
+              "lyrics": "wn the rive"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "r too far"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "What about us?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "What ab"
+            },
+            {
+              "chord": "G",
+              "lyrics": "out all the"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "times you said"
+            },
+            {
+              "chord": "G",
+              "lyrics": "you had the answers?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "What about us?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "What ab"
+            },
+            {
+              "chord": "G",
+              "lyrics": "out all the"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "broken happy e"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ver afters?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "What about us?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "What ab"
+            },
+            {
+              "chord": "G",
+              "lyrics": "out all the"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "plans that end"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ed in disaster?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "What about"
+            },
+            {
+              "chord": "C",
+              "lyrics": "love? What about trust?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "What abo"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "ut us?"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "We are"
+            },
+            {
+              "chord": "C",
+              "lyrics": "problems th"
+            },
+            {
+              "chord": "G",
+              "lyrics": "at want to"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "be solved"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "We are"
+            },
+            {
+              "chord": "C",
+              "lyrics": "children th"
+            },
+            {
+              "chord": "G",
+              "lyrics": "at need to"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "be loved"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "We were"
+            },
+            {
+              "chord": "C",
+              "lyrics": "willing, w"
+            },
+            {
+              "chord": "G",
+              "lyrics": "e came when"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "you called"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "But man"
+            },
+            {
+              "chord": "C",
+              "lyrics": ", you foole"
+            },
+            {
+              "chord": "G",
+              "lyrics": "d us, enoug"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "h is enough, oh"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "What about us?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "What ab"
+            },
+            {
+              "chord": "G",
+              "lyrics": "out all the"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "times you said"
+            },
+            {
+              "chord": "G",
+              "lyrics": "you had the answers?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "What about us?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "What ab"
+            },
+            {
+              "chord": "G",
+              "lyrics": "out all the"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "broken happy e"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ver afters?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "What about us?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "What ab"
+            },
+            {
+              "chord": "G",
+              "lyrics": "out all the"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "plans that end"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ed in disaster?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "What about"
+            },
+            {
+              "chord": "C",
+              "lyrics": "love? What about trust?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "What abo"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "ut us?"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Break]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "What about us?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "What ab"
+            },
+            {
+              "chord": "G",
+              "lyrics": "out all the"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "plans that end"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ed in disaster?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "What about"
+            },
+            {
+              "chord": "C",
+              "lyrics": "love? What about trust?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "What abo"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "ut us?"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Sticks and"
+            },
+            {
+              "chord": "C",
+              "lyrics": "stones they may break these bones"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "But then"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "I'll be ready,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "are you ready?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "It's the s"
+            },
+            {
+              "chord": "C",
+              "lyrics": "tart of us, waking up come on"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Are you"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "ready? I'll be"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ready"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "I don't wa"
+            },
+            {
+              "chord": "C",
+              "lyrics": "nt control, I want to let go"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Are you"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "ready? I'll be"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ready"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "'Cause now"
+            },
+            {
+              "chord": "C",
+              "lyrics": "it's time to let them know"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "We are r"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "eady, what abou"
+            },
+            {
+              "chord": "G",
+              "lyrics": "t us?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "What about us?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "What ab"
+            },
+            {
+              "chord": "G",
+              "lyrics": "out all the"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "times you said"
+            },
+            {
+              "chord": "G",
+              "lyrics": "you had the answers?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "What about us?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "What ab"
+            },
+            {
+              "chord": "G",
+              "lyrics": "out all the"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "broken happy e"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ver afters?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "What about us?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "What ab"
+            },
+            {
+              "chord": "G",
+              "lyrics": "out all the"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "plans that end"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ed in disaster?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "What about"
+            },
+            {
+              "chord": "C",
+              "lyrics": "love? What about trust?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "What abo"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "ut us?"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "What about us?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "What about us?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "What about us?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "What about us?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "What about us?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "What about us?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

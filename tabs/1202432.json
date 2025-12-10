@@ -1,0 +1,572 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/nirvana/come-as-you-are-chords-1202432",
+  "title": "Come As You Are",
+  "artist": "Nirvana",
+  "key": "",
+  "scrapedAt": "2025-12-10T18:47:12.552Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|-----------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|-----------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F|-----------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C|-----------------------------------| x4, only play one 0 at the beginning on repeats"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|-----------0---0---------2-------2-|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|-0-0-1-2-----2---2-2-1-0---0-0-----|"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Come as"
+            },
+            {
+              "chord": "E",
+              "lyrics": "you are, as"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "you were, as"
+            },
+            {
+              "chord": "E",
+              "lyrics": "I want you"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "to be"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "As a fr"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "iend, as a fr"
+            },
+            {
+              "chord": "E",
+              "lyrics": "iend, as an"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "old enemy"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Take yo"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "ur time, hurr"
+            },
+            {
+              "chord": "E",
+              "lyrics": "y up, the c"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "hoice is yours - don't be late"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Take a"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "rest, as a f"
+            },
+            {
+              "chord": "E",
+              "lyrics": "riend, as a"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "n old memoria"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Interlude]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Memoria"
+            },
+            {
+              "chord": "A",
+              "lyrics": "Memoria Me"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "moria"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Come dow"
+            },
+            {
+              "chord": "E",
+              "lyrics": "sed in mud,"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "soaked in bl"
+            },
+            {
+              "chord": "E",
+              "lyrics": "each, as I"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "want you to be"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "As a t"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "rend, as a fr"
+            },
+            {
+              "chord": "E",
+              "lyrics": "iend, as an"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "old memoria"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Interlude]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Memoria"
+            },
+            {
+              "chord": "A",
+              "lyrics": "Memoria Me"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "moria"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "And I s"
+            },
+            {
+              "chord": "D",
+              "lyrics": "wear that I"
+            },
+            {
+              "chord": "B",
+              "lyrics": "don't have"
+            },
+            {
+              "chord": "D",
+              "lyrics": "a gun"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "No, I d"
+            },
+            {
+              "chord": "D",
+              "lyrics": "on't have a"
+            },
+            {
+              "chord": "B",
+              "lyrics": "gun - No,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "I don't have a gun"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "x2"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Solo",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "x8 (or play"
+            },
+            {
+              "chord": "E",
+              "lyrics": "riff)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Interlude]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "ria M"
+            },
+            {
+              "chord": "A",
+              "lyrics": "emoria Memo"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "ria Memoria"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "And I s"
+            },
+            {
+              "chord": "D",
+              "lyrics": "wear that I"
+            },
+            {
+              "chord": "B",
+              "lyrics": "don't have"
+            },
+            {
+              "chord": "D",
+              "lyrics": "a gun"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "No, I d"
+            },
+            {
+              "chord": "D",
+              "lyrics": "on't have a"
+            },
+            {
+              "chord": "B",
+              "lyrics": "gun - No,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "I don't have a gun"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "No, I d"
+            },
+            {
+              "chord": "D",
+              "lyrics": "on't have a"
+            },
+            {
+              "chord": "B",
+              "lyrics": "gun - No,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "I don't have a gun"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|-----------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|-----------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F|-----------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C|-----------------------------------| x4, only play one 0 at the beginning on repeats"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|-----------0---0---------2-------2-|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|-0-0-1-2-----2---2-2-1-0---0-0-----|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Add"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|---------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|---------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F|---------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C|---------------------| to end"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|---------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|-0-1-2---------------|"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

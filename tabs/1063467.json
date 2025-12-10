@@ -1,0 +1,784 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/matchbox-twenty/3am-chords-1063467",
+  "title": "3Am",
+  "artist": "Matchbox Twenty",
+  "key": "Ab",
+  "scrapedAt": "2025-12-10T18:46:48.678Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "e|-----"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "---------------"
+            },
+            {
+              "chord": "G",
+              "lyrics": "-----------"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "-----------------3--------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|---------------------------------------------------3-----|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|-------------------------0----------------------------2--|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|---------------------0h2---------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|---------------------------------------------------------| h = Hammer-on"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|---------------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "x4"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "She s"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "ays it's cold o"
+            },
+            {
+              "chord": "G",
+              "lyrics": "utside and"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "hands me her ra"
+            },
+            {
+              "chord": "G",
+              "lyrics": "incoat"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "She's"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "always worried"
+            },
+            {
+              "chord": "G",
+              "lyrics": "about thin"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "gs like that"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Well,"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "she says it's"
+            },
+            {
+              "chord": "G",
+              "lyrics": "all gonna e"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "nd and it might"
+            },
+            {
+              "chord": "G",
+              "lyrics": "as well be"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "my fault"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "And she o"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "nly sleeps while it's raining"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "And she s"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "creams and her voice is straining"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "She says"
+            },
+            {
+              "chord": "D",
+              "lyrics": "baby"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "It's 3"
+            },
+            {
+              "chord": "G",
+              "lyrics": "AM, I must"
+            },
+            {
+              "chord": "D",
+              "lyrics": "be lonely"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "And she"
+            },
+            {
+              "chord": "G",
+              "lyrics": "says baby"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Well, I"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "can't help b"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ut be scared of it all sometimes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9",
+              "lyrics": "And the rain's gonna wash away, I believe it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Interlude]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "x4"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "She's"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "got a little b"
+            },
+            {
+              "chord": "G",
+              "lyrics": "it of somet"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "hing, God it's"
+            },
+            {
+              "chord": "G",
+              "lyrics": "better than"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "nothing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "And i"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "n her color por"
+            },
+            {
+              "chord": "G",
+              "lyrics": "trait world"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "she believes t"
+            },
+            {
+              "chord": "G",
+              "lyrics": "hat she's g"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "ot it all"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "And s"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "he swears that"
+            },
+            {
+              "chord": "G",
+              "lyrics": "the moon do"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "n't hang quite"
+            },
+            {
+              "chord": "G",
+              "lyrics": "as high as"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "it used to"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "And she o"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "nly sleeps when it's raining"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "And she s"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "creams, and her voice is straining"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And she"
+            },
+            {
+              "chord": "D",
+              "lyrics": "says baby"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "It's 3"
+            },
+            {
+              "chord": "G",
+              "lyrics": "AM, I must"
+            },
+            {
+              "chord": "D",
+              "lyrics": "be lonely"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Well, h"
+            },
+            {
+              "chord": "G",
+              "lyrics": "eaven she s"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ays baby"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Well, I"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "can't help b"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ut be scared of it all sometimes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9",
+              "lyrics": "And the rain's gonna wash away, I believe this"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Interlude]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "x4"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 3",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "She b"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "elieves that li"
+            },
+            {
+              "chord": "G",
+              "lyrics": "fe isn't ma"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "de up of all th"
+            },
+            {
+              "chord": "G",
+              "lyrics": "at she used"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "to"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "And t"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "he clock on the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "wall has b"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "een stuck at th"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ree for day"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "s and days"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "She t"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "hinks that happ"
+            },
+            {
+              "chord": "G",
+              "lyrics": "iness is a"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "mat that sits o"
+            },
+            {
+              "chord": "G",
+              "lyrics": "n her doorw"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "ay, yeah"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "But outsi"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "de it's stopped raining"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Yeah, sh"
+            },
+            {
+              "chord": "D",
+              "lyrics": "e says baby"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Well, i"
+            },
+            {
+              "chord": "G",
+              "lyrics": "t's 3 AM, I"
+            },
+            {
+              "chord": "D",
+              "lyrics": "must be lo"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "nely"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Well, h"
+            },
+            {
+              "chord": "G",
+              "lyrics": "eaven she s"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ays baby"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Well, I"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "can't help b"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ut be scared of it all sometimes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9",
+              "lyrics": "And the rain'"
+            },
+            {
+              "chord": "G",
+              "lyrics": "s gonna wash away, I believe..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "thi-is"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Well, i"
+            },
+            {
+              "chord": "G",
+              "lyrics": "t's 3 AM, I"
+            },
+            {
+              "chord": "D",
+              "lyrics": "must be lo"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "nely"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Well, h"
+            },
+            {
+              "chord": "G",
+              "lyrics": "eaven she s"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ays baby"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Well, I"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "can't help"
+            },
+            {
+              "chord": "D",
+              "lyrics": "but be scar"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "ed of it all sometimes"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

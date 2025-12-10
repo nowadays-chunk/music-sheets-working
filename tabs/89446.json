@@ -1,0 +1,750 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/pixies/where-is-my-mind-chords-89446",
+  "title": "Where Is My Mind",
+  "artist": "Pixies",
+  "key": "E",
+  "scrapedAt": "2025-12-10T18:43:22.985Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ooh - Stop"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "x2"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "G#",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "e|-----"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "4-------4---|"
+            },
+            {
+              "chord": "G#",
+              "lyrics": "-----4------"
+            },
+            {
+              "chord": "A",
+              "lyrics": "-4---|-----4-------4---|-0---0---0---0---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|-5-------5-------|-5-------5-------|-4-------4-------|-5---5p4-5---5-0-|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|-----------------|-----------------|-----------------|-----------------| x2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|-----------------|-----------------|-----------------|-----------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|-----------------|-----------------|-----------------|-----------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|-----------------|-----------------|-----------------|-----------------|"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "With yo"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "ur feet in th"
+            },
+            {
+              "chord": "G#",
+              "lyrics": "e air and yo"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ur head on the ground"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Try thi"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "s trick and s"
+            },
+            {
+              "chord": "G#",
+              "lyrics": "pin it, yeah"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Your head"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "will collapse"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#",
+              "lyrics": "If there's nothing in it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "And you'll ask yourself"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Where is"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "my mind?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#",
+              "lyrics": "Where is m"
+            },
+            {
+              "chord": "A",
+              "lyrics": "y mind?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Whe"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "re is my mind"
+            },
+            {
+              "chord": "G#",
+              "lyrics": "?"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "C#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "G#",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Way o"
+            },
+            {
+              "chord": "G#",
+              "lyrics": "ut in the wa"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ter, see it"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "swimming"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "I was s"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "wimmin' in th"
+            },
+            {
+              "chord": "G#",
+              "lyrics": "e Caribbean"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Animals"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "were hiding"
+            },
+            {
+              "chord": "G#",
+              "lyrics": "behind the r"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ock"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Except th"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "e little fish"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#",
+              "lyrics": "Bumped into me, I swear he was"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Tryin' to talk to me, coy koi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Where is"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "my mind?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#",
+              "lyrics": "Where is m"
+            },
+            {
+              "chord": "A",
+              "lyrics": "y mind?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Whe"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "re is my mind"
+            },
+            {
+              "chord": "G#",
+              "lyrics": "?"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "C#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "G#",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Way o"
+            },
+            {
+              "chord": "G#",
+              "lyrics": "ut in the wa"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ter, see it"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "swimming"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Solo (while releasing the second bend hit the bend string 5 times on the way down)",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e|-------------------------------|-------------------------10--12b14--12b14--12b14--12b14-|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|--7--------7-------------------|--------7--7/10--10--12---------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|--9b11r9---9b11r^^^^^9----7----|--7--9--------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|----------------------------9--|--------------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|-------------------------------|--------------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|-------------------------------|--------------------------------------------------------|"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 3",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "With yo"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "ur feet in th"
+            },
+            {
+              "chord": "G#",
+              "lyrics": "e air and yo"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ur head on the ground"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Try thi"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "s trick and s"
+            },
+            {
+              "chord": "G#",
+              "lyrics": "pin it, yeah"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Your head"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "will collapse"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#",
+              "lyrics": "If there's nothing in it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "And you'll ask yourself"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Where is"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "my mind?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#",
+              "lyrics": "Where is m"
+            },
+            {
+              "chord": "A",
+              "lyrics": "y mind?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Whe"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "re is my mind"
+            },
+            {
+              "chord": "G#",
+              "lyrics": "?"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "C#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "G#",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Way o"
+            },
+            {
+              "chord": "G#",
+              "lyrics": "ut in the wa"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ter, see it"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "swimming"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "x5"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "G#",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "C#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "G#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "***********************************"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| / Slide up"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| p Pull-off"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| b Bend"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| r Release"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| ^ Gently play during release"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "**********************************"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

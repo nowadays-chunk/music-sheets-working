@@ -1,0 +1,399 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/1883755",
+  "title": "Батарейка",
+  "artist": "Жуки",
+  "key": "",
+  "scrapedAt": "2025-12-10T18:47:59.184Z",
+  "sections": [
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Холодный"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ветер с до"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ждем усилил"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ся стократно,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Все гово"
+            },
+            {
+              "chord": "G",
+              "lyrics": "рит об одно"
+            },
+            {
+              "chord": "F",
+              "lyrics": "м, что нет"
+            },
+            {
+              "chord": "E",
+              "lyrics": "пути обратно,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Что ты н"
+            },
+            {
+              "chord": "G",
+              "lyrics": "е мой лопуш"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ок, а я не"
+            },
+            {
+              "chord": "E",
+              "lyrics": "твой Андрейка,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Что y лю"
+            },
+            {
+              "chord": "G",
+              "lyrics": "бви y нашей"
+            },
+            {
+              "chord": "F",
+              "lyrics": "села батар"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ейка."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "О--оу-и-"
+            },
+            {
+              "chord": "G",
+              "lyrics": "я-и-е! Бата"
+            },
+            {
+              "chord": "F",
+              "lyrics": "рейка"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "О--оу-и-"
+            },
+            {
+              "chord": "G",
+              "lyrics": "я-и-е! Бата"
+            },
+            {
+              "chord": "F",
+              "lyrics": "рейка"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Я тосков"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ал по тебе"
+            },
+            {
+              "chord": "F",
+              "lyrics": "в минуты ра"
+            },
+            {
+              "chord": "E",
+              "lyrics": "сставанья,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Ты возвр"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ащалась ко"
+            },
+            {
+              "chord": "F",
+              "lyrics": "мне сквозь"
+            },
+            {
+              "chord": "E",
+              "lyrics": "сны и расстоянья,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Но, несм"
+            },
+            {
+              "chord": "G",
+              "lyrics": "отря ни на"
+            },
+            {
+              "chord": "F",
+              "lyrics": "что, пришла"
+            },
+            {
+              "chord": "E",
+              "lyrics": "судьба-злодейка,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "И y любв"
+            },
+            {
+              "chord": "G",
+              "lyrics": "и y нашей с"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ела батарей"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ка."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "О--оу-и-"
+            },
+            {
+              "chord": "G",
+              "lyrics": "я-и-е! Бата"
+            },
+            {
+              "chord": "F",
+              "lyrics": "рейка"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "О--оу-и-"
+            },
+            {
+              "chord": "G",
+              "lyrics": "я-и-е! Бата"
+            },
+            {
+              "chord": "F",
+              "lyrics": "рейка"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "И вроде"
+            },
+            {
+              "chord": "G",
+              "lyrics": "все как все"
+            },
+            {
+              "chord": "F",
+              "lyrics": "гда : все т"
+            },
+            {
+              "chord": "E",
+              "lyrics": "е же чашки-ложки,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Все та ж"
+            },
+            {
+              "chord": "G",
+              "lyrics": "е в кране в"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ода все тот"
+            },
+            {
+              "chord": "E",
+              "lyrics": "же стул без ножки,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "И все о"
+            },
+            {
+              "chord": "G",
+              "lyrics": "том же с ут"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ра щебечет"
+            },
+            {
+              "chord": "E",
+              "lyrics": "канарейка,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Лишь y л"
+            },
+            {
+              "chord": "G",
+              "lyrics": "юбви y наше"
+            },
+            {
+              "chord": "F",
+              "lyrics": "й села бата"
+            },
+            {
+              "chord": "E",
+              "lyrics": "рейка."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "О--оу-и-"
+            },
+            {
+              "chord": "G",
+              "lyrics": "я-и-е! Бата"
+            },
+            {
+              "chord": "F",
+              "lyrics": "рейка"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "О--оу-и-"
+            },
+            {
+              "chord": "G",
+              "lyrics": "я-и-е! Бата"
+            },
+            {
+              "chord": "F",
+              "lyrics": "рейка"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

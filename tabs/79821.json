@@ -1,0 +1,551 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/parokya-ni-edgar/harana-chords-79821",
+  "title": "Harana",
+  "artist": "Parokya ni Edgar",
+  "key": "G",
+  "scrapedAt": "2025-12-10T18:46:17.111Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "(x4)"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": "Uso pa ba a"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ng harana ma"
+            },
+            {
+              "chord": "Esus4",
+              "lyrics": "rahil ikaw ay n"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ag tataka"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "sino ba"
+            },
+            {
+              "chord": "C",
+              "lyrics": "tong mukan"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "g gago nag k"
+            },
+            {
+              "chord": "Esus4",
+              "lyrics": "andarapa"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "sa p"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "agkanta at n"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "asisintunado"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "sa kaba"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "mero"
+            },
+            {
+              "chord": "C",
+              "lyrics": "n pang dala"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ng mga rosas"
+            },
+            {
+              "chord": "Esus4",
+              "lyrics": "suot namay"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "maong na"
+            },
+            {
+              "chord": "D",
+              "lyrics": "kupas"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "at na"
+            },
+            {
+              "chord": "C",
+              "lyrics": "riyan pa an"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "g barkada na"
+            },
+            {
+              "chord": "Esus4",
+              "lyrics": "ka porma't naka"
+            },
+            {
+              "chord": "E",
+              "lyrics": "barong"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "sa awit"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ing daig pa"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ang minus o"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "ne at sing alon"
+            },
+            {
+              "chord": "D",
+              "lyrics": "g"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "CM7",
+              "lyrics": "puno ang la"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ngit ng bitwin at kay lamig pa ng hangin"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "sa iyong"
+            },
+            {
+              "chord": "D",
+              "lyrics": "tingin ako"
+            },
+            {
+              "chord": "G",
+              "lyrics": "y nababaliw"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "giliw"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "CM7",
+              "lyrics": "at sa awiti"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "n kong ito sanay maibigan mo"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "ibubuho"
+            },
+            {
+              "chord": "D",
+              "lyrics": "s ko ang bu"
+            },
+            {
+              "chord": "Esus4",
+              "lyrics": "ong puso ko sa"
+            },
+            {
+              "chord": "E",
+              "lyrics": "isang"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "munting harana para sa iyo"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Interlude]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "(x4)"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": "hindi bat p"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "arang isang"
+            },
+            {
+              "chord": "Esus4",
+              "lyrics": "sine isang peli"
+            },
+            {
+              "chord": "E",
+              "lyrics": "kulang roma"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ntiko"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "hindi ba"
+            },
+            {
+              "chord": "C",
+              "lyrics": "t ikaw ang"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "bidang artista"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Esus4",
+              "lyrics": "at ako ang i"
+            },
+            {
+              "chord": "E",
+              "lyrics": "yong leadin"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "g man"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "sa isto"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ryang nagwaw"
+            },
+            {
+              "chord": "D",
+              "lyrics": "akas sa pag"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "ibig na wagas"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "CM7",
+              "lyrics": "puno ang la"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ngit ng bitwin at kay lamig pa ng hangin"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "sa iyong"
+            },
+            {
+              "chord": "D",
+              "lyrics": "tingin ako"
+            },
+            {
+              "chord": "G",
+              "lyrics": "y nababaliw"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "giliw"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "CM7",
+              "lyrics": "at sa awiti"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "n kong ito sanay maibigan mo"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "ibubuho"
+            },
+            {
+              "chord": "D",
+              "lyrics": "s ko ang bu"
+            },
+            {
+              "chord": "Esus4",
+              "lyrics": "ong puso ko sa"
+            },
+            {
+              "chord": "E",
+              "lyrics": "isang"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "munting harana para sa iyo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "(x4)"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

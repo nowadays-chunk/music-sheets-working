@@ -1,0 +1,273 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/radiohead/how-to-disappear-completely-chords-81322",
+  "title": "How To Disappear Completely",
+  "artist": "Radiohead",
+  "key": "D",
+  "scrapedAt": "2025-12-10T18:43:57.876Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "(X2)"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "That ther"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "e, that's not me,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I go, whe"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "re I please,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I walk th"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "rough walls, I float down the Liffey"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I'm not h"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ere, this isn't happening,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I'm not h"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ere, I'm not here,"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "In a litt"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "le while, I'll be gone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "The momen"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ts already passed, yeah it's gone"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "and I'm n"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ot here, this isn't happening,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I'm not h"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ere, I'm not here,"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 3",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "strobe li"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ghts and blown speakers"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "fireworks"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "and hurricanes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I'm not h"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ere, this isn't happening,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I'm not here,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Interlude]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "I'm not he"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "re, aaahhhhhhh ahhhhhhh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "ahhhhhhh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Whooooaaaa"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "aaa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

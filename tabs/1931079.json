@@ -1,0 +1,435 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/dean-martin/winter-wonderland-chords-1931079",
+  "title": "Winter Wonderland",
+  "artist": "Dean Martin",
+  "key": "C",
+  "scrapedAt": "2025-12-10T18:43:07.505Z",
+  "sections": [
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Sleigh bells ring are you listening?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G7",
+              "lyrics": "In the lane snow is glistening"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "A beautif"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ul sight"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "We're happ"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "y tonight"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Walking i"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "n a winter w"
+            },
+            {
+              "chord": "C",
+              "lyrics": "onderland"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Gone away is the bluebird"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G7",
+              "lyrics": "Here to stay is a new bird"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "He sings"
+            },
+            {
+              "chord": "F",
+              "lyrics": "a love song"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "As we go a"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "long"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Walking i"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "n a winter w"
+            },
+            {
+              "chord": "C",
+              "lyrics": "onderland"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "In the m"
+            },
+            {
+              "chord": "A",
+              "lyrics": "eadow we ca"
+            },
+            {
+              "chord": "E",
+              "lyrics": "n build a snowman"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Then pre"
+            },
+            {
+              "chord": "A",
+              "lyrics": "tend that h"
+            },
+            {
+              "chord": "E",
+              "lyrics": "e is Parson Brown"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "He'll say"
+            },
+            {
+              "chord": "C",
+              "lyrics": ": \"Are you married\"?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "We'll say: \"No man\"!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "But you c"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "an do the job"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "When you'"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "re in town"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 3",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Later on we'll conspire"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G7",
+              "lyrics": "As we dream by the fire"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "To face u"
+            },
+            {
+              "chord": "F",
+              "lyrics": "nafraid"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "The plans"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "that we've made"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Walking i"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "n a winter w"
+            },
+            {
+              "chord": "C",
+              "lyrics": "onderland"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "In the m"
+            },
+            {
+              "chord": "A",
+              "lyrics": "eadow we ca"
+            },
+            {
+              "chord": "E",
+              "lyrics": "n build a snowman"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "And pret"
+            },
+            {
+              "chord": "A",
+              "lyrics": "end that he"
+            },
+            {
+              "chord": "E",
+              "lyrics": "'s a circus clown"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "We'll ha"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ve lots of"
+            },
+            {
+              "chord": "G",
+              "lyrics": "fun with mister snowman"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Until t"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "he other kid"
+            },
+            {
+              "chord": "G",
+              "lyrics": "dies knock"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "him down"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 4",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "When it snows ain't it thrilling"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G7",
+              "lyrics": "Though your nose gets a chilling"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "We'll f"
+            },
+            {
+              "chord": "F",
+              "lyrics": "rolic and p"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "lay the Eski"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "mo way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Walking i"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "n a winter w"
+            },
+            {
+              "chord": "C",
+              "lyrics": "onderland"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Walking i"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "n a winter w"
+            },
+            {
+              "chord": "C",
+              "lyrics": "onderland"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Walking i"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "n a winter w"
+            },
+            {
+              "chord": "C",
+              "lyrics": "onderland"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

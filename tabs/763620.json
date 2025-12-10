@@ -1,0 +1,952 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/the-animals/house-of-the-rising-sun-chords-763620",
+  "title": "House Of The Rising Sun",
+  "artist": "The Animals",
+  "key": "Am",
+  "scrapedAt": "2025-12-10T18:44:15.562Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "There is"
+            },
+            {
+              "chord": "C",
+              "lyrics": "a house in"
+            },
+            {
+              "chord": "D",
+              "lyrics": "New Orlean"
+            },
+            {
+              "chord": "F",
+              "lyrics": "s"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "They cal"
+            },
+            {
+              "chord": "C",
+              "lyrics": "l the Risin"
+            },
+            {
+              "chord": "E",
+              "lyrics": "' Sun"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "And it's"
+            },
+            {
+              "chord": "C",
+              "lyrics": "been the r"
+            },
+            {
+              "chord": "D",
+              "lyrics": "uin of many"
+            },
+            {
+              "chord": "F",
+              "lyrics": "a poor boy."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "And God,"
+            },
+            {
+              "chord": "E",
+              "lyrics": "I know I'm"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "one."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Instrumental]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "My mothe"
+            },
+            {
+              "chord": "C",
+              "lyrics": "r was a tai"
+            },
+            {
+              "chord": "D",
+              "lyrics": "lor."
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "She sewe"
+            },
+            {
+              "chord": "C",
+              "lyrics": "d my new bl"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ue jeans."
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "My fathe"
+            },
+            {
+              "chord": "C",
+              "lyrics": "r was a gam"
+            },
+            {
+              "chord": "D",
+              "lyrics": "blin' man"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Down in N"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ew Or-leans"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Instrumental]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 3",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Now, the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "only thing"
+            },
+            {
+              "chord": "D",
+              "lyrics": "a gambler"
+            },
+            {
+              "chord": "F",
+              "lyrics": "needs"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Is a sui"
+            },
+            {
+              "chord": "C",
+              "lyrics": "tcase and a"
+            },
+            {
+              "chord": "E",
+              "lyrics": "trunk"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "And the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "only time t"
+            },
+            {
+              "chord": "D",
+              "lyrics": "hat he's sa"
+            },
+            {
+              "chord": "F",
+              "lyrics": "tisfied"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Is when h"
+            },
+            {
+              "chord": "E",
+              "lyrics": "e's on a dr"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "unk"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Instrumental]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Organ Solo]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 4",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Oh, Moth"
+            },
+            {
+              "chord": "C",
+              "lyrics": "er, tell yo"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ur children"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Not to d"
+            },
+            {
+              "chord": "C",
+              "lyrics": "o what I ha"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ve done."
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Spend yo"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ur lives in"
+            },
+            {
+              "chord": "D",
+              "lyrics": "sin and mi"
+            },
+            {
+              "chord": "F",
+              "lyrics": "sery"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "In the ho"
+            },
+            {
+              "chord": "E",
+              "lyrics": "use of the"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "risin' sun."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Instrumental]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 5",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Well, I'"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ve got one"
+            },
+            {
+              "chord": "D",
+              "lyrics": "foot on the"
+            },
+            {
+              "chord": "F",
+              "lyrics": "platform,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "the othe"
+            },
+            {
+              "chord": "C",
+              "lyrics": "r foot on t"
+            },
+            {
+              "chord": "E",
+              "lyrics": "he train."
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "I'm goin"
+            },
+            {
+              "chord": "C",
+              "lyrics": "' back to N"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ew Orleans"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "To wear t"
+            },
+            {
+              "chord": "E",
+              "lyrics": "hat ball an"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "d chain."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Instrumental]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 6",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Well, th"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ere is a ho"
+            },
+            {
+              "chord": "D",
+              "lyrics": "use in New"
+            },
+            {
+              "chord": "F",
+              "lyrics": "Orleans"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "They cal"
+            },
+            {
+              "chord": "C",
+              "lyrics": "l the Risin"
+            },
+            {
+              "chord": "E",
+              "lyrics": "' Sun"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "And it's"
+            },
+            {
+              "chord": "C",
+              "lyrics": "been the r"
+            },
+            {
+              "chord": "D",
+              "lyrics": "uin of many"
+            },
+            {
+              "chord": "F",
+              "lyrics": "a poor boy."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "And God,"
+            },
+            {
+              "chord": "E",
+              "lyrics": "I know I'm"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "one."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Instrumental]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dm",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dm",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(fade out with Am and Dm)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,703 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/anuv-jain/arz-kiya-hai-chords-5923817",
+  "title": "Arz Kiya Hai",
+  "artist": "Anuv Jain",
+  "key": "Fm",
+  "scrapedAt": "2025-12-10T18:46:27.709Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Fm7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ab",
+              "lyrics": ""
+            },
+            {
+              "chord": "Db",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Eb",
+              "lyrics": ""
+            },
+            {
+              "chord": "Fm7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Eb",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Db",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Eb",
+              "lyrics": "Kaayar jo"
+            },
+            {
+              "chord": "Fm7",
+              "lyrics": "the,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Eb",
+              "lyrics": "woh shaayar bane"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Db",
+              "lyrics": "Ab kya-kya"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "karein yeh ishq mein"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fm7",
+              "lyrics": "Na kehte the kuch jo,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Eb",
+              "lyrics": "lage khoj mein"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Db",
+              "lyrics": "Kya lafz chune,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "naye aashiq yeh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pre-Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Fm7",
+              "lyrics": "Ishq mein t"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "ere hain Faiz bane"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Db",
+              "lyrics": "Arz kiya hai"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Eb",
+              "lyrics": "Humne bhi likha kuch"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "tere baare mein hai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Fm7",
+              "lyrics": "Aise tu lag"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "e ki gulaab hai"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fm7",
+              "lyrics": "Aur aise tu"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "lage ki gulaab hai"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fm7",
+              "lyrics": "Baaghon mein dil ke khilke"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Eb",
+              "lyrics": "inn fizaa"
+            },
+            {
+              "chord": "Db",
+              "lyrics": "on mein chha"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "ye ho, haaye"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fm7",
+              "lyrics": "Aur waise h"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "um toh tere hi ghulaam hain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fm7",
+              "lyrics": "Aur waise h"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "um toh tere hi ghulaam hain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fm7",
+              "lyrics": "Baadshah dil ke,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Eb",
+              "lyrics": "teri baaz"
+            },
+            {
+              "chord": "Db",
+              "lyrics": "i mein jo tu"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "chaahe toh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Fm7",
+              "lyrics": "Doobе dilo"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "ki kya naav banoon?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Db",
+              "lyrics": "Main khud"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "tair paaoon na aankhon mein"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fm7",
+              "lyrics": "Shaayar ki"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "fitrat mein hi doobna"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Db",
+              "lyrics": "Main kya h"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "i ladoon toofanon se"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pre-Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Fm7",
+              "lyrics": "Ishq mеin t"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "ere hain Faiz bane"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Db",
+              "lyrics": "Arz kiya h"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "ai"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "N.C."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Humne bhi likha kuch"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "tere baare mein hai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Fm7",
+              "lyrics": "Haathon ko"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "sambhale mere haathon mein"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fm7",
+              "lyrics": "Kaise haath"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "on ko sambhale mere haathon mein"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fm7",
+              "lyrics": "Jab tak neend na aaye,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Eb",
+              "lyrics": "inn lakee"
+            },
+            {
+              "chord": "Dbmaj7",
+              "lyrics": "ron mein baatein"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "ho, haaye"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ab",
+              "lyrics": ""
+            },
+            {
+              "chord": "Fm",
+              "lyrics": ""
+            },
+            {
+              "chord": "Eb",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Sargam]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fm7",
+              "lyrics": "x3"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": ""
+            },
+            {
+              "chord": "Db",
+              "lyrics": ""
+            },
+            {
+              "chord": "Eb",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Fm7",
+              "lyrics": "Haan, sab ne toh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Eb",
+              "lyrics": "sab keh diya hai"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Db",
+              "lyrics": "Kya hi kahoon jo"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Eb",
+              "lyrics": "abhi bhi ankaha hai"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fm7",
+              "lyrics": "Main, haaye"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": ", naa Mirza, naa Mir,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dbmaj7",
+              "lyrics": "naa maahir, naa zaahir"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Eb",
+              "lyrics": "Karoon kuch naya main"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fm7",
+              "lyrics": "Haaye, par"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "jo bhi likha hai, jiya hai"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Db",
+              "lyrics": "Haan, jiya hai"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Eb",
+              "lyrics": "Aise, aise"
+            },
+            {
+              "chord": "Eb5",
+              "lyrics": ", aise, kaise, waise, jaise"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Fm7",
+              "lyrics": "Jaise main"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "padhoon mere dil mein jo"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fm",
+              "lyrics": "Meri aankh"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "ein bhi padhe teri aankhon ko"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fm7",
+              "lyrics": "Kya yeh mehfil mein baithein?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Eb",
+              "lyrics": "Ya uthein"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Db",
+              "lyrics": "Daud jaane"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "ko, haaye?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fm7",
+              "lyrics": "Teri aankho"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "n mein taareefon ki talaash hai"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fm",
+              "lyrics": "Meri mehfi"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "l tere jaane se veeraan hai"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fm7",
+              "lyrics": "Main bas shaayar bana hoon"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Eb",
+              "lyrics": "Sirf tu s"
+            },
+            {
+              "chord": "Db",
+              "lyrics": "un'ne aaye t"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "oh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Fm7",
+              "lyrics": "Shaayad shaayar bana hoon"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Eb",
+              "lyrics": "Sirf tu s"
+            },
+            {
+              "chord": "Db",
+              "lyrics": "un'ne aaye t"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "oh"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

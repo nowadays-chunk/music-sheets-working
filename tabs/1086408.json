@@ -1,0 +1,767 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/the-smiths/heaven-knows-im-miserable-now-chords-1086408",
+  "title": "Heaven Knows Im Miserable Now",
+  "artist": "The Smiths",
+  "key": "F#",
+  "scrapedAt": "2025-12-10T18:44:13.842Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Emaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Aadd9",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Emaj7",
+              "lyrics": "I was happy i"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "n the haze of a drunken hour"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "But heave"
+            },
+            {
+              "chord": "F#m/E",
+              "lyrics": "n knows I'm mis"
+            },
+            {
+              "chord": "A",
+              "lyrics": "erable now"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Emaj7",
+              "lyrics": "I was looking"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "for a job, and then I found a job"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "And heave"
+            },
+            {
+              "chord": "F#m/E",
+              "lyrics": "n knows I'm mis"
+            },
+            {
+              "chord": "A",
+              "lyrics": "erable now"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Emaj7",
+              "lyrics": "In my life"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Emaj7",
+              "lyrics": "Why do I giv"
+            },
+            {
+              "chord": "A/C#",
+              "lyrics": "e valuable tim"
+            },
+            {
+              "chord": "B",
+              "lyrics": "e"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "To"
+            },
+            {
+              "chord": "E/D#",
+              "lyrics": "people who don"
+            },
+            {
+              "chord": "E/C#",
+              "lyrics": "'t care if I l"
+            },
+            {
+              "chord": "E/B",
+              "lyrics": "ive or die?"
+            },
+            {
+              "chord": "A/C#",
+              "lyrics": ""
+            },
+            {
+              "chord": "B/D#",
+              "lyrics": ""
+            },
+            {
+              "chord": "A/C#",
+              "lyrics": ""
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Instrumental]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "E/D#",
+              "lyrics": ""
+            },
+            {
+              "chord": "E/C#",
+              "lyrics": ""
+            },
+            {
+              "chord": "E/B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Emaj7",
+              "lyrics": "Two lovers en"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "twined pass me by"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "And heave"
+            },
+            {
+              "chord": "F#m/E",
+              "lyrics": "n knows I'm mis"
+            },
+            {
+              "chord": "A",
+              "lyrics": "erable now"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Emaj7",
+              "lyrics": "I was looking"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "for a job, and then I found a job"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "And heave"
+            },
+            {
+              "chord": "F#m/E",
+              "lyrics": "n knows I'm mis"
+            },
+            {
+              "chord": "A",
+              "lyrics": "erable now"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Emaj7",
+              "lyrics": "In my life"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Oh, why do"
+            },
+            {
+              "chord": "A",
+              "lyrics": "I give val"
+            },
+            {
+              "chord": "B",
+              "lyrics": "uable time"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Emaj7",
+              "lyrics": "To people"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "who don't car"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "e if I live o"
+            },
+            {
+              "chord": "A",
+              "lyrics": "r die?"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Instrumental]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Emaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 3",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Emaj7",
+              "lyrics": "What she aske"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "d of me at the end of the day"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Caligula"
+            },
+            {
+              "chord": "F#m/E",
+              "lyrics": "would have blus"
+            },
+            {
+              "chord": "A",
+              "lyrics": "hed"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Emaj7",
+              "lyrics": "\"Oh, you've b"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "een in the house too long\" she said"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "And I nat"
+            },
+            {
+              "chord": "F#m/E",
+              "lyrics": "urally fled"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Emaj7",
+              "lyrics": "In my life"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Emaj7",
+              "lyrics": "Why do I smi"
+            },
+            {
+              "chord": "A/C#",
+              "lyrics": "le"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "At"
+            },
+            {
+              "chord": "E/D#",
+              "lyrics": "people who I'd"
+            },
+            {
+              "chord": "E/C#",
+              "lyrics": "much rather k"
+            },
+            {
+              "chord": "E/B",
+              "lyrics": "ick in the ey"
+            },
+            {
+              "chord": "A/C#",
+              "lyrics": "e?"
+            },
+            {
+              "chord": "B/D#",
+              "lyrics": ""
+            },
+            {
+              "chord": "A/C#",
+              "lyrics": ""
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Instrumental]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "E/D#",
+              "lyrics": ""
+            },
+            {
+              "chord": "E/C#",
+              "lyrics": ""
+            },
+            {
+              "chord": "E/B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 4",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Emaj7",
+              "lyrics": "I was happy i"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "n the haze of a drunken hour"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "But heave"
+            },
+            {
+              "chord": "F#m/E",
+              "lyrics": "n knows I'm mis"
+            },
+            {
+              "chord": "A",
+              "lyrics": "erable now"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Emaj7",
+              "lyrics": "\"Oh, you've b"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "een in the house too long\" she said"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "And I nat"
+            },
+            {
+              "chord": "F#m/E",
+              "lyrics": "urally fled"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Emaj7",
+              "lyrics": "In my life"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Oh, why do"
+            },
+            {
+              "chord": "A",
+              "lyrics": "I give val"
+            },
+            {
+              "chord": "B",
+              "lyrics": "uable time"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Emaj7",
+              "lyrics": "To people"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "who don't car"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "e if I live o"
+            },
+            {
+              "chord": "A",
+              "lyrics": "r die?"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Emaj7",
+              "lyrics": "x2"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Emaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

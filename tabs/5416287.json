@@ -1,0 +1,582 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/phil-wickham/angels-glory-to-god-chords-5416287",
+  "title": "Angels Glory To God",
+  "artist": "Phil Wickham",
+  "key": "A",
+  "scrapedAt": "2025-12-10T18:48:00.985Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "(Glo - o-o-o-o-o, o-o-o-o-o, o-o-o-o-o - ria)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "(Glo - o-o-o-o-o, o-o-o-o-o, o-o-o-o-o - ria)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "A5",
+              "lyrics": "Angels we have heard on high"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Sweetly singing o'er the plains"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A5",
+              "lyrics": "And the mountains in reply"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Echoing th"
+            },
+            {
+              "chord": "E",
+              "lyrics": "eir joyous"
+            },
+            {
+              "chord": "D",
+              "lyrics": "strains"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Glo - o-o"
+            },
+            {
+              "chord": "D",
+              "lyrics": "-o-o-o, o-o"
+            },
+            {
+              "chord": "A",
+              "lyrics": "-o-o-o, o-o"
+            },
+            {
+              "chord": "E",
+              "lyrics": "-o-o-o - ria"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A/C#",
+              "lyrics": "In excelsi"
+            },
+            {
+              "chord": "D",
+              "lyrics": "s De - o"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "A5",
+              "lyrics": "Shepherds, why this jubilee?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Why your joyous strains prolong?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A5",
+              "lyrics": "What the gladsome tidings be"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Which insp"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ire your he"
+            },
+            {
+              "chord": "D",
+              "lyrics": "av'nly song?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Glo - o-o"
+            },
+            {
+              "chord": "D",
+              "lyrics": "-o-o-o, o-o"
+            },
+            {
+              "chord": "A",
+              "lyrics": "-o-o-o, o-o"
+            },
+            {
+              "chord": "E",
+              "lyrics": "-o-o-o - ria"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A/C#",
+              "lyrics": "In excelsis"
+            },
+            {
+              "chord": "D",
+              "lyrics": "Deo"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Glo - o-o"
+            },
+            {
+              "chord": "D",
+              "lyrics": "-o-o-o, o-o"
+            },
+            {
+              "chord": "A",
+              "lyrics": "-o-o-o, o-o"
+            },
+            {
+              "chord": "E",
+              "lyrics": "-o-o-o - ria"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A/C#",
+              "lyrics": "In excelsi"
+            },
+            {
+              "chord": "D",
+              "lyrics": "s De - o"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Glory to God"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Glory to God"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Glory to"
+            },
+            {
+              "chord": "E",
+              "lyrics": "God in the highest forever"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "For all He has done"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "His unfailing love"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Glory to"
+            },
+            {
+              "chord": "E",
+              "lyrics": "God in the highest forever"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 3",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "A5",
+              "lyrics": "Come to Bethlehem and see"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Him whose birth the angels sing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A5/C#",
+              "lyrics": "Come, adore o"
+            },
+            {
+              "chord": "D",
+              "lyrics": "n bended knee"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Christ the"
+            },
+            {
+              "chord": "E",
+              "lyrics": "Lord, the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "new-born King"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "N.C."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Glo - o-o-o-o-o, o-o-o-o-o, o-o-o-o-o - ria"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "In excelsis Deo"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Glo - o-o"
+            },
+            {
+              "chord": "D",
+              "lyrics": "-o-o-o, o-o"
+            },
+            {
+              "chord": "A",
+              "lyrics": "-o-o-o, o-o"
+            },
+            {
+              "chord": "E",
+              "lyrics": "-o-o-o - ria"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A/C#",
+              "lyrics": "In excelsi"
+            },
+            {
+              "chord": "D",
+              "lyrics": "s De - o"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Glory to God"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Glory to God"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Glory to"
+            },
+            {
+              "chord": "E",
+              "lyrics": "God in the highest forever"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "For all He has done"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "His unfailing love"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Glory to"
+            },
+            {
+              "chord": "E",
+              "lyrics": "God in the highest forever"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Glory to God"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Glory to God"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Glory to"
+            },
+            {
+              "chord": "E",
+              "lyrics": "God in the highest forever"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "For all He has done"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "His unfailing love"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Glory to"
+            },
+            {
+              "chord": "E",
+              "lyrics": "God in the highest forever"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Tag]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A5",
+              "lyrics": "Gloria, Gloria"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Glory to God in the highest"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A5",
+              "lyrics": "Gloria, Gloria"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Glory to God in the highest"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

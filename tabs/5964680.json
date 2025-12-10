@@ -1,0 +1,631 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/5964680",
+  "title": "Niño",
+  "artist": "Milo J",
+  "key": "G",
+  "scrapedAt": "2025-12-10T18:43:53.344Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "*  ¿Cómo est"
+            },
+            {
+              "chord": "B7/F#",
+              "lyrics": "arán en la Ensenada el viejo ceibal"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "los jazmi"
+            },
+            {
+              "chord": "Em/C",
+              "lyrics": "neros y orquíd"
+            },
+            {
+              "chord": "B7/F#",
+              "lyrics": "eas en flor"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "donde cantó dulcemente el zorzal?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "*  Quiero vo"
+            },
+            {
+              "chord": "B7/F#",
+              "lyrics": "lver a contemplarme en tus ojos cambá"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "y que me"
+            },
+            {
+              "chord": "Em/C",
+              "lyrics": "beses como te"
+            },
+            {
+              "chord": "B7/F#",
+              "lyrics": "besé"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "bajo la sombra del jacarandá"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Verso 1]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G6",
+              "lyrics": "Niño, apoy"
+            },
+            {
+              "chord": "Gadd9/F",
+              "lyrics": "ate en mis recuerdos"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G/F",
+              "lyrics": "Intentá dor"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "mir en paz"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cm7",
+              "lyrics": "Siento el peso en tu conciencia por el llanto de mamá"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Vi que"
+            },
+            {
+              "chord": "B7/F#",
+              "lyrics": "el miedo al aba"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ndono no te"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "deja respirar"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7",
+              "lyrics": "N.C. Sien"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "to el nudo de t"
+            },
+            {
+              "chord": "D",
+              "lyrics": "u panza cuando te hablan de papá"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Verso 2]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G6",
+              "lyrics": "Niño, haz"
+            },
+            {
+              "chord": "Gadd9/F",
+              "lyrics": "las paces con la vida"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G/F",
+              "lyrics": "No es de pi"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "edra el pastizal"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cm7",
+              "lyrics": "La nostalgia de tu antes no te deja caminar"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "¿Quién"
+            },
+            {
+              "chord": "B7/F#",
+              "lyrics": "mató tu sonrisi"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ta de ilusió"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "n y de bondad?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7",
+              "lyrics": "Sé que te"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "querés dormir"
+            },
+            {
+              "chord": "D",
+              "lyrics": "pa' no volver a despertar"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Estribillo]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Amor, no"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "llores,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B7",
+              "lyrics": "veo luz en"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "tus males"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7",
+              "lyrics": "Siguiéndote el corazón,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dsus4",
+              "lyrics": "bailando en u"
+            },
+            {
+              "chord": "D",
+              "lyrics": "n canto de zorzales"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Interludio]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Verso 3]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Niño, soy"
+            },
+            {
+              "chord": "G/F",
+              "lyrics": "un hombre con tristeza"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj7/G",
+              "lyrics": "Sé del peso en tu verdad"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cm7/G",
+              "lyrics": "Escaparte por robar, porque robás para cenar"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Vi tu"
+            },
+            {
+              "chord": "B7/F#",
+              "lyrics": "s dedos en el b"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "arro con olo"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "r a libertad"
+            },
+            {
+              "chord": "Em/F#",
+              "lyrics": ""
+            },
+            {
+              "chord": "E/G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7",
+              "lyrics": "N.C. Sé q"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "ue te querés do"
+            },
+            {
+              "chord": "D",
+              "lyrics": "rmir pa' no volver a despertar"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Puente]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Por el mu"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ndo vas de p"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "illo con alma de caramelo"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Vi la vid"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "a en tus nud"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "illos y su odio en tus hoyuelos"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Le rezast"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "e a unos ami"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "gos, pues no todos van al cielo"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "N.C.  -  -  Per"
+            },
+            {
+              "chord": "F/G",
+              "lyrics": "o vos sos un gr"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ial"
+            },
+            {
+              "chord": "F/E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Estribillo]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Amor, no"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "llores,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B7",
+              "lyrics": "veo luz en"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "tus males"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7",
+              "lyrics": "Siguiéndote el corazón,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dsus4",
+              "lyrics": "N.C. bailando en un canto de zorza-"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Amor, no"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "llores,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B7",
+              "lyrics": "veo luz en"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "tus males"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7",
+              "lyrics": "Siguiéndo"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "te el corazón"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G6",
+              "lyrics": "Hijo, me r"
+            },
+            {
+              "chord": "Gadd9/F",
+              "lyrics": "obaron tus ojitos"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G/F",
+              "lyrics": "Los momento"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "s que perdí"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cm7",
+              "lyrics": "Pedí tiempo a mi destino, y dijo: \"Hoy te toca a ti\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Sé que"
+            },
+            {
+              "chord": "B7/F#",
+              "lyrics": "un día serás gr"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ande, sé que"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "un día entenderás"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7",
+              "lyrics": "N.C. Los"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "consejos de tu"
+            },
+            {
+              "chord": "D",
+              "lyrics": "viejo, estoy descansando en paz"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

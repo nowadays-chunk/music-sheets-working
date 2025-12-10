@@ -1,0 +1,669 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/4-non-blondes/whats-up-chords-349210",
+  "title": "Whats Up",
+  "artist": "4 Non Blondes",
+  "key": "A",
+  "scrapedAt": "2025-12-10T18:42:07.774Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": ","
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tab is not relative to the capo."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": ". ."
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e|------------|-------------------------|---------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|------------|-------------------------|---------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|-/9-9--9--9-|-------------------------|------------2----------2---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|------------|-7-----------------7-7-\\-|-4-----2h4-----4--2--4---4-|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|------------|-------------------------|---------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|------------|-------------------------|---------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C G (over verse)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e|---------------------------|--------------------------|-------------"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|------------------------5b-|--------------------------|-------------"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|-2------------------7---5b-|--------------------------|-------------"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|------------------7---7----|-7------------------------|-7-----------"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|---------------------------|------------------7--5-7--|-------------"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|---------------------------|--------------------------|-------------"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "/ = slide up, \\ = slide down, . = staccato, h = hammer on, b = bend (slight)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Twenty-five years and my life is still"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Trying to get up that great big hill"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Of hope f"
+            },
+            {
+              "chord": "G",
+              "lyrics": "or a destination"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I realized quickly when I knew I should"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "That the world was made up of this brotherhood"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Of man, f"
+            },
+            {
+              "chord": "G",
+              "lyrics": "or whatever that means"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pre-Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And so I cry sometimes when I'm lying in bed"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Just to get it all out, what's in my head"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "and I - I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "am feeling a little peculiar"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And so I wake in the morning and I step outside"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "and I take a deep breath and I get real high and"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I scream"
+            },
+            {
+              "chord": "G",
+              "lyrics": "from the top of my lungs \"What's going on?\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And I sai"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "d \"Heyeyeyeyey Heyeyey\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I said \"H"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ey, what's going on?\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And I sai"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "d \"Heyeyeyeyey Heyeyey\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I said \"H"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ey, what's going on?\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Interlude]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Ooh, Oo"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "h Ooh"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Ooh, Oo"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "h Ooh"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And I try"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ", oh my God, do I try"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I try all"
+            },
+            {
+              "chord": "G",
+              "lyrics": "the time, in this institution"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And I pra"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "y, oh my God, do I pray"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I pray every single day"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "For a revolution"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pre-Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And so I cry sometimes when I'm lying in bed"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Just to get it all out, what's in my head"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "and I - I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "am feeling a little peculiar"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And so I wake in the morning and I step outside"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "and I take a deep breath and I get real high and"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I scream"
+            },
+            {
+              "chord": "G",
+              "lyrics": "from the top of my lungs \"What's going on?\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And I sai"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "d \"Heyeyeyeyey Heyeyey\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I said \"H"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ey, what's going on?\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And I sai"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "d \"Heyeyeyeyey Heyeyey\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I said \"H"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ey, what's going on?\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And I sai"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "d \"Heyeyeyeyey Heyeyey\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I said \"H"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ey, what's going on?\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And I sai"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "d \"Heyeyeyeyey HeyeYEYEYE\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I said \"H"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ey, what's going on?\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Interlude]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Ooh, Oo"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "h Ooh"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Twenty-five years and my life is still"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Trying to"
+            },
+            {
+              "chord": "C",
+              "lyrics": "get up that great big hill of hope"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "For a destination"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

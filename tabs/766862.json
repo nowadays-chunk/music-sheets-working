@@ -1,0 +1,466 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/misc-christmas/frosty-the-snowman-chords-766862",
+  "title": "Frosty The Snowman",
+  "artist": "Misc Christmas",
+  "key": "G",
+  "scrapedAt": "2025-12-10T18:43:21.099Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Thumpety thump thump, thumpety thump thump,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7",
+              "lyrics": "Look at Frosty go."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Thumpety thump thump, thumpety thump thump,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "over the hills of snow...Oh...Oh...over the hills of snow."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Frosty t"
+            },
+            {
+              "chord": "C",
+              "lyrics": "he Snow Man"
+            },
+            {
+              "chord": "G",
+              "lyrics": ", was a jolly happy soul"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "With a co"
+            },
+            {
+              "chord": "G",
+              "lyrics": "rn-cob pipe and a button nose"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "and two e"
+            },
+            {
+              "chord": "G",
+              "lyrics": "yes made out of coal."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Frosty t"
+            },
+            {
+              "chord": "C",
+              "lyrics": "he Snow Man"
+            },
+            {
+              "chord": "G",
+              "lyrics": ", is a fairy tale they say"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "He was ma"
+            },
+            {
+              "chord": "G",
+              "lyrics": "de of snow but the children know"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "how he c"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "ame to life"
+            },
+            {
+              "chord": "G",
+              "lyrics": "one day."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "There m"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ust have bee"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "n some magic"
+            },
+            {
+              "chord": "G",
+              "lyrics": "in that old silk hat they found,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "For whe"
+            },
+            {
+              "chord": "Dbdim",
+              "lyrics": "n they put it o"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "n his head h"
+            },
+            {
+              "chord": "D",
+              "lyrics": "e began to dance around."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 3",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Oh, Fros"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ty the Snow"
+            },
+            {
+              "chord": "G",
+              "lyrics": "Man was alive as he could be,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "And the c"
+            },
+            {
+              "chord": "G",
+              "lyrics": "hildren say he could laugh and play"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "just the"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "same as you"
+            },
+            {
+              "chord": "G",
+              "lyrics": "and me."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 4",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Frosty t"
+            },
+            {
+              "chord": "C",
+              "lyrics": "he Snow Man"
+            },
+            {
+              "chord": "G",
+              "lyrics": ",' knew the sun was hot that day,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "So he sai"
+            },
+            {
+              "chord": "G",
+              "lyrics": "d, \"Let's run and we'll have some fun"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "now befo"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "re I melt aw"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ay.\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 5",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Down to"
+            },
+            {
+              "chord": "C",
+              "lyrics": "the village"
+            },
+            {
+              "chord": "G",
+              "lyrics": ", with a broomstick in his hand,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Running h"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ere and there all around the square,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "saying \""
+            },
+            {
+              "chord": "D7",
+              "lyrics": "Catch me if"
+            },
+            {
+              "chord": "G",
+              "lyrics": "you can.\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "He led"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "them down th"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "e streets of"
+            },
+            {
+              "chord": "G",
+              "lyrics": "town right to the traffic cop,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "And he"
+            },
+            {
+              "chord": "Dbdim",
+              "lyrics": "only paused a m"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "oment when h"
+            },
+            {
+              "chord": "D",
+              "lyrics": "e heard him holler, \"Stop!\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 6",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Frosty t"
+            },
+            {
+              "chord": "C",
+              "lyrics": "he Snow Man"
+            },
+            {
+              "chord": "G",
+              "lyrics": "had to hurry on his way,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "But he wa"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ved good-bye, saying, \"Don't you cry;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I'll be"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "back again s"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ome day.\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Ending]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Thumpety thump thump, thumpety thump thump,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7",
+              "lyrics": "Look at Frosty go."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Thumpety thump thump, thumpety thump thump,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "over the hills of snow...Oh...Oh...over the hills of snow."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

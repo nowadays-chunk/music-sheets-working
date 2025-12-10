@@ -1,0 +1,515 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/phil-collins/against-all-odds-chords-63780",
+  "title": "Against All Odds",
+  "artist": "Phil Collins",
+  "key": "Bbm",
+  "scrapedAt": "2025-12-10T18:45:56.781Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Dm7",
+              "lyrics": "x2"
+            },
+            {
+              "chord": "D7sus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "How can I j"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "ust let you walk away"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Just let"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "you leave without a trace,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "When I"
+            },
+            {
+              "chord": "G/F",
+              "lyrics": "stand here ta"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "king every br"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "eath with you, ooh."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "You're t"
+            },
+            {
+              "chord": "F",
+              "lyrics": "he only one"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "who really kne"
+            },
+            {
+              "chord": "G",
+              "lyrics": "w me at all."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "How can you"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "just walk away from me,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "When all"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "I can do is watch you leave,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Cause we'"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ve shared the laughter and the pain,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "And even sh"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ared the tears."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "You're t"
+            },
+            {
+              "chord": "F",
+              "lyrics": "he only one"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "who really kne"
+            },
+            {
+              "chord": "G",
+              "lyrics": "w me at all."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C/G",
+              "lyrics": "So take a look at me now"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D/G",
+              "lyrics": "Cause there's just an empty space,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "And there'"
+            },
+            {
+              "chord": "F",
+              "lyrics": "s nothing left here to remind me,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Just the m"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "emory of your face."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Oh take a"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "look at me now"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D/G",
+              "lyrics": "Cause there's just an empty space,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "And you co"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ming back to me is against the odds,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "And that'"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "s what I've got"
+            },
+            {
+              "chord": "G",
+              "lyrics": "to face."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "I wish I co"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "uld just make you turn around,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Turn arou"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "nd and see me cry,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "There's s"
+            },
+            {
+              "chord": "G/F",
+              "lyrics": "o much I need to say to you,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "So many rea"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "sons why."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "You're t"
+            },
+            {
+              "chord": "F",
+              "lyrics": "he only one"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "who really kne"
+            },
+            {
+              "chord": "G",
+              "lyrics": "w me at all."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C/G",
+              "lyrics": "So take a look at me now"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D/G",
+              "lyrics": "Cause there's just an empty space,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "And there'"
+            },
+            {
+              "chord": "F",
+              "lyrics": "s nothing left here to remind me,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Just the m"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "emory of your face."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Oh take a"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "look at me now"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D/G",
+              "lyrics": "Cause there's just an empty space,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "But to wai"
+            },
+            {
+              "chord": "F",
+              "lyrics": "t for you, well that's all I can do,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "And that's"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "what I've got to face."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Take a go"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "od look at me now"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D/G",
+              "lyrics": "Cause I'll still be standing here,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "And you co"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ming back to me is against all odds,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "It's the"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "chance I've got"
+            },
+            {
+              "chord": "G",
+              "lyrics": "to take"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Dm7",
+              "lyrics": "x2"
+            },
+            {
+              "chord": "D7sus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm7",
+              "lyrics": "Take a l"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ook at me n"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ow."
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

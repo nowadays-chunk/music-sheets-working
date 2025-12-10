@@ -1,0 +1,1661 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/r-e-m-/losing-my-religion-chords-81372",
+  "title": "Losing My Religion",
+  "artist": "R.E.M.",
+  "key": "",
+  "scrapedAt": "2025-12-10T18:46:50.780Z",
+  "sections": [
+    {
+      "name": "Outro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "v v"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e|-12-12-12-12-12-12-12-12-|-12-10-------10-------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|-------------------------|-------13-10----13-10-13-10-|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|-------------------------|----------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|-------------------------|----------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|-------------------------|----------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|-------------------------|----------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Play the first measure 7 times)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "-----"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Losing My Religion"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Mandolin arranged for Guitar)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "From: Grnliterm@aol.com"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "xx3211  022000"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fsus2",
+              "lyrics": "xx3011 (II) x79987"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "320033  x68876"
+            },
+            {
+              "chord": "Ebm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "x02210  x32010"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "(II) xxx210  xx0231"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The tab is for the mandolin part not the acoustic guitar"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "part (but the chords are at the top of this page). The chords"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "above the tab refer to the acoustic guitar and not to the mandolin"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "parts, the reason I put them is for a reference to when you play what."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Also I am too lazy to write all the parts every time they appear because"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "there's a lot of repeating. Okay now that the explanation is done,"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e|--10--12--10-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|---------------10--|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|-------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|-------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|-------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|-------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Part One]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "(II) e"
+            },
+            {
+              "chord": "Fsus2",
+              "lyrics": "|--------------"
+            },
+            {
+              "chord": "F",
+              "lyrics": "-----------"
+            },
+            {
+              "chord": "G",
+              "lyrics": "|-------12-"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "-10--12--10-"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "-----|---------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|--10---10--10--8-----10--|--10-------------------10--|--10---10--10--10-10-|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|--10---10--10--10----10--|--10-----------------------|---9----9---9---7--9-|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|--10---10--10--10----10--|--10-----------------------|--10---10--10--10-10-|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|-------------------------|---------------------------|---------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|-------------------------|---------------------------|---------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "e|------"
+            },
+            {
+              "chord": "Fsus2",
+              "lyrics": "12--10--12--10-"
+            },
+            {
+              "chord": "F",
+              "lyrics": "----|---------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|--10------------------10-|--10---10--10---8------10--|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|---9---------------------|--10---10--10---10-----10--|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|--10---------------------|--10---10--10---10-----10--|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|-------------------------|---------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|-------------------------|---------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "e|------"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "12--10--12--"
+            },
+            {
+              "chord": "G",
+              "lyrics": "10-------|-----------------------| End of Part One"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|--10-------------------10--|--10--10--10--10----8--|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|--10-----------------------|---9---9---9---9----7--|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|--10-----------------------|--10--10--10--10----9--|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|---------------------------|-----------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e|---------------------------|-----------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Part Two]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "e|--12--12---10---12-----12--|-----12--12--12--12--12--12--12---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|--10--10---10---10-----10--|-----10--10--10--10--10--10--10---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|---9---9----9----9------9--|------9---9---9---9---9---9---9---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|--10---10--10---10-----10--|-----10--10--10--10--10--10--10---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|---------------------------|----------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e|---------------------------|----------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "e|--12----12----12--12----12--|--12--12--12--12--12--12--12--|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|--12----12----10--12----12--|--12--12--12--10--12--12--12--|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|--12----12----12--12----12--|--12--12--12--12--12--12--12--|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|----------------------------|------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|----------------------------|------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e|----------------------------|------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "e|--12---12----10--12----12--|--12--12--12--10--12--12--12--|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|--10---10----10--10----10--|--10--10--10--10--10--10--10--|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|---9----9-----9---9-----9--|---9---9---9---9---9---9---9--|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|--10----10---10--10----10--|--10--10--10--10--10--10--10--|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|---------------------------|------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e|---------------------------|------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "e|--12---12---12---12---12----12----|--12--12--12--12--12--12--12--|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|--12---12---10---12---12----12----|--12--12--12--10--12--12--12--|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|--12---12---12---12---12----12----|--12--12--12--12--12--12--12--|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|----------------------------------|------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|----------------------------------|------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e|----------------------------------|------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "e|--12---12--10--12---12---|--12--12--12--10--12--12--12--|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|--10---10--10--10---10---|--10--10--10--10--10--10--10--|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|---9----9---9---9----9---|---9---9---9---9---9---9---9--|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|--10---10--10--10---10---|--10--10--10--10--10--10--10--|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|-------------------------|------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e|-------------------------|------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "(II)  e|--1"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "2--12--12--12--1"
+            },
+            {
+              "chord": "Ebm",
+              "lyrics": "2--|--12--12--12--12--12--12--12--|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|--12--12--10--12--12--|--12--12--12--10--12--12--12--|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|--12--12--12--12--12--|--12--12--12--12--12--12--12--|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|----------------------|------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|----------------------|------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e|----------------------|------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "e|--13----"
+            },
+            {
+              "chord": "G",
+              "lyrics": "13--13---13---13--|--13---13---13---13--|--15--15--15--15--15--|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|--15----15--15---15---15--|--15---15---15---15--|--15--15--15--15--15--|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|--14----14--14---14---14--|--14---14---14---14--|--16--16--16--16--16--|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|--12----12--12---12---12--|--12---12---12---12--|--17--17--17--17--17--|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|--------------------------|---------------------|----------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e|--------------------------|---------------------|----------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "End of Part Two"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verses",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Oh life is"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "bigger, it's bigger than you."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "And you ar"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "e not me, the lengths that I will go to."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "The distance in your eyes."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "(II)    Oh"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "no, I've said to"
+            },
+            {
+              "chord": "Ebm",
+              "lyrics": "o much, I've"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "said enough."
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "That's me"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "in the corner, That's me in the spot light,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Losing my"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "religion. Trying to keep up with you."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "And I don't know if I can do it."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "(II)    Oh"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "no, I've said to"
+            },
+            {
+              "chord": "Ebm",
+              "lyrics": "o much, I hav"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "en't said en"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ough."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "I thought"
+            },
+            {
+              "chord": "Fsus2",
+              "lyrics": "that I heard you laughing."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "(II) I t"
+            },
+            {
+              "chord": "G",
+              "lyrics": "hought that"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "I heard you"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "sing."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "I thin"
+            },
+            {
+              "chord": "Fsus2",
+              "lyrics": "k I thought I s"
+            },
+            {
+              "chord": "F",
+              "lyrics": "aw you try."
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "(Fill 3)  Every whi"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "sper,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Every waki"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ng hour, I'm choosing my confessions."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Trying to keep eye on you."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Like a hurt lost and blinded fool, fool."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Oh no, I'"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "ve said too"
+            },
+            {
+              "chord": "G",
+              "lyrics": "much. I said enough."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Consider t"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "his, consider this hint of the century."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Consider t"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "his, the slip, that brought me to my knees failed"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "What if al"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "l these fantasies come flailing around"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Now I've s"
+            },
+            {
+              "chord": "G",
+              "lyrics": "aid too much."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "I thought"
+            },
+            {
+              "chord": "Fsus2",
+              "lyrics": "that I heard you laughing."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "(II) I t"
+            },
+            {
+              "chord": "G",
+              "lyrics": "hought that"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "I heard you"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "sing."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "I thi"
+            },
+            {
+              "chord": "Fsus2",
+              "lyrics": "nk I thought I"
+            },
+            {
+              "chord": "F",
+              "lyrics": "saw you try"
+            },
+            {
+              "chord": "G",
+              "lyrics": "."
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Interlude]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e|-----12--12--12--10--10--10--10--10--8--8--8--5--5--5--5--5-----------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|----------------------------------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|----------------------------------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|----------------------------------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|----------------------------------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e|----------------------------------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "That was"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "just a dream."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "/   That was"
+            },
+            {
+              "chord": "C",
+              "lyrics": "just a dre"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "am. That's me in the corner."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "That's me"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "in the spot light, losing my religion."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Trying to"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "keep up with you. And I don't know if I can do it."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "(II)   Oh n"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "o, I've said too"
+            },
+            {
+              "chord": "Ebm",
+              "lyrics": "much."
+            },
+            {
+              "chord": "Dm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I haven't said enough."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "I thought"
+            },
+            {
+              "chord": "Fsus2",
+              "lyrics": "that I heard you laughing."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "(II) I t"
+            },
+            {
+              "chord": "G",
+              "lyrics": "hought that"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "I heard you"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "sing."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "(II) Fi"
+            },
+            {
+              "chord": "Fsus2",
+              "lyrics": "ll 3 I think I"
+            },
+            {
+              "chord": "F",
+              "lyrics": "thought I s"
+            },
+            {
+              "chord": "G",
+              "lyrics": "aw you try."
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "(II) B"
+            },
+            {
+              "chord": "Fsus2",
+              "lyrics": "ut that was jus"
+            },
+            {
+              "chord": "F",
+              "lyrics": "t a dream,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "try, cry, w"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "hy try."
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "/ Fil"
+            },
+            {
+              "chord": "Fsus2",
+              "lyrics": "l 3 That was ju"
+            },
+            {
+              "chord": "F",
+              "lyrics": "st a dream,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "just a dre"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "am, just a d"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ream, dream."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "e|-12-12-12-12-12-12-12-12-|-12-10-------10----------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|-------------------------|----------13-10----13-10-13-10-|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|-------------------------|-------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|-------------------------|-------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|-------------------------|-------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|-------------------------|-------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Play the first measure 7 times guitar stops after 1st measure)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Fill 1]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e|-------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|------------10--8--------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|------7--9---------9--7--|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|--10---------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|-------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e|-------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Fill 2]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e|--15--15--15--10--12--12-----|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|--15--15--15--------------10-|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|--16--16--16-----------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|--17--17--17-----------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|-----------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e|-----------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Fill 3]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e|----------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|--8------------10--8--------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|--7------7--9---------9--7--|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|--9--10---------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|----------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e|----------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "*Remember:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Every verse is part two of the tab."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The chorus is part one."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

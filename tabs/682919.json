@@ -1,0 +1,595 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/the-beatles/with-a-little-help-from-my-friends-chords-682919",
+  "title": "With A Little Help From My Friends",
+  "artist": "The Beatles",
+  "key": "E",
+  "scrapedAt": "2025-12-10T18:44:29.569Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Billllll"
+            },
+            {
+              "chord": "D",
+              "lyrics": "l - lyyyyyy"
+            },
+            {
+              "chord": "E",
+              "lyrics": "yyy Shears"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "What wou"
+            },
+            {
+              "chord": "B",
+              "lyrics": "ld you thin"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "k if I sang out of tune,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Would you"
+            },
+            {
+              "chord": "B",
+              "lyrics": "stand up an"
+            },
+            {
+              "chord": "E",
+              "lyrics": "d walk out on me."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Lend me"
+            },
+            {
+              "chord": "B",
+              "lyrics": "your ears a"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "nd I'll sing you a song,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "And I'll t"
+            },
+            {
+              "chord": "B",
+              "lyrics": "ry not to s"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ing out of key."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Oh, I ge"
+            },
+            {
+              "chord": "A",
+              "lyrics": "t by with a"
+            },
+            {
+              "chord": "E",
+              "lyrics": "little help from my friends,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Hmm, I g"
+            },
+            {
+              "chord": "A",
+              "lyrics": "et high wit"
+            },
+            {
+              "chord": "E",
+              "lyrics": "h a little help from my friends,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Hmm, gon"
+            },
+            {
+              "chord": "E",
+              "lyrics": "na try with"
+            },
+            {
+              "chord": "B",
+              "lyrics": "a little help from my friends. (break)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "What do"
+            },
+            {
+              "chord": "B",
+              "lyrics": "I do when m"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "y love is away."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "(Does it w"
+            },
+            {
+              "chord": "B",
+              "lyrics": "orry you to"
+            },
+            {
+              "chord": "E",
+              "lyrics": "be alone)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "How do I"
+            },
+            {
+              "chord": "B",
+              "lyrics": "feel by th"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "e end of the day"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "(Are you s"
+            },
+            {
+              "chord": "B",
+              "lyrics": "ad because"
+            },
+            {
+              "chord": "E",
+              "lyrics": "you're on your own)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "No, I ge"
+            },
+            {
+              "chord": "A",
+              "lyrics": "t by with a"
+            },
+            {
+              "chord": "E",
+              "lyrics": "little help from my friends,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Hmm, get"
+            },
+            {
+              "chord": "A",
+              "lyrics": "high with"
+            },
+            {
+              "chord": "E",
+              "lyrics": "a little help from my friends,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Hmm, gonn"
+            },
+            {
+              "chord": "E",
+              "lyrics": "a try with a little help from my friends."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Do you need"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "anybody,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "I need s"
+            },
+            {
+              "chord": "D",
+              "lyrics": "omebody to"
+            },
+            {
+              "chord": "A",
+              "lyrics": "love."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Could it be"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "anybody"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "I want s"
+            },
+            {
+              "chord": "D",
+              "lyrics": "omebody to"
+            },
+            {
+              "chord": "A",
+              "lyrics": "love."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 3",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Would yo"
+            },
+            {
+              "chord": "B",
+              "lyrics": "u believe i"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "n a love at first sight,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "(Yes I'm c"
+            },
+            {
+              "chord": "B",
+              "lyrics": "ertain that"
+            },
+            {
+              "chord": "E",
+              "lyrics": "it happens all the time.)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "What do"
+            },
+            {
+              "chord": "B",
+              "lyrics": "you see whe"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "n you turn out the light,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "(I can't t"
+            },
+            {
+              "chord": "B",
+              "lyrics": "ell you, bu"
+            },
+            {
+              "chord": "E",
+              "lyrics": "t I know it's mine.)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Oh, I ge"
+            },
+            {
+              "chord": "A",
+              "lyrics": "t by with a"
+            },
+            {
+              "chord": "E",
+              "lyrics": "little help from my friends,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Hmm, get"
+            },
+            {
+              "chord": "A",
+              "lyrics": "high with"
+            },
+            {
+              "chord": "E",
+              "lyrics": "a little help from my friends,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Oh, I'm g"
+            },
+            {
+              "chord": "E",
+              "lyrics": "onna try with a little help from my friends."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Do you need"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "anybody,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "I just n"
+            },
+            {
+              "chord": "D",
+              "lyrics": "eed someone"
+            },
+            {
+              "chord": "A",
+              "lyrics": "to love,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Could it be"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "anybody,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "I want s"
+            },
+            {
+              "chord": "D",
+              "lyrics": "omebody to"
+            },
+            {
+              "chord": "A",
+              "lyrics": "love."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Oh, I ge"
+            },
+            {
+              "chord": "A",
+              "lyrics": "t by with a"
+            },
+            {
+              "chord": "E",
+              "lyrics": "little help from my friends,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Hmm, gon"
+            },
+            {
+              "chord": "A",
+              "lyrics": "na try with"
+            },
+            {
+              "chord": "E",
+              "lyrics": "a little help from my friends."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Oh, I get"
+            },
+            {
+              "chord": "E",
+              "lyrics": "high with a little help from my friends,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Coda]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Yes, I ge"
+            },
+            {
+              "chord": "A",
+              "lyrics": "t by with a little help from my friends,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "With a l"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ittle help"
+            },
+            {
+              "chord": "E",
+              "lyrics": "from my frieeeeeeeeeeeeeeeeeeends."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

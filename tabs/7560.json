@@ -1,0 +1,708 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/the-mamas-the-papas/california-dreamin-chords-7560",
+  "title": "California Dreamin",
+  "artist": "The Mamas & The Papas",
+  "key": "C#m",
+  "scrapedAt": "2025-12-10T18:47:47.749Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(6-string acoustic)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "1 + 2 + 3"
+            },
+            {
+              "chord": "E7sus4",
+              "lyrics": "+ 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e|-----------------|-----------------|----------------|0---------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|----0---3--1--0--|-----------------|----------------|0---------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|--2--------------|--------%--------|--------%-------|2---------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|2----2-----------|-----------------|----------------|0---------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|-----------------|-----------------|----------------|2---------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|-----------------|-----------------|----------------|0---------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "triplets"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(12-string acoustic)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 + 1 + 2 + 3 + 4 +"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e|-----------------|----0-1-0-------|----------------|----------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|-----------------|------------3---|1---3-1---------|----------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|-----------------|----------------|--------4--2--0-|-2--------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|-----------------|----------------|----------------|----------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|-----------------|----------------|----------------|----------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|-----------------|----------------|----------------|----------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "triplets"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "All the l"
+            },
+            {
+              "chord": "G",
+              "lyrics": "eaves are b"
+            },
+            {
+              "chord": "F",
+              "lyrics": "rown (all the leaves are brown)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And the"
+            },
+            {
+              "chord": "E7sus4",
+              "lyrics": "sky is gray (and"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "the sky is gray)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "I've be"
+            },
+            {
+              "chord": "C",
+              "lyrics": "en for a wa"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "lk (I've bee"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "n for a walk)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "On a win"
+            },
+            {
+              "chord": "E7sus4",
+              "lyrics": "ter's day (on a"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "winter's day)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "I'd be sa"
+            },
+            {
+              "chord": "G",
+              "lyrics": "fe and warm"
+            },
+            {
+              "chord": "F",
+              "lyrics": "(I'd be safe and warm)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "If I was"
+            },
+            {
+              "chord": "E7sus4",
+              "lyrics": "in L.A. (if I w"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "as in L.A.)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Californi"
+            },
+            {
+              "chord": "G",
+              "lyrics": "a dreamin'"
+            },
+            {
+              "chord": "F",
+              "lyrics": "(California dreamin')"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "On such"
+            },
+            {
+              "chord": "E7sus4",
+              "lyrics": "a winter's day"
+            },
+            {
+              "chord": "E7",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Stopped i"
+            },
+            {
+              "chord": "G",
+              "lyrics": "n to a chur"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ch"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I passed"
+            },
+            {
+              "chord": "E7sus4",
+              "lyrics": "along the way"
+            },
+            {
+              "chord": "E7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Well I"
+            },
+            {
+              "chord": "C",
+              "lyrics": "got down on"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "my knees (g"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ot down on my knees)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "And I pr"
+            },
+            {
+              "chord": "E7sus4",
+              "lyrics": "etend to pray (I"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "pretend to pray)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "You know"
+            },
+            {
+              "chord": "G",
+              "lyrics": "the preache"
+            },
+            {
+              "chord": "F",
+              "lyrics": "r likes the cold (preacher likes the cold)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "He knows"
+            },
+            {
+              "chord": "E7sus4",
+              "lyrics": "I'm gonna stay"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "(knows I'm gonna stay)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Californi"
+            },
+            {
+              "chord": "G",
+              "lyrics": "a dreamin'"
+            },
+            {
+              "chord": "F",
+              "lyrics": "(California dreamin')"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "On such"
+            },
+            {
+              "chord": "E7sus4",
+              "lyrics": "a winter's day"
+            },
+            {
+              "chord": "E7",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Solo",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "/ / /  / /"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "E7sus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "E7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "}"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E7sus4",
+              "lyrics": "}x2"
+            },
+            {
+              "chord": "E7",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 3",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "All the l"
+            },
+            {
+              "chord": "G",
+              "lyrics": "eaves are b"
+            },
+            {
+              "chord": "F",
+              "lyrics": "rown (all the leaves are brown)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And the"
+            },
+            {
+              "chord": "E7sus4",
+              "lyrics": "sky is gray (and"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "the sky is gray)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "I've be"
+            },
+            {
+              "chord": "C",
+              "lyrics": "en for a wa"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "lk (I've bee"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "n for a walk)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "On a win"
+            },
+            {
+              "chord": "E7sus4",
+              "lyrics": "ter's day (on a"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "winter's day)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "If I didn"
+            },
+            {
+              "chord": "G",
+              "lyrics": "'t tell her"
+            },
+            {
+              "chord": "F",
+              "lyrics": "(if I didn't tell her)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I could"
+            },
+            {
+              "chord": "E7sus4",
+              "lyrics": "leave today (I c"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "ould leave today)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Coda]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Californi"
+            },
+            {
+              "chord": "G",
+              "lyrics": "a dreamin'"
+            },
+            {
+              "chord": "F",
+              "lyrics": "(California dreamin')"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "On such"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "a winter's"
+            },
+            {
+              "chord": "G",
+              "lyrics": "day (Califo"
+            },
+            {
+              "chord": "F",
+              "lyrics": "rnia dreamin')"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "On such"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "a winter's"
+            },
+            {
+              "chord": "G",
+              "lyrics": "day (Califo"
+            },
+            {
+              "chord": "F",
+              "lyrics": "rnia dreamin')"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "On such"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "a winter's day"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

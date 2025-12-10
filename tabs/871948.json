@@ -1,0 +1,617 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/foo-fighters/everlong-chords-871948",
+  "title": "Everlong",
+  "artist": "Foo Fighters",
+  "key": "D",
+  "scrapedAt": "2025-12-10T18:48:04.906Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Dmaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bsus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "Gsus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bsus2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dmaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bsus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "Gsus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bsus2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dmaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bsus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "Gsus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bsus2",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Dmaj7",
+              "lyrics": "Hello"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bsus2",
+              "lyrics": "I've waited here for you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gsus2",
+              "lyrics": "Everlong"
+            },
+            {
+              "chord": "Bsus2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dmaj7",
+              "lyrics": "Tonight"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bsus2",
+              "lyrics": "I throw myself into"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gsus2",
+              "lyrics": "And out of th"
+            },
+            {
+              "chord": "Bsus2",
+              "lyrics": "e red, out of her head she sang"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dmaj7",
+              "lyrics": "Come down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bsus2",
+              "lyrics": "And waste away with me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gsus2",
+              "lyrics": "Down with me"
+            },
+            {
+              "chord": "Bsus2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dmaj7",
+              "lyrics": "Slow how"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bsus2",
+              "lyrics": "You wanted it to be"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gsus2",
+              "lyrics": "I'm over my h"
+            },
+            {
+              "chord": "Bsus2",
+              "lyrics": "ead, out of her head she sang"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pre-Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "And I wonder"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "When I si"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ng along with you"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "B5",
+              "lyrics": "If everyt"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "hing could e"
+            },
+            {
+              "chord": "D5",
+              "lyrics": "ver feel this real forever"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B5",
+              "lyrics": "If anythi"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "ng could eve"
+            },
+            {
+              "chord": "D5",
+              "lyrics": "r be this good again"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B5",
+              "lyrics": "The only"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "thing I'll e"
+            },
+            {
+              "chord": "D5",
+              "lyrics": "ver ask of you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A5",
+              "lyrics": "You've got"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "to promise not to stop when I say when"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She sang"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Instrumental]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dmaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bsus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "Gsus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bsus2",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Dmaj7",
+              "lyrics": "Breathe out"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bsus2",
+              "lyrics": "So I could breathe you in"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gsus2",
+              "lyrics": "Hold you in"
+            },
+            {
+              "chord": "Bsus2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dmaj7",
+              "lyrics": "And now"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bsus2",
+              "lyrics": "I know you've always been"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gsus2",
+              "lyrics": "Out of your h"
+            },
+            {
+              "chord": "Bsus2",
+              "lyrics": "ead, out of my head I sang"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pre-Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "And I wonder"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "When I si"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ng along with you"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "B5",
+              "lyrics": "If everyt"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "hing could e"
+            },
+            {
+              "chord": "D5",
+              "lyrics": "ver feel this real forever"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B5",
+              "lyrics": "If anythi"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "ng could eve"
+            },
+            {
+              "chord": "D5",
+              "lyrics": "r be this good again"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B5",
+              "lyrics": "The only"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "thing I'll e"
+            },
+            {
+              "chord": "D5",
+              "lyrics": "ver ask of you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A5",
+              "lyrics": "You've got"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "to promise not to stop when I say when"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She sang"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Instrumental]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dmaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bsus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "Gsus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bsus2",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pre-Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "And I wonder"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B5",
+              "lyrics": "If everyt"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "hing could e"
+            },
+            {
+              "chord": "D5",
+              "lyrics": "ver feel this real forever"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B5",
+              "lyrics": "If anythi"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "ng could eve"
+            },
+            {
+              "chord": "D5",
+              "lyrics": "r be this good again"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B5",
+              "lyrics": "The only"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "thing I'll e"
+            },
+            {
+              "chord": "D5",
+              "lyrics": "ver ask of you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A5",
+              "lyrics": "You've got"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "to promise not to stop when I say when"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

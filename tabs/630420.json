@@ -1,0 +1,551 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/the-cranberries/ode-to-my-family-chords-630420",
+  "title": "Ode To My Family",
+  "artist": "The Cranberries",
+  "key": "D",
+  "scrapedAt": "2025-12-10T18:46:34.027Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "x2 Do d"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "o do do, do"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "do do do, do"
+            },
+            {
+              "chord": "F",
+              "lyrics": "do do do, do do do do"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Instrumental]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Unders"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "tand the thi"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ngs I say, d"
+            },
+            {
+              "chord": "F",
+              "lyrics": "on't turn a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "way from me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Cause I"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "spent half m"
+            },
+            {
+              "chord": "F",
+              "lyrics": "y life out"
+            },
+            {
+              "chord": "C",
+              "lyrics": "there, you wouldn't disagree"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "D'you se"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "e me, d'you"
+            },
+            {
+              "chord": "F",
+              "lyrics": "see, do you"
+            },
+            {
+              "chord": "C",
+              "lyrics": "like me, do you like me standing there"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "D'you no"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "tice, d'you"
+            },
+            {
+              "chord": "F",
+              "lyrics": "know, do yo"
+            },
+            {
+              "chord": "C",
+              "lyrics": "u see me, do you see me, does anyone care"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Unhappin"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ess, where's"
+            },
+            {
+              "chord": "F",
+              "lyrics": "when I was"
+            },
+            {
+              "chord": "C",
+              "lyrics": "young, and we didn't give a damn"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "'Cause w"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "e were raise"
+            },
+            {
+              "chord": "F",
+              "lyrics": "d, to see l"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ife as fun and take it if we can"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "My mothe"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "r, my mother"
+            },
+            {
+              "chord": "F",
+              "lyrics": "she'd hold"
+            },
+            {
+              "chord": "C",
+              "lyrics": "me, she'd hold me, when I was out there"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "My fathe"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "r, my father"
+            },
+            {
+              "chord": "F",
+              "lyrics": ", he liked"
+            },
+            {
+              "chord": "C",
+              "lyrics": "me, oh he liked me, does anyone care"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Instrumental]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": ")"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Unders"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "tand what I'"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ve become, i"
+            },
+            {
+              "chord": "F",
+              "lyrics": "t wasn't my"
+            },
+            {
+              "chord": "C",
+              "lyrics": "design"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "And peop"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "le everywher"
+            },
+            {
+              "chord": "F",
+              "lyrics": "e think som"
+            },
+            {
+              "chord": "C",
+              "lyrics": "e-thing better than I am"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "But I mi"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ss you, I mi"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ss 'cause I"
+            },
+            {
+              "chord": "C",
+              "lyrics": "liked it, 'cause I liked it, when I was out there"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "D'you kn"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ow this, d'y"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ou know, yo"
+            },
+            {
+              "chord": "C",
+              "lyrics": "u did not find me, you did not find, does anyone care"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Unhappin"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ess, where's"
+            },
+            {
+              "chord": "F",
+              "lyrics": "when I was"
+            },
+            {
+              "chord": "C",
+              "lyrics": "young, and we didn't give a damn"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "'Cause w"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "e were raise"
+            },
+            {
+              "chord": "F",
+              "lyrics": "d, to see l"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ife as fun and take it if we can"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "My mothe"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "r, my mother"
+            },
+            {
+              "chord": "F",
+              "lyrics": "she'd hold"
+            },
+            {
+              "chord": "C",
+              "lyrics": "me, she'd hold me, when I was out there"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "My fathe"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "r, my father"
+            },
+            {
+              "chord": "F",
+              "lyrics": ", he liked"
+            },
+            {
+              "chord": "C",
+              "lyrics": "me, oh he liked me, does anyone care"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Does anyone care"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Does anyone care"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Does anyone care"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Does anyone care"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Does anyone care"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Does anyone care"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Does anyone care"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "x3 Do d"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "o do do, do"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "do do do, do"
+            },
+            {
+              "chord": "F",
+              "lyrics": "do do do, do do do do"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Instrumental]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

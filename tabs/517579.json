@@ -1,0 +1,1045 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/michael-jackson/man-in-the-mirror-chords-517579",
+  "title": "Man In The Mirror",
+  "artist": "Michael Jackson",
+  "key": "G",
+  "scrapedAt": "2025-12-10T18:45:58.368Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "e|----"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "--10------10--"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "-----10------"
+            },
+            {
+              "chord": "D",
+              "lyrics": "--10-------"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "--------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|-12------10--------8------------------5---------5-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|----------------------------11------------7-------7-----|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|----------------------------------------------------5---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|-10------9---------7------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|----------------------------10--------8-----------------|"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I'm go"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "nna make a cha"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "nge, for onc"
+            },
+            {
+              "chord": "D",
+              "lyrics": "e in my lif"
+            },
+            {
+              "chord": "C",
+              "lyrics": "e"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "It's g"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "onna feel real"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "good, gonna"
+            },
+            {
+              "chord": "D",
+              "lyrics": "make a dif"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ference, gonna make it right"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "As I,"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "turn up the co"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "llar on my f"
+            },
+            {
+              "chord": "D",
+              "lyrics": "avorite win"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ter coat, this wind is blowin' my mind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I see t"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "he kids in the"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "street, wit"
+            },
+            {
+              "chord": "D",
+              "lyrics": "h not enough to eat"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Who am I, to be blind, pretending not to see their needs"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "A summer's"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "disregard, a broken bottle top"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "And a one"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "man's soul"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "They follow"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "each other on the wind ya' know"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "'Cause th"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ey got nowhere to go"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "That's why I want you to know"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I'm sta"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "rting with th"
+            },
+            {
+              "chord": "C",
+              "lyrics": "e man in th"
+            },
+            {
+              "chord": "D",
+              "lyrics": "e mirror"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I'm ask"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "ing him to ch"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ange his wa"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ys"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And no"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "message could"
+            },
+            {
+              "chord": "C",
+              "lyrics": "have been"
+            },
+            {
+              "chord": "A/C#",
+              "lyrics": "any clearer"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "If you wanna make the world a better place"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Take a lo"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "ok at yourself, and then make a change"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Na na na"
+            },
+            {
+              "chord": "D",
+              "lyrics": ", na na na"
+            },
+            {
+              "chord": "C",
+              "lyrics": "na, na na,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "na na, uh-huh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I've b"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "een a victim o"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "f a selfish"
+            },
+            {
+              "chord": "D",
+              "lyrics": "kind of lov"
+            },
+            {
+              "chord": "C",
+              "lyrics": "e, It's time that I realize"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "There a"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "re some with n"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "o home, not"
+            },
+            {
+              "chord": "D",
+              "lyrics": "a nickel to loan"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Could it be really me, pretending that they're not alone?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "A willow de"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "eply scarred, somebody's broken heart"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "And a was"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "hed-out dream"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "They follow"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "the pattern of the wind, ya' see"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "'Cause th"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ey got no place to be"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "That's why I'm starting with me"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I'm sta"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "rting with th"
+            },
+            {
+              "chord": "C",
+              "lyrics": "e man in th"
+            },
+            {
+              "chord": "D",
+              "lyrics": "e mirror"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I'm ask"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "ing him to ch"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ange his wa"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ys"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And no"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "message could"
+            },
+            {
+              "chord": "C",
+              "lyrics": "have been"
+            },
+            {
+              "chord": "A/C#",
+              "lyrics": "any clearer"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "If you wanna make the world a better place"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Take a lo"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "ok at yourself, and then make a change"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I'm sta"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "rting with th"
+            },
+            {
+              "chord": "C",
+              "lyrics": "e man in th"
+            },
+            {
+              "chord": "D",
+              "lyrics": "e mirror"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I'm ask"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "ing him to ch"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ange his wa"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ys"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And no"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "message could"
+            },
+            {
+              "chord": "C",
+              "lyrics": "have been"
+            },
+            {
+              "chord": "A/C#",
+              "lyrics": "any clearer"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "If you wanna make the world a better place"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Take a lo"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "ok at yourself, and then make a change"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Key-Change]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ab",
+              "lyrics": "I'm star"
+            },
+            {
+              "chord": "Ab/C",
+              "lyrics": "ting with the"
+            },
+            {
+              "chord": "Db",
+              "lyrics": "man in the m"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "irror"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ab",
+              "lyrics": "I'm aski"
+            },
+            {
+              "chord": "Ab/C",
+              "lyrics": "ng him to chan"
+            },
+            {
+              "chord": "Db",
+              "lyrics": "ge his ways"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ab",
+              "lyrics": "No messa"
+            },
+            {
+              "chord": "Ab/C",
+              "lyrics": "ge could have"
+            },
+            {
+              "chord": "Db",
+              "lyrics": "been any cle"
+            },
+            {
+              "chord": "Bb/D",
+              "lyrics": "arer"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ebm",
+              "lyrics": "If you wanna make the world a better place"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ab",
+              "lyrics": "Take a l"
+            },
+            {
+              "chord": "Ab/C",
+              "lyrics": "ook at yoursel"
+            },
+            {
+              "chord": "Db",
+              "lyrics": "f and then m"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "ake the change"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ab",
+              "lyrics": "You gott"
+            },
+            {
+              "chord": "Ab/C",
+              "lyrics": "a get it right"
+            },
+            {
+              "chord": "Db",
+              "lyrics": ", while you"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "got the time"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ab",
+              "lyrics": "'Cause w"
+            },
+            {
+              "chord": "Ab/C",
+              "lyrics": "hen you close"
+            },
+            {
+              "chord": "Db",
+              "lyrics": "your heart"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Ab",
+              "lyrics": "Then you close your, mind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ab/C",
+              "lyrics": "I'm startin"
+            },
+            {
+              "chord": "Db",
+              "lyrics": "g with the m"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "an in the mirror"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ab",
+              "lyrics": "I'm aski"
+            },
+            {
+              "chord": "Ab/C",
+              "lyrics": "ng him to chan"
+            },
+            {
+              "chord": "Db",
+              "lyrics": "ge his ways"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ab",
+              "lyrics": "No messa"
+            },
+            {
+              "chord": "Ab/C",
+              "lyrics": "ge could have"
+            },
+            {
+              "chord": "Db",
+              "lyrics": "been any cle"
+            },
+            {
+              "chord": "Bb/D",
+              "lyrics": "arer"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ebm",
+              "lyrics": "If you wanna make the world a better place"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ab",
+              "lyrics": "Take a loo"
+            },
+            {
+              "chord": "Eb/G",
+              "lyrics": "k at yourself and then make that change"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fm",
+              "lyrics": "Na na"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "na, na na na"
+            },
+            {
+              "chord": "Db",
+              "lyrics": "na, na na,"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "na na, oh ye"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "ah"
+            },
+            {
+              "chord": "Eb/G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fm",
+              "lyrics": "Na na na,"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "na na na na"
+            },
+            {
+              "chord": "Db",
+              "lyrics": ", na na, na na, oh no, oh no"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Db",
+              "lyrics": "I'm gonna make a change"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Db",
+              "lyrics": "It's gonna feel real good, come on (change)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Db",
+              "lyrics": "Just lift yourself, you know"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Db",
+              "lyrics": "You've got to stop it, yourself"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Yeah, make that change)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Db",
+              "lyrics": "I've got to make that change, today! hoo! (man in the mirror)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Db",
+              "lyrics": "You got to, you got to not let yourself brother, Hoo!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Yeah, make that change)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Db",
+              "lyrics": "I've got to get that man, that man (man in the mirror)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Db",
+              "lyrics": "You've got to, you've got to move! come on! come on!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Db",
+              "lyrics": "You got to, stand up! stand up! stand up! (Yeah, make that change)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Db",
+              "lyrics": "Stand up and lift yourself, now! (man in the mirror)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Db",
+              "lyrics": "Hoo! Hoo! Hoo! Aaow!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Yeah, make that change)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Db",
+              "lyrics": "Gonna make that change, come on! (man in the mirror)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Db",
+              "lyrics": "You know it! you know it! you know it! you know"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Db",
+              "lyrics": "(Change)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Make that change"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

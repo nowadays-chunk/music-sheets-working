@@ -1,0 +1,441 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/bruce-springsteen/dancing-in-the-dark-chords-663442",
+  "title": "Dancing In The Dark",
+  "artist": "Bruce Springsteen",
+  "key": "B",
+  "scrapedAt": "2025-12-10T18:48:08.811Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I get up in the evening and I ain't got nothing to say"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I come ho"
+            },
+            {
+              "chord": "C",
+              "lyrics": "me in the morning I go to bed feeling the same way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "I ain't"
+            },
+            {
+              "chord": "C",
+              "lyrics": "nothing but"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "tired, man"
+            },
+            {
+              "chord": "G",
+              "lyrics": "I'm just tired and bored with myself"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Hey ther"
+            },
+            {
+              "chord": "G",
+              "lyrics": "e baby I co"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "uld use just"
+            },
+            {
+              "chord": "D",
+              "lyrics": "a little help"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "You can't"
+            },
+            {
+              "chord": "C",
+              "lyrics": "start a fire, you can't start a fire without a spark"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "This gun"
+            },
+            {
+              "chord": "C",
+              "lyrics": "'s for hire"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "even if we'"
+            },
+            {
+              "chord": "G",
+              "lyrics": "re just dancing in the dark"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Messages keep getting clearer, radio's on and I'm moving 'round my place"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I check m"
+            },
+            {
+              "chord": "C",
+              "lyrics": "y look in the mirror, wanna change my clothes, my hair, my face"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Man I"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ain't gettin"
+            },
+            {
+              "chord": "C",
+              "lyrics": "g nowhere,"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "I'm just liv"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ing in a dump like this"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "There's"
+            },
+            {
+              "chord": "G",
+              "lyrics": "something h"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "appening som"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ewhere baby I just know that there is"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "You can't"
+            },
+            {
+              "chord": "C",
+              "lyrics": "start a fire, you can't start a fire without a spark"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "This gun"
+            },
+            {
+              "chord": "C",
+              "lyrics": "'s for hire"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "even if we'"
+            },
+            {
+              "chord": "G",
+              "lyrics": "re just dancing in the dark"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "You sit"
+            },
+            {
+              "chord": "G",
+              "lyrics": "around get"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ting older,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "there's a"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "joke here somewhere and it's on me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I'll sha"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ke the worl"
+            },
+            {
+              "chord": "D",
+              "lyrics": "d off my shoulders, come on baby the laugh's on me"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 3",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Stay on the streets of this town and they'll be carving you up all right"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "They say"
+            },
+            {
+              "chord": "C",
+              "lyrics": "you gotta stay hungry, hey baby I'm just about starving tonight"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I'm dy"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ing for some"
+            },
+            {
+              "chord": "C",
+              "lyrics": "action, I'"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "m sick of si"
+            },
+            {
+              "chord": "G",
+              "lyrics": "tting 'round here trying to write this book"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "I need a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "love react"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ion, come on"
+            },
+            {
+              "chord": "D",
+              "lyrics": "now baby gimme just one look"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "You can't"
+            },
+            {
+              "chord": "C",
+              "lyrics": "start a fire sitting round crying over a broken heart"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "This gun'"
+            },
+            {
+              "chord": "C",
+              "lyrics": "s for hire"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "even if we're just dancing in the dark"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "You can't"
+            },
+            {
+              "chord": "C",
+              "lyrics": "start a fire worrying about your little world falling apart"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "This gun"
+            },
+            {
+              "chord": "C",
+              "lyrics": "'s for hire"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "even if we'"
+            },
+            {
+              "chord": "G",
+              "lyrics": "re just dancing in the dark"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Even if we're just dancing in the dark"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Even if we're just dancing in the dark"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Even if we're just dancing in the dark"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Hey baby!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,763 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/the-worship-initiative/graves-into-gardens-chords-3291140",
+  "title": "Graves Into Gardens",
+  "artist": "The Worship Initiative",
+  "key": "B",
+  "scrapedAt": "2025-12-10T18:46:54.218Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "C/G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C/G",
+              "lyrics": "I searched"
+            },
+            {
+              "chord": "G",
+              "lyrics": "the world"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C/G",
+              "lyrics": "But it coul"
+            },
+            {
+              "chord": "G",
+              "lyrics": "dn’t fill me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Man’s empty praise"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "and treasures that fade"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "(are) never enough"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Then You came along"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C/G",
+              "lyrics": "And put me"
+            },
+            {
+              "chord": "G",
+              "lyrics": "back together"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "And every"
+            },
+            {
+              "chord": "D",
+              "lyrics": "desire is now satisfied"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Here in Your love"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Oh there’s nothing better than You"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "There’s nothing better than You"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Lord there’s nothing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Nothing is better than You"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Interlude]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "C/G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 3",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C/G",
+              "lyrics": "I’m not afr"
+            },
+            {
+              "chord": "G",
+              "lyrics": "aid"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C/G",
+              "lyrics": "To show You"
+            },
+            {
+              "chord": "G",
+              "lyrics": "my weakness"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "My failures and flaws"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Lord You’ve seen them all"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "And You still call me friend"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 4",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "‘Cause the God of the mountain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C/G",
+              "lyrics": "Is the God"
+            },
+            {
+              "chord": "G",
+              "lyrics": "of the valley"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "There’s not a place"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Your mercy and grace"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Won’t find me again"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Oh there’s nothing better than You"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Oh, there’s nothing better than You"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Lord there’s nothing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Nothing is better than You"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Oh there’s nothing better than You"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Oh there’s nothing better than You"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Lord there’s nothing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Nothing is better than You"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Instrumental]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "You turn"
+            },
+            {
+              "chord": "C",
+              "lyrics": "mourning t"
+            },
+            {
+              "chord": "G",
+              "lyrics": "o dancing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "You give"
+            },
+            {
+              "chord": "G",
+              "lyrics": "beauty for ashes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "You turn shame into glory"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "You’re th"
+            },
+            {
+              "chord": "C",
+              "lyrics": "e only one"
+            },
+            {
+              "chord": "G",
+              "lyrics": "who can"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "You turn"
+            },
+            {
+              "chord": "C",
+              "lyrics": "mourning t"
+            },
+            {
+              "chord": "G",
+              "lyrics": "o dancing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "You give"
+            },
+            {
+              "chord": "G",
+              "lyrics": "beauty for ashes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "You turn shame into glory"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "You’re th"
+            },
+            {
+              "chord": "C",
+              "lyrics": "e only one"
+            },
+            {
+              "chord": "G",
+              "lyrics": "who can"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "You turn"
+            },
+            {
+              "chord": "C",
+              "lyrics": "graves int"
+            },
+            {
+              "chord": "G",
+              "lyrics": "o gardens"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "You turn"
+            },
+            {
+              "chord": "G",
+              "lyrics": "bones into armies"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "You turn seas into highways"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "You’re th"
+            },
+            {
+              "chord": "C",
+              "lyrics": "e only one"
+            },
+            {
+              "chord": "G",
+              "lyrics": "who can"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "You’re th"
+            },
+            {
+              "chord": "C",
+              "lyrics": "e only one"
+            },
+            {
+              "chord": "G",
+              "lyrics": "who can"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Oh there’s nothing better than You"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Lord there’s nothing better than You"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Oh there’s nothing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Nothing is better than You"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Oh there’s nothing better than You"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Oh there’s nothing better than You"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Lord there’s nothing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Nothing is better than You"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "You turn"
+            },
+            {
+              "chord": "C",
+              "lyrics": "graves int"
+            },
+            {
+              "chord": "G",
+              "lyrics": "o gardens"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "You turn"
+            },
+            {
+              "chord": "G",
+              "lyrics": "bones into armies"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "You turn seas into highways"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "You’re th"
+            },
+            {
+              "chord": "C",
+              "lyrics": "e only one"
+            },
+            {
+              "chord": "G",
+              "lyrics": "who can"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "You’re th"
+            },
+            {
+              "chord": "C",
+              "lyrics": "e only one"
+            },
+            {
+              "chord": "G",
+              "lyrics": "who can"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "You’re"
+            },
+            {
+              "chord": "C",
+              "lyrics": "the only on"
+            },
+            {
+              "chord": "G",
+              "lyrics": "e who can"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

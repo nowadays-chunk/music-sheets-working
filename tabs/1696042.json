@@ -1,0 +1,827 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/labrinth/jealous-chords-1696042",
+  "title": "Jealous",
+  "artist": "Labrinth",
+  "key": "C",
+  "scrapedAt": "2025-12-10T18:44:04.990Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "*   *   *"
+            },
+            {
+              "chord": "F",
+              "lyrics": "* e|----"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "-------------"
+            },
+            {
+              "chord": "C",
+              "lyrics": "-----|-----"
+            },
+            {
+              "chord": "F",
+              "lyrics": "-----------"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "------|------"
+            },
+            {
+              "chord": "C",
+              "lyrics": "-----------"
+            },
+            {
+              "chord": "F",
+              "lyrics": "---0-|-1-0-"
+            },
+            {
+              "chord": "C",
+              "lyrics": "------------"
+            },
+            {
+              "chord": "F",
+              "lyrics": "---|"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|-3h5-3---------1------|-3h5-3---------1------|-0h1-0------------3---|-1----3--1---1------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|-0------0h2-0---------|-0------0h2-0---------|-0------0h2-0--0------|--------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|---------------2------|---------------2------|----------------------|--------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|-3------3------0------|-3------3------0------|-3------3------3------|-------------0------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|--------1-------------|--------1-------------|--------1-------------|-1----3-------------|"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "* I'm jea"
+            },
+            {
+              "chord": "F",
+              "lyrics": "lous of the"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "rain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "* That fa"
+            },
+            {
+              "chord": "F",
+              "lyrics": "lls upon yo"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ur skin"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "* It's cl"
+            },
+            {
+              "chord": "F",
+              "lyrics": "oser than m"
+            },
+            {
+              "chord": "C",
+              "lyrics": "y hands have been"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "* I'm jea"
+            },
+            {
+              "chord": "G",
+              "lyrics": "lous of the"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "rain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "* I'm jea"
+            },
+            {
+              "chord": "F",
+              "lyrics": "lous of the"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "wind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "* That ri"
+            },
+            {
+              "chord": "F",
+              "lyrics": "pples throu"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "gh your clothes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "* It's cl"
+            },
+            {
+              "chord": "F",
+              "lyrics": "oser than y"
+            },
+            {
+              "chord": "C",
+              "lyrics": "our shadow"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "* N.C. Oh"
+            },
+            {
+              "chord": "G",
+              "lyrics": ", I'm jealo"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "us of the wind, cause"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I wished"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "you the best of"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "All this"
+            },
+            {
+              "chord": "G",
+              "lyrics": "world could"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "give"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "And I tol"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "d you when you left me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "There's no"
+            },
+            {
+              "chord": "G",
+              "lyrics": "thing to forgive"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "But I alw"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ays thought you'd come back, tell me all you found was"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Heartbrea"
+            },
+            {
+              "chord": "F",
+              "lyrics": "k and misery"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "It's har"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "d for me to"
+            },
+            {
+              "chord": "F",
+              "lyrics": "say, I'm jealous of the way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "You're h"
+            },
+            {
+              "chord": "G",
+              "lyrics": "appy withou"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "t me"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "* I'm jea"
+            },
+            {
+              "chord": "F",
+              "lyrics": "lous of the"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "nights"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "* That I"
+            },
+            {
+              "chord": "F",
+              "lyrics": "don't spend"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "with you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "* I'm won"
+            },
+            {
+              "chord": "F",
+              "lyrics": "dering who"
+            },
+            {
+              "chord": "C",
+              "lyrics": "you lay next to"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "* Oh, I'm"
+            },
+            {
+              "chord": "G",
+              "lyrics": "jealous of"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "the nights"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "* I'm jea"
+            },
+            {
+              "chord": "F",
+              "lyrics": "lous of the"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "love"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "* Love th"
+            },
+            {
+              "chord": "F",
+              "lyrics": "at was in h"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ere"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "* Gone fo"
+            },
+            {
+              "chord": "F",
+              "lyrics": "r someone e"
+            },
+            {
+              "chord": "C",
+              "lyrics": "lse to share"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "* Oh, I'm"
+            },
+            {
+              "chord": "G",
+              "lyrics": "jealous of"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "the love, cause"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I wished"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "you the best of"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "All this"
+            },
+            {
+              "chord": "G",
+              "lyrics": "world could"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "give"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "And I tol"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "d you when you left me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "There's no"
+            },
+            {
+              "chord": "G",
+              "lyrics": "thing to forgive"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "But I alw"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ays thought you'd come back, tell me all you found was"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Heartbrea"
+            },
+            {
+              "chord": "F",
+              "lyrics": "k and misery"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "It's har"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "d for me to"
+            },
+            {
+              "chord": "F",
+              "lyrics": "say, I'm jealous of the way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "You're h"
+            },
+            {
+              "chord": "G",
+              "lyrics": "appy withou"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "t me"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Gbdim7",
+              "lyrics": "As I sink in t"
+            },
+            {
+              "chord": "F7b9",
+              "lyrics": "he sand"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gbdim7",
+              "lyrics": "Watch you slip"
+            },
+            {
+              "chord": "Abmaj7",
+              "lyrics": "through my hands"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ebmaj7",
+              "lyrics": "Oh, as I die"
+            },
+            {
+              "chord": "Abmaj7",
+              "lyrics": "here another da"
+            },
+            {
+              "chord": "Ebmaj7",
+              "lyrics": "y"
+            },
+            {
+              "chord": "C7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fm7",
+              "lyrics": "Cause all I"
+            },
+            {
+              "chord": "Bb7",
+              "lyrics": "do is cry behind this smile"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[End-Chorus]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Eb",
+              "lyrics": "I wished y"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "ou the best of"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fm",
+              "lyrics": "All this w"
+            },
+            {
+              "chord": "Bb7",
+              "lyrics": "orld could give"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Eb",
+              "lyrics": "And I told"
+            },
+            {
+              "chord": "Cm7",
+              "lyrics": "you when you left me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fm7",
+              "lyrics": "There's nothing to forgive"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Db7-9",
+              "lyrics": "But I alway"
+            },
+            {
+              "chord": "Bb7-9",
+              "lyrics": "s thought you'd"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "come back,"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "tell me all you found was"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Eb",
+              "lyrics": "Heartbreak"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "and misery"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ab",
+              "lyrics": "It's hard"
+            },
+            {
+              "chord": "Fm7",
+              "lyrics": "for me to sa"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "y, I'm jealous of the way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "You're ha"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "ppy without"
+            },
+            {
+              "chord": "F7",
+              "lyrics": "me eeee"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ab",
+              "lyrics": "It's hard"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "for me to say, I'm jealous of the way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cm",
+              "lyrics": "You're happy without me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "***********************************"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| h Hammer-on"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| p Pull-off"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "***********************************"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

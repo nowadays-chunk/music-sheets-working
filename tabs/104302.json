@@ -1,0 +1,345 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/hoobastank/the-reason-chords-104302",
+  "title": "The Reason",
+  "artist": "Hoobastank",
+  "key": "",
+  "scrapedAt": "2025-12-10T18:47:45.591Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "I'm not a"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "perfect person"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "There are many things I wish I didn't do"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "But I continue learning"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Aadd9",
+              "lyrics": "I never meant to do those things to you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Badd11",
+              "lyrics": "And so I have to say before I go"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E5",
+              "lyrics": "That I just want you to know"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "I've found a reason for me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Aadd9",
+              "lyrics": "To change who I used to be"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Badd11",
+              "lyrics": "A reason to start over new"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "And the reason is you"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "I'm sorry that I hurt you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "It's something I must live with everyday"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "And all the pain I put you through"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Aadd9",
+              "lyrics": "I wish that I could take it all away"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Badd11",
+              "lyrics": "And be the one who catches all your tears"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E5",
+              "lyrics": "Thats why I need you to hear"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "I've found a reason for me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Aadd9",
+              "lyrics": "To change who I used to be"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Badd11",
+              "lyrics": "A reason to start over new"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dsus2",
+              "lyrics": "And the reason is you"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E5",
+              "lyrics": "And the reason is you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dsus2",
+              "lyrics": "And the reason is you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E5",
+              "lyrics": "And the reason is you"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 3",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "I'm not a"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "perfect person"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Aadd9",
+              "lyrics": "I never meant to do those things to you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Badd11",
+              "lyrics": "And so I have to say before I go"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E5",
+              "lyrics": "That I just want you to know"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus 3",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "I've found a reason for me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Aadd9",
+              "lyrics": "To change who I used to be"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Badd11",
+              "lyrics": "A reason to start over new"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E5",
+              "lyrics": "And the reason is you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "I've found a reason to show"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Aadd9",
+              "lyrics": "A side of me you didn't know"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Badd11",
+              "lyrics": "A reason for all that I do"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "And the reason is you"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

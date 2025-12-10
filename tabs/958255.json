@@ -1,0 +1,774 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/procol-harum/a-whiter-shade-of-pale-chords-958255",
+  "title": "A Whiter Shade Of Pale",
+  "artist": "Procol Harum",
+  "key": "",
+  "scrapedAt": "2025-12-10T18:47:58.180Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C/B",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am/G",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "F/E",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dm",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dm/C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "G/F",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em/D",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "We skip"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "ped the light"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "fandango"
+            },
+            {
+              "chord": "Am/G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "turned"
+            },
+            {
+              "chord": "F/E",
+              "lyrics": "cartwheels 'c"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "ross the flo"
+            },
+            {
+              "chord": "Dm/C",
+              "lyrics": "or"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I was f"
+            },
+            {
+              "chord": "G/F",
+              "lyrics": "eeling kinda"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "seasick"
+            },
+            {
+              "chord": "Em/D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "but the"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "crowd called"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "out for mor"
+            },
+            {
+              "chord": "Am/G",
+              "lyrics": "e"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "The roo"
+            },
+            {
+              "chord": "F/E",
+              "lyrics": "m was humming"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "harder"
+            },
+            {
+              "chord": "Dm/C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "as the"
+            },
+            {
+              "chord": "G/F",
+              "lyrics": "ceiling flew"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "away"
+            },
+            {
+              "chord": "Em/D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "When we"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "called out f"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "or another d"
+            },
+            {
+              "chord": "Am/G",
+              "lyrics": "rink"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "the wait"
+            },
+            {
+              "chord": "F/E",
+              "lyrics": "er brought a"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "tray"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G7",
+              "lyrics": "And so"
+            },
+            {
+              "chord": "C",
+              "lyrics": "it was,___"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "that later,__"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "__"
+            },
+            {
+              "chord": "Am/G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "as the"
+            },
+            {
+              "chord": "F/E",
+              "lyrics": "miller told h"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "is tale"
+            },
+            {
+              "chord": "Dm/C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "that he"
+            },
+            {
+              "chord": "G/F",
+              "lyrics": "r face, at fi"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "rst just gho"
+            },
+            {
+              "chord": "Em/D",
+              "lyrics": "stly,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "turned"
+            },
+            {
+              "chord": "F",
+              "lyrics": "a whiter s"
+            },
+            {
+              "chord": "C",
+              "lyrics": "hade of pal"
+            },
+            {
+              "chord": "G6add11",
+              "lyrics": "e"
+            },
+            {
+              "chord": "G6",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C/B",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am/G",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "F/E",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dm",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dm/C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "G/F",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em/D",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "She sai"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "d there is no"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "reason"
+            },
+            {
+              "chord": "Am/G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "And the"
+            },
+            {
+              "chord": "F/E",
+              "lyrics": "truth is pla"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "in to see"
+            },
+            {
+              "chord": "Dm/C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "But I w"
+            },
+            {
+              "chord": "G/F",
+              "lyrics": "andered throu"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "gh my playin"
+            },
+            {
+              "chord": "Em/D",
+              "lyrics": "g cards"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Would n"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "ot let her be"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am/G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "One of"
+            },
+            {
+              "chord": "F/E",
+              "lyrics": "sixteen vesta"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "l virgins"
+            },
+            {
+              "chord": "Dm/C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Who wer"
+            },
+            {
+              "chord": "G/F",
+              "lyrics": "e leaving for"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "the coast"
+            },
+            {
+              "chord": "Em/D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "And alt"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "hough my eyes"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "were o____p"
+            },
+            {
+              "chord": "Am/G",
+              "lyrics": "en"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "They mig"
+            },
+            {
+              "chord": "F/E",
+              "lyrics": "ht just as we"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "ll been closed"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G7",
+              "lyrics": "And so"
+            },
+            {
+              "chord": "C",
+              "lyrics": "it was,___"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "that later,__"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "__"
+            },
+            {
+              "chord": "Am/G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "as the"
+            },
+            {
+              "chord": "F/E",
+              "lyrics": "miller told h"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "is tale"
+            },
+            {
+              "chord": "Dm/C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "that he"
+            },
+            {
+              "chord": "G/F",
+              "lyrics": "r face, at fi"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "rst just gho"
+            },
+            {
+              "chord": "Em/D",
+              "lyrics": "stly,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "turned"
+            },
+            {
+              "chord": "F",
+              "lyrics": "a whiter s"
+            },
+            {
+              "chord": "C",
+              "lyrics": "hade of pal"
+            },
+            {
+              "chord": "G6add11",
+              "lyrics": "e"
+            },
+            {
+              "chord": "G6",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C/B",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am/G",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "F/E",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dm",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dm/C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "G/F",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em/D",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G7",
+              "lyrics": "And so"
+            },
+            {
+              "chord": "C",
+              "lyrics": "it was,___"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "that later,__"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "__"
+            },
+            {
+              "chord": "Am/G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "as the"
+            },
+            {
+              "chord": "F/E",
+              "lyrics": "miller told h"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "is tale"
+            },
+            {
+              "chord": "Dm/C",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

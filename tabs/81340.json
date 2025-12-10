@@ -1,0 +1,370 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/radiohead/exit-music-for-a-film-chords-81340",
+  "title": "Exit Music For A Film",
+  "artist": "Radiohead",
+  "key": "",
+  "scrapedAt": "2025-12-10T18:47:42.311Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e|---2--2--2--2---2--2--2--2--2--2--2--2--2--2-|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|---3--3--3--3---3--3--3--2--2--5--3--3--3--3-|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|---4--4--4--4---4--4--4--4--4--4--4--4--4--4-|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|---4--4--4--4---4--4--4--4--4--4--4--4--4--4-|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|-2------------2------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|-2------------2------------------------------|"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Wake fro"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "m you sleep,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "the drying"
+            },
+            {
+              "chord": "E",
+              "lyrics": "of your tears"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Today, w"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "e escape, we"
+            },
+            {
+              "chord": "Bsus4",
+              "lyrics": "escape."
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Pack and"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "get dressed"
+            },
+            {
+              "chord": "D",
+              "lyrics": ", before yo"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ur father hears us"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Before a"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "ll hell brea"
+            },
+            {
+              "chord": "Bsus4",
+              "lyrics": "ks loose"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Breath kee"
+            },
+            {
+              "chord": "E",
+              "lyrics": "p breathing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Don't loo"
+            },
+            {
+              "chord": "G",
+              "lyrics": "se your ner"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "ve"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Breath kee"
+            },
+            {
+              "chord": "E",
+              "lyrics": "p breathing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "I can't d"
+            },
+            {
+              "chord": "G",
+              "lyrics": "o this alon"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "e"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Sing us"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "a song, a so"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ng to keep"
+            },
+            {
+              "chord": "E",
+              "lyrics": "us warm"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "There's"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "such a chill"
+            },
+            {
+              "chord": "Bsus4",
+              "lyrics": ", such a chill"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "And you"
+            },
+            {
+              "chord": "C#",
+              "lyrics": "can laugh, a"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "spineless l"
+            },
+            {
+              "chord": "G",
+              "lyrics": "augh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "We hope y"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "our rules and wisdom choke you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Now, we"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "are one, in"
+            },
+            {
+              "chord": "D",
+              "lyrics": "everlasting"
+            },
+            {
+              "chord": "E",
+              "lyrics": "peace"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "We hope"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "that you cho"
+            },
+            {
+              "chord": "Bsus4",
+              "lyrics": "ke, that you ch"
+            },
+            {
+              "chord": "B",
+              "lyrics": "oke"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "We hope"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "that you cho"
+            },
+            {
+              "chord": "Bsus4",
+              "lyrics": "ke, that you ch"
+            },
+            {
+              "chord": "B",
+              "lyrics": "oke"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "We hope"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "that you cho"
+            },
+            {
+              "chord": "Bsus4",
+              "lyrics": "ke, that you ch"
+            },
+            {
+              "chord": "B",
+              "lyrics": "oke"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

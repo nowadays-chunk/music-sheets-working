@@ -1,0 +1,1060 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/toto/hold-the-line-chords-1012428",
+  "title": "Hold The Line",
+  "artist": "Toto",
+  "key": "F#m",
+  "scrapedAt": "2025-12-10T18:47:46.880Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "x2"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "Esus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "C#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cm",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "It's n"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "ot in the way"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "that you hol"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "d me (riff 1)"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "It's n"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "ot in the way"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "you say you"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "care (riff 2)"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "It's"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "not in the wa"
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": "y you've been t"
+            },
+            {
+              "chord": "E",
+              "lyrics": "reating my"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "friends"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "It's"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "not in the wa"
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": "y that you stay"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ed till the"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "end"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "It's not"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "in the way y"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ou look or"
+            },
+            {
+              "chord": "E",
+              "lyrics": "the things that you say that you'll do"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "H"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "old the line,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "love isn't"
+            },
+            {
+              "chord": "E",
+              "lyrics": "always on"
+            },
+            {
+              "chord": "Esus4",
+              "lyrics": "time, oh oh oh"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "C#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "Esus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "Hold the l"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ine, love i"
+            },
+            {
+              "chord": "E",
+              "lyrics": "sn't always"
+            },
+            {
+              "chord": "Esus4",
+              "lyrics": "on time, oh oh"
+            },
+            {
+              "chord": "E",
+              "lyrics": "oh"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "C#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "Esus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "C#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cm",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "It's n"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "ot in the wor"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "ds that you t"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "old me, girl"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "(riff 1)"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "It's n"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "ot in the way"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "you say you'"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "re mine (riff"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "2)"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "It's"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "not in the wa"
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": "y that you came"
+            },
+            {
+              "chord": "E",
+              "lyrics": "back to me"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cm",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "It's"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "not in the wa"
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": "y that your lov"
+            },
+            {
+              "chord": "E",
+              "lyrics": "e set me fr"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "ee"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "It's not"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "in the way y"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ou look or"
+            },
+            {
+              "chord": "E",
+              "lyrics": "the things that you say that you'll do"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "H"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "old the line,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "love isn't"
+            },
+            {
+              "chord": "E",
+              "lyrics": "always on"
+            },
+            {
+              "chord": "Esus4",
+              "lyrics": "time, oh oh oh"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "C#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "Esus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "Hold the l"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ine, love i"
+            },
+            {
+              "chord": "E",
+              "lyrics": "sn't always"
+            },
+            {
+              "chord": "Esus4",
+              "lyrics": "on time, oh oh"
+            },
+            {
+              "chord": "E",
+              "lyrics": "oh"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "C#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "Esus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "C#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cm",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "It's n"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "ot in the wor"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "ds that you t"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "old me, girl"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "(riff 1)"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "It's n"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "ot in the way"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "you say you'"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "re mine, ooh"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "(riff 2)"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "It's"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "not in the wa"
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": "y that you came"
+            },
+            {
+              "chord": "E",
+              "lyrics": "back to me"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cm",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "It's"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "not in the wa"
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": "y that your lov"
+            },
+            {
+              "chord": "E",
+              "lyrics": "e set me fr"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "ee"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "It's not"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "in the way y"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ou look or"
+            },
+            {
+              "chord": "E",
+              "lyrics": "the things that you say that you'll do"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "H"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "old the line,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "love isn't"
+            },
+            {
+              "chord": "E",
+              "lyrics": "always on"
+            },
+            {
+              "chord": "Esus4",
+              "lyrics": "time, oh oh oh"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "C#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "Esus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "H"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "old the line,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "love isn't"
+            },
+            {
+              "chord": "E",
+              "lyrics": "always on"
+            },
+            {
+              "chord": "Esus4",
+              "lyrics": "time, (Love isn"
+            },
+            {
+              "chord": "E",
+              "lyrics": "'t always o"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "n time)"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "Esus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "H"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "old the line,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "love isn't"
+            },
+            {
+              "chord": "E",
+              "lyrics": "always on"
+            },
+            {
+              "chord": "Esus4",
+              "lyrics": "time, (Love isn"
+            },
+            {
+              "chord": "E",
+              "lyrics": "'t always,"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "love isn't al"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "ways on time)"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "Esus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "H"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "old the line,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "love isn't"
+            },
+            {
+              "chord": "E",
+              "lyrics": "always on"
+            },
+            {
+              "chord": "Esus4",
+              "lyrics": "time,"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "C#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "Esus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Love is"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "n't always on"
+            },
+            {
+              "chord": "D",
+              "lyrics": "time"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "Esus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Love is"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "n't always on"
+            },
+            {
+              "chord": "D",
+              "lyrics": "time"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "Esus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Lov"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "e isn't alway"
+            },
+            {
+              "chord": "D",
+              "lyrics": "s on time,"
+            },
+            {
+              "chord": "E",
+              "lyrics": "whoa oh oh"
+            },
+            {
+              "chord": "Esus4",
+              "lyrics": "oh"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "C#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cm",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

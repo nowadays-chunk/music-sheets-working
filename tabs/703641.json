@@ -1,0 +1,237 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/bruce-springsteen/im-on-fire-chords-703641",
+  "title": "Im On Fire",
+  "artist": "Bruce Springsteen",
+  "key": "E",
+  "scrapedAt": "2025-12-10T18:47:15.630Z",
+  "sections": [
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Hey little girl, is your daddy home"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Did he go and leave you all alone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "I've got"
+            },
+            {
+              "chord": "C",
+              "lyrics": "a bad desi"
+            },
+            {
+              "chord": "D",
+              "lyrics": "re, Oh, I'm"
+            },
+            {
+              "chord": "G",
+              "lyrics": "on fire"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Tell me now baby, is he good to you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "And can he do to you the things that I do"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "I can ta"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ke you high"
+            },
+            {
+              "chord": "D",
+              "lyrics": "er, Oh, I'm"
+            },
+            {
+              "chord": "G",
+              "lyrics": "on fire"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Instrumental]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": ")"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 3",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": ")  Sometimes"
+            },
+            {
+              "chord": "C",
+              "lyrics": "it's like someone took a knife baby, edgy and dull"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "() And cut"
+            },
+            {
+              "chord": "D",
+              "lyrics": "a six inch"
+            },
+            {
+              "chord": "C",
+              "lyrics": "valley through the middle of my skull"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 4",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "At night I wake up with the sheets soaking wet"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "And a freight train running through the middle of my head, and you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "You cool"
+            },
+            {
+              "chord": "C",
+              "lyrics": "my desire,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "Oh, I'm on"
+            },
+            {
+              "chord": "G",
+              "lyrics": "fire"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Oh, I'm"
+            },
+            {
+              "chord": "D",
+              "lyrics": "on fire"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Oh, I'm"
+            },
+            {
+              "chord": "D",
+              "lyrics": "on fire"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Fade out"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

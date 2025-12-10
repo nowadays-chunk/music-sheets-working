@@ -1,0 +1,337 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/the-beatles/golden-slumbers-chords-17417",
+  "title": "Golden Slumbers",
+  "artist": "The Beatles",
+  "key": "C",
+  "scrapedAt": "2025-12-10T18:46:15.592Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(quietly)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e|-------------------------| |-3-----3-----3-----3-----|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|-------------------------| |-1-----1-----1-----1-----|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|-0-----0-----0-----0-----| |----2-----2-----2-----2--|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|-------------------------| or |-------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|-3--0--3--0--3--0--3--0--| |-------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|-------------------------| |-------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "1 & 2 & 3 & 4 & 1 & 2 & 3 & 4 &"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(quietly)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "Once, there"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "was a way to get back homeward"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G7",
+              "lyrics": "Once, ther"
+            },
+            {
+              "chord": "C",
+              "lyrics": "e was a way to get back home"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Sleep pr"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "etty darling"
+            },
+            {
+              "chord": "Dm9",
+              "lyrics": ", do not cry"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G7",
+              "lyrics": "And I will"
+            },
+            {
+              "chord": "C",
+              "lyrics": "sing a lullaby"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(loudly)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Golden s"
+            },
+            {
+              "chord": "Fadd9",
+              "lyrics": "lumbers fill yo"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ur eyes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Smiles a"
+            },
+            {
+              "chord": "Fadd9",
+              "lyrics": "wake you when y"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ou rise"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Sleep pr"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "etty darling"
+            },
+            {
+              "chord": "Dm9",
+              "lyrics": ", do not cry"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G7",
+              "lyrics": "And I will"
+            },
+            {
+              "chord": "C",
+              "lyrics": "sing a lullaby"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(louder than first verse but not as loud as chorus)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "Once, there"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "was a way to get back homeward"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Strings part)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e|-------------------------|-5------------------------|------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|---------5-6-5-----5--6--|----6--5--------5-6-------|------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|------7---------7--------|-------------7------7--5--|-4----|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|---7---------------------|----------7---------------|------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|-------------------------|--------------------------|------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|-------------------------|--------------------------|------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G7",
+              "lyrics": "Once, ther"
+            },
+            {
+              "chord": "C",
+              "lyrics": "e was a way to get back home"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Sleep pr"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "etty darling"
+            },
+            {
+              "chord": "Dm9",
+              "lyrics": ", do not cry"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G7",
+              "lyrics": "And I will"
+            },
+            {
+              "chord": "C",
+              "lyrics": "sing a lullaby"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

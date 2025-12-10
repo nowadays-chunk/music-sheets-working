@@ -1,0 +1,277 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/misc-soundtrack/the-wizard-of-oz-somewhere-over-the-rainbow-chords-69519",
+  "title": "The Wizard Of Oz - Somewhere Over The Rainbow",
+  "artist": "Misc Soundtrack",
+  "key": "C",
+  "scrapedAt": "2025-12-10T18:47:37.866Z",
+  "sections": [
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Somew"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "here over th"
+            },
+            {
+              "chord": "F",
+              "lyrics": "e rainbow,"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "way up high"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "The"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "re's a land"
+            },
+            {
+              "chord": "C",
+              "lyrics": "that I hear"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "d of once in a"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "lullaby"
+            },
+            {
+              "chord": "G7",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Somew"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "here over th"
+            },
+            {
+              "chord": "F",
+              "lyrics": "e rainbow,"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "skies are blue"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "And"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "the dreams t"
+            },
+            {
+              "chord": "C",
+              "lyrics": "hat you dar"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "e to dream real"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "ly do come tr"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "ue"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Some day"
+            },
+            {
+              "chord": "Csus4",
+              "lyrics": "I'll wish upon"
+            },
+            {
+              "chord": "C6",
+              "lyrics": "a star and wake up where the clouds are far behind me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Where tr"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "oubles melt"
+            },
+            {
+              "chord": "G",
+              "lyrics": "like lemon drops away upon the chimney tops, that's where"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G7",
+              "lyrics": "you'll find me"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 3",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Somew"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "here over th"
+            },
+            {
+              "chord": "F",
+              "lyrics": "e rainbow,"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "blue birds fly"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Bird"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "s fly over t"
+            },
+            {
+              "chord": "C",
+              "lyrics": "he rainbow,"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "why then, oh w"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "hy can't I"
+            },
+            {
+              "chord": "G7",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "If hap"
+            },
+            {
+              "chord": "G",
+              "lyrics": "py little b"
+            },
+            {
+              "chord": "F",
+              "lyrics": "lue birds f"
+            },
+            {
+              "chord": "Fadd#11",
+              "lyrics": "ly beyond the rai"
+            },
+            {
+              "chord": "C",
+              "lyrics": "nbow why, oh why can't I"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

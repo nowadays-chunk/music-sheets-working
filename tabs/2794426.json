@@ -1,0 +1,556 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/post-malone/circles-chords-2794426",
+  "title": "Circles",
+  "artist": "Post Malone",
+  "key": "C",
+  "scrapedAt": "2025-12-10T18:44:33.892Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Fm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj7",
+              "lyrics": "Hey, hey, he"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "y, hey"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "Oh, oh, oh-oh"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj7",
+              "lyrics": "Oh, oh, oh-oh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "Oh, oh, oh-oh"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "* * We could"
+            },
+            {
+              "chord": "F",
+              "lyrics": "n't turn around"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "* 'Til we were upside down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "* I'll be the bad guy now"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj7",
+              "lyrics": "But no, I ain't too proud"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "I couldn't be"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "there"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj7",
+              "lyrics": "Even when I tried"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "You don't believe it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "N.C."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We do this every time"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj7",
+              "lyrics": "Seasons change and our love went cold"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Feed the"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "flame 'cause we can't let go"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj7",
+              "lyrics": "Run away but we're running in circles"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Run away,"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "run away"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj7",
+              "lyrics": "I dare you to do something"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "I'm waiting o"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "n you again, so I don't take the blame"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj7",
+              "lyrics": "Run away but we're running in circles"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Run away,"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "run away, run away, oh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "* Let go"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "* I got a feeling that it's time to let go"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "* I say so"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "* I knew that this was doomed from the get go"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj7",
+              "lyrics": "You thought that it was special, special"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "But it was ju"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "st the sex though, the sex though"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj7",
+              "lyrics": "And I still hear the echoes (The echoes)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "N.C. I got a feeling that it's time to let it go, let it go"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj7",
+              "lyrics": "Seasons change and our love went cold"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Feed the"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "flame 'cause we can't let go"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj7",
+              "lyrics": "Run away but we're running in circles"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "Run away, run"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "away"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj7",
+              "lyrics": "I dare you to do something"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "I'm waiting o"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "n you again, so I don't take the blame"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj7",
+              "lyrics": "Run away but we're running in circles"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "Run away, run"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "away, run away"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Maybe you"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "don't understand what I'm going through"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "It's only"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "me, what you got to lose?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Make up y"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "our mind, tell me what are you gonna do"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "N.C. It's only me, let it go"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj7",
+              "lyrics": "Seasons change and our love went cold"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Feed the"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "flame 'cause we can't let go"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj7",
+              "lyrics": "Run away but we're running in circles"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Run away,"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "run away"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj7",
+              "lyrics": "I dare you to"
+            },
+            {
+              "chord": "Cmaj7/B",
+              "lyrics": "do something"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "I'm waiting o"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "n you again, so I don't take the blame"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Run away"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "but we're running in circles"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Run away"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": ", run away,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "run away"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

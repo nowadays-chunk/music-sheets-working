@@ -1,0 +1,679 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/haloo-helsinki/joulun-kanssas-jaan-chords-2250941",
+  "title": "Joulun Kanssas Jaan",
+  "artist": "Haloo Helsinki!",
+  "key": "Ab",
+  "scrapedAt": "2025-12-10T18:46:04.847Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Intro Tab",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "e|-----"
+            },
+            {
+              "chord": "C",
+              "lyrics": "-----------"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "------------"
+            },
+            {
+              "chord": "D",
+              "lyrics": "---------------------------------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|-0-----------1-----0------------------------------------------------------0----------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|-0-----2-----0-----0-------0------------------------0-----------------0-2-----2------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|---------------------------------4-----2-----0------2-------------------------0-0-0-0-0-0-0-0-0-0-0-0--|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|---------------------------3-3-3-3-3-3-3-3-3-3-3-3-----------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|-3-3-3-3-3-3-3-3-3-3-3-3----------------------------0-0-0-0-0-0-0-0-0-0-0-0----------------------------|"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Hulinaa, kadut täynnä valoja vaan"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Valoja vär"
+            },
+            {
+              "chord": "D",
+              "lyrics": "eissä taivaan ja maan"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Joku piiloutuu lahjavuorten taa"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Joku kadul"
+            },
+            {
+              "chord": "D",
+              "lyrics": "le pulloja soittelemaan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Juoskoon t"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ää kansa sen kiireensä kii"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Jota var"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ten tänne m"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "uka synnyttiin"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Mulla ei o"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "o kiire minnekään"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Aion sul"
+            },
+            {
+              "chord": "G",
+              "lyrics": "le kynttilä"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "n nyt sytyttää"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Valkoinen maa, lunta sataa"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Tässä mä seison takki auki taas"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Tämä vuos"
+            },
+            {
+              "chord": "D",
+              "lyrics": "i joitain suosi enemmän"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Valkoinen maa, antaa sataa"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Tahtoisin päästä sua halaamaan"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Tänä vuonn"
+            },
+            {
+              "chord": "D",
+              "lyrics": "a tämän joulun kanssas jaan"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Välisoitto]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Joka päivä yritän sen ymmärtää"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Kuinka tää"
+            },
+            {
+              "chord": "D",
+              "lyrics": "kaikki joskus häviää"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Ja se rikkaus joka kuuluu elämään"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Sitä silmi"
+            },
+            {
+              "chord": "D",
+              "lyrics": "llä pysty mä en näkemään"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Särkyköön"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "suruni hetkeksi pois"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Eikä vih"
+            },
+            {
+              "chord": "G",
+              "lyrics": "a mun sisäl"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "lä vaikeroi"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Tahdon vai"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "n hetkisen hengähtää"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Aion sul"
+            },
+            {
+              "chord": "G",
+              "lyrics": "le kynttilä"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "n nyt sytyttää"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Valkoinen maa, lunta sataa"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Tässä mä seison takki auki taas"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Tämä vuos"
+            },
+            {
+              "chord": "D",
+              "lyrics": "i joitain suosi enemmän"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Valkoinen maa, antaa sataa"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Tahtoisin päästä sua halaamaan"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Tänä vuonn"
+            },
+            {
+              "chord": "D",
+              "lyrics": "a tämän joulun kanssas jaan"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[C-osa]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Luona nim"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ettyjen kivien maan"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Vielä he"
+            },
+            {
+              "chord": "G",
+              "lyrics": "tken kanssa"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "s olla saan"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Kerran tä"
+            },
+            {
+              "chord": "C",
+              "lyrics": "nne, tullaan kerran"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Täältä läh"
+            },
+            {
+              "chord": "D",
+              "lyrics": "detään"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Kerran tä"
+            },
+            {
+              "chord": "C",
+              "lyrics": "nne, tullaan kerran"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Täältä läh"
+            },
+            {
+              "chord": "D",
+              "lyrics": "detään"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Valkoinen maa, lunta sataa"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Tässä mä seison takki auki taas"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Tämä vuos"
+            },
+            {
+              "chord": "D",
+              "lyrics": "i joitain suosi enemmän"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Valkoinen maa, antaa sataa"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Tahtoisin päästä sua halaamaan"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Tänä vuonn"
+            },
+            {
+              "chord": "D",
+              "lyrics": "a tämän joulun kanssas jaan"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Valkoinen maa, lunta sataa"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Tässä mä seison takki auki taas"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Tämä vuos"
+            },
+            {
+              "chord": "D",
+              "lyrics": "i joitain suosi enemmän"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Valkoinen maa, antaa sataa"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Tahtoisin päästä sua halaamaan"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Tänä vuonn"
+            },
+            {
+              "chord": "D",
+              "lyrics": "a tämän joulun kanssas jaan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Luona n"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "imettyjen ki"
+            },
+            {
+              "chord": "D",
+              "lyrics": "vien maan"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

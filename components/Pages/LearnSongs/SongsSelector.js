@@ -1,429 +1,474 @@
-// ===========================================
-//   SongsSelector.jsx (SELF-CONTAINED VERSION)
-// ===========================================
+// ============================================================
+//   SongsSelector.jsx — Clean Grid + Responsive Padding + Fullscreen
+// ============================================================
 
-import React, { useState } from 'react';
+import React, { useState, useEffect } from "react";
 import {
-  Button,
+  Box,
   Card,
   CardContent,
   Typography,
-  Tabs,
-  Tab
-} from '@mui/material';
-import { styled } from '@mui/system';
-import guitar from '../../../config/guitar';
-import { mostCommonSongs } from '../../../config/mostCommonSongs';
+  TextField,
+  Button,
+} from "@mui/material";
+import { styled } from "@mui/system";
 
-/* -------------------- Styles -------------------- */
-const Root = styled('div')({
-  display: 'flex',
-  flexDirection: 'column',
-});
+import songsAll from "@/output_songs/songs-all.json";
 
-const StyledButton = styled(Button)({
-  borderRadius: '20px',
-  margin: '10px',
-});
+/* ============================================================
+   GRID LAYOUT (2 columns until 600px)
+============================================================ */
 
-const BackButton = styled(Button)({
-  margin: 20,
-  borderRadius: '20px',
-});
+const CardsGrid = styled("div")(({ theme }) => ({
+  display: "grid",
+  gap: "24px",
 
-const SectionContainer = styled('div')({
-  marginBottom: '30px',
-});
+  // Normal behavior: auto grid
+  gridTemplateColumns: "repeat(auto-fill, minmax(260px, 1fr))",
 
-const BarRow = styled('div')({
-  display: 'flex',
-  flexDirection: 'row',
-  marginLeft: 20,
-  marginBottom: 20,
-  alignItems: 'flex-start',
-});
-
-const ChordBox = styled('div')({
-  padding: '8px 12px',
-  marginRight: 10,
-  borderRadius: 8,
-  background: '#fafafa',
-  border: '1px solid #ccc',
-  minWidth: 55,
-  textAlign: 'center',
-  cursor: 'pointer',
-  fontWeight: 'bold',
-  fontSize: 14,
-  transition: '0.2s',
-  '&:hover': {
-    background: '#f0f0f0',
-    transform: 'scale(1.05)',
+  // ⭐ Force exactly 2 columns until 600px
+  "@media (max-width: 800px)": {
+    gridTemplateColumns: "repeat(2, 1fr)",
   },
+
+  // ⭐ 1 column under 600px
+  "@media (max-width: 600px)": {
+    gridTemplateColumns: "1fr",
+  },
+}));
+
+const SongCard = styled(Card)({
+  width: "100%",
+  cursor: "pointer",
+  transition: "0.2s",
+  padding: "8px 12px",
+  boxSizing: "border-box",
+  "&:hover": { transform: "scale(1.02)" },
 });
 
-const StyledCard = styled(Card)({
-  minWidth: 180,
-  cursor: 'pointer',
-  margin: '10px',
-  transition: 'transform 0.3s ease',
-  '&:hover': { transform: 'scale(1.03)' },
+/* ============================================================
+   CHORD + LYRIC STYLES
+============================================================ */
+
+const ChordBox = styled("span")({
+  padding: "4px 6px",
+  marginRight: 6,
+  borderRadius: 6,
+  border: "1px solid #ccc",
+  background: "#fafafa",
+  fontWeight: "bold",
 });
 
-/* -------------------- Parse Chord -------------------- */
-function parseChordName(chordName) {
-  let root = chordName[0];
-  if (chordName[1] === "#" || chordName[1] === "b") root += chordName[1];
+const ChunkLine = styled("div")({
+  display: "flex",
+  flexDirection: "row",
+  flexWrap: "wrap",
+  marginBottom: 8,
+  justifyContent: "flex-start",
+});
 
-  const remainder = chordName.slice(root.length);
-  let degree = remainder.startsWith("m") ? "min" : "M";
+const ChunkItem = styled("div")({
+  display: "flex",
+  alignItems: "center",
+  marginRight: 10,
+});
 
-  const keyIndex = guitar.notes.sharps.indexOf(root);
+/* ============================================================
+   SONG VIEW WRAPPER (CENTERED)
+============================================================ */
 
-  return { name: degree, root, chord: chordName, key: keyIndex };
-}
+const SongViewContainer = styled("div")({
+  maxWidth: "900px",
+  margin: "0 auto",
+  textAlign: "left",
+});
 
-/* -------------------- Flatten Bars -------------------- */
-const buildFullBars = (song) => {
-  const bars = [];
-  let barCount = 1;
+/* ============================================================
+   FULLSCREEN MODE (RESPONSIVE)
+============================================================ */
 
-  song.sections.forEach((section) => {
-    for (let r = 0; r < section.repeat; r++) {
-      section.bars.forEach((bar) => {
-        bars.push({
-          number: barCount++,
-          chords: bar.chords.map((ch) => {
-            const parsed = parseChordName(ch.name);
-            return {
-              ...parsed,
-              shape: ch.shape,
-              fret: ch.fret,
-            };
-          }),
-          lyrics: bar.lyrics || [],
-        });
-      });
-    }
-  });
+const FullscreenOverlay = styled("div")(({ theme }) => ({
+  position: "fixed",
+  inset: 0,
+  zIndex: 5000,
+  display: "flex",
+  flexDirection: "column",
+  alignItems: "center",
 
-  return bars;
-};
+  // ⭐ RESPONSIVE padding — fixes disappearing text
+  padding: "0px 160px",
 
-/* -------------------- INTERNAL PLAYERS -------------------- */
-// Fake playback – replace with real WebAudio if you want
-function useInternalPlayers() {
+  "@media (max-width: 1200px)": {
+    padding: "0px 120px",
+  },
+  "@media (max-width: 1000px)": {
+    padding: "0px 80px",
+  },
+  "@media (max-width: 800px)": {
+    padding: "0px 40px",
+  },
+  "@media (max-width: 600px)": {
+    padding: "0px 16px",
+  },
 
-  // plays a SINGLE chord
-  const playSingleChord = (chord) => {
-    console.log("▶️ Playing chord:", chord);
-  };
+  backdropFilter: "blur(20px)",
+  background:
+    "linear-gradient(to bottom, rgba(255,255,255,0.95), rgba(230,230,230,0.95))",
+}));
 
-  // plays a FULL progression
-  const playProgression = async (chords) => {
-    console.log("▶️ Playing progression:", chords);
+const FullscreenCenterWrapper = styled("div")({
+  flex: 1,
+  width: "100%",
+  maxWidth: "1400px",
+  display: "flex",
+  alignItems: "center",
+  justifyContent: "center",
+});
 
-    for (const ch of chords) {
-      console.log("   →", ch.root, ch.name === "min" ? "m" : "");
-      await new Promise((res) => setTimeout(res, 500)); // 0.5s per chord
-    }
+const FullscreenLineRow = styled("div")(({ theme }) => ({
+  display: "flex",
+  justifyContent: "center",
+  alignItems: "center",
+  flexWrap: "nowrap",
+  whiteSpace: "nowrap",
+  overflow: "hidden",
+  maxWidth: "90vw",
 
-    console.log("✓ progression finished");
-  };
+  [theme.breakpoints.down("lg")]: {
+    whiteSpace: "normal",
+    flexWrap: "wrap",
+    textAlign: "center",
+  },
+}));
 
-  return { playSingleChord, playProgression };
-}
+const FullscreenChunk = styled("span")({
+  display: "inline-flex",
+  alignItems: "center",
+  marginRight: 18,
+});
 
-/* -------------------- Component -------------------- */
+const FullscreenLyrics = styled("span")(({ theme }) => ({
+  fontSize: 44,
+  fontWeight: 800,
+  [theme.breakpoints.down("lg")]: { fontSize: 30 },
+  [theme.breakpoints.down("sm")]: { fontSize: 26 },
+}));
+
+const FullscreenButtons = styled(Box)(({ theme }) => ({
+  position: "absolute",
+  bottom: 60,
+  left: "50%",
+  transform: "translateX(-50%)",
+
+  display: "flex",
+  gap: 30,
+
+  [theme.breakpoints.down("lg")]: {
+    bottom: 40,
+    gap: 20,
+  },
+}));
+
+/* ============================================================
+   COMPONENT
+============================================================ */
+
 const SongsSelector = () => {
-  const { playSingleChord, playProgression } = useInternalPlayers();
+  const [search, setSearch] = useState("");
+  const [filtered, setFiltered] = useState(songsAll);
 
-  const [selectedSongIndex, setSelectedSongIndex] = useState(null);
-  const [selectedGenre, setSelectedGenre] = useState('');
-  const [filteredSongs, setFilteredSongs] = useState(mostCommonSongs.songs);
-  const [showSongView, setShowSongView] = useState(false);
-  const [tabView, setTabView] = useState('bars');
+  const [selectedSong, setSelectedSong] = useState(null);
+  const [songData, setSongData] = useState(null);
 
-  const selectedSong =
-    selectedSongIndex !== null ? filteredSongs[selectedSongIndex] : null;
+  const [fullscreen, setFullscreen] = useState(false);
 
-  /* -------------------- Play Section -------------------- */
-  const handlePlaySection = (section) => {
-    const chords = [];
+  const [playableLines, setPlayableLines] = useState([]);
+  const [playIndex, setPlayIndex] = useState(0);
 
-    for (let r = 0; r < section.repeat; r++) {
-      section.bars.forEach((bar) => {
-        bar.chords.forEach((ch) => {
-          const parsed = parseChordName(ch.name);
-          chords.push({
-            ...parsed,
-            shape: ch.shape,
-            fret: ch.fret,
-          });
+  const [touchStart, setTouchStart] = useState(null);
+
+  /* ============================================================
+     SEARCH
+  ============================================================ */
+
+  useEffect(() => {
+    const q = search.toLowerCase();
+
+    setFiltered(
+      songsAll.filter((s) =>
+        Object.values(s).some(
+          (v) => typeof v === "string" && v.toLowerCase().includes(q)
+        )
+      )
+    );
+  }, [search]);
+
+  /* ============================================================
+     LOAD SONG
+  ============================================================ */
+
+  const loadSong = async (song) => {
+    setSelectedSong(song);
+    setSongData(null);
+
+    try {
+      const json = await import(`@/tabs/${song.id}.json`);
+      const data = json.default ?? json;
+
+      const extracted = [];
+
+      data.sections.forEach((section) => {
+        section.lines.forEach((line) => {
+          if (line.chunks.some((chunk) => chunk.chord)) {
+            extracted.push(line);
+          }
         });
       });
+
+      setPlayableLines(extracted);
+      setSongData(data);
+      setPlayIndex(0);
+    } catch {
+      setSongData({ error: "File not found or unreadable" });
     }
-
-    playProgression(chords);
   };
 
-  /* -------------------- Play Full Song -------------------- */
-  const handlePlayFullSong = (song) => {
-    const fullBars = buildFullBars(song);
-    const flat = [];
-    fullBars.forEach((bar) => bar.chords.forEach((c) => flat.push(c)));
-    playProgression(flat);
+  /* ============================================================
+     FULLSCREEN CONTROLS
+  ============================================================ */
+
+  const toggleFullscreen = () =>
+    songData && playableLines.length && setFullscreen((f) => !f);
+
+  const nextLine = () =>
+    setPlayIndex((i) => (i + 1 < playableLines.length ? i + 1 : i));
+
+  const prevLine = () =>
+    setPlayIndex((i) => (i - 1 >= 0 ? i - 1 : i));
+
+  /* ============================================================
+     SWIPE
+  ============================================================ */
+
+  const onTouchStart = (e) => {
+    setTouchStart(e.touches[0].clientX);
   };
 
-  /* -------------------- Genre Filter -------------------- */
-  const handleGenreFilter = (genre) => {
-    setSelectedGenre(genre);
-    const filtered = mostCommonSongs.songs.filter((s) =>
-      s.genre.toLowerCase().includes(genre.toLowerCase())
-    );
-    setFilteredSongs(filtered);
-    setSelectedSongIndex(null);
+  const onTouchEnd = (e) => {
+    if (!touchStart) return;
+
+    const diff = touchStart - e.changedTouches[0].clientX;
+
+    if (diff > 50) nextLine();
+    else if (diff < -50) prevLine();
+
+    setTouchStart(null);
   };
 
-  const uniqueGenres = Array.from(
-    new Set(mostCommonSongs.songs.map((s) => s.genre))
-  );
+  /* ============================================================
+     KEYBOARD
+  ============================================================ */
 
-  /* -------------------- Render -------------------- */
-  return (
-    <Root>
-      {showSongView && selectedSong ? (
-        <>
-          <Typography variant="h5" style={{ marginLeft: 20, marginTop: 10 }}>
-            {selectedSong.title} – {selectedSong.artist}
-          </Typography>
+  useEffect(() => {
+    const handler = (e) => {
+      // Enter opens fullscreen
+      if (e.key === "Enter" && !fullscreen) {
+        e.preventDefault();
+        toggleFullscreen();
+      }
 
-          <BackButton
-            variant="outlined"
-            onClick={() => {
-              setShowSongView(false);
-              setSelectedSongIndex(null);
-            }}
-          >
-            Back
-          </BackButton>
+      // Space or → goes next
+      if (fullscreen && (e.key === " " || e.key === "ArrowRight")) {
+        e.preventDefault();
+        nextLine();
+      }
 
-          <Button
-            variant="contained"
-            color="primary"
-            style={{ marginLeft: 20, marginBottom: 20 }}
-            onClick={() => handlePlayFullSong(selectedSong)}
-          >
-            Play Full Song
+      // ← goes previous
+      if (fullscreen && e.key === "ArrowLeft") {
+        e.preventDefault();
+        prevLine();
+      }
+    };
+
+    window.addEventListener("keydown", handler);
+    return () => window.removeEventListener("keydown", handler);
+  }, [fullscreen]);
+
+  /* ============================================================
+     FULLSCREEN RENDER
+  ============================================================ */
+
+  const renderFullscreen = () =>
+    fullscreen &&
+    playableLines[playIndex] && (
+      <FullscreenOverlay onTouchStart={onTouchStart} onTouchEnd={onTouchEnd}>
+        <FullscreenCenterWrapper>
+          <FullscreenLineRow>
+            {playableLines[playIndex].chunks.map((chunk, i) => (
+              <FullscreenChunk key={i}>
+                {chunk.chord && (
+                  <ChordBox
+                    style={{
+                      fontSize:
+                        window.innerWidth > 1600
+                          ? 40
+                          : window.innerWidth > 1200
+                          ? 32
+                          : window.innerWidth > 800
+                          ? 26
+                          : 20,
+                      padding:
+                        window.innerWidth > 1600
+                          ? "10px 16px"
+                          : window.innerWidth > 1200
+                          ? "8px 14px"
+                          : window.innerWidth > 800
+                          ? "6px 10px"
+                          : "4px 6px",
+                      borderRadius: 10,
+                      marginRight: 12,
+                    }}
+                  >
+                    {chunk.chord}
+                  </ChordBox>
+                )}
+
+                {chunk.lyrics && (
+                  <FullscreenLyrics>{chunk.lyrics}</FullscreenLyrics>
+                )}
+              </FullscreenChunk>
+            ))}
+          </FullscreenLineRow>
+        </FullscreenCenterWrapper>
+
+        <FullscreenButtons>
+          <Button variant="outlined" onClick={prevLine}>
+            ← Previous
           </Button>
 
-          {/* ===================== TABS ===================== */}
-          <Tabs
-            value={tabView}
-            onChange={(e, v) => setTabView(v)}
-            TabIndicatorProps={{ style: { display: 'none' } }}
-            sx={{
-              width: '100%',
-              minWidth: '100%',
-              display: 'flex',
-              border: '1px solid #ccc',
-              marginBottom: 2,
-              padding: 0,
-            }}
-          >
-            <Tab
-              label="All Bars"
-              value="bars"
-              sx={{
-                flex: 1,
-                maxWidth: '50%',
-                margin: 0,
-                borderRight: '1px solid black',
-                '&.Mui-selected': {
-                  backgroundColor: '#e0e0e0',
-                },
-              }}
-            />
-            <Tab
-              label="Sections"
-              value="sections"
-              sx={{
-                flex: 1,
-                maxWidth: '50%',
-                margin: 0,
-                '&.Mui-selected': {
-                  backgroundbackgroundColor: '#e0e0e0',
-                },
-              }}
-            />
-          </Tabs>
+          <Button variant="contained" onClick={nextLine}>
+            Next →
+          </Button>
 
-          {/* ===================== BARS VIEW ===================== */}
-          {tabView === 'bars' && (
+          <Button variant="outlined" onClick={toggleFullscreen}>
+            Exit
+          </Button>
+        </FullscreenButtons>
+      </FullscreenOverlay>
+    );
+
+  /* ============================================================
+     SONG VIEW
+  ============================================================ */
+
+  if (selectedSong)
+    return (
+      <SongViewContainer>
+        <Box p={3}>
+          {renderFullscreen()}
+
+          {songData ? (
             <>
-              <Typography variant="h6" style={{ marginLeft: 20 }}>
-                Full Bars List
+              <Typography variant="h4">{songData.title}</Typography>
+              <Typography variant="h6">{songData.artist}</Typography>
+
+              <Box
+                mt={2}
+                mb={2}
+                display="flex"
+                justifyContent="center"
+                gap={2}
+              >
+                <Button variant="contained" onClick={toggleFullscreen}>
+                  Fullscreen
+                </Button>
+                <Button variant="outlined" onClick={() => setSelectedSong(null)}>
+                  ← Back
+                </Button>
+              </Box>
+
+              <Typography
+                variant="h5"
+                sx={{ mb: 2, textAlign: "center" }}
+              >
+                Playable Lines
               </Typography>
 
-              {buildFullBars(selectedSong).map((bar) => (
-                <BarRow key={bar.number}>
-                  <Typography
-                    variant="body2"
-                    style={{ width: 60, fontWeight: 'bold', marginRight: 15 }}
-                  >
-                    Bar {bar.number}
-                  </Typography>
-
-                  <div style={{ display: 'flex', flexDirection: 'column' }}>
-                    {/* CHORDS */}
-                    <div style={{ display: 'flex' }}>
-                      {bar.chords.map((ch, i) => (
-                        <ChordBox key={i} onClick={() => playSingleChord(ch)}>
-                          {ch.root}{ch.name === "min" ? "m" : ""}
-                        </ChordBox>
-                      ))}
-                    </div>
-
-                    {/* LYRICS */}
-                    <div style={{ display: 'flex', marginTop: 4 }}>
-                      {bar.lyrics?.map((ly, i) => (
-                        <Typography
-                          key={i}
-                          variant="caption"
-                          style={{
-                            width: 55,
-                            marginRight: 10,
-                            textAlign: 'center',
-                          }}
-                        >
-                          {ly}
-                        </Typography>
-                      ))}
-                    </div>
-                  </div>
-                </BarRow>
-              ))}
-            </>
-          )}
-
-          {/* ===================== SECTIONS VIEW ===================== */}
-          {tabView === 'sections' && (
-            <>
-              {selectedSong.sections.map((section, idx) => (
-                <SectionContainer key={idx}>
-                  <Typography variant="subtitle1" style={{ marginLeft: 20 }}>
-                    {section.name} × {section.repeat}
-                  </Typography>
-
-                  {section.bars.map((bar, bIndex) => (
-                    <BarRow key={bIndex}>
-                      <Typography
-                        variant="body2"
-                        style={{
-                          width: 60,
-                          fontWeight: 'bold',
-                          marginRight: 15,
-                        }}
-                      >
-                        Bar {bIndex + 1}
-                      </Typography>
-
-                      <div style={{ display: 'flex', flexDirection: 'column' }}>
-                        <div style={{ display: 'flex' }}>
-                          {bar.chords.map((ch, i) => {
-                            const parsed = parseChordName(ch.name);
-                            return (
-                              <ChordBox
-                                key={i}
-                                onClick={() =>
-                                  playSingleChord({
-                                    ...parsed,
-                                    shape: ch.shape,
-                                    fret: ch.fret,
-                                  })
-                                }
-                              >
-                                {ch.name}
-                              </ChordBox>
-                            );
-                          })}
-                        </div>
-
-                        <div style={{ display: 'flex', marginTop: 4 }}>
-                          {bar.lyrics?.map((ly, i) => (
-                            <Typography
-                              key={i}
-                              variant="caption"
-                              style={{
-                                width: 55,
-                                marginRight: 10,
-                                textAlign: 'center',
-                              }}
-                            >
-                              {ly}
-                            </Typography>
-                          ))}
-                        </div>
-                      </div>
-                    </BarRow>
+              {playableLines.map((line, i) => (
+                <ChunkLine key={i}>
+                  {line.chunks.map((chunk, k) => (
+                    <ChunkItem key={k}>
+                      {chunk.chord && <ChordBox>{chunk.chord}</ChordBox>}
+                      <Typography>{chunk.lyrics}</Typography>
+                    </ChunkItem>
                   ))}
-
-                  <Button
-                    variant="outlined"
-                    color="secondary"
-                    style={{ marginLeft: 20 }}
-                    onClick={() => handlePlaySection(section)}
-                  >
-                    Play {section.name}
-                  </Button>
-                </SectionContainer>
+                </ChunkLine>
               ))}
             </>
+          ) : (
+            <Button variant="outlined" onClick={() => setSelectedSong(null)}>
+              ← Back
+            </Button>
           )}
-        </>
-      ) : (
-        <>
-          {/* Genres */}
-          <Typography variant="h6" style={{ marginLeft: 20, marginTop: 20 }}>
-            Genres
-          </Typography>
+        </Box>
+      </SongViewContainer>
+    );
 
-          <div style={{ marginLeft: 20 }}>
-            {uniqueGenres.map((genre, i) => (
-              <StyledButton
-                key={i}
-                variant={selectedGenre === genre ? 'contained' : 'outlined'}
-                onClick={() => handleGenreFilter(genre)}
-              >
-                {genre}
-              </StyledButton>
-            ))}
-          </div>
+  /* ============================================================
+     SONG LIST (GRID)
+  ============================================================ */
 
-          {/* Song List */}
-          <div style={{ display: 'flex', flexWrap: 'wrap' }}>
-            {filteredSongs.map((song, i) => (
-              <StyledCard
-                key={i}
-                onClick={() => {
-                  setSelectedSongIndex(i);
-                  setShowSongView(true);
-                }}
-              >
-                <CardContent>
-                  <Typography variant="h6">{song.title}</Typography>
-                  <Typography variant="subtitle1">{song.artist}</Typography>
-                  <Typography variant="body2">Key: {song.key}</Typography>
-                  <Typography variant="body2">Genre: {song.genre}</Typography>
-                  <Typography variant="body2">
-                    Sections: {song.sections.length}
-                  </Typography>
-                </CardContent>
-              </StyledCard>
-            ))}
-          </div>
-        </>
-      )}
-    </Root>
+  return (
+    <Box
+      sx={{
+        paddingTop: "24px",
+        paddingBottom: "24px",
+        paddingLeft: "180px",
+        paddingRight: "180px",
+
+        "@media (max-width: 1000px)": {
+          paddingLeft: "120px",
+          paddingRight: "120px",
+        },
+        "@media (max-width: 800px)": {
+          paddingLeft: "60px",
+          paddingRight: "60px",
+        },
+        "@media (max-width: 700px)": {
+          paddingLeft: "24px",
+          paddingRight: "24px",
+        },
+        "@media (max-width: 600px)": {
+          paddingLeft: "12px",
+          paddingRight: "12px",
+        },
+      }}
+    >
+      <Typography variant="h4" mb={2}>
+        Guitar Songs Library
+      </Typography>
+
+      <TextField
+        label="Search songs"
+        fullWidth
+        variant="outlined"
+        value={search}
+        onChange={(e) => setSearch(e.target.value)}
+        sx={{ mb: 3 }}
+      />
+
+      <CardsGrid>
+        {filtered.map((song) => (
+          <SongCard key={song.id} onClick={() => loadSong(song)}>
+            <CardContent>
+              <Typography variant="h6">{song.song_name}</Typography>
+              <Typography variant="subtitle2">{song.artist_name}</Typography>
+              <Typography variant="body2">Key: {song.key}</Typography>
+            </CardContent>
+          </SongCard>
+        ))}
+      </CardsGrid>
+    </Box>
   );
 };
 

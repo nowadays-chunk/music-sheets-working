@@ -1,0 +1,400 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/leon-bridges/river-chords-1760743",
+  "title": "River",
+  "artist": "Leon Bridges",
+  "key": "",
+  "scrapedAt": "2025-12-10T18:46:34.684Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Been traveling these wide roads for so long"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus2",
+              "lyrics": "My heart’s been far from you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Ten-thousand miles gone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh, I wanna come near and give ya"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus2",
+              "lyrics": "Every part of me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But there's blood on my hands"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "And my lips are unclean"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "In my darkness I remember"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus2",
+              "lyrics": "Momma’s words reoccur to me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "\"Surrender to the good Lord"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "And he’ll wipe your slate clean\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Take me to your river"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "I wanna go"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Oh-oh-oh- oh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Take me to your river"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "I wanna know"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Dip me in your smooth waters"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I go in"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus2",
+              "lyrics": "As a man with many crimes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Come up for air"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "As my sins flow down the Jordan"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh, I wanna come near and give ya"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus2",
+              "lyrics": "Every part of me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But there is blood on my hands"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "And my lips are unclean"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Take me to your river"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "I wanna go"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Oh-oh-oh-oh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Take me to your river"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "I wanna know"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "I wanna go, wanna go, wanna go"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus2",
+              "lyrics": ") I wanna know, wanna know, wanna know"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": ")  Wanna go,"
+            },
+            {
+              "chord": "E",
+              "lyrics": "wanna go, wanna go"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus2",
+              "lyrics": "Wanna know, wanna know, wanna know"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Wanna go, wanna go, wanna go"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus2",
+              "lyrics": "Wanna know, w"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "anna know, wanna know"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Take me to your river"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "I wanna go"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Lord, please let me know"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Take me to your river"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "I wanna know"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,576 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/foreigner/i-want-to-know-what-love-is-chords-42854",
+  "title": "I Want To Know What Love Is",
+  "artist": "Foreigner",
+  "key": "",
+  "scrapedAt": "2025-12-10T18:47:47.289Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "' '  |  ' ' ' |"
+            },
+            {
+              "chord": "D",
+              "lyrics": "' |  ' ' '"
+            },
+            {
+              "chord": "G",
+              "lyrics": "|  ' ' ' |"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "I've go"
+            },
+            {
+              "chord": "D",
+              "lyrics": "tta take a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "little time"
+            },
+            {
+              "chord": "C",
+              "lyrics": ", a little"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "time to think things over."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "I bette"
+            },
+            {
+              "chord": "D",
+              "lyrics": "r read betw"
+            },
+            {
+              "chord": "G",
+              "lyrics": "een the lin"
+            },
+            {
+              "chord": "C",
+              "lyrics": "es, in case"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "I need it when I'm older."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Now, th"
+            },
+            {
+              "chord": "D",
+              "lyrics": "is mountain"
+            },
+            {
+              "chord": "G",
+              "lyrics": "I must cli"
+            },
+            {
+              "chord": "C",
+              "lyrics": "mb feels li"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ke the world upon my shoulders."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Through"
+            },
+            {
+              "chord": "D",
+              "lyrics": "the clouds"
+            },
+            {
+              "chord": "G",
+              "lyrics": "I see love"
+            },
+            {
+              "chord": "C",
+              "lyrics": "shine. It"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "keeps me warm as life grows colder."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pre-Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "In my life"
+            },
+            {
+              "chord": "D",
+              "lyrics": "there's be"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "en heartache and pain."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "I don't kn"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ow if I can"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "face it again."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "Can't"
+            },
+            {
+              "chord": "D",
+              "lyrics": "stop now. I"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "'ve travelle"
+            },
+            {
+              "chord": "C",
+              "lyrics": "d so far to"
+            },
+            {
+              "chord": "G",
+              "lyrics": "change thi"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "s lonely lif"
+            },
+            {
+              "chord": "C/D",
+              "lyrics": "e."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "*1*    *"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "1* I wanna k"
+            },
+            {
+              "chord": "D",
+              "lyrics": "now what love i"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "s. I want yo"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "u to show me"
+            },
+            {
+              "chord": "D",
+              "lyrics": "."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "*1*"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "*2* I wanna"
+            },
+            {
+              "chord": "D",
+              "lyrics": "feel what love"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "is. I know"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "you can show"
+            },
+            {
+              "chord": "D",
+              "lyrics": "me."
+            },
+            {
+              "chord": "D7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "I'm gon"
+            },
+            {
+              "chord": "D",
+              "lyrics": "na take a l"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ittle time,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "a little t"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ime to look around me."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "I've go"
+            },
+            {
+              "chord": "D",
+              "lyrics": "t nowhere l"
+            },
+            {
+              "chord": "G",
+              "lyrics": "eft to hide"
+            },
+            {
+              "chord": "C",
+              "lyrics": ". It looks"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "like love has finally found me."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pre-Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "In my life"
+            },
+            {
+              "chord": "D",
+              "lyrics": "there's be"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "en heartache and pain."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "I don't kn"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ow if I cou"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ld face it again."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "Can't"
+            },
+            {
+              "chord": "D",
+              "lyrics": "stop now. I"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "'ve travelle"
+            },
+            {
+              "chord": "C",
+              "lyrics": "d so far to"
+            },
+            {
+              "chord": "G",
+              "lyrics": "change thi"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "s lonely lif"
+            },
+            {
+              "chord": "C/D",
+              "lyrics": "e."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus (x5)",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "*1*    *"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "1* I wanna k"
+            },
+            {
+              "chord": "D",
+              "lyrics": "now what love i"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "s. I want yo"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "u to show me"
+            },
+            {
+              "chord": "D",
+              "lyrics": "."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "*1*    I"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "wanna feel"
+            },
+            {
+              "chord": "D",
+              "lyrics": "what love is. I"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "know you ca"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "n show me."
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "*1*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e|----------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|----------3---0-|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|------------2---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|----------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|----------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|----------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "*2*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e|----------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|----------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|--------------0-|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|----------0-2---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|--------2-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|----------------|"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

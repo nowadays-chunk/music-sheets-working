@@ -1,0 +1,606 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/carly-simon/youre-so-vain-chords-845483",
+  "title": "Youre So Vain",
+  "artist": "Carly Simon",
+  "key": "C",
+  "scrapedAt": "2025-12-10T18:46:42.197Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "You walked into the party;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "like you"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "were walking on to a yacht"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Your hat, strategically dipped below one eye;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "your scar"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "f it was apricot"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "You h"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ad one eye"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "in the mirro"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "r as you wat"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ched yourse"
+            },
+            {
+              "chord": "C",
+              "lyrics": "lf gavotte"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And all t"
+            },
+            {
+              "chord": "F",
+              "lyrics": "he girls dreamed that they’d be your partner, they'd be your partner and"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "You're so vain,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm7",
+              "lyrics": "you prob'ly"
+            },
+            {
+              "chord": "C",
+              "lyrics": "think this song is about you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "You're so"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "vain,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "I’ll bet"
+            },
+            {
+              "chord": "G",
+              "lyrics": "you think this song is about you, don't you, don't you"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "You had me several years ago;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "when I wa"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "s still quite naive"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Well, you said that we make such a pretty pair"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "and that"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "you would never leave"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "But y"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ou gave awa"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "y the things"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "you loved a"
+            },
+            {
+              "chord": "F",
+              "lyrics": "nd one of t"
+            },
+            {
+              "chord": "C",
+              "lyrics": "hem was me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I had som"
+            },
+            {
+              "chord": "F",
+              "lyrics": "e dreams; they were clouds in my coffee, clouds in my coffee and"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "You're so vain,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm7",
+              "lyrics": "you prob'ly"
+            },
+            {
+              "chord": "C",
+              "lyrics": "think this song is about you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "You're so"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "vain,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "I’ll bet"
+            },
+            {
+              "chord": "G",
+              "lyrics": "you think this song is about you, don't you, don't you, don't you"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Solo",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "|  |  |  |"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "|  |  |  |"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "|   |  |"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I had som"
+            },
+            {
+              "chord": "F",
+              "lyrics": "e dreams; they were clouds in my coffee, clouds in my coffee and"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "You're so vain,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm7",
+              "lyrics": "you prob'ly"
+            },
+            {
+              "chord": "C",
+              "lyrics": "think this song is about you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "You're so"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "vain,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "I’ll bet"
+            },
+            {
+              "chord": "G",
+              "lyrics": "you think this song is about you, don't you, don't you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Well, I h"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ear you wen"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "t up to Saratoga and your horse naturally won"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Then you flew your Lear jet up to Nova Scotia"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "To see th"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "e total eclipse of the sun"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Well yo"
+            },
+            {
+              "chord": "G",
+              "lyrics": "u're where"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "you should b"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "e all the time"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "and when"
+            },
+            {
+              "chord": "C",
+              "lyrics": "you're not you're with"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Some unde"
+            },
+            {
+              "chord": "F",
+              "lyrics": "r world spy, or the wife of a close friend, wife of a close friend and"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "You're so vain,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm7",
+              "lyrics": "you prob'ly"
+            },
+            {
+              "chord": "C",
+              "lyrics": "think this song is about you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "You're so"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "vain,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "I’ll bet"
+            },
+            {
+              "chord": "G",
+              "lyrics": "you think this song is about you, don't you, don't you, don't you now"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "You're s"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "o vain, you p"
+            },
+            {
+              "chord": "C",
+              "lyrics": "rob'ly think this song is about you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "You're s"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "o vain, you p"
+            },
+            {
+              "chord": "C",
+              "lyrics": "rob'ly think this song is about you..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

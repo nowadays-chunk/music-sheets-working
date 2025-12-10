@@ -1,0 +1,493 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/wave-to-earth/love-chords-4750850",
+  "title": "Love",
+  "artist": "wave to earth",
+  "key": "D",
+  "scrapedAt": "2025-12-10T18:46:46.582Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "Aaug",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "Aaug",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dm",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Saram sai saram"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Aaug",
+              "lyrics": "Baram sai baram"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dmaj7",
+              "lyrics": "Gakjaui y"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "eomwoni baaar"
+            },
+            {
+              "chord": "C#m7",
+              "lyrics": "aeeeeego"
+            },
+            {
+              "chord": "Cm7",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#7b13",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bm9",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Deotchildoeeo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Gmaj7/A",
+              "lyrics": "Ohhhhhhhhhh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dmaj7",
+              "lyrics": "Bari daeul mankeum gudeojimyeon"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gmaj7/A",
+              "lyrics": "Ah ohhhhh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dmaj7",
+              "lyrics": "Biroso nae"
+            },
+            {
+              "chord": "G7add13",
+              "lyrics": "sesangi doeeojwo"
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Naui jage"
+            },
+            {
+              "chord": "Aaug",
+              "lyrics": "un maeumdo"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m7",
+              "lyrics": "Geu ane jara"
+            },
+            {
+              "chord": "B9",
+              "lyrics": "n naeumdo"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dmaj7",
+              "lyrics": "Buseojigo gud"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "eojigo"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Noganaeri"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "gonamyeon"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dmaj7",
+              "lyrics": "Geujeseoya bo"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "ineun naui yeongwon"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Instrumental]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "Aaug",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "Aaug",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dm",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Gmaj7/A",
+              "lyrics": "Saram sai sarang"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dmaj7",
+              "lyrics": "Modu hamkke"
+            },
+            {
+              "chord": "G7add13",
+              "lyrics": "moyeoseo"
+            },
+            {
+              "chord": "G7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gmaj7/A",
+              "lyrics": "Yeongwoneul barago"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dmaj7",
+              "lyrics": "Mom maeum mu"
+            },
+            {
+              "chord": "G7add13",
+              "lyrics": "deonaemyeon"
+            },
+            {
+              "chord": "G7",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F#m7",
+              "lyrics": "Biroso u"
+            },
+            {
+              "chord": "A/E",
+              "lyrics": "riui sesangi"
+            },
+            {
+              "chord": "E",
+              "lyrics": "wanbyeokae"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": ""
+            },
+            {
+              "chord": "G7add13",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Sarangeuro"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Sarangeuro"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Naui jage"
+            },
+            {
+              "chord": "Aaug",
+              "lyrics": "un maeumdo"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m7",
+              "lyrics": "Geu ane jage"
+            },
+            {
+              "chord": "B9",
+              "lyrics": "un padocheoreom"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dmaj7",
+              "lyrics": "Buseojigo mil"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "lyeowaseon"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Nege noga"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "naerigo"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dmaj7",
+              "lyrics": "Geujeseoya bo"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "ineun naui yeongwon"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "Aaug",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "Aaug",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

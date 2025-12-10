@@ -1,0 +1,503 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/him/join-me-in-death-chords-674593",
+  "title": "Join Me In Death",
+  "artist": "HIM",
+  "key": "",
+  "scrapedAt": "2025-12-10T18:44:09.988Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(guitar in on 2nd G)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "|  |  |   |"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "x3"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "|  |"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "We are so"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "young"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "our lives"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "have just begun"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "but alread"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "y we're considering"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "escape fro"
+            },
+            {
+              "chord": "G",
+              "lyrics": "m this world"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "and we've"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "waited for so long"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "for this m"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "oment to come"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "we're so a"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "nxious to be together"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "together i"
+            },
+            {
+              "chord": "G",
+              "lyrics": "n death"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Won't y"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "ou die tonig"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ht for love"
+            },
+            {
+              "chord": "G",
+              "lyrics": "(Baby join me in death)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Won't y"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "ou di-------"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "--e (Baby jo"
+            },
+            {
+              "chord": "G",
+              "lyrics": "in me in death)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Won't y"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "ou die tonig"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ht for love"
+            },
+            {
+              "chord": "G",
+              "lyrics": "(Baby join me in death)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "|  |"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "This world"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "is a cruel place"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "and we're"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "here only to lose"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "so before"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "life tears us apart let"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "death bles"
+            },
+            {
+              "chord": "G",
+              "lyrics": "s me with you"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Won't y"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "ou die tonig"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ht for love"
+            },
+            {
+              "chord": "G",
+              "lyrics": "(Baby join me in death)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Won't y"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "ou di-------"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "--e (Baby jo"
+            },
+            {
+              "chord": "G",
+              "lyrics": "in me in death)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Won't y"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "ou die tonig"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ht for love"
+            },
+            {
+              "chord": "G",
+              "lyrics": "(Baby join me in death)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "|  |  |   |"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "Join me in dea"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "th"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Interlude]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "|  |  |  | x"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "3"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "|  | N.C.  T"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "his life ain't wort"
+            },
+            {
+              "chord": "G",
+              "lyrics": "h living"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Won't y"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "ou die tonig"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ht for love"
+            },
+            {
+              "chord": "G",
+              "lyrics": "(Baby join me in death)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Won't y"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "ou di-------"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "--e (Baby jo"
+            },
+            {
+              "chord": "G",
+              "lyrics": "in me in death)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Won't y"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "ou die tonig"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ht for love"
+            },
+            {
+              "chord": "G",
+              "lyrics": "(Baby join me in death)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Baby joi"
+            },
+            {
+              "chord": "G",
+              "lyrics": "n me in dea"
+            },
+            {
+              "chord": "A",
+              "lyrics": "th"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

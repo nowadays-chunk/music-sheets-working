@@ -1,0 +1,588 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/david-bowie/life-on-mars-chords-1237810",
+  "title": "Life On Mars",
+  "artist": "David Bowie",
+  "key": "Fm",
+  "scrapedAt": "2025-12-10T18:44:31.170Z",
+  "sections": [
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "It's a g"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "od-awful sma"
+            },
+            {
+              "chord": "Cm/Eb",
+              "lyrics": "ll affair"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7",
+              "lyrics": "To the girl with the mousy hair"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm",
+              "lyrics": "But her m"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "ummy is yell"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "ing \"No\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "And her daddy has told her to go"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "But her"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "friend is no"
+            },
+            {
+              "chord": "Cm/Eb",
+              "lyrics": "where to be seen"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7",
+              "lyrics": "Now she walks through her sunken dream."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm",
+              "lyrics": "To the se"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "at with the"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "clearest view"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And she's hooked to the silver screen"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pre-Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Ab",
+              "lyrics": "But the f"
+            },
+            {
+              "chord": "Eaug",
+              "lyrics": "ilm is a sadde"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "ning bore"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ab7",
+              "lyrics": "For she's lived it ten times or more"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Db",
+              "lyrics": "She could"
+            },
+            {
+              "chord": "Aaug",
+              "lyrics": "spit in the e"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "yes of fools"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Db7",
+              "lyrics": "As they ask her to focus on"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "Sailors fi"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "ghting in the dance hall"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm7",
+              "lyrics": "Oh man! lo"
+            },
+            {
+              "chord": "Gbaug",
+              "lyrics": "ok at those cav"
+            },
+            {
+              "chord": "F",
+              "lyrics": "emen go"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fm",
+              "lyrics": "It's the f"
+            },
+            {
+              "chord": "Cm7",
+              "lyrics": "reakiest show"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ebm7",
+              "lyrics": "Take a look"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "at the lawman"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Eb",
+              "lyrics": "Beating up the wrong guy"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm",
+              "lyrics": "Oh man! Wo"
+            },
+            {
+              "chord": "Gbaug",
+              "lyrics": "nder if he'll ever know"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "He's in"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "the best sel"
+            },
+            {
+              "chord": "Cm7",
+              "lyrics": "ling show"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ebm7",
+              "lyrics": "Is there"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": "life on Mars?"
+            },
+            {
+              "chord": "Gbaug",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bb/F",
+              "lyrics": ""
+            },
+            {
+              "chord": "C/E",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "Gbdim",
+              "lyrics": ""
+            },
+            {
+              "chord": "Gm",
+              "lyrics": ""
+            },
+            {
+              "chord": "Ddim",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bb",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "It's on"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "Amerika's to"
+            },
+            {
+              "chord": "Cm/Eb",
+              "lyrics": "rtured brow"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7",
+              "lyrics": "That Mickey Mouse has grown up a cow"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm",
+              "lyrics": "Now the w"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "orkers have"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "struck for fame"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "'Cause Lennon's on sale again"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "See the"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "mice in thei"
+            },
+            {
+              "chord": "Cm/Eb",
+              "lyrics": "r million hordes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7",
+              "lyrics": "From Ibeza to the norfolk broads"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm",
+              "lyrics": "Rule Brit"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "annia is out"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "of bounds"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "To my mother, my dog, and clowns"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pre-Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Ab",
+              "lyrics": "But the f"
+            },
+            {
+              "chord": "Eaug",
+              "lyrics": "ilm is a sadde"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "ning bore"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ab7",
+              "lyrics": "For I've writ it ten times or more"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Db",
+              "lyrics": "It's abou"
+            },
+            {
+              "chord": "Aaug",
+              "lyrics": "t to be writ a"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "gain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Db7",
+              "lyrics": "As I ask you to focus on"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "Sailors fi"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "ghting in the dance hall"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm7",
+              "lyrics": "Oh man! lo"
+            },
+            {
+              "chord": "Gbaug",
+              "lyrics": "ok at those cav"
+            },
+            {
+              "chord": "F",
+              "lyrics": "emen go"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fm",
+              "lyrics": "It's the f"
+            },
+            {
+              "chord": "Cm7",
+              "lyrics": "reakiest show"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ebm7",
+              "lyrics": "Take a look"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "at the lawman"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Eb",
+              "lyrics": "Beating up the wrong guy"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm",
+              "lyrics": "Oh man! Wo"
+            },
+            {
+              "chord": "Gbaug",
+              "lyrics": "nder if he'll ever know"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "He's in"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "the best sel"
+            },
+            {
+              "chord": "Cm7",
+              "lyrics": "ling show"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ebm7",
+              "lyrics": "Is there"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": "life on Mars?"
+            },
+            {
+              "chord": "Gbaug",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bb/F",
+              "lyrics": ""
+            },
+            {
+              "chord": "C/E",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

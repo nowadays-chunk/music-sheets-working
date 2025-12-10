@@ -1,0 +1,599 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/crosby-stills-nash/helplessly-hoping-chords-64116",
+  "title": "Helplessly Hoping",
+  "artist": "Crosby, Stills & Nash",
+  "key": "Am",
+  "scrapedAt": "2025-12-10T18:44:16.244Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Csus2/B",
+              "lyrics": "Helplessly hoping"
+            },
+            {
+              "chord": "C",
+              "lyrics": "her harleq"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "uin hovers ne"
+            },
+            {
+              "chord": "C",
+              "lyrics": "arby, await"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ing a word"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "C/G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Csus2/B",
+              "lyrics": "Gasping at glimps"
+            },
+            {
+              "chord": "C",
+              "lyrics": "es of gentl"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "e true spirit"
+            },
+            {
+              "chord": "C",
+              "lyrics": "he runs wi"
+            },
+            {
+              "chord": "G",
+              "lyrics": "shing he co"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "uld fly"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "C/G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "only t"
+            },
+            {
+              "chord": "Csus2",
+              "lyrics": "o trip at the s"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ound of goo"
+            },
+            {
+              "chord": "D",
+              "lyrics": "dbye"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Csus2/B",
+              "lyrics": "Wordlessly watchi"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ng he waits"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "by the windo"
+            },
+            {
+              "chord": "C",
+              "lyrics": "w and wonde"
+            },
+            {
+              "chord": "G",
+              "lyrics": "rs at the e"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "mpty place in"
+            },
+            {
+              "chord": "G",
+              "lyrics": "side"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Csus2/B",
+              "lyrics": "Heartlessly helpi"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ng him - se"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "lf to her bad"
+            },
+            {
+              "chord": "C",
+              "lyrics": "dreams he"
+            },
+            {
+              "chord": "G",
+              "lyrics": "worries did"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "he hear a go"
+            },
+            {
+              "chord": "G",
+              "lyrics": "odbye"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "or even h"
+            },
+            {
+              "chord": "Csus2",
+              "lyrics": "ello?"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "They"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "are one person,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "they are t"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "wo alone, they"
+            },
+            {
+              "chord": "G",
+              "lyrics": "are three t"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "ogether,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "*  they"
+            },
+            {
+              "chord": "G7/F",
+              "lyrics": "are for each"
+            },
+            {
+              "chord": "C",
+              "lyrics": "other"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "C/G",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 3",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Csus2/B",
+              "lyrics": "Stand by the stai"
+            },
+            {
+              "chord": "C",
+              "lyrics": "rway you'll"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "see somethin"
+            },
+            {
+              "chord": "C",
+              "lyrics": "g certain t"
+            },
+            {
+              "chord": "G",
+              "lyrics": "o tell you"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "confusion has"
+            },
+            {
+              "chord": "G",
+              "lyrics": "its cost"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Csus2/B",
+              "lyrics": "Love isn't lying"
+            },
+            {
+              "chord": "C",
+              "lyrics": "it's loose"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "in a lady who"
+            },
+            {
+              "chord": "C",
+              "lyrics": "lingers, s"
+            },
+            {
+              "chord": "G",
+              "lyrics": "aying she i"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "s lost"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "C/G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "and choki"
+            },
+            {
+              "chord": "Csus2",
+              "lyrics": "ng on hello"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "They"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "are one person,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "they are t"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "wo alone, they"
+            },
+            {
+              "chord": "G",
+              "lyrics": "are three t"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "ogether,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "*  they"
+            },
+            {
+              "chord": "G7/F",
+              "lyrics": "are for each"
+            },
+            {
+              "chord": "C",
+              "lyrics": "other"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "C/G",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,448 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/beabadoobee/glue-song-chords-4444931",
+  "title": "Glue Song",
+  "artist": "beabadoobee",
+  "key": "Db",
+  "scrapedAt": "2025-12-10T18:46:13.638Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "x2"
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": ""
+            },
+            {
+              "chord": "B7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I've nev"
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": "er known someo"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "ne like you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm7",
+              "lyrics": "Ooo"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Tangled"
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": "in love stuck"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "by you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm7",
+              "lyrics": "from the glue"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Don't fo"
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": "rget to kiss m"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "e or else"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm7",
+              "lyrics": "you'll have to miss me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I guess"
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": "I'm stuck fore"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "ver by the glue"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm7",
+              "lyrics": "oh and you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Interlude]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "x2 Mmmm"
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": "mmm"
+            },
+            {
+              "chord": "B7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Findin'"
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": "the right word"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "s to use"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm7",
+              "lyrics": "for this song"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I have y"
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": "ou in mind, so"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "it won't"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm7",
+              "lyrics": "take so long"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Never tho"
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": "ught I'd find you but you're"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B7",
+              "lyrics": "here and s"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "o I love you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I'm not"
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": "wrong when I s"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "ay I've been stuck"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm7",
+              "lyrics": "by the gl"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ue onto you"
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": ""
+            },
+            {
+              "chord": "B7",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Bm7",
+              "lyrics": "I've been"
+            },
+            {
+              "chord": "A",
+              "lyrics": "stuck by g"
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": "lue"
+            },
+            {
+              "chord": "B7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm7",
+              "lyrics": "Right on"
+            },
+            {
+              "chord": "A",
+              "lyrics": "to you"
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": ""
+            },
+            {
+              "chord": "B7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm7",
+              "lyrics": "I've bee"
+            },
+            {
+              "chord": "A",
+              "lyrics": "n stuck by"
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": "glue"
+            },
+            {
+              "chord": "B7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I've ne"
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": "ver known"
+            },
+            {
+              "chord": "B7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I've nev"
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": "er known someo"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "ne like you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm7",
+              "lyrics": "ooo"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I've ne"
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": "ver known"
+            },
+            {
+              "chord": "B7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I've nev"
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": "er known someo"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "ne like you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm7",
+              "lyrics": "ooo"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

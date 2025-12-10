@@ -1,0 +1,716 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/blink-182/i-miss-you-chords-330690",
+  "title": "I Miss You",
+  "artist": "Blink-182",
+  "key": "B",
+  "scrapedAt": "2025-12-10T18:46:07.685Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C/B",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "C/B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C/B",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "C/B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C/B",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "C/B",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Hello the"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "re, the angel from my nightmare"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "The shadow"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "in the background of the morgue"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "The unsus"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "pecting victim of darkness in the valley"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "We can liv"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "e like Jack and Sally if we want"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Where you can always find me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C/B",
+              "lyrics": "And we'll have Halloween on Christmas"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "And in the"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "night we'll wish this never ends"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "We'll wish this never ends"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus A",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "(I m"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "iss you, I miss"
+            },
+            {
+              "chord": "C/E",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "Fadd#11",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "you"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": ") (I miss you,"
+            },
+            {
+              "chord": "C/E",
+              "lyrics": "I miss you)"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "Fadd#11",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Where are"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "you and I'm so sorry"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "I cannot s"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "leep I cannot dream tonight"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I need somebody and always"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C/B",
+              "lyrics": "This sick strange darkness"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Comes cree"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "ping on so haunting every time"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "And as I stared I counted"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C/B",
+              "lyrics": "Webs from all the spiders"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Catching t"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "hings and eating their insides"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Like indecision to call you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C/B",
+              "lyrics": "and hear your voice of treason"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Will you c"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "ome home and stop this pain tonight"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Stop this pain tonight"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus B",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Don't w"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "aste your time"
+            },
+            {
+              "chord": "C/E",
+              "lyrics": "on me you're"
+            },
+            {
+              "chord": "G",
+              "lyrics": "already"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "The voic"
+            },
+            {
+              "chord": "Fadd#11",
+              "lyrics": "e inside my head"
+            },
+            {
+              "chord": "F",
+              "lyrics": "(I miss you, I miss you)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Don't w"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "aste your time"
+            },
+            {
+              "chord": "C/E",
+              "lyrics": "on me you're"
+            },
+            {
+              "chord": "G",
+              "lyrics": "already"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "The voi"
+            },
+            {
+              "chord": "Fadd#11",
+              "lyrics": "ce inside my head"
+            },
+            {
+              "chord": "F",
+              "lyrics": "(I miss yo"
+            },
+            {
+              "chord": "C",
+              "lyrics": "u, I miss you)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Interlude]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "G/B",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G/B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "G/B",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G/B",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus B",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Don't w"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "aste your time"
+            },
+            {
+              "chord": "C/E",
+              "lyrics": "on me you're"
+            },
+            {
+              "chord": "G",
+              "lyrics": "already"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "The voic"
+            },
+            {
+              "chord": "Fadd#11",
+              "lyrics": "e inside my head"
+            },
+            {
+              "chord": "F",
+              "lyrics": "(I miss you, miss you)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Don't w"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "aste your time"
+            },
+            {
+              "chord": "C/E",
+              "lyrics": "on me you're"
+            },
+            {
+              "chord": "G",
+              "lyrics": "already"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "The voic"
+            },
+            {
+              "chord": "Fadd#11",
+              "lyrics": "e inside my head"
+            },
+            {
+              "chord": "F",
+              "lyrics": "(I miss you, miss you)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Don't w"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "aste your time"
+            },
+            {
+              "chord": "C/E",
+              "lyrics": "on me you're"
+            },
+            {
+              "chord": "G",
+              "lyrics": "already"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "The voic"
+            },
+            {
+              "chord": "Fadd#11",
+              "lyrics": "e inside my head"
+            },
+            {
+              "chord": "F",
+              "lyrics": "(I miss you, miss you)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Don't w"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "aste your time"
+            },
+            {
+              "chord": "C/E",
+              "lyrics": "on me you're"
+            },
+            {
+              "chord": "G",
+              "lyrics": "already"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "The voi"
+            },
+            {
+              "chord": "Fadd#11",
+              "lyrics": "ce inside my head"
+            },
+            {
+              "chord": "F",
+              "lyrics": "(I miss yo"
+            },
+            {
+              "chord": "C",
+              "lyrics": "u, miss you)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "(I m"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "iss you, miss"
+            },
+            {
+              "chord": "C/E",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "Fadd#11",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "you)"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "(I miss you, m"
+            },
+            {
+              "chord": "C/E",
+              "lyrics": "iss you)"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "Fadd#11",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Fade out"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

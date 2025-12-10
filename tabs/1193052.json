@@ -1,0 +1,737 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/glen-campbell/wichita-lineman-chords-1193052",
+  "title": "Wichita Lineman",
+  "artist": "Glen Campbell",
+  "key": "F",
+  "scrapedAt": "2025-12-10T18:44:32.633Z",
+  "sections": [
+    {
+      "name": "Intro - bass riff",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e|----------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|----------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|---3--2---------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|-----------3----0-----|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|------------------3---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|----------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "| / / / / |"
+            },
+            {
+              "chord": "C9sus4",
+              "lyrics": "/ / / / | / / /"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "/ |"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C9sus4",
+              "lyrics": "N.C.  I am a lineman"
+            },
+            {
+              "chord": "Bbmaj7",
+              "lyrics": "for the county,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7/A",
+              "lyrics": "And I drive the"
+            },
+            {
+              "chord": "C9sus4",
+              "lyrics": "main road,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm7",
+              "lyrics": "Search"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "ing in the su"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "n for a - nothe"
+            },
+            {
+              "chord": "G",
+              "lyrics": "r over - lo"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ad,"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9",
+              "lyrics": "I hear you singing in the wires,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G/B",
+              "lyrics": "I can hear"
+            },
+            {
+              "chord": "Gm/Bb",
+              "lyrics": "you through the whine,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D/A",
+              "lyrics": "And the Wic"
+            },
+            {
+              "chord": "A7sus4",
+              "lyrics": "hita lineman..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbmaj7",
+              "lyrics": "Is still on t"
+            },
+            {
+              "chord": "Csus2",
+              "lyrics": "he line--------"
+            },
+            {
+              "chord": "Bbmaj7",
+              "lyrics": "--!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C9sus4",
+              "lyrics": "N.C.  I know I need"
+            },
+            {
+              "chord": "Bbmaj7",
+              "lyrics": "a small va - cation,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7/A",
+              "lyrics": "But it don't lo"
+            },
+            {
+              "chord": "C9sus4",
+              "lyrics": "ok like rain,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm7",
+              "lyrics": "And, if it"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "snows, that stretch down south..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gsus4",
+              "lyrics": "...Won't e"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ver stand t"
+            },
+            {
+              "chord": "D",
+              "lyrics": "he strain,"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9",
+              "lyrics": "And I need you more than want you,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G/B",
+              "lyrics": "And I want"
+            },
+            {
+              "chord": "Gm/Bb",
+              "lyrics": "you for all time,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D/A",
+              "lyrics": "And the Wic"
+            },
+            {
+              "chord": "A7sus4",
+              "lyrics": "hita lineman..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbmaj7",
+              "lyrics": "Is still on t"
+            },
+            {
+              "chord": "Csus2",
+              "lyrics": "he line--------"
+            },
+            {
+              "chord": "Bbmaj7",
+              "lyrics": "--!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 3 - Lead riff through tremolo effect",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C9sus4",
+              "lyrics": "e|---3--------"
+            },
+            {
+              "chord": "Bbmaj7",
+              "lyrics": "----------------|------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|---3------------------------|-----1------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|---3-----------3-3--2-2--0--|--2---------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|---3-----3--5---------------|------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|---3--3---------------------|------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|----------------------------|------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7/A",
+              "lyrics": "e|--0----------"
+            },
+            {
+              "chord": "C9sus4",
+              "lyrics": "-------------|---3----------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|--1-----------------------|---3----------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|--2--------0--3--2--------|---3----------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|--3-----3-------------3---|---3----------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|--0-----------------------|---3------------3---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|--------------------------|--------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm7",
+              "lyrics": "e|-------"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "--------5-5--"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "5--5--|---3----"
+            },
+            {
+              "chord": "G",
+              "lyrics": "---3--------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|---------------5-5--5--5--|---3--3----3--------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|-----5--5------5-5--5--5--|---5-------4--2--0--|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|--3--------3---5-5--5--5--|---5-------5--------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|---------------0-0--0--0--|---5-------5--------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|--------------------------|---3-------3--------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "e|--2---"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "3-2--2-2--2-2--"
+            },
+            {
+              "chord": "D",
+              "lyrics": "|---2---------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|--3---3-3------------|---3---------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|--2---2-2--2-2--2-2--|---2---------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|------0-0--0-0--0-0--|---0---------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|---------------------|-------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|---------------------|-------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9",
+              "lyrics": "And I need you more than want you,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G/B",
+              "lyrics": "And I want"
+            },
+            {
+              "chord": "Gm/Bb",
+              "lyrics": "you for all time,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D/A",
+              "lyrics": "And the Wic"
+            },
+            {
+              "chord": "A7sus4",
+              "lyrics": "hita lineman..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbmaj7",
+              "lyrics": "Is still on"
+            },
+            {
+              "chord": "Csus2",
+              "lyrics": "the line-------"
+            },
+            {
+              "chord": "Bbmaj7",
+              "lyrics": "--!"
+            },
+            {
+              "chord": "C9sus4",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Orchestral coda]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbmaj7",
+              "lyrics": "||: / / / / |"
+            },
+            {
+              "chord": "C",
+              "lyrics": "/ / / / :|| [Repeats to fade]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Suggestion for staccato 'morse code' rhythm ending]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbmaj7",
+              "lyrics": "| /_/_/_/ /__/_/ /_/__/ /_/__/ |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Csus2",
+              "lyrics": "* | /_/_/_/ /"
+            },
+            {
+              "chord": "D",
+              "lyrics": "__/_/ /_/__/ /_/__/ | / ||"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^ ^"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "====================================================="
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "For the closest GUITAR chord box diagrams to my chord"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "legend suggestions you will need to manually select"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "the following options by clicking on the"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "forward/backward arrows below five of the diagrams."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "All the other chord boxes should be the default"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "first option and don't need any reselecting. As long"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "as you are logged into your account, these choices"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "will be saved automatically for every time you view"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "this tab."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Am7 Gsus4 G G/B Csus2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "&lt;5 of 46> &lt;3 of 20> &lt;4 of 27> &lt;2 of 21> &lt;2 of 10>"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,655 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/angus-julia-stone/big-jet-plane-chords-957714",
+  "title": "Big Jet Plane",
+  "artist": "Angus & Julia Stone",
+  "key": "Db",
+  "scrapedAt": "2025-12-10T18:46:32.139Z",
+  "sections": [
+    {
+      "name": "Intro Riff (relative to capo)",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e|------------------|-----------------|------------------|-----------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|----5/8---5---8---|-----------------|----5/8---5---8---|-----------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|------------------|-4-----5---------|------------------|-7-----5---------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|------------------|-----------------|------------------|-----------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|------------------|-----------------|------------------|-----------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|------------------|-----------------|------------------|-----------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e|------------------|-----------------|------------------|-----------------|-----------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|----5/8---5---8---|-----------------|----5/8---5---8---|-----------------|-----------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|------------------|-4-----5---------|------------------|-7-----5-----4/5-|(5)--------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|------------------|-----------------|------------------|-----------------|-----------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|------------------|-----------------|------------------|-----------------|-----------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|------------------|-----------------|------------------|-----------------|-----------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "/ = Slide up, (5) = hold note over bar line"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "She said"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ": hello mist"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "er, pleased to meet ya"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I wanna"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "hold her, I"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "wanna kiss her"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "She smel"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "led of daisi"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "es, she smelled of daisies"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "She dri"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ve me crazy,"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "she drive m"
+            },
+            {
+              "chord": "G",
+              "lyrics": "e crazy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Gonna ta"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ke her for a"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ride on a big jet plane"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Gonna t"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ake her for"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "a ride on a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "big jet plane"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Yeah he"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "y, yeah hey"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Be my l"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "over, my lad"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "y river"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "But can"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "I take ya,"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "take ya high"
+            },
+            {
+              "chord": "G",
+              "lyrics": "er?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Gonna ta"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ke her for a"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ride on a big jet plane"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Gonna t"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ake her for"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "a ride on a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "big jet plane"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Gonna ta"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ke her for a"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ride on a big jet plane"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Gonna t"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ake her for"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "a ride on a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "big jet plane"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Yeah he"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "y, yeah hey"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Yeah he"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "y, yeah hey"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "Gonna hold y"
+            },
+            {
+              "chord": "G6",
+              "lyrics": "a, gonna kis"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "s ya in my arms"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "Gonna take y"
+            },
+            {
+              "chord": "G6",
+              "lyrics": "a, away from"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "harm"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "Gonna hold y"
+            },
+            {
+              "chord": "G6",
+              "lyrics": "a, gonna kis"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "s ya in my arms"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "Gonna take y"
+            },
+            {
+              "chord": "G6",
+              "lyrics": "a, away from"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "harm"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Gonna ta"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ke her for a"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ride on a big jet plane"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Gonna t"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ake her for"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "a ride on a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "big jet plane"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Gonna ta"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ke her for a"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ride on a big jet plane"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Gonna t"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ake her for"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "a ride on a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "big jet plane"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Yeah hey"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ", yeah hey"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Yeah hey"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ", yeah hey"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Yeah hey"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

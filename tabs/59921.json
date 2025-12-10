@@ -1,0 +1,358 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/alabama/christmas-in-dixie-chords-59921",
+  "title": "Christmas In Dixie",
+  "artist": "Alabama",
+  "key": "D",
+  "scrapedAt": "2025-12-10T18:43:58.222Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "A7",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Gmaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Gmaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "By now in"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "New York Ci"
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": "ty. There's snow on the ground."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "And out"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "in Californi"
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": "a. The sunshine"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "'s falling down."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And may"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "be down in M"
+            },
+            {
+              "chord": "D",
+              "lyrics": "emphis, Gra"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "celand's all in lights."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "And in At"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "lanta, Georg"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ia, there's peace on earth tonight."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Christm"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "as in Dixie,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "it's snowi"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ng in the pines."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Merry Chr"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "istmas from"
+            },
+            {
+              "chord": "D",
+              "lyrics": "Dixie to everyone tonight."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Interlude]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gmaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "A7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Gmaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "A7",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "It's wind"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "y in Chicago"
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": ". The kids are out of school."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "There's"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "magic in Mot"
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": "own. The city's"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "on the move."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "In Jack"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "son, Mississ"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ippi to Cha"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "rlotte, Caroline."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "And all a"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "cross the Na"
+            },
+            {
+              "chord": "D",
+              "lyrics": "tion, it's a peaceful Christmas time."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Christm"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "as in Dixie,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "it's snowi"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ng in the pines."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Merry Chr"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "istmas from"
+            },
+            {
+              "chord": "D",
+              "lyrics": "Dixie to everyone tonight."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "And from"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "Fort Payne,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "Alabama... Merry Christmas tonight."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

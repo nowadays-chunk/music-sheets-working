@@ -1,0 +1,666 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/eric-clapton/nobody-knows-you-when-youre-down-and-out-chords-114928",
+  "title": "Nobody Knows You When Youre Down And Out",
+  "artist": "Eric Clapton",
+  "key": "",
+  "scrapedAt": "2025-12-10T18:48:12.912Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "|   |   |"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "|"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "A7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dm",
+              "lyrics": ""
+            },
+            {
+              "chord": "A7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "|   |  |"
+            },
+            {
+              "chord": "F#dim7",
+              "lyrics": "|"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "A7",
+              "lyrics": ""
+            },
+            {
+              "chord": "D7",
+              "lyrics": ""
+            },
+            {
+              "chord": "G7",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Once I"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "lived the li"
+            },
+            {
+              "chord": "A",
+              "lyrics": "fe of a mil"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "lionaire"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Spent all"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "my money, d"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "idn't have any cares"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Took al"
+            },
+            {
+              "chord": "F#dim7",
+              "lyrics": "l my friends out"
+            },
+            {
+              "chord": "C",
+              "lyrics": "for a migh"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "ty good time"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7",
+              "lyrics": "We bought"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "bootleg liquor, champagne and wine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Then I"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "began to fal"
+            },
+            {
+              "chord": "A",
+              "lyrics": "l so low"
+            },
+            {
+              "chord": "A7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Lost all"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "my good frie"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "nds, had nowhere to go"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "If I ge"
+            },
+            {
+              "chord": "F#dim7",
+              "lyrics": "t my hands on a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "dollar agai"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "n"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7",
+              "lyrics": "I'll hang"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "on to it, till that old eagle grins because ..."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Nobody"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "knows you"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "A7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "When you'"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "re down and"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "out"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "In your"
+            },
+            {
+              "chord": "F#dim7",
+              "lyrics": "pocket, not one"
+            },
+            {
+              "chord": "C",
+              "lyrics": "penny"
+            },
+            {
+              "chord": "A7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7",
+              "lyrics": "And as for"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "friends, you don't have any"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "When yo"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "u get back o"
+            },
+            {
+              "chord": "A",
+              "lyrics": "n your feet"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "again"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Everybody"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "wants to be"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "your long lost friend"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "I said"
+            },
+            {
+              "chord": "F#dim7",
+              "lyrics": "it's strange wit"
+            },
+            {
+              "chord": "C",
+              "lyrics": "hout any do"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "ubt"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7",
+              "lyrics": "Nobody kno"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "ws you when you're down and out"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Solo",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(guitar)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "|   |   |"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "|"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "A7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dm",
+              "lyrics": ""
+            },
+            {
+              "chord": "A7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "|   |  |"
+            },
+            {
+              "chord": "F#dim7",
+              "lyrics": "| (piano)"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "A7",
+              "lyrics": ""
+            },
+            {
+              "chord": "D7",
+              "lyrics": ""
+            },
+            {
+              "chord": "G7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "|   |   |"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "|"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "A7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dm",
+              "lyrics": ""
+            },
+            {
+              "chord": "A7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "|   |  |"
+            },
+            {
+              "chord": "F#dim7",
+              "lyrics": "|"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "A7",
+              "lyrics": ""
+            },
+            {
+              "chord": "D7",
+              "lyrics": ""
+            },
+            {
+              "chord": "G7",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Lord, n"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "obody knows"
+            },
+            {
+              "chord": "A",
+              "lyrics": "you"
+            },
+            {
+              "chord": "A7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "When you'"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "re down and"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "out"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "In your"
+            },
+            {
+              "chord": "F#dim7",
+              "lyrics": "pocket, not one"
+            },
+            {
+              "chord": "C",
+              "lyrics": "penny"
+            },
+            {
+              "chord": "A7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7",
+              "lyrics": "And as for"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "friends, you don't have any"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "When yo"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "u get back o"
+            },
+            {
+              "chord": "A",
+              "lyrics": "n your feet"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "again"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Everybody"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "wants to be"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "your long lost friend"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "I said"
+            },
+            {
+              "chord": "F#dim7",
+              "lyrics": "it's strange wit"
+            },
+            {
+              "chord": "C",
+              "lyrics": "hout any do"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "ubt"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Coda]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7",
+              "lyrics": "Nobody knows you (nobody knows you)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Nobody knows you (nobody knows you)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7",
+              "lyrics": "Nobody kno"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "ws you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B9",
+              "lyrics": "When you'r"
+            },
+            {
+              "chord": "C9",
+              "lyrics": "e down and out"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

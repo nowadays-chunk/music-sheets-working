@@ -1,0 +1,854 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/lynyrd-skynyrd/tuesdays-gone-chords-493878",
+  "title": "Tuesdays Gone",
+  "artist": "Lynyrd Skynyrd",
+  "key": "A",
+  "scrapedAt": "2025-12-10T18:47:56.018Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Train r"
+            },
+            {
+              "chord": "E",
+              "lyrics": "oll on, on"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "down the line"
+            },
+            {
+              "chord": "D",
+              "lyrics": ","
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Won't yo"
+            },
+            {
+              "chord": "E",
+              "lyrics": "u please ta"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "ke me far away?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Now I f"
+            },
+            {
+              "chord": "E",
+              "lyrics": "eel the win"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "d blow outsid"
+            },
+            {
+              "chord": "D",
+              "lyrics": "e my door, means I'm"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "leaving"
+            },
+            {
+              "chord": "E",
+              "lyrics": "my woman at"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "home."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Tuesday'"
+            },
+            {
+              "chord": "G",
+              "lyrics": "s gone with"
+            },
+            {
+              "chord": "D",
+              "lyrics": "the wind."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "My baby'"
+            },
+            {
+              "chord": "E",
+              "lyrics": "s gone with"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "the wind."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[Instrumental]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "And I d"
+            },
+            {
+              "chord": "E",
+              "lyrics": "on't know,"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "oh where I'm"
+            },
+            {
+              "chord": "D",
+              "lyrics": "going."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I just w"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ant to be l"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "eft alone."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Well, w"
+            },
+            {
+              "chord": "E",
+              "lyrics": "hen this tr"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "ain ends I'll"
+            },
+            {
+              "chord": "D",
+              "lyrics": "try again, Lord I'm"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I'm leav"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ing my woma"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "n at home."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Tuesday'"
+            },
+            {
+              "chord": "G",
+              "lyrics": "s gone with"
+            },
+            {
+              "chord": "D",
+              "lyrics": "the wind."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Tuesday'"
+            },
+            {
+              "chord": "G",
+              "lyrics": "s gone with"
+            },
+            {
+              "chord": "D",
+              "lyrics": "the wind."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Tuesday'"
+            },
+            {
+              "chord": "G",
+              "lyrics": "s gone with"
+            },
+            {
+              "chord": "D",
+              "lyrics": "the wind."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "My baby'"
+            },
+            {
+              "chord": "E",
+              "lyrics": "s gone with"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "the wind"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Solo",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Train r"
+            },
+            {
+              "chord": "E",
+              "lyrics": "oll on, Tue"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "sday's gone"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Train r"
+            },
+            {
+              "chord": "E",
+              "lyrics": "oll on many"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "miles from m"
+            },
+            {
+              "chord": "D",
+              "lyrics": "y home, see I'm"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I'm ridi"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ng my blues"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "away."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Tuesday"
+            },
+            {
+              "chord": "E",
+              "lyrics": ", you see,"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "she had to be"
+            },
+            {
+              "chord": "D",
+              "lyrics": "free, Lord but"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "But some"
+            },
+            {
+              "chord": "E",
+              "lyrics": "how I've go"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "t to carry on, oh yeah."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Tuesday'"
+            },
+            {
+              "chord": "G",
+              "lyrics": "s gone with"
+            },
+            {
+              "chord": "D",
+              "lyrics": "the wind."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Tuesday'"
+            },
+            {
+              "chord": "G",
+              "lyrics": "s gone with"
+            },
+            {
+              "chord": "D",
+              "lyrics": "the wind."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Tuesday'"
+            },
+            {
+              "chord": "G",
+              "lyrics": "s gone with"
+            },
+            {
+              "chord": "D",
+              "lyrics": "the wind."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "My baby'"
+            },
+            {
+              "chord": "E",
+              "lyrics": "s gone with"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "the wind."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

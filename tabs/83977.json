@@ -1,0 +1,534 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/simon-garfunkel/scarborough-fair-chords-83977",
+  "title": "Scarborough Fair",
+  "artist": "Simon & Garfunkel",
+  "key": "",
+  "scrapedAt": "2025-12-10T18:43:37.397Z",
+  "sections": [
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Are you g"
+            },
+            {
+              "chord": "G",
+              "lyrics": "oing to Sca"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "rborough Fair"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Parsle"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "y, sage, ros"
+            },
+            {
+              "chord": "C",
+              "lyrics": "emary and t"
+            },
+            {
+              "chord": "D",
+              "lyrics": "hyme"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Rememb"
+            },
+            {
+              "chord": "C",
+              "lyrics": "er me to on"
+            },
+            {
+              "chord": "C",
+              "lyrics": "e who lives"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "there"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "She once"
+            },
+            {
+              "chord": "G",
+              "lyrics": "was a true"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "love of mine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Tell her"
+            },
+            {
+              "chord": "G",
+              "lyrics": "to make me"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "a cambric shirt"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(On the side of a hill in the deep forest green)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Parsle"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "y, sage, ros"
+            },
+            {
+              "chord": "C",
+              "lyrics": "emary and t"
+            },
+            {
+              "chord": "D",
+              "lyrics": "hyme"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Tracing of sparrow on snow-crested brown)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Withou"
+            },
+            {
+              "chord": "C",
+              "lyrics": "t no seams"
+            },
+            {
+              "chord": "C",
+              "lyrics": "nor nee-ee-"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "dle work"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Blankets and bedclothes the child of the mountain)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Then she'"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ll be a tru"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "e love of mine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Sleeps unaware of the clarion call)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 3",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Tell her"
+            },
+            {
+              "chord": "G",
+              "lyrics": "to find me"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "an acre of land"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(On the side of a hill, a sprinkling of leaves)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Parsle"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "y, sage, ros"
+            },
+            {
+              "chord": "C",
+              "lyrics": "emary and t"
+            },
+            {
+              "chord": "D",
+              "lyrics": "hyme"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Washes the grave - with silvery tears)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Betwee"
+            },
+            {
+              "chord": "C",
+              "lyrics": "n the salt"
+            },
+            {
+              "chord": "C",
+              "lyrics": "water and t"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "he sea strand"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "s"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(A soldier cleans - and polishes a gun)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Then she'"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ll be a tru"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "e love of mine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 4",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Tell her"
+            },
+            {
+              "chord": "G",
+              "lyrics": "to reap it"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "with a sickle of leather"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(War bellows blazing in scarlet battalions)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Parsle"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "y, sage, ros"
+            },
+            {
+              "chord": "C",
+              "lyrics": "emary and t"
+            },
+            {
+              "chord": "D",
+              "lyrics": "hyme"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Generals order their soldiers to kill)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "And ga"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ther it all"
+            },
+            {
+              "chord": "C",
+              "lyrics": "in a bunch"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "of heather"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(And to fight for a cause - they've long-ago forgotten)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Then she'"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ll be a tru"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "e love of mine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 5",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Are you g"
+            },
+            {
+              "chord": "G",
+              "lyrics": "oing to Sca"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "rborough Fair"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Parsle"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "y, sage, ros"
+            },
+            {
+              "chord": "C",
+              "lyrics": "emary and t"
+            },
+            {
+              "chord": "D",
+              "lyrics": "hyme"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Rememb"
+            },
+            {
+              "chord": "C",
+              "lyrics": "er me to on"
+            },
+            {
+              "chord": "C",
+              "lyrics": "e who lives"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "there"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "She once"
+            },
+            {
+              "chord": "G",
+              "lyrics": "was a true"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "love of mine"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

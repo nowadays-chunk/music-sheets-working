@@ -1,0 +1,860 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/john-lennon/imagine-chords-9306",
+  "title": "Imagine",
+  "artist": "John Lennon",
+  "key": "C",
+  "scrapedAt": "2025-12-10T18:43:15.651Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C Cmaj7 F Cadd9 Cmaj7 F"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e|----------------|-----------------|----------------|-----------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|------------0---|---------------0-|3---3---3---0---|---------------0-|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|0---0---0---0---|2---2---2---2h3--|0---0---0---0---|2---2---2---2h3--|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|2---2---2---2---|3---3---3--------|2---2---2---2---|3---3---3--------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|--3---3---3---3-|-----------------|--3---3---3---3-|-----------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|----------------|--1---1---1------|----------------|--1---1---1------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "1 & 2 & 3 & 4 & 1 & 2 & 3 & 4 & 1 & 2 & 3 & 4 & 1 & 2 & 3 & 4 &"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cadd9 Cmaj7 F Cadd9 Cmaj7 F"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e|----------------|-----------------|----------------|-----------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|3---3---3---0---|---------------0-|3---3---3---0---|---------------0-|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|0---0---0---0---|2---2---2---2h3--|0---0---0---0---|2---2---2---2h3--|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|2---2---2---2---|3---3---3--------|2---2---2---2---|3---3---3--------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|--3---3---3---3-|-----------------|--3---3---3---3-|-----------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|----------------|--1---1---1------|----------------|--1---1---1------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "1 & 2 & 3 & 4 & 1 & 2 & 3 & 4 & 1 & 2 & 3 & 4 & 1 & 2 & 3 & 4 &"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORDS and special voicings"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C x-3-2-0-1-0 G 3-x-0-0-0-3"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cmaj7 x-3-2-0-0-0 C/G 3-x-2-0-1-0 or 3-3-2-0-1-0"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F x-x-3-2-1-1 G7 3-x-0-0-3-1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Am/E x-x-2-2-1-0 E 0-2-2-1-0-0"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E7 0-2-2-1-3-x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dm7 x-x-0-2-1-1 (or Dm x-x-0-2-3-1)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F/C x-3-x-2-1-1 (or Dm/C x-3-x-2-3-1)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "All the C chords in the verses are actually Cadd9 (x-3-2-0-3-0)."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Use it for special flavour."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The Dm7 and F/C chords in the Bridges can also be played as"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "regular Dm and Dm/C respectively (voicings: see above). Choose"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "whatever sounds best to you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "|  |"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "|  |"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Imagine"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "there's no heav"
+            },
+            {
+              "chord": "F",
+              "lyrics": "en"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "It's eas"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "y if you try"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "No hell"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "below us"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Above us"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "only sky"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Imagine"
+            },
+            {
+              "chord": "Am/E",
+              "lyrics": "all the peopl"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "e"
+            },
+            {
+              "chord": "F/C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Living f"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "or to - day a"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "-hah"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Imagine"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "there's no coun"
+            },
+            {
+              "chord": "F",
+              "lyrics": "tries"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "It isn't"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "hard to do"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Nothing"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "to kill or die"
+            },
+            {
+              "chord": "F",
+              "lyrics": "for"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "And no r"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "eligion too"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Imagine"
+            },
+            {
+              "chord": "Am/E",
+              "lyrics": "all the peopl"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "e"
+            },
+            {
+              "chord": "F/C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Living l"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "ife in peace"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "- you-hou-hou-ou-ou"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "You m"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ay say I'm"
+            },
+            {
+              "chord": "C",
+              "lyrics": "a dreamer"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "E7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "But I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "'m not the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "only one"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "E7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "I hop"
+            },
+            {
+              "chord": "G",
+              "lyrics": "e some day"
+            },
+            {
+              "chord": "C",
+              "lyrics": "you'll join"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "us"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "E7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "And the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "world will"
+            },
+            {
+              "chord": "C",
+              "lyrics": "be as one"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 3",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Imagine"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "no pos - sessio"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ns"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I wonder"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "if you can"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "No need"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "for greed or hu"
+            },
+            {
+              "chord": "F",
+              "lyrics": "nger"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "A brothe"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "rhood of man"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge 3",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Imagine"
+            },
+            {
+              "chord": "Am/E",
+              "lyrics": "all the peopl"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "e"
+            },
+            {
+              "chord": "F/C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Sharing"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "all the world"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "- you-hou-hou-ou"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "You m"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ay say I'm"
+            },
+            {
+              "chord": "C",
+              "lyrics": "a dreamer"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "E7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "But I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "'m not the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "only one"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "E7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "I hop"
+            },
+            {
+              "chord": "G",
+              "lyrics": "e some day"
+            },
+            {
+              "chord": "C",
+              "lyrics": "you'll join"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "us"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "E7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "And the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "world will"
+            },
+            {
+              "chord": "C",
+              "lyrics": "live as one"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "*************************"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| h Hammer-on"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| x Dead note"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "*************************"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

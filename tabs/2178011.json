@@ -1,0 +1,935 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/phoebe-bridgers/scott-street-chords-2178011",
+  "title": "Scott Street",
+  "artist": "Phoebe Bridgers",
+  "key": "Bb",
+  "scrapedAt": "2025-12-10T18:44:08.499Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "A7sus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "G/A",
+              "lyrics": ""
+            },
+            {
+              "chord": "G/B",
+              "lyrics": ""
+            },
+            {
+              "chord": "Csus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": ""
+            },
+            {
+              "chord": "Csus2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "A7sus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "G/A",
+              "lyrics": ""
+            },
+            {
+              "chord": "G/B",
+              "lyrics": ""
+            },
+            {
+              "chord": "Csus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": ""
+            },
+            {
+              "chord": "Csus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "Csus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": ""
+            },
+            {
+              "chord": "Csus2",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Wal"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "king Scott Stre"
+            },
+            {
+              "chord": "A7sus4",
+              "lyrics": "et, feeling like"
+            },
+            {
+              "chord": "G/A",
+              "lyrics": "a stranger"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": ""
+            },
+            {
+              "chord": "Csus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": ""
+            },
+            {
+              "chord": "Csus2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Wit"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "h an open heart"
+            },
+            {
+              "chord": "A7sus4",
+              "lyrics": ", open container"
+            },
+            {
+              "chord": "G/A",
+              "lyrics": ""
+            },
+            {
+              "chord": "G/B",
+              "lyrics": ""
+            },
+            {
+              "chord": "Csus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": ""
+            },
+            {
+              "chord": "Csus2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I'v"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "e got a stack o"
+            },
+            {
+              "chord": "A7sus4",
+              "lyrics": "f mail and a tal"
+            },
+            {
+              "chord": "G/A",
+              "lyrics": "l can"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": ""
+            },
+            {
+              "chord": "Csus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": ""
+            },
+            {
+              "chord": "Csus2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "It'"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "s a shower beer"
+            },
+            {
+              "chord": "A7sus4",
+              "lyrics": "it's a payment"
+            },
+            {
+              "chord": "G/A",
+              "lyrics": "plan"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": ""
+            },
+            {
+              "chord": "Csus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": ""
+            },
+            {
+              "chord": "Csus2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "The"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "re's helicopter"
+            },
+            {
+              "chord": "A7sus4",
+              "lyrics": "s over my head"
+            },
+            {
+              "chord": "G/A",
+              "lyrics": ""
+            },
+            {
+              "chord": "G/B",
+              "lyrics": ""
+            },
+            {
+              "chord": "Csus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": ""
+            },
+            {
+              "chord": "Csus2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Eve"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "ry night when I"
+            },
+            {
+              "chord": "A7sus4",
+              "lyrics": "go to bed"
+            },
+            {
+              "chord": "G/A",
+              "lyrics": ""
+            },
+            {
+              "chord": "G/B",
+              "lyrics": ""
+            },
+            {
+              "chord": "Csus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": ""
+            },
+            {
+              "chord": "Csus2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Spe"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "nding money and"
+            },
+            {
+              "chord": "A7sus4",
+              "lyrics": "I earned it"
+            },
+            {
+              "chord": "G/A",
+              "lyrics": ""
+            },
+            {
+              "chord": "G/B",
+              "lyrics": ""
+            },
+            {
+              "chord": "Csus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": ""
+            },
+            {
+              "chord": "Csus2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Whe"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "n I'm lonely, t"
+            },
+            {
+              "chord": "A7sus4",
+              "lyrics": "hat's when I'll"
+            },
+            {
+              "chord": "G/A",
+              "lyrics": "burn it"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": ""
+            },
+            {
+              "chord": "Csus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": ""
+            },
+            {
+              "chord": "Csus2",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "A7sus4",
+              "lyrics": "Do you feel"
+            },
+            {
+              "chord": "Csus2",
+              "lyrics": "ashaaaa - aame"
+            },
+            {
+              "chord": "G",
+              "lyrics": "d"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "A7sus4",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7sus4",
+              "lyrics": "When you h"
+            },
+            {
+              "chord": "Csus2",
+              "lyrics": "ear my naaaaaaa"
+            },
+            {
+              "chord": "G",
+              "lyrics": "a - aaaaaaa"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "aame"
+            },
+            {
+              "chord": "A7sus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "A7sus4",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I a"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "sked you \"How i"
+            },
+            {
+              "chord": "A7sus4",
+              "lyrics": "s your sister?"
+            },
+            {
+              "chord": "G/A",
+              "lyrics": ""
+            },
+            {
+              "chord": "G/B",
+              "lyrics": ""
+            },
+            {
+              "chord": "Csus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": ""
+            },
+            {
+              "chord": "Csus2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I h"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "eard she got he"
+            },
+            {
+              "chord": "A7sus4",
+              "lyrics": "r degree\""
+            },
+            {
+              "chord": "G/A",
+              "lyrics": ""
+            },
+            {
+              "chord": "G/B",
+              "lyrics": ""
+            },
+            {
+              "chord": "Csus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": ""
+            },
+            {
+              "chord": "Csus2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "I said, \"That"
+            },
+            {
+              "chord": "A7sus4",
+              "lyrics": "makes me feel ol"
+            },
+            {
+              "chord": "G/A",
+              "lyrics": "d\""
+            },
+            {
+              "chord": "G/B",
+              "lyrics": ""
+            },
+            {
+              "chord": "Csus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": ""
+            },
+            {
+              "chord": "Csus2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "He"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "said, \"What doe"
+            },
+            {
+              "chord": "A7sus4",
+              "lyrics": "s that make me?\""
+            },
+            {
+              "chord": "G/A",
+              "lyrics": ""
+            },
+            {
+              "chord": "G/B",
+              "lyrics": ""
+            },
+            {
+              "chord": "Csus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": ""
+            },
+            {
+              "chord": "Csus2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I a"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "sked you \"How i"
+            },
+            {
+              "chord": "A7sus4",
+              "lyrics": "s playing drums?"
+            },
+            {
+              "chord": "G/A",
+              "lyrics": "\""
+            },
+            {
+              "chord": "G/B",
+              "lyrics": ""
+            },
+            {
+              "chord": "Csus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": ""
+            },
+            {
+              "chord": "Csus2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "You"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "said it's too"
+            },
+            {
+              "chord": "A7sus4",
+              "lyrics": "much shit to car"
+            },
+            {
+              "chord": "G/A",
+              "lyrics": "ry"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": ""
+            },
+            {
+              "chord": "Csus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": ""
+            },
+            {
+              "chord": "Csus2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "\"An"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "d what about th"
+            },
+            {
+              "chord": "A7sus4",
+              "lyrics": "e band?\""
+            },
+            {
+              "chord": "G/A",
+              "lyrics": ""
+            },
+            {
+              "chord": "G/B",
+              "lyrics": ""
+            },
+            {
+              "chord": "Csus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": ""
+            },
+            {
+              "chord": "Csus2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "You"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "said they're a"
+            },
+            {
+              "chord": "A7sus4",
+              "lyrics": "ll getting marri"
+            },
+            {
+              "chord": "G/A",
+              "lyrics": "ed"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": ""
+            },
+            {
+              "chord": "Csus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": ""
+            },
+            {
+              "chord": "Csus2",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "A7sus4",
+              "lyrics": "Do you fe"
+            },
+            {
+              "chord": "Csus2",
+              "lyrics": "el ashaaaa - aa"
+            },
+            {
+              "chord": "G",
+              "lyrics": "aaaamed"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "Csus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "G/B",
+              "lyrics": ""
+            },
+            {
+              "chord": "G/A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7sus4",
+              "lyrics": "When you h"
+            },
+            {
+              "chord": "Csus2",
+              "lyrics": "ear my naaaaaaa"
+            },
+            {
+              "chord": "G",
+              "lyrics": "a - aaaaaaa"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "aame"
+            },
+            {
+              "chord": "B5/C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C5",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bridge",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G5",
+              "lyrics": ""
+            },
+            {
+              "chord": "G5/F#",
+              "lyrics": ""
+            },
+            {
+              "chord": "B5/C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C5",
+              "lyrics": ""
+            },
+            {
+              "chord": "B5/C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G5",
+              "lyrics": "Anyway"
+            },
+            {
+              "chord": "G5/F#",
+              "lyrics": ", don't be a st"
+            },
+            {
+              "chord": "B5/C",
+              "lyrics": "ranger"
+            },
+            {
+              "chord": "C5",
+              "lyrics": ""
+            },
+            {
+              "chord": "B5/C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G5",
+              "lyrics": "Anyway"
+            },
+            {
+              "chord": "G5/F#",
+              "lyrics": ", don't be a st"
+            },
+            {
+              "chord": "B5/C",
+              "lyrics": "ranger"
+            },
+            {
+              "chord": "C5",
+              "lyrics": ""
+            },
+            {
+              "chord": "B5/C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G5",
+              "lyrics": "Don't be"
+            },
+            {
+              "chord": "G5/F#",
+              "lyrics": "a stranger"
+            },
+            {
+              "chord": "B5/C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "************************************"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| h Hammer-on"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "************************************"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

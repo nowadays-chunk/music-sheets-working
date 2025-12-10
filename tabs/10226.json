@@ -1,0 +1,398 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/the-kinks/waterloo-sunset-chords-10226",
+  "title": "Waterloo Sunset",
+  "artist": "The Kinks",
+  "key": "",
+  "scrapedAt": "2025-12-10T18:46:32.975Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 1",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Dirty ol"
+            },
+            {
+              "chord": "A",
+              "lyrics": "d river, mu"
+            },
+            {
+              "chord": "G",
+              "lyrics": "st you keep rolling, flowing into the night"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "People s"
+            },
+            {
+              "chord": "A",
+              "lyrics": "o busy make"
+            },
+            {
+              "chord": "G",
+              "lyrics": "me feel dizzy, taxi lights shine so bright"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "But I do"
+            },
+            {
+              "chord": "EmM7",
+              "lyrics": "n't need no fr"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "iends"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "As lo"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ng as I gaz"
+            },
+            {
+              "chord": "G",
+              "lyrics": "e on Waterl"
+            },
+            {
+              "chord": "G",
+              "lyrics": "oo Sunset,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "I am in par"
+            },
+            {
+              "chord": "E",
+              "lyrics": "adise"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E7",
+              "lyrics": "Every"
+            },
+            {
+              "chord": "A",
+              "lyrics": "day I look"
+            },
+            {
+              "chord": "D",
+              "lyrics": "at the worl"
+            },
+            {
+              "chord": "G",
+              "lyrics": "d from my w"
+            },
+            {
+              "chord": "D",
+              "lyrics": "indow"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E7",
+              "lyrics": "Chilly-chi"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "lly is the evening time, Waterloo sunset's fine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 2",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Terry me"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ets Julie,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "Waterloo Station, every Friday night"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "But I am"
+            },
+            {
+              "chord": "A",
+              "lyrics": "so lazy, d"
+            },
+            {
+              "chord": "G",
+              "lyrics": "on't want to wander, I stay at home at night"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "But I do"
+            },
+            {
+              "chord": "EmM7",
+              "lyrics": "n't feel afrai"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "d"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "As lo"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ng as I gaz"
+            },
+            {
+              "chord": "G",
+              "lyrics": "e on Waterl"
+            },
+            {
+              "chord": "G",
+              "lyrics": "oo Sunset,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "I am in par"
+            },
+            {
+              "chord": "E",
+              "lyrics": "adise"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E7",
+              "lyrics": "Every"
+            },
+            {
+              "chord": "A",
+              "lyrics": "day I look"
+            },
+            {
+              "chord": "D",
+              "lyrics": "at the worl"
+            },
+            {
+              "chord": "G",
+              "lyrics": "d from my w"
+            },
+            {
+              "chord": "D",
+              "lyrics": "indow"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E7",
+              "lyrics": "Chilly-chi"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "lly is the evening time, Waterloo sunset's fine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse 3",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Millions"
+            },
+            {
+              "chord": "A",
+              "lyrics": "of people"
+            },
+            {
+              "chord": "G",
+              "lyrics": "swarming like flies round Waterloo underground"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "But Terr"
+            },
+            {
+              "chord": "A",
+              "lyrics": "y and Julie"
+            },
+            {
+              "chord": "G",
+              "lyrics": "cross over the river where they feel safe and sound"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "And they"
+            },
+            {
+              "chord": "EmM7",
+              "lyrics": "don't need no"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "friends"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "As long"
+            },
+            {
+              "chord": "A",
+              "lyrics": "as they gaz"
+            },
+            {
+              "chord": "G",
+              "lyrics": "e on Waterloo Sunset, they are in paradise"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Waterloo sunset's fine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Waterloo sunset's fine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Waterloo sunset's fine"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

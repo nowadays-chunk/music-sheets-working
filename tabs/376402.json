@@ -1,0 +1,717 @@
+{
+  "url": "https://tabs.ultimate-guitar.com/tab/the-kooks/naive-chords-376402",
+  "title": "Naive",
+  "artist": "The Kooks",
+  "key": "G#m",
+  "scrapedAt": "2025-12-10T18:46:29.566Z",
+  "sections": [
+    {
+      "name": "Intro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Esus2",
+              "lyrics": "e|--------"
+            },
+            {
+              "chord": "C",
+              "lyrics": "-----------"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "--------------"
+            },
+            {
+              "chord": "G",
+              "lyrics": "-----------"
+            },
+            {
+              "chord": "D",
+              "lyrics": "---------3---2---------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|-------------------------------------------3----3----3---3---------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|-----2---2---2p0------2-----2-----2p0------2----2----0---2---------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|-------------------2-----2-----2-----------0----0----0---0---------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|--2----2---2-------3-----3-----3---------------------2-------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|--0----0---0---------------------------0h2----2------3-------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(this can be played throughout the verse on top of the chords)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "I'm not s"
+            },
+            {
+              "chord": "C",
+              "lyrics": "aying it wa"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "s your fault, although you could have done more"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Oh, you'r"
+            },
+            {
+              "chord": "D",
+              "lyrics": "e so naive yet so"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "How could"
+            },
+            {
+              "chord": "C",
+              "lyrics": "this be do"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "ne, by such a smiling sweetheart"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Oh, and y"
+            },
+            {
+              "chord": "D",
+              "lyrics": "our sweet and pretty face"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "In such a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "n ugly worl"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "d, something so beautiful"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Oh, that"
+            },
+            {
+              "chord": "D",
+              "lyrics": "every time I look inside"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I know,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "she knows t"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "hat I'm not fond of asking"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "True or"
+            },
+            {
+              "chord": "G",
+              "lyrics": "false, it m"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "ay be... Well, she's still out to get me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "And I kn"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ow, she know"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "s that I'm not fond of asking"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "True or"
+            },
+            {
+              "chord": "G",
+              "lyrics": "false, it"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "may be... She'"
+            },
+            {
+              "chord": "C",
+              "lyrics": "s still out to get me!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "I may say"
+            },
+            {
+              "chord": "C",
+              "lyrics": "it was you"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "r fault because I know you could have done more"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Oh, you'r"
+            },
+            {
+              "chord": "D",
+              "lyrics": "e so naive yet so"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "How could"
+            },
+            {
+              "chord": "C",
+              "lyrics": "this be do"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "ne by such a smiling sweetheart"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Oh, and y"
+            },
+            {
+              "chord": "D",
+              "lyrics": "our sweet and pretty face"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "In such a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "n ugly worl"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "d something so beautiful"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "That ever"
+            },
+            {
+              "chord": "D",
+              "lyrics": "y time I look inside"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I know,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "she knows t"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "hat I'm not fond of asking"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "True or"
+            },
+            {
+              "chord": "G",
+              "lyrics": "false, it m"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "ay be... Well, she's still out to get me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "And I kn"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ow, she know"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "s that I'm not fond of asking"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "True or"
+            },
+            {
+              "chord": "G",
+              "lyrics": "false, it"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "may be... She'"
+            },
+            {
+              "chord": "C",
+              "lyrics": "s still out to get me!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "So how co"
+            },
+            {
+              "chord": "C",
+              "lyrics": "uld this be"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "done, by such a smiling sweetheart"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "You're so"
+            },
+            {
+              "chord": "D",
+              "lyrics": "naive yet so"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "You're su"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ch an ugly"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "thing for someone so beautiful"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "That ever"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "y time you're on his side"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chorus",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I know,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "she knows t"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "hat I'm not fond of asking"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "True or"
+            },
+            {
+              "chord": "G",
+              "lyrics": "false, it m"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "ay be... Well, she's still out to get me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "And I kn"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ow, she know"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "s that I'm not fond of asking"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "True or"
+            },
+            {
+              "chord": "G",
+              "lyrics": "false, it m"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "ay be... She's still out to get me!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outro",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Just do"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "n't let me do"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "wn"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Just do"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "n't let me do"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "wn"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Hold on"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "to your kite"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Just don't let me down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Just do"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "n't let me do"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "wn"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Hold on"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "to your kite"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Just don't let me down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Just don"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "'t let me dow"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "n"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(some of the Ds at the end of each verse can be played as D/F#s"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "depending on how it sounds)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "********************"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| h Hammer-on"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| p Pull-off"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "********************"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
