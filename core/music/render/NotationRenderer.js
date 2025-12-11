@@ -2,13 +2,10 @@
 import Vex from "vexflow";
 const VF = Vex;
 
-import { createVexNote, createVexRest } from "./VexflowExtensions.js";
-
 export default class NotationRenderer {
-  constructor({ container, score, layout = {} }) {
+  constructor({ container, score }) {
     this.container = container;
     this.score = score;
-    this.layout = layout;
   }
 
   destroy() {
@@ -21,41 +18,73 @@ export default class NotationRenderer {
     this.destroy();
 
     const renderer = new VF.Renderer(this.container, VF.Renderer.Backends.SVG);
-    renderer.resize(900, 250);
-    const context = renderer.getContext();
+    renderer.resize(900, 1200); // enough height for multiple systems
+    const ctx = renderer.getContext();
 
-    const stave = new VF.Stave(10, 40, 860);
+    // ---- LAYOUT CONSTANTS ----
+    const MEASURES_PER_LINE = 4;
+    const MEASURE_WIDTH = 200;
+    const START_X = 20;
 
-    // clef
-    stave.addClef(this.score.clef?.name || "treble");
+    let x = START_X;
+    let y = 40;
+    const SYSTEM_HEIGHT = 120;
 
-    // time signature
-    if (this.score.timeSignature)
-      stave.addTimeSignature(this.score.timeSignature.toString());
+    const measures = this.score.measures || [];
 
-    // key signature
-    if (this.score.keySignature)
-      stave.addKeySignature(this.score.keySignature.key);
+    measures.forEach((measure, index) => {
+      const isFirstInLine = index % MEASURES_PER_LINE === 0;
 
-    stave.setContext(context).draw();
+      // Start new system?
+      if (isFirstInLine && index !== 0) {
+        x = START_X;
+        y += SYSTEM_HEIGHT;
+      }
 
-    // --------------------------------------
-    // Build VexFlow voices
-    // --------------------------------------
-    const vfVoices = [];
+      // -------------------------------
+      // CREATE STAVE FOR THIS MEASURE
+      // -------------------------------
+      const stave = new VF.Stave(x, y, MEASURE_WIDTH);
 
-    for (const measure of this.score.measures) {
+      if (index === 0) {
+        stave.addClef(this.score.clef?.name || "treble");
+        stave.addTimeSignature(this.score.timeSignature.toString());
+        stave.addKeySignature(this.score.keySignature.key);
+      }
+
+      stave.setContext(ctx).draw();
+
+      // -------------------------------
+      // BUILD VOICES FOR THIS MEASURE
+      // -------------------------------
+      const vfVoices = [];
+
       for (const voice of measure.voices) {
         if (!voice.elements || voice.elements.length === 0) continue;
 
         const tickables = [];
 
         for (const entry of voice.elements) {
-          const n = entry.note ?? entry.element ?? entry.data ?? null;
+          const n = entry.note ?? entry.element ?? entry;
           if (!n) continue;
 
-          if (n.isRest) tickables.push(createVexRest(n));
-          else tickables.push(createVexNote(n));
+          let vexNote;
+          const dur = n.duration?.symbol || "q";
+
+          if (n.isRest) {
+            vexNote = new VF.StaveNote({
+              keys: ["b/4"],
+              duration: dur + "r",
+            });
+          } else {
+            const key = `${n.pitch.step.toLowerCase()}${n.pitch.alter === 1 ? "#" : n.pitch.alter === -1 ? "b" : ""}/${n.pitch.octave}`;
+            vexNote = new VF.StaveNote({
+              keys: [key],
+              duration: dur,
+            });
+          }
+
+          tickables.push(vexNote);
         }
 
         if (tickables.length === 0) continue;
@@ -65,24 +94,26 @@ export default class NotationRenderer {
           beat_value: measure.timeSignature.beatValue,
         });
 
-        // ❗ VEXFLOW 4 FEATURE — SOFT MODE  
-        // Accepts incomplete measures WITHOUT throwing errors
-        vfVoice.setMode(VF.Voice.Mode.SOFT);
-
+        vfVoice.setMode(VF.Voice.Mode.SOFT); // allow incomplete measures
         vfVoice.addTickables(tickables);
+
         vfVoices.push(vfVoice);
       }
-    }
 
-    if (vfVoices.length === 0) return;
+      // Nothing to draw for this measure?
+      if (vfVoices.length === 0) {
+        x += MEASURE_WIDTH;
+        return;
+      }
 
-    // --------------------------------------
-    // Format & Draw without errors
-    // --------------------------------------
-    const formatter = new VF.Formatter();
-    formatter.joinVoices(vfVoices);
-    formatter.format(vfVoices, 700);
+      // Format & Draw voices only within THIS measure box
+      const formatter = new VF.Formatter();
+      formatter.joinVoices(vfVoices);
+      formatter.format(vfVoices, MEASURE_WIDTH - 20);
 
-    vfVoices.forEach(v => v.draw(context, stave));
+      vfVoices.forEach(v => v.draw(ctx, stave));
+
+      x += MEASURE_WIDTH;
+    });
   }
 }

@@ -353,8 +353,9 @@ const MusicApp = (props) => {
                     boards={boards}
                     handleFretboardSelect={(i) => {
                       handleFretboardSelect(i);
-                      setMobileDrawerOpen(true);
-                      setDrawerOpen(true);
+                      // REMOVE auto-open behavior
+                      // setMobileDrawerOpen(true);
+                      // setDrawerOpen(true);
                     }}
                     onElementChange={onElementChange}
                     onNoteClick={(noteObj) => {

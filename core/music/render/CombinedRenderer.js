@@ -3,26 +3,24 @@ import NotationRenderer from "./NotationRenderer";
 import TabRenderer from "./TabRenderer";
 
 export default class CombinedRenderer {
-  constructor({ container, score }) {
-    this.container = container;
+  constructor({ notationContainer, tabContainer, score }) {
+    this.notationContainer = notationContainer;
+    this.tabContainer = tabContainer;
     this.score = score;
-
-    this.staffDiv = container.querySelector(".notation");
-    this.tabDiv   = container.querySelector(".tablature");
-
-    this.notation = new NotationRenderer({
-      container: this.staffDiv,
-      score
-    });
-
-    this.tab = new TabRenderer({
-      container: this.tabDiv,
-      score
-    });
   }
 
   render() {
-    this.notation.render();
-    this.tab.render();
+    this.notationContainer.innerHTML = "";
+    this.tabContainer.innerHTML = "";
+
+    new NotationRenderer({
+      container: this.notationContainer,
+      score: this.score
+    }).render();
+
+    new TabRenderer({
+      container: this.tabContainer,
+      score: this.score
+    }).render();
   }
 }
