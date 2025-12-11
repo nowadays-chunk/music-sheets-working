@@ -212,6 +212,7 @@ const MusicApp = (props) => {
   const [mobileDrawerOpen, setMobileDrawerOpen] = useState(false);
 
   const {
+    board,
     boards,
     selectedFretboard,
     selectedFretboardIndex,
@@ -341,7 +342,9 @@ const MusicApp = (props) => {
 
       {/* MAIN CONTENT */}
       <MainContent drawerOpen={drawerOpen}>
-        <MainInner>
+        <MainInner sx={{
+          "@media (min-width:1200px)": { padding: board === 'compose' ? '20px' : "0px 180px" }
+        }}>
           <Root>
             <Meta />
 

@@ -3,19 +3,13 @@ import CombinedRenderer from "@/core/music/render/CombinedRenderer";
 import { useScore } from "@/core/editor/ScoreContext";
 
 export default function ScoreCanvas() {
-  const { score } = useScore();
-
   const notationRef = useRef(null);
   const tabRef = useRef(null);
+  const { score } = useScore();
 
   const [activeTab, setActiveTab] = useState("notation");
 
-  // Prevent react from throwing errors on first mount
-  const isReady =
-    score &&
-    typeof window !== "undefined" &&
-    notationRef.current &&
-    tabRef.current;
+  const isReady = score;
 
   useEffect(() => {
     if (!isReady) return;
@@ -29,7 +23,6 @@ export default function ScoreCanvas() {
     renderer.render();
   }, [score, isReady]);
 
-  // Handle loading state to avoid undefined HTML errors
   if (!score) {
     return (
       <div style={{ padding: 20, textAlign: "center" }}>
@@ -42,9 +35,7 @@ export default function ScoreCanvas() {
     <div
       style={{
         width: "100%",
-        marginTop: 40,
         paddingBottom: 60,
-        overflow: "visible",
       }}
     >
       {/* TOGGLE BUTTONS */}
@@ -55,8 +46,6 @@ export default function ScoreCanvas() {
           border: "1px solid #ccc",
           overflow: "hidden",
           background: "#fafafa",
-          position: "relative",
-          zIndex: 10,
         }}
       >
         <button
@@ -92,7 +81,7 @@ export default function ScoreCanvas() {
         </button>
       </div>
 
-      {/* SPACING BELOW BUTTONS */}
+      {/* SPACING */}
       <div style={{ height: 40 }}></div>
 
       {/* SCORE SVG */}
@@ -100,9 +89,14 @@ export default function ScoreCanvas() {
         ref={notationRef}
         className="notation"
         style={{
-          display: activeTab === "notation" ? "block" : "none",
           width: "100%",
           minHeight: 300,
+          visibility: activeTab === "notation" ? "visible" : "hidden",
+          position: activeTab === "notation" ? "relative" : "absolute",
+          top: 0,
+          left: 0,
+          opacity: activeTab === "notation" ? 1 : 0,
+          pointerEvents: activeTab === "notation" ? "auto" : "none",
         }}
       ></div>
 
@@ -111,9 +105,14 @@ export default function ScoreCanvas() {
         ref={tabRef}
         className="tablature"
         style={{
-          display: activeTab === "tab" ? "block" : "none",
           width: "100%",
           minHeight: 200,
+          visibility: activeTab === "tab" ? "visible" : "hidden",
+          position: activeTab === "tab" ? "relative" : "absolute",
+          top: 0,
+          left: 0,
+          opacity: activeTab === "tab" ? 1 : 0,
+          pointerEvents: activeTab === "tab" ? "auto" : "none",
         }}
       ></div>
     </div>

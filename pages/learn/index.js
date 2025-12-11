@@ -43,7 +43,7 @@ const CoverTwo = () => {
 const LearnSongs = () => {
 
   return (
-    <div>
+    <div style={{marginTop: '100px'}}>
       <Meta 
         title="Learn Songs"
         description="Learn Songs Using Interactive Musical Components Like The Circle Of Fifths, Visual Colored Fretboard And A Chord Progressions Visualizer And Mapper"
