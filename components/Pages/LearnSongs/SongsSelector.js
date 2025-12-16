@@ -22,7 +22,7 @@ import songsSecond from "@/output_songs/second-songs.json";
    HELPERS
 ============================================================ */
 
-function slugify(artist, song) {
+const slugify = (artist, song) {
   const normalize = (s) =>
     s
       .toString()
@@ -30,25 +30,26 @@ function slugify(artist, song) {
       .toLowerCase()
       .trim()
 
-      // 1️⃣ Convert ALL word separators to underscore FIRST
+      // 1️⃣ Apostrophes MUST create word boundaries
+      .replace(/[’']/g, "_")
+
+      // 2️⃣ Convert all separators to underscore
       .replace(/[\s\-–—/]+/g, "_")
 
-      // 2️⃣ Remove everything that is NOT a word char or underscore
+      // 3️⃣ Remove invalid chars (keep underscores)
       .replace(/[^a-z0-9_]/g, "")
 
-      // 3️⃣ Collapse multiple underscores
+      // 4️⃣ Collapse underscores
       .replace(/_+/g, "_")
 
-      // 4️⃣ Trim underscores
+      // 5️⃣ Trim underscores
       .replace(/^_+|_+$/g, "");
 
   const artistSlug = normalize(artist);
   const songSlug   = normalize(song);
 
-  // 5️⃣ Enforce exactly ONE underscore between artist and song
-  return `${artistSlug}_${songSlug}`;
+  return `${songSlug}_${artistSlug}`;
 }
-
 
 /* ============================================================
    STYLES
