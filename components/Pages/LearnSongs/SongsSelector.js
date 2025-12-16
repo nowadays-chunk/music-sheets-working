@@ -21,34 +21,24 @@ import songsSecond from "@/output_songs/second-songs.json";
 /* ============================================================
    HELPERS
 ============================================================ */
+function safeFilename(title, artist) {
+  return `${title}_${artist}`
+    .normalize("NFD")                 // remove accents
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, "_")      // keep only a-z 0-9 _
+    .replace(/_+/g, "_")              // collapse multiple _
+    .replace(/^_|_$/g, "");           // trim _
+}
 
-const slugify = (artist, song) {
-  const normalize = (s) =>
-    s
-      .toString()
-      .normalize("NFKD")
-      .toLowerCase()
-      .trim()
-
-      // 1️⃣ Apostrophes MUST create word boundaries
-      .replace(/[’']/g, "_")
-
-      // 2️⃣ Convert all separators to underscore
-      .replace(/[\s\-–—/]+/g, "_")
-
-      // 3️⃣ Remove invalid chars (keep underscores)
-      .replace(/[^a-z0-9_]/g, "")
-
-      // 4️⃣ Collapse underscores
-      .replace(/_+/g, "_")
-
-      // 5️⃣ Trim underscores
-      .replace(/^_+|_+$/g, "");
-
-  const artistSlug = normalize(artist);
-  const songSlug   = normalize(song);
-
-  return `${songSlug}_${artistSlug}`;
+const slugify = (song_name, artist_name, tab_url) {
+  if(tab_url.includes('chordie.com')){
+    return `${artist_name}-${song_name}`
+      .replace(/[^\w\d]+/g, "_")
+      .toLowerCase();
+  } else {
+    return safeFilename(song_name, artist_name);
+  }
 }
 
 /* ============================================================
@@ -137,7 +127,7 @@ const SongsSelector = () => {
   ------------------------------------------------------------ */
 
   const openSong = (song) => {
-    const slug = slugify(song.song_name, song.artist_name);
+    const slug = slugify(song.song_name, song.artist_name, song.tab_url);
     router.push(`/learn/${slug}`);
   };
 
