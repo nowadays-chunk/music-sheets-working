@@ -31,7 +31,7 @@ function safeFilename(title, artist) {
     .replace(/^_|_$/g, "");           // trim _
 }
 
-const slugify = (song_name, artist_name, tab_url) {
+const slugify = (song_name, artist_name, tab_url) => {
   if(tab_url.includes('chordie.com')){
     return `${artist_name}-${song_name}`
       .replace(/[^\w\d]+/g, "_")
